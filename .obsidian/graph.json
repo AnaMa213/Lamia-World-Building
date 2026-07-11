@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Divinites/Primordiaux  ",
+      "color": {
+        "a": 1,
+        "rgb": 16775490
+      }
+    },
+    {
+      "query": "path:Divinites/Majeurs  ",
+      "color": {
+        "a": 1,
+        "rgb": 14010425
+      }
+    },
+    {
+      "query": "path:Divinites/Mineurs  ",
+      "color": {
+        "a": 1,
+        "rgb": 10914828
+      }
+    },
+    {
+      "query": "path:Divinites/Demi-dieu  ",
+      "color": {
+        "a": 1,
+        "rgb": 14923804
+      }
+    },
+    {
+      "query": "path:Peuples  ",
+      "color": {
+        "a": 1,
+        "rgb": 5049572
+      }
+    },
+    {
+      "query": "path:Lieux  ",
+      "color": {
+        "a": 1,
+        "rgb": 9441203
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1.7,
+  "nodeSizeMultiplier": 1.50364583333333,
+  "lineSizeMultiplier": 1.12083333333333,
+  "collapse-forces": false,
+  "centerStrength": 0.369791666666667,
+  "repelStrength": 10.1041666666667,
+  "linkStrength": 0.677083333333333,
+  "linkDistance": 329,
+  "scale": 0.5087618855792532,
+  "close": false
+}

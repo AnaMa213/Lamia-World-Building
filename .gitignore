@@ -1,0 +1,16 @@
+# Obsidian — état d'interface : change à chaque clic, aucun intérêt versionné
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Corbeille Obsidian
+.trash/
+
+# SÉCURITÉ — la clé API du Local REST API vit dans ce fichier.
+# Indispensable si tu pousses un jour vers un remote.
+.obsidian/plugins/obsidian-local-rest-api/data.json
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

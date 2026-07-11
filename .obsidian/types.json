@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "influence": "multitext",
+    "importance": "multitext",
+    "royaumes_associes": "multitext",
+    "panthéon": "multitext",
+    "langues": "multitext"
+  }
+}
