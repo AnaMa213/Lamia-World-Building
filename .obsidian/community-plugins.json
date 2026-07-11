@@ -7,5 +7,6 @@
   "quickadd",
   "templater-obsidian",
   "waypoint",
-  "calendarium"
+  "calendarium",
+  "obsidian-local-rest-api"
 ]
