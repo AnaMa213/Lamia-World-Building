@@ -59,7 +59,7 @@ annee:             # nombre seul, dans le compte de l'ère
 ```
 
 Champs additionnels par type (optionnels sauf mention) :
-- **divinite** : `rang` (primordiale | majeure | mineure | esprit — OBLIGATOIRE),
+- **divinite** : `rang` (primordiale | majeure | mineure | demi-dieu | esprit — OBLIGATOIRE),
   `etat` (active | voilée | bannie | morte | inconnue), `titres`,
   `suivants` (fidèles les plus courants : peuples, ordres — en wikilinks),
   `alignement` (optionnel, usage JDR)
@@ -164,6 +164,7 @@ Détail : [[Calendrier Commun de Lamia]].
 02_Romans/         un sous-dossier par roman (notes à portee:)
 03_Scenarios_JDR/  un sous-dossier par scénario/campagne
 04_Brouillons/     capture rapide, tout est statut: brouillon
+05_IA_Inbox/       inbox des propositions de l'IA à valider par un humain 
 99_Archive/        ancien vault en cours de migration (lecture seule)
 ```
 
