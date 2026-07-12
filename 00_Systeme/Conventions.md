@@ -171,7 +171,7 @@ Détail : [[Calendrier Commun de Lamia]].
 00_Systeme/        conventions, index, règles IA, tableau de bord, Templates/
 01_Lore/           le canon-univers (+ Timeline Master.md à la racine)
   Divinités/  Personnages/  Peuples/  Factions/  Lieux/
-  Créatures/  Magies/  Objets/  Ères/  Événements/  Légendes/  Concepts/
+  Créatures/  Magies/  Objets/  Ères/  Événements/(sous-dossier)/  Légendes/  Concepts/
 02_Romans/         un sous-dossier par roman (notes à portee:)
 03_Scenarios_JDR/  un sous-dossier par scénario/campagne
 04_Brouillons/     capture rapide, tout est statut: brouillon

@@ -1,14 +1,14 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:01_Lore  ",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": false,
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:Divinites/Primordiaux  ",
+      "query": "path:\"01_Lore/Évenements/Temps primordiaux\"  ",
       "color": {
         "a": 1,
         "rgb": 16775490
@@ -53,13 +53,13 @@
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -1.7,
-  "nodeSizeMultiplier": 1.50364583333333,
+  "nodeSizeMultiplier": 1.420703125,
   "lineSizeMultiplier": 1.12083333333333,
   "collapse-forces": false,
   "centerStrength": 0.369791666666667,
   "repelStrength": 10.1041666666667,
   "linkStrength": 0.677083333333333,
   "linkDistance": 329,
-  "scale": 0.25883865621815966,
-  "close": false
+  "scale": 0.36288736930120724,
+  "close": true
 }

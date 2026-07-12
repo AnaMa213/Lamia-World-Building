@@ -26,7 +26,7 @@ Pendant que les peuples de Lamia évoluent en paix, leur inventivité stupéfie 
 
 ## Causes
 
-Après la création de [[Lamia]] (planète) et de ses premiers peuples ([[Humains]], [[Elfes]]), ceux-ci consacrent leur existence à l'apprentissage et à la création dans une paix sans conflit notable. Leur soif de comprendre et leur inventivité stupéfient [[Mageisys]], fasciné par l'originalité de ces êtres si primitifs — sa propre puissance, devenue linéaire à ses yeux, lui paraît éculée face à ce regard neuf. C'est alors qu'il rappelle à Albaesclatia la **dette** contractée lors des [[2026-07-12 — Proposition — Événement Les Pactes de Mageisys|Pactes fondateurs]].
+Après la création de [[Lamia]] (planète) et de ses premiers peuples ([[Humains]], [[Elfes]]), ceux-ci consacrent leur existence à l'apprentissage et à la création dans une paix sans conflit notable. Leur soif de comprendre et leur inventivité stupéfient [[Mageisys]], fasciné par l'originalité de ces êtres si primitifs — sa propre puissance, devenue linéaire à ses yeux, lui paraît éculée face à ce regard neuf. C'est alors qu'il rappelle à Albaesclatia la **dette** contractée lors des [[Les Pactes de Mageisys [à revoir]|Pactes fondateurs]].
 
 ## Déroulement
 

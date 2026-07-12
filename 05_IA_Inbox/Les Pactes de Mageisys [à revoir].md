@@ -17,6 +17,7 @@ aliases: ["Naissance du Despophys", "Naissance de Xeros"]
 > [!note] Brouillon de migration — 2026-07-12
 > Extrait et reformaté depuis `99_Archive/Evenements/Genèse de l'univers de Lamia.md` (brouillon, non validé), section « Les pactes de Mageisys » (+ contexte de « La lumière et la vie » et « Le Conseil des Archanges »). Prose reprise telle quelle, réorganisée selon le template Événement. **Contradictions potentielles** ajoutées par l'IA.
 > Ce n'est PAS la trahison de Mageisys envers Albaesclatia (celle-ci fait l'objet d'un événement séparé : « La Création de Lamia et l'Essence Cachée » / « L'Isolement de Lamia et la Trahison Révélée »). Ici, c'est l'inverse : une transgression d'**Albaesclatia** envers **Mageisys**, découverte par lui immédiatement.
+> La fondation du Conseil des Archanges (les vingt enfants supplémentaires) a été scindée dans sa propre fiche : [[La Fondation du Conseil des Archanges]].
 
 **En une phrase :** Après la mort de sa première fille, Albaesclatia obtient de Mageisys la création du Despophys et du Dibertium à condition d'accorder une âme et un libre arbitre à ses créations — condition qu'elle transgresse dès la naissance de Xeros, ce qui lui vaut un second pacte plus contraignant et une dette dont les termes restent à fixer.
 
@@ -40,11 +41,11 @@ C'est de Filiama qu'elle engendre son premier fils, l'Archange **[[Xeros]]**. Co
 
 Mageisys découvre la transgression et menace de tout détruire. Il finit par laisser passer la faute, mais impose un second pacte plus contraignant : Albaesclatia pourra poursuivre son œuvre à deux conditions — ne plus jamais déroger aux règles fixées, et accepter une **dette dont les termes seraient fixés au moment de son choix**. Sans alternative, elle accepte.
 
-En coulisses, Mageisys, fasciné par l'aisance avec laquelle sa sœur a su modeler un être si complexe, ouvre un plan d'expérimentation secret, où il poursuit ses propres recherches sur le vivant.
+En coulisses, Mageisys, fasciné par l'aisance avec laquelle sa sœur a su modeler un être si complexe, retourne dans son plan d'expérimentation secret, où il poursuit ses propres recherches sur le vivant, notamment sur le corps de [[2026-07-12 — Proposition — Migration Lamia (ange)]].
 
 ## Conséquences
 
-Le Despophys et le Dibertium deviennent le foyer permanent des Archanges. Tenant cette fois sa promesse, Albaesclatia met ensuite au monde vingt nouveaux enfants, formant avec Xeros le **[[Conseil des Archanges]]**. Une dette reste due à Mageisys — elle sera réclamée plus tard (voir [[2026-07-12 — Proposition — Événement La Dette de Mageisys]]). Le plan d'expérimentation secret de Mageisys deviendra plus tard le lieu où il étudiera le corps de la première Lamia (voir [[2026-07-12 — Proposition — Événement La Création de Lamia et l'Essence Cachée]]).
+Le Despophys et le Dibertium deviennent le foyer permanent des Archanges. Une dette reste due à Mageisys — elle sera réclamée plus tard (voir [[2026-07-12 — Proposition — Événement La Dette de Mageisys]]). Le plan d'expérimentation secret de Mageisys deviendra plus tard le lieu où il extraira l'essence du corps de la première Lamia (voir [[La Création de Lamia et l'Essence Cachée]]). Tenant sa promesse malgré tout, Albaesclatia formera ensuite le Conseil des Archanges (voir [[La Fondation du Conseil des Archanges]]).
 
 ## Qui en garde mémoire
 
@@ -64,4 +65,4 @@ La fondation du Despophys et du Dibertium est vraisemblablement connue de tout l
 
 **Nature « influencée » de la conscience de Xeros — absente de sa fiche migrée.** Aucune fiche déjà migrée ne mentionne que Xeros n'a pas un libre arbitre pleinement autonome. Élément potentiellement délicat pour son caractère — à ta discrétion de l'intégrer ou de le laisser de côté comme détail mineur de la Genèse.
 
-**Datation seulement relative.** Aucune année chiffrable ; l'événement se situe dans les Temps primordiaux, avant la formation complète du Conseil des Archanges (déjà listée dans [[Timeline Master]] sans détail sur le Despophys/Dibertium/Xeros).
+**Aucune contradiction relevée.** Cohérent avec l'entrée déjà existante dans [[Timeline Master]] (« ≈ 500 milles ans avant Sérénale 0 »).

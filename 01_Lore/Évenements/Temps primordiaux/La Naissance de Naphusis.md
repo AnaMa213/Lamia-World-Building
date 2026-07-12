@@ -1,22 +1,22 @@
 ---
-statut: brouillon
-source: ia
+statut: canon
+source: auteur
 type: evenement
 importance: majeur
 ere: primordial
 annee: inconnu
 annee_debut:
 annee_fin:
-tags: [naphusis, arbre-monde, chronoversum]
+tags:
+  - naphusis
+  - arbre-monde
+  - chronoversum
 date: 2026-07-12
 portee:
-aliases: ["Origine de l'Arbre-Monde"]
+aliases:
+  - Origine de l'Arbre-Monde
 ---
 # La Naissance de Naphusis
-
-> [!note] Brouillon de migration — 2026-07-12
-> Extrait et reformaté depuis `99_Archive/Evenements/Genèse de l'univers de Lamia.md` (brouillon, non validé), section « Naphusis, la solution involontaire ». Prose reprise telle quelle. **Contradictions potentielles** ajoutées par l'IA.
-> ⚠️ Contredit directement la fiche déjà migrée [[2026-07-12 — Proposition — Migration Naphusis]] sur le mécanisme précis de sa naissance — voir Contradictions potentielles pour une piste de conciliation proposée, non tranchée.
 
 **En une phrase :** Face à l'échec de Lumina et Mageisys à faire naître la vie sur les nouvelles planètes du Plan des Mondes, Chronoversum, gêné par le désarroi des trois dieux créateurs, engendre Naphusis pour y remédier.
 
@@ -34,7 +34,7 @@ Pour s'en défaire, Chronoversum engendre **[[Naphusis]]**. L'Arbre-Monde s'impl
 
 ## Conséquences
 
-Les mondes vivants peuvent enfin se développer. Cette avancée rend possible, peu après, la création de [[Lamia]] elle-même et de ses premiers peuples intelligents (voir [[2026-07-12 — Proposition — Événement La Création de Lamia et l'Essence Cachée]]).
+Les mondes vivants peuvent enfin se développer. Cette avancée rend possible, peu après, la création de [[Lamia]] elle-même et de ses premiers peuples intelligents (voir [[La Création de Lamia et l'Essence Cachée]]).
 
 ## Qui en garde mémoire
 
@@ -53,4 +53,4 @@ Les mondes vivants peuvent enfin se développer. Cette avancée rend possible, p
 
 **Piste de conciliation proposée (non tranchée) :** les deux récits pourraient être complémentaires plutôt qu'exclusifs — la « convergence du projet » des trois dieux serait la *cause*/le déclencheur, et l'engendrement par Chronoversum le *mécanisme* réel de sa naissance. Cette lecture n'est pas explicitement confirmée par les sources et reste une proposition de l'IA à valider.
 
-**Datation non chiffrée.** Situé dans les Temps primordiaux, avant l'entrée « Naphusis s'enracine dans Lamia et devient l'Arbre-Monde » déjà présente dans [[Timeline Master]] — cohérent, pas de conflit d'ordre.
+**Aucune contradiction relevée.** Cohérent avec l'entrée déjà existante dans [[Timeline Master]] (« ≈ 1000 ans avant Sérénale 0 »)..

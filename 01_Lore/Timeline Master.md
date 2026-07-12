@@ -24,16 +24,18 @@ aliases: [Chronologie, Timeline]
 
 ## Temps primordiaux — origines cosmiques (avant Sérénale 0)
 
-- **≈ 2 milliards d'années avant Sérénale 0** · [MAJEUR] — Naissance du **Chronoversum** à partir du néant.
-- **peu après** · [MAJEUR] — Apparition d'[[Ataraxus]], premier dieu primordial (Calme et Tranquillité à l'origine).
-- **premiers âges** · [MAJEUR] — Émergence des autres puissances primordiales : [[Mageisys]], [[Lumina]], [[Albaesclatia]], [[Naphusis]].
-- **?** · [MAJEUR] — [[Mageisys]] impose ses lois fondamentales au monde physique.
-- **?** · [MAJEUR] — [[Albaesclatia]] donne naissance aux anges ; mère des archanges.
-- **?** · [MAJEUR] — Création de **Lamia** par [[Albaesclatia]].
-- **peu après** · [MAJEUR] — [[Naphusis]] s'enracine dans Lamia et devient l'**Arbre-Monde**.
-- **?** · [MAJEUR] — Formation du **cœur de Lamia** : Lamia devient une planète vivante.
-- **?** · [MAJEUR] — Le cœur intact génère la **barrière** limitant l'intervention directe des dieux.
-- **peu avant Sérénale 0** · [MAJEUR] — Lamia devient durablement habitable pour la vie mortelle.
+- **≈ 2 milliards d'années avant Sérénale 0** · [MAJEUR] · [[La Naissance de Chronoversum|La Naissance de Chronoversum]] — Du vide qui se languissait de lui-même naît Chronoversum, l'entité du Tout.
+- **≈ 1,5 milliards d'années avant Sérénale 0** · [MAJEUR] · [[L'Émergence d'Ataraxus et de Mageisys|L'Émergence d'Ataraxus et de Mageisys]] — Première vague de consciences ; Mageisys instaure les lois de l'univers et crée le Plan des Mondes.
+- **≈ 15 millions d'années avant Sérénale 0*** · [MAJEUR] · [[L'Émergence de Lumina et d'Albaesclatia|L'Émergence de Lumina et d'Albaesclatia]] — Seconde vague de consciences ; Albaesclatia résout de créer les premiers Anges.
+- **≈ 1 millions d'années avant Sérénale 0** · [MAJEUR] · [[La Mort de la Première Lamia (ange)|La Mort de la Première Lamia (ange)]] — Le premier enfant d'Albaesclatia s'éteint sur une planète stérile du Plan des Mondes — la même qui deviendra plus tard la planète Lamia.
+- - **≈ 1 millions d'années avant Sérénale 0** · [MINEUR] · [[Proposition à créer - Récupération du corps de Lamia par Mageisys| Récupération du corps de Lamia par Mageisys]] — Mageisys profite du deuil de sa sœur pour récupérer le corps de Lamia a des fins scientifiques
+- **≈ 500 milles ans avant Sérénale 0** · [MAJEUR] · [[Les Pactes de Mageisys [à revoir]|Les Pactes de Mageisys]] — Fondation du Despophys, du Dibertium et de Filiama ; naissance de Xeros ; dette contractée par Albaesclatia envers Mageisys.
+- **≈ 500 milles ans avant Sérénale 0** · [MAJEUR] · [[La Fondation du Conseil des Archanges|La Fondation du Conseil des Archanges]] — Albaesclatia met au monde vingt enfants supplémentaires, formant avec Xeros le Conseil des Archanges.
+- **≈ 100 milles ans avant Sérénale 0** · [MAJEUR] · [[Le Retrait d'Ataraxus|Le Retrait d'Ataraxus]] — Repoussé par l'agitation du Despophys, Ataraxus se retire dans un plan-refuge où sa quête de calme se corrompt en colère.
+- **≈ 50 milles ans avant Sérénale 0** · [MAJEUR] · [[Les Dissensions au Conseil|Les Dissensions au Conseil]] — Des visions divergentes s'installent parmi les Archanges ; Albaesclatia leur ouvre la voie de projets individuels.
+- **≈ 5000 ans avant Sérénale 0** · [MAJEUR] · [[La Nouvelle Ambition|La Nouvelle Ambition]] — Albaesclatia conçoit le projet d'êtres mortels et incomplets ; Lumina et Mageisys s'associent pour peupler de nouvelles terres.
+- **≈ 1000 ans avant Sérénale 0** · [MAJEUR] · [[La Naissance de Naphusis|La Naissance de Naphusis]] — Face à l'échec de peupler les nouvelles planètes, Chronoversum engendre Naphusis.
+- **peu avant Sérénale 0** · [MAJEUR] · 🔒 · [[La Création de Lamia et l'Essence Cachée|La Création de Lamia et l'Essence Cachée]] — Albaesclatia crée la planète Lamia sur le site même de la mort de son premier enfant ; Mageisys y implante en secret l'essence de celui-ci ; le Cœur de Lamia et une barrière ténue s'y forment.
 
 ---
 

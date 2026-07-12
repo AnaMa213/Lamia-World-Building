@@ -27,7 +27,7 @@ Frappé par la révélation que Lamia porte en son cœur l'essence de la premiè
 
 ## Causes
 
-Parmi les Archanges, [[Naïnrak]] est frappé par la révélation que la planète Lamia porte en son cœur l'essence de la défunte Lamia (voir [[2026-07-12 — Proposition — Événement La Création de Lamia et l'Essence Cachée]]). Il juge de son devoir de protéger ce cœur et crée une nouvelle race : les **[[Nains]]**, conçus pour vivre au sein même de la planète. Trois d'entre eux sont désignés gardiens directs du cœur ; le reste du peuple bâtit autour d'eux une civilisation souterraine entière.
+Parmi les Archanges, [[Naïnrak]] est frappé par la révélation que la planète Lamia porte en son cœur l'essence de la défunte Lamia (voir [[La Création de Lamia et l'Essence Cachée]]). Il juge de son devoir de protéger ce cœur et crée une nouvelle race : les **[[Nains]]**, conçus pour vivre au sein même de la planète. Trois d'entre eux sont désignés gardiens directs du cœur ; le reste du peuple bâtit autour d'eux une civilisation souterraine entière.
 
 Parallèlement, les siècles de batailles universelles ont changé certains Archanges plus profondément que d'autres. **[[Maurtria]]**, fille d'Albaesclatia, a découvert lors des combats contre les [[Démons]] un goût qu'elle ne se soupçonnait pas : celui du sang versé et de la violence pour elle-même. Lorsque la guerre universelle se réduit aux derniers feux mourants des dernières planètes, elle se retrouve privée de l'objet de son désir et tourne son regard vers Lamia.
 
