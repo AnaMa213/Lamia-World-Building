@@ -1,20 +1,15 @@
 ---
 statut: brouillon
 type: divinite
-source: ia
 tags: [desespoir, necromancie, tenebres]
 date: 2026-07-12
 portee:
 aliases: ["Le Sourire de la Mort"]
-ere: exodiale
-annee: inconnu
 rang: mineure
 etat: active
 titres: ["Dieu de la Tourmente"]
 suivants: []
 alignement: Loyal Mauvais
-arme: —
-source_archive: 99_Archive/Divinites/Mineurs/Pilanir.md
 ---
 
 # Pilanir

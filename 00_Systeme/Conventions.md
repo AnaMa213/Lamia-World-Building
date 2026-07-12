@@ -9,6 +9,15 @@ version: "1.2"
 > Objectif : bibliothèque universelle de l'univers de Lamia, interrogeable par moi
 > et par l'IA, sans perte ni incohérence.
 
+## 0. Source (`source`: obligatoire dans chaque note de lore)
+
+| Source | Définition                                      |
+| ------ | ----------------------------------------------- |
+| ia     | Générée par IA, pas encore validé par l'auteur. |
+| auteur | validé par l'auteur.                            |
+- Note sans `source:` = traitée comme **ai**, et à corriger.
+- Lorsque tu écris dans 05_AI_Inbox, ajoute un propriétés source : `ia`, qui devra être changer en `auteur` une fois vérifié et validé.
+
 ## 1. Statuts (`statut:` obligatoire dans chaque note de lore)
 
 | Statut | Définition | Règle de modification |
@@ -24,6 +33,7 @@ version: "1.2"
 - Note sans `statut:` = traitée comme **brouillon**, et à corriger.
 - Seul moi attribue `canon` et `canon-verrouillé`. Jamais l'IA.
 - Passage en `canon-verrouillé` : uniquement quand un roman/scénario finalisé s'appuie dessus.
+
 
 ## 2. Types d'entités (`type:`, liste fermée)
 
@@ -48,6 +58,7 @@ version: "1.2"
 ```yaml
 ---
 statut: brouillon
+source: ai
 type: divinite
 tags: []
 date: 2026-07-11

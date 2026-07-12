@@ -1,20 +1,15 @@
 ---
 statut: brouillon
 type: divinite
-source: ia
 tags: [lumiere, justice, redemption]
 date: 2026-07-11
 portee:
 aliases: ["Fleur de l'aube", "Flamme guérisseuse"]
-ere: primordial
-annee: inconnu
 rang: primordiale
 etat: active
 titres: ["Déesse de la lumière et de la justice"]
 suivants: ["Soigneurs", "Agriculteurs", "Repentis du mal"]
 alignement: Chaotique Bon
-arme: Claymore
-source_archive: 99_Archive/Divinites/Primordiaux/Lumina.md
 ---
 
 # Lumina

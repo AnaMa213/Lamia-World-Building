@@ -1,20 +1,15 @@
 ---
 statut: brouillon
 type: divinite
-source: ia
 tags: [reves, destin, oniromancie]
 date: 2026-07-12
 portee:
 aliases: []
-ere: serenale
-annee: inconnu
 rang: mineure
 etat: active
 titres: ["Déesse des Rêves", "La Tisseuse de Rêve"]
 suivants: []
 alignement: Loyal Bon
-arme: —
-source_archive: 99_Archive/Divinites/Mineurs/Oneira.md
 ---
 
 # Oneira

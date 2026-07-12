@@ -1,20 +1,15 @@
 ---
 statut: brouillon
 type: divinite
-source: ia
 tags: [mort, deuil, ames]
 date: 2026-07-12
 portee:
 aliases: []
-ere: serenale
-annee: inconnu
 rang: mineure
 etat: active
 titres: ["Le Guide des Morts"]
 suivants: ["[[Valkys]]"]
 alignement: Loyal Bon
-arme: —
-source_archive: 99_Archive/Divinites/Mineurs/Thanatia.md
 ---
 
 # Thanatia

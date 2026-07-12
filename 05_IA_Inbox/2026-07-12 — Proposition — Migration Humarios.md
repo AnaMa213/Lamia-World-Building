@@ -1,20 +1,15 @@
 ---
 statut: brouillon
 type: divinite
-source: ia
 tags: [magie-noire, jalousie, corruption]
 date: 2026-07-12
 portee:
 aliases: ["Frère de Alfaryus"]
-ere: exodiale
-annee: inconnu
 rang: mineure
 etat: bannie
 titres: ["Le Mage noir"]
 suivants: ["Mages noirs"]
 alignement: Chaotique Neutre
-arme: —
-source_archive: 99_Archive/Divinites/Demi-dieu/Humarios.md
 ---
 
 # Humarios

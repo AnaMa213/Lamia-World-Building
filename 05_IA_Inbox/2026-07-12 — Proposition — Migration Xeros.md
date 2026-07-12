@@ -1,20 +1,15 @@
 ---
 statut: brouillon
 type: divinite
-source: ia
 tags: [diversite, adaptation, evolution]
 date: 2026-07-12
 portee:
 aliases: ["Dieu aux Mille Visages", "Dieu de la Diversité", "Dieu de l'évolution"]
-ere: voile
-annee: inconnu
 rang: majeure
 etat: active
 titres: ["Le Dieu aux Mille Visages"]
 suivants: ["Homanis", "Peuple de Xerosis", "[[Xeroniens]]"]
 alignement: Loyal Bon
-arme: Griffes
-source_archive: 99_Archive/Divinites/Majeurs/Xeros.md
 ---
 
 # Xeros

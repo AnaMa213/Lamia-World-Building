@@ -1,20 +1,15 @@
 ---
 statut: brouillon
 type: divinite
-source: ia
 tags: [perseverance, protection, determination]
 date: 2026-07-12
 portee:
 aliases: []
-ere: exodiale
-annee: inconnu
 rang: mineure
 etat: active
 titres: ["Dieu de la Persévérance"]
 suivants: []
 alignement: Loyal Bon
-arme: —
-source_archive: 99_Archive/Divinites/Mineurs/Persemis.md
 ---
 
 # Persemis

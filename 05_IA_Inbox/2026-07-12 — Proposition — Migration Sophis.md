@@ -1,20 +1,15 @@
 ---
 statut: brouillon
 type: divinite
-source: ia
 tags: [paix, harmonie, compassion]
 date: 2026-07-12
 portee:
 aliases: ["L'Apaiseuse"]
-ere: exodiale
-annee: inconnu
 rang: mineure
 etat: voilée
 titres: ["Déesse de la Paix"]
 suivants: []
 alignement: Loyal Bon
-arme: —
-source_archive: 99_Archive/Divinites/Mineurs/Sophis.md
 ---
 
 # Sophis

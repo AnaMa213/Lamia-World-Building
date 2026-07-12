@@ -1,20 +1,15 @@
 ---
 statut: brouillon
 type: divinite
-source: ia
 tags: [peur, lachete, corruption]
 date: 2026-07-12
 portee:
 aliases: []
-ere: exodiale
-annee: inconnu
 rang: mineure
 etat: active
 titres: ["Dieu de la Lâcheté"]
 suivants: []
 alignement: Loyal Mauvais
-arme: —
-source_archive: 99_Archive/Divinites/Mineurs/Laxius.md
 ---
 
 # Laxius

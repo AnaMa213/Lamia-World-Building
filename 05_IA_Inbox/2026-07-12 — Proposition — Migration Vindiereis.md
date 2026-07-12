@@ -1,20 +1,15 @@
 ---
 statut: brouillon
 type: divinite
-source: ia
 tags: [ombre, corruption, errance]
 date: 2026-07-12
 portee:
 aliases: ["Melidarth"]
-ere: voile
-annee: inconnu
 rang: mineure
 etat: bannie
 titres: ["Le Roi Sombre"]
 suivants: ["[[Vendards]]"]
 alignement: Chaotique Mauvais
-arme: —
-source_archive: 99_Archive/Divinites/Mineurs/Vindiereis.md
 ---
 
 # Vindiereis

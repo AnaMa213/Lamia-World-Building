@@ -1,20 +1,15 @@
 ---
 statut: brouillon
 type: divinite
-source: ia
 tags: [contrats, tentation]
 date: 2026-07-12
 portee:
 aliases: ["Dieu des contrats", "Dieu de la tentation"]
-ere: primordial
-annee: inconnu
 rang: mineure
 etat: active
 titres: ["Dieu des contrats et de la tentation"]
 suivants: ["Âme sous contrat", "Serviteur de Diablio"]
 alignement: Chaotique Neutre
-arme: —
-source_archive: 99_Archive/Divinites/Mineurs/Diablio.md
 ---
 
 # Diablio

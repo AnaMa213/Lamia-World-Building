@@ -1,20 +1,15 @@
 ---
 statut: brouillon
 type: divinite
-source: ia
 tags: [forge, artisanat, creation]
 date: 2026-07-12
 portee:
 aliases: ["Dieu de la forge", "Dieu de l'artisanat", "Dieu du travail"]
-ere: serenale
-annee: inconnu
 rang: mineure
 etat: voilée
 titres: ["Dieu de la forge, du travail et de la création sacrée"]
 suivants: ["Artisans", "Forgerons", "Bâtisseurs", "Inventeurs"]
 alignement: Chaotique Bon
-arme: Marteau
-source_archive: 99_Archive/Divinites/Mineurs/Armerith.md
 ---
 
 # Armerith

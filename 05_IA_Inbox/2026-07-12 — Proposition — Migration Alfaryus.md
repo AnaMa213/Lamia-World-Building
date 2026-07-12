@@ -1,20 +1,15 @@
 ---
 statut: brouillon
 type: divinite
-source: ia
 tags: [magie-arcanique, connaissance, perfection]
 date: 2026-07-12
 portee:
 aliases: ["Demi-dieu de la Magie", "Nouveau dieu de la Magie"]
-ere: exodiale
-annee: inconnu
 rang: mineure
 etat: voilée
 titres: ["Le Grand Arcaniste"]
 suivants: ["[[Elfes]]", "Demi-Elfes", "Mages", "Professeurs", "Chercheurs", "Savants"]
 alignement: Chaotique Bon
-arme: Lame de verres
-source_archive: 99_Archive/Divinites/Demi-dieu/Alfaryus.md
 ---
 
 # Alfaryus

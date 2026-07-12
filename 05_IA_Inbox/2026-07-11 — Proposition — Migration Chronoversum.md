@@ -1,20 +1,15 @@
 ---
 statut: brouillon
 type: divinite
-source: ia
 tags: [temps, cosmologie]
 date: 2026-07-11
 portee:
 aliases: ["Dieu des dieux", "Dieu du temps", "Dieu du Tout"]
-ere: primordial
-annee: inconnu
 rang: primordiale
 etat: inconnue
 titres: ["Dieu du temps et du Tout"]
 suivants: ["Fous"]
 alignement: Chaotique Neutre
-arme: —
-source_archive: 99_Archive/Divinites/Primordiaux/Chronoversum.md
 ---
 
 # Chronoversum

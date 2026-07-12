@@ -1,20 +1,15 @@
 ---
 statut: brouillon
 type: divinite
-source: ia
 tags: [nature, arbre-monde]
 date: 2026-07-11
 portee:
 aliases: ["Arbre-Monde", "Déesse de la Nature"]
-ere: primordial
-annee: inconnu
 rang: primordiale
 etat: active
 titres: ["Déesse de la Nature"]
 suivants: ["Druides", "Marins", "Paysans", "[[Gnomes]]"]
 alignement: Loyal Neutre
-arme: Bâton
-source_archive: 99_Archive/Divinites/Primordiaux/Naphusis.md
 ---
 
 # Naphusis

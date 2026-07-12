@@ -1,20 +1,19 @@
 ---
 statut: brouillon
 type: divinite
-source: ia
-tags: [apres-vie, observation, ames]
+tags:
+  - apres-vie
+  - observation
+  - ames
 date: 2026-07-12
 portee:
 aliases: []
-ere: serenale
-annee: inconnu
 rang: mineure
 etat: active
 titres: []
-suivants: ["[[Zaréh-Djora]]"]
+suivants:
+  - "[[Zaréh-Djora]]"
 alignement: Chaotique Bon
-arme: —
-source_archive: 99_Archive/Divinites/Mineurs/Aion.md
 ---
 
 # Aion

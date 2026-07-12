@@ -1,20 +1,15 @@
 ---
 statut: brouillon
 type: divinite
-source: ia
 tags: [filiama, purification, deuil]
 date: 2026-07-12
 portee:
 aliases: []
-ere: serenale
-annee: inconnu
 rang: mineure
 etat: active
 titres: ["Gardienne de Filiama"]
 suivants: []
 alignement: Loyal Bon
-arme: —
-source_archive: 99_Archive/Divinites/Mineurs/Alketeria.md
 ---
 
 # Alketeria

@@ -1,14 +1,15 @@
 ---
 statut: brouillon
+source:
 type: evenement
-importance: 
-ere: 
-annee: 
-annee_debut: 
-annee_fin: 
+importance:
+ere:
+annee:
+annee_debut:
+annee_fin:
 tags: []
 date: <% tp.date.now("YYYY-MM-DD") %>
-portee: 
+portee:
 aliases: []
 ---
 # <% tp.file.title %>

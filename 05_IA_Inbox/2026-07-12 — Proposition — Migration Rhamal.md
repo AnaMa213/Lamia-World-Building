@@ -1,20 +1,15 @@
 ---
 statut: brouillon
 type: divinite
-source: ia
 tags: [maladie, mort, corruption]
 date: 2026-07-12
 portee:
 aliases: ["Ange Noir", "Dieu de la Maladie", "Dieu de la Mort"]
-ere: exodiale
-annee: inconnu
 rang: mineure
 etat: active
 titres: ["L'Ange Noir"]
 suivants: ["[[Tumeurs de Rhamal]]"]
 alignement: Chaotique Mauvais
-arme: Faux
-source_archive: 99_Archive/Divinites/Mineurs/Rhamal.md
 ---
 
 # Rhamal

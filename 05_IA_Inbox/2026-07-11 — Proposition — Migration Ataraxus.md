@@ -1,20 +1,15 @@
 ---
 statut: brouillon
 type: divinite
-source: ia
 tags: [chaos, destruction, demons]
 date: 2026-07-11
 portee:
 aliases: ["Dieu du chaos", "Dieu de la destruction", "Ancien dieu du Calme et de la Tranquillité"]
-ere: primordial
-annee: inconnu
 rang: primordiale
 etat: bannie
 titres: ["Dieu du chaos et de la destruction"]
 suivants: ["Conjurateurs de démons", "Ombres", "[[Démons]]", "Ceux-qui-ont-tout-perdu"]
 alignement: Chaotique Mauvais
-arme: Masse à piques
-source_archive: 99_Archive/Divinites/Primordiaux/Ataraxus.md
 ---
 
 # Ataraxus

@@ -1,20 +1,22 @@
 ---
 statut: brouillon
 type: divinite
-source: ia
-tags: [vie, anges]
-date: 2026-07-11
-portee:
-aliases: ["Déesse de la Vie"]
-ere: primordial
-annee: inconnu
 rang: primordiale
+tags:
+  - vie
+  - anges
+portee:
 etat: voilée
-titres: ["Déesse de la vie"]
-suivants: ["Propriétaires de l'épée", "Pacifistes", "Médecins"]
+titres:
+  - Déesse de la vie
+suivants:
+  - Propriétaires de l'épée
+  - Pacifistes
+  - Médecins
 alignement: Loyal Bon
-arme: Creperstella
-source_archive: 99_Archive/Divinites/Primordiaux/Albaesclatia.md
+date: 2026-07-11
+aliases:
+  - Déesse de la Vie
 ---
 
 # Albaesclatia
@@ -40,13 +42,9 @@ Elle se tourna alors vers son frère [[Mageisys]]. Là où Albaesclatia portait 
 
 Dans ce nouveau plan, Albaesclatia parvint à créer des anges à son image, puis des centaines d'êtres vivants divins, chacun unique dans sa forme, son rôle et son essence. Mais son ambition créatrice ne s'arrêta pas à ces êtres parfaits ou proches du divin. Elle voulut créer quelque chose de plus fragile, de plus libre, de plus imprévisible : des entités imparfaites, faibles, mortelles et impures, mais capables d'exister par elles-mêmes. Et leur place devait être sur le plan des Mondes.
 
-Ainsi naquit sa grande intuition : la vie ne devait pas seulement être façonnée par la main divine, elle devait pouvoir se poursuivre sans elle. Albaesclatia voulait créer des êtres capables de procréer, de transmettre leurs traits, de varier, de se tromper, de s'adapter et d'évoluer.
-
 Mais même après de nombreuses discussions avec Mageisys, ils ne trouvèrent pas le moyen suffisant pour créer la vie sur ce plan complexe. La vie ne pouvait pas seulement être posée sur les mondes comme une lumière fragile. Elle avait besoin d'un environnement vivant, d'un cycle, d'un souffle, d'un réseau capable de soutenir les êtres imparfaits qu'Albaesclatia rêvait de voir évoluer. C'est dans cette quête d'un monde réellement habitable qu'apparut [[Naphusis]], lié à la nature, à l'équilibre organique et à la capacité de la vie à s'enraciner dans la matière.
 
-Ainsi naquit la grande intuition d'Albaesclatia : la vie ne devait pas seulement être façonnée par la main divine, elle devait pouvoir se poursuivre sans elle. Les êtres vivants devaient procréer, transmettre, varier, se tromper, s'adapter et évoluer. Albaesclatia conçut alors une œuvre volontairement inachevée, mais parfaite dans son principe : une création que le temps, les milieux, les choix et les générations continueraient de modeler.
-
-Grâce à cette décision, les mondes vivants purent enfin se développer. Des espèces, des peuples et des civilisations apparurent dans de nombreux lieux de l'univers, jusqu'à donner naissance aux multiples races intelligentes qui peupleraient plus tard [[Lamia]] et d'autres mondes du [[Plan des Mondes]]. La mort de la première Lamia ne fut donc pas effacée ; elle devint la blessure originelle à partir de laquelle Albaesclatia comprit que créer la vie, ce n'était pas seulement lui donner naissance, mais lui donner les moyens de survivre sans elle.
+Grâce à l'apparition de Naphusis sur de nombreuses planètes, les mondes vivants purent enfin se développer. Des espèces, des peuples et des civilisations apparurent dans de nombreux lieux de l'univers, jusqu'à donner naissance aux multiples races intelligentes qui peupleraient plus tard [[Lamia]] et d'autres mondes du [[Plan des Mondes]]. La mort de la première Lamia ne fut donc pas effacée ; elle devint la blessure originelle à partir de laquelle Albaesclatia comprit que créer la vie, ce n'était pas seulement lui donner naissance, mais lui donner les moyens de survivre sans elle.
 
 Pendant longtemps, Albaesclatia fut l'une des divinités les plus puissantes du cosmos. L'abondance croissante de la vie nourrissait son influence, tandis que ses créations se multipliaient dans l'univers. Mais cette expansion troubla profondément [[Ataraxus]], ancien dieu de la plénitude, attaché au silence froid du vide et à l'absence d'agitation. Pour lui, la vie était une rupture, une vibration insupportable dans l'ordre immobile qu'il désirait.
 

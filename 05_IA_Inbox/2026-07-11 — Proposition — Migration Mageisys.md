@@ -1,20 +1,23 @@
 ---
 statut: brouillon
 type: divinite
-source: ia
-tags: [magie, savoir]
+tags:
+  - magie
+  - savoir
 date: 2026-07-11
 portee:
-aliases: ["Dieu de la Magie Élémentaire", "Dieu du Savoir"]
-ere: primordial
-annee: inconnu
+aliases:
+  - Dieu de la Magie Élémentaire
+  - Dieu du Savoir
 rang: primordiale
-etat: inconnue
-titres: ["Dieu du savoir et de la magie élémentaire"]
-suivants: ["[[Mages]]", "[[Chercheurs]]", "[[Alchimistes]]"]
+etat: voilée
+titres:
+  - Dieu du savoir et de la magie élémentaire
+suivants:
+  - "[[Mages]]"
+  - "[[Chercheurs]]"
+  - "[[Alchimistes]]"
 alignement: Chaotique Neutre
-arme: Bâtons élémentaires
-source_archive: 99_Archive/Divinites/Primordiaux/Mageisys.md
 ---
 
 # Mageisys
