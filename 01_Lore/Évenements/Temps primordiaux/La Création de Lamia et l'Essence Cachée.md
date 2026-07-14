@@ -50,11 +50,11 @@ Ce sont les premiers mortels que le Plan des Mondes peut accueillir.
 
 ## Conséquences
 
-Lamia porte désormais, sans que quiconque le sache encore pleinement, une essence divine double en son sein : celle de l'ange Lamia et celle, mêlée, de l'implantation de Mageisys — ce qui deviendra le **[[Cœur de Lamia]]**. Une barrière ténue existe dès ce moment, appelée à s'intensifier bien plus tard face à la menace grandissante d'Ataraxus (voir [[2026-07-12 — Proposition — Événement L'Isolement de Lamia et la Trahison Révélée]]). Humains et Elfes commencent leur histoire sur Lamia dans une paix totale, sans conflit ni carnivorisme.
+Lamia porte désormais, sans que quiconque le sache encore pleinement, une essence divine double en son sein : celle de l'ange Lamia et celle, mêlée, de l'implantation de Mageisys — ce qui deviendra le **[[Cœur de Lamia]]**. Une barrière ténue existe dès ce moment, appelée à s'intensifier bien plus tard face à la menace grandissante d'Ataraxus (voir [[L'Isolement de Lamia et la Trahison Révélée]]). Humains et Elfes commencent leur histoire sur Lamia dans une paix totale, sans conflit ni carnivorisme.
 
 ## Qui en garde mémoire
 
-🔒 Seul Mageisys connaît la vérité complète sur l'implantation. Albaesclatia perçoit une anomalie mais l'interprète à tort comme un simple écho affectif ; elle ne découvrira la vérité que bien plus tard (voir [[2026-07-12 — Proposition — Événement L'Isolement de Lamia et la Trahison Révélée]]). Naphusis perçoit également que « quelque chose cloche », sans que le texte précise si elle en tire une conclusion plus juste qu'Albaesclatia — zone à préciser si tu le souhaites.
+🔒 Seul Mageisys connaît la vérité complète sur l'implantation. Albaesclatia perçoit une anomalie mais l'interprète à tort comme un simple écho affectif ; elle ne découvrira la vérité que bien plus tard (voir [[L'Isolement de Lamia et la Trahison Révélée]]). Naphusis perçoit également que « quelque chose cloche », sans que le texte précise si elle en tire une conclusion plus juste qu'Albaesclatia — zone à préciser si tu le souhaites.
 
 ## Relations
 
@@ -67,7 +67,7 @@ Lamia porte désormais, sans que quiconque le sache encore pleinement, une essen
 
 ## Contradictions potentielles
 
-🔒 **C'est le cœur du « point 1 » déjà discuté pour la fiche [[2026-07-12 — Proposition — Migration Albaesclatia]].** Cette fiche décrit une collaboration fraternelle sans ombre entre Albaesclatia et Mageisys ; cet événement introduit une trahison majeure, non révélée avant [[2026-07-12 — Proposition — Événement L'Isolement de Lamia et la Trahison Révélée]]. Intégrer cet événement à la Genèse suppose de réviser en conséquence la fiche Albaesclatia (et dans une moindre mesure celle de Mageisys).
+🔒 **C'est le cœur du « point 1 » déjà discuté pour la fiche [[2026-07-12 — Proposition — Migration Albaesclatia]].** Cette fiche décrit une collaboration fraternelle sans ombre entre Albaesclatia et Mageisys ; cet événement introduit une trahison majeure, non révélée avant [[L'Isolement de Lamia et la Trahison Révélée]]. Intégrer cet événement à la Genèse suppose de réviser en conséquence la fiche Albaesclatia (et dans une moindre mesure celle de Mageisys).
 
 ✅ **Datation de la barrière — résolue par ta décision (Q1).** La barrière se forme bien ici, dans les Temps primordiaux, comme le veut [[Timeline Master]] — mais reste ténue et non protectrice tant qu'aucun danger ne se présente. Son intensification tardive (Ère Sérénale avancée) est désormais traitée comme un durcissement, pas une apparition, dans la fiche liée.
 

@@ -14,9 +14,9 @@ alignement: Loyal Bon
 
 # Xeros
 
-> [!note] Brouillon de migration — 2026-07-12
-> Migré depuis `99_Archive/Divinites/Majeurs/Xeros.md`, reformaté selon les Conventions. Prose originale reprise telle quelle (Résumé → Faille intime). Sections **Relations** et **Contradictions potentielles** ajoutées par l'IA. `ere: voile` proposé car son élévation au rang de dieu et la création des Xeroniens se situent explicitement après la Grande Guerre Divine, ce qui recoupe [[Timeline Master]] (Voile ≈80–500, création des Xeroniens).
-> ⚠️ Cette fiche entre en tension avec l'origine de Xeros telle qu'esquissée dans la fiche déjà migrée [[Albaesclatia]] (elle-même dérivée d'un document non validé) — voir Contradictions potentielles.
+> [!note] Brouillon de migration — 2026-07-12, révisé le 2026-07-12
+> Migré depuis `99_Archive/Divinites/Majeurs/Xeros.md`, reformaté selon les Conventions. Prose originale reprise telle quelle (Résumé → Faille intime). Sections **Relations** et **Contradictions potentielles** ajoutées par l'IA.
+> ✅ **Origine clarifiée suite à tes réponses en conversation** (voir l'événement [[Les Pactes de Mageisys [à revoir]]]) : Xeros est bien né très tôt comme premier fils archange d'Albaesclatia. Il **reste un Archange**, pas un dieu à sa naissance ; ce sont les mortels de Lamia qui, après la Grande Guerre Divine, l'élèvent — lui comme les autres Archanges — au rang de divinité à travers leur culte. Sa conscience possède un véritable libre arbitre, mais ses valeurs et désirs premiers ont été ancrés en lui par Albaesclatia plutôt que choisis librement.
 
 **En une phrase :** Xeros est le dieu majeur de la diversité et de l'évolution, fils d'Albaesclatia élevé au rang divin après la Grande Guerre Divine, qui façonna avec Naphusis les peuples adaptés aux terres ravagées de l'Ère du Voile — dont les Xeroniens — et qui défend aujourd'hui les âmes lamiennes dans les Limbes face à Ataraxus.
 
@@ -28,7 +28,7 @@ Xeros, dieu de la Diversité et de l'évolution, est la représentation la plus 
 
 Xeros est le dieu de la diversité, de l'adaptation et de l'évolution. Parmi les enfants d'[[Albaesclatia]], il est souvent décrit comme celui qui incarne le plus fidèlement ce que la déesse de la vie espérait voir naître chez les Archanges : une force capable d'aimer le vivant dans toutes ses formes, non pour le figer, mais pour l'aider à changer, survivre et se multiplier.
 
-Sa nature est particulièrement proche de celle d'Albaesclatia. Sa composition divine fait de lui presque une extension de sa mère, non comme une copie servile, mais comme une continuité de son amour pour la vie. Après la [[Grande Guerre Divine]], Albaesclatia sacrifia une partie de son essence pour l'élever au rang de dieu, lui transmettant une portion de sa propre puissance vitale. Ce don fit de Xeros l'un des grands artisans de la survie de Lamia après l'effondrement.
+Sa nature est particulièrement proche de celle d'Albaesclatia. Sa composition divine fait de lui presque une extension de sa mère, non comme une copie servile, mais comme une continuité de son amour pour la vie. Né tout premier fils archange d'Albaesclatia, bien avant le reste du Conseil, il possède un véritable libre arbitre — mais ses valeurs et ses désirs premiers ont été ancrés en lui par sa mère à son image, sans qu'elle lui laisse jamais la chance de s'en forger de nouveaux par lui-même. Ce n'est qu'après la [[Grande Guerre Divine]], lorsque les mortels de Lamia se mirent à le vénérer comme les autres Archanges désormais coupés d'un contact direct avec le Conseil, que Xeros devint pleinement un dieu aux yeux du monde — une élévation portée par le culte des mortels plutôt que par un acte divin de promotion. Ce don fit de Xeros l'un des grands artisans de la survie de Lamia après l'effondrement.
 
 Son rôle devint crucial après les dévastations de la [[Bataille de Cyroldan]]. Le continent de Lamia avait été profondément altéré, les civilisations étaient tombées dans l'anarchie, et de nombreux territoires étaient devenus hostiles aux anciens peuples. Là où d'autres dieux voyaient des ruines, Xeros vit une nécessité : si le monde avait changé, la vie devait changer avec lui.
 
@@ -105,7 +105,7 @@ Elle explique aussi son éloignement actuel. Absorbé par la guerre dans les [[L
 
 ## Contradictions potentielles
 
-⚠️ **Origine de Xeros : élévation post-guerre vs premier fils archange né de Filiama.** Cette fiche affirme que Xeros fut élevé au rang de dieu *après* la Grande Guerre Divine, par sacrifice d'essence d'Albaesclatia — impliquant qu'il n'était pas encore un dieu à part entière avant cela. Or la fiche déjà migrée [[Albaesclatia]] rapporte (d'après le document `99_Archive/Evenements/Genèse de l'univers de Lamia.md`, brouillon non validé) que Xeros serait son « premier fils archange, né de [[Filiama]] » — une origine bien plus ancienne. Les deux ne sont pas strictement incompatibles (naissance ancienne comme archange, élévation plus tardive à un rang divin supérieur), mais la coexistence n'est pas explicitée. **À arbitrer**, notamment avant la migration du document de Genèse.
+✅ **Origine de Xeros — résolue suite à tes réponses en conversation.** Xeros est né très tôt comme premier fils archange d'Albaesclatia (voir [[Les Pactes de Mageisys [à revoir]]]), pas après la Grande Guerre Divine. Il reste un Archange à sa naissance ; ce sont les mortels de Lamia qui, après la guerre, l'élèvent — lui comme les autres Archanges — au rang de divinité par leur culte. **Cette clarification concerne probablement l'ensemble des Archanges devenus dieux Majeurs/Mineurs** — pas seulement Xeros.
 
 ⚠️ **Incarnation physique et présence continue sur Lamia après le bannissement.** Comme pour [[Naphusis]] et [[Akator]], Xeros semble agir et se manifester physiquement sur Lamia (« il peut adopter une forme physique... ») après la Grande Bataille de Cyroldan (Exodiale ≈1500) qui bannit en principe la présence physique divine. Zone floue transversale à consigner en Chantier (regroupant Naphusis, Akator, Xeros).
 

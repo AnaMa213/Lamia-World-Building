@@ -38,7 +38,7 @@ Cette perte devient la blessure originelle d'Albaesclatia, celle qui la pousse �
 
 La planète où meurt l'ange Lamia n'est pas anonyme — c'est cette **même planète** qu'Albaesclatia choisira bien plus tard, une fois la vie enfin rendue possible, pour y faire naître les premiers mortels. C'est en souvenir de cette perte, et parce que c'est le lieu même où sa fille a existé un instant, qu'elle nommera cette planète **Lamia** (voir [[La Création de Lamia et l'Essence Cachée]]). L'homonymie Lamia (ange)/Lamia (planète) n'est donc pas une simple coïncidence de nom : c'est le même lieu, séparé par des éons.
 
-La naissance et la mort de Lamia (ange) intrigua énormément Mageisys qui finit secrètement par récupérer le corps de l'ange (voir [[Proposition à créer - Récupération du corps de Lamia par Mageisys]]) afin d'en faire des expériences et alimenter ses connaissances sur ce nouveau procédé du vivant.
+La naissance et la mort de Lamia (ange) intrigua énormément Mageisys qui finit secrètement par récupérer le corps de l'ange (voir [[Récupération du corps de Lamia par Mageisys]]) afin d'en faire des expériences et alimenter ses connaissances sur ce nouveau procédé du vivant.
 
 ## Qui en garde mémoire
 
@@ -50,7 +50,7 @@ Connue d'Albaesclatia comme blessure intime et de Mageisys, qui récupèrera le 
 - [[Mageisys]] — auteur involontaire de l'échec (les lois du Plan des Mondes).
 - [[2026-07-12 — Proposition — Migration Lamia (ange)]] — fiche Divinité dédiée à l'ange elle-même.
 - [[La Création de Lamia et l'Essence Cachée]] — événement où la même planète est choisie et nommée en sa mémoire.
-- [[Proposition à créer - Récupération du corps de Lamia par Mageisys]] — événement découlant de l'ange défunt entreprit par Mageisys.
+- [[Récupération du corps de Lamia par Mageisys]] — événement découlant de l'ange défunt entreprit par Mageisys.
 ## Contradictions potentielles
 
 **Aucune contradiction relevée.** Cohérent avec l'entrée déjà existante dans [[Timeline Master]] (« ≈ 1 millions d'années avant Sérénale 0 »).

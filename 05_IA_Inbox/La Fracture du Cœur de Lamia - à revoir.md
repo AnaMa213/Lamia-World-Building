@@ -14,22 +14,15 @@ aliases: ["Corruption des gardiens du cœur"]
 ---
 # La Fracture du Cœur de Lamia
 
-> [!note] Brouillon de migration — 2026-07-12
-> Extrait et reformaté depuis `99_Archive/Evenements/Genèse de l'univers de Lamia.md` (brouillon, non validé), sections « Naïnrak et la naissance des nains », « La corruption des gardiens » et « La fracture du cœur ». Prose reprise telle quelle. **Contradictions potentielles** ajoutées par l'IA.
-> ✅ **Bonne nouvelle : cette version complète RÉSOUT la divergence relevée entre les fiches déjà migrées [[2026-07-12 — Proposition — Migration Maurtria]] et [[2026-07-12 — Proposition — Migration Naïnrak]]** sur le sort du gardien corrompu — voir Contradictions potentielles.
-> `annee: 2750` reprise directement de l'entrée déjà existante dans [[Timeline Master]] (Sérénale ≈2750), qui correspond exactement à cet événement.
-
-**En une phrase :** Maurtria corrompt par les rêves l'un des trois gardiens nains du Cœur de Lamia, qui le frappe et le fracture en trois morceaux avant d'être capturé de justesse par ses frères alors qu'il tentait de fuir vers la surface — ouvrant, par cette tentative même, la brèche par laquelle les démons s'insinueront bientôt.
+**En une phrase :** Maurtria corrompt par les rêves l'un des trois gardiens nains du Cœur de Lamia, qui le fracture en trois morceaux avant d'être capturé de justesse par ses frères alors qu'il tentait de fuir vers la surface — ouvrant, par cette tentative même, la brèche par laquelle les démons s'insinueront bientôt.
 
 ## Résumé
 
-Frappé par la révélation que Lamia porte en son cœur l'essence de la première Lamia, Naïnrak crée les Nains pour le protéger. Trois gardiens en ont la charge directe. Maurtria, en quête de violence après la lassitude de la guerre universelle, s'insinue dans leurs rêves. L'un d'eux frappe le cœur, le fracture, et tente de fuir avec un fragment — ouvrant par ce geste même une brèche vers la surface — avant d'être rattrapé et emmuré par les deux autres.
+Frappé par la révélation que Lamia porte en son cœur l'essence de la première Lamia, Naïnrak crée les Nains pour le protéger. Trois gardiens en ont la charge directe. Un jour, Maurtria, en quête de violence après la lassitude de la guerre universelle, s'insinue dans leurs rêves. L'un d'eux fracture le cœur, et tente de fuir avec un fragment — ouvrant par ce geste même une brèche permettant au démons de pénétré Lamia depuis les autres plans — avant d'être rattrapé et emmuré par les deux autres.
 
 ## Causes
 
-Parmi les Archanges, [[Naïnrak]] est frappé par la révélation que la planète Lamia porte en son cœur l'essence de la défunte Lamia (voir [[La Création de Lamia et l'Essence Cachée]]). Il juge de son devoir de protéger ce cœur et crée une nouvelle race : les **[[Nains]]**, conçus pour vivre au sein même de la planète. Trois d'entre eux sont désignés gardiens directs du cœur ; le reste du peuple bâtit autour d'eux une civilisation souterraine entière.
-
-Parallèlement, les siècles de batailles universelles ont changé certains Archanges plus profondément que d'autres. **[[Maurtria]]**, fille d'Albaesclatia, a découvert lors des combats contre les [[Démons]] un goût qu'elle ne se soupçonnait pas : celui du sang versé et de la violence pour elle-même. Lorsque la guerre universelle se réduit aux derniers feux mourants des dernières planètes, elle se retrouve privée de l'objet de son désir et tourne son regard vers Lamia.
+Après [[Naïnrak et la Naissance des Nains]], les trois gardiens nains veillent depuis plusieurs siècles sur le Cœur de Lamia. Les siècles de batailles universelles ont changé certains Archanges plus profondément que d'autres. **[[Maurtria]]**, fille d'Albaesclatia, a découvert lors des combats contre les [[Démons]] un goût qu'elle ne se soupçonnait pas : celui du sang versé et de la violence pour elle-même. Lorsque la guerre universelle se réduit aux derniers feux mourants des dernières planètes, elle se retrouve privée de l'objet de son désir et tourne son regard vers Lamia.
 
 ## Déroulement
 
@@ -51,7 +44,7 @@ Le fait brut (« le cœur de Lamia fut fracturé ») semble avoir traversé jusq
 
 ## Relations
 
-- [[Naïnrak]] — crée les Nains et les trois gardiens.
+- [[Naïnrak et la Naissance des Nains]] — événement antérieur directement lié.
 - [[Maurtria]] — corrompt le gardien par les rêves.
 - [[Nains]] — peuple créé pour cette protection, dont la civilisation souterraine commence ici sa chute.
 - [[Alfaryus]] — fondera sans le savoir Cyroldan directement au-dessus de cette prison.

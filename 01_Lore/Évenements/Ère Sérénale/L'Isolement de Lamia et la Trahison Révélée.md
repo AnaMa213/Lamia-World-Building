@@ -1,22 +1,26 @@
 ---
-statut: brouillon
-source: ia
+statut: canon
+source: auteur
 type: evenement
 importance: majeur
 ere: serenale
 annee: inconnu
-annee_debut:
-annee_fin:
-tags: [lamia, coeur-de-lamia, secret, trahison]
+annee_debut: 950
+annee_fin: 1000
+tags:
+  - lamia
+  - coeur-de-lamia
+  - secret
+  - trahison
 date: 2026-07-12
 portee:
-aliases: ["L'intensification de la barrière de Lamia", "La trahison de Mageisys"]
+aliases:
+  - L'intensification de la barrière de Lamia
+  - La trahison de Mageisys
 ---
 # L'Isolement de Lamia et la Trahison Révélée
 
-> [!note] Brouillon de migration — 2026-07-12, révisé le 2026-07-12
-> Extrait et reformaté depuis `99_Archive/Evenements/Genèse de l'univers de Lamia.md` (brouillon, non validé), section « L'isolement instinctif et la trahison révélée ». **Révisé suite à ta décision (Q1)** : la barrière de Lamia existe déjà, ténue, depuis les Temps primordiaux (voir [[La Création de Lamia et l'Essence Cachée]]). Cet événement n'est donc plus sa création mais son **intensification brutale**, déclenchée par la menace grandissante d'Ataraxus.
-> 🔒 **SECRET — ne jamais laisser fuiter vers un contenu lecteur/joueur avant arbitrage.** Ceci est le « point 1 » directement discuté pour la fiche [[2026-07-12 — Proposition — Migration Albaesclatia]].
+> 🔒 **SECRET — ne jamais laisser fuiter vers un contenu lecteur/joueur avant arbitrage.** 
 
 **En une phrase :** Sentant la menace d'Ataraxus s'amonceler, Lamia durcit soudain la barrière ténue qui sommeillait en elle depuis l'origine de son cœur — révélant du même geste à Albaesclatia que Mageisys avait secrètement implanté l'essence de sa fille défunte dans la planète, sans qu'elle ait jamais eu le temps d'en demander des comptes avant que le génocide universel ne déferle.
 
@@ -40,11 +44,13 @@ L'intensification de la barrière a aussi des conséquences que ni la planète n
 
 ## Conséquences
 
-Durcissement définitif de la barrière de Lamia — celle-ci restera active jusqu'à la fracture du cœur (voir [[2026-07-12 — Proposition — Événement La Fracture du Cœur de Lamia]]). Fracture définitive et non résolue entre Albaesclatia et Mageisys — jamais un mot de pardon n'est échangé (voir aussi les événements liés au Voile). Premières tensions sociales chez les Lamiens.
+Durcissement définitif de la barrière de Lamia — celle-ci restera active jusqu'à la fracture du cœur (voir [[La Fracture du Cœur de Lamia [à revoi]]]). Fracture définitive et non résolue entre Albaesclatia et Mageisys — jamais un mot de pardon n'est échangé lors du [[Le Conseil des Trois|Conseil des Trois]] qui suivra ; il faudra attendre bien plus tard, lors de la création des Jumeaux divins (ère Exodiale, événement non encore rédigé), pour qu'une véritable explication ait lieu entre eux. Premières tensions sociales chez les Lamiens.
+
+Cette rupture marque aussi, en germe, le début de l'éloignement idéologique du Conseil des Archanges : voir pour la première fois qu'un dieu primordial pouvait mentir, manipuler et trahir jette une ombre durable sur la confiance mutuelle du Conseil — un éloignement qui s'aggravera avec chaque épreuve ultérieure (corruption de Maurtria, effondrement d'Albaesclatia) jusqu'à la rupture définitive du Conseil à la fin de la guerre (ère du Voile, événement non encore rédigé).
 
 ## Qui en garde mémoire
 
-🔒 Le Conseil des Archanges au complet apprend la vérité au moment de la révélation. Il est vraisemblable que cette connaissance ait ensuite été délibérément recouverte par le Voile (voir [[2026-07-12 — Proposition — Événement Le Voile]]), au même titre que le reste des secrets liés au Cœur — à confirmer.
+🔒 Le Conseil des Archanges au complet apprend la vérité au moment de la révélation. Il est vraisemblable que cette connaissance ait ensuite été délibérément recouverte par le Voile pour les Lamiens (voir [[2026-07-12 — Proposition — Événement Le Voile]]), au même titre que le reste des secrets liés au Cœur.
 
 ## Relations
 

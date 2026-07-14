@@ -1,24 +1,26 @@
 ---
-statut: brouillon
-source: ia
+statut: canon
+source: auteur
 type: evenement
 importance: majeur
 ere: serenale
 annee: inconnu
 annee_debut:
 annee_fin:
-tags: [magie, essence-mageysienne, dette]
+tags:
+  - magie
+  - essence-mageysienne
+  - dette
 date: 2026-07-12
 portee:
-aliases: ["Le don de Mageisys", "Origine de la magie élémentaire latente"]
+aliases:
+  - Le don de Mageisys
+  - Origine de la magie élémentaire latente
 ---
 # La Dette de Mageisys
 
-> [!note] Brouillon de migration — 2026-07-12
-> Extrait et reformaté depuis `99_Archive/Evenements/Genèse de l'univers de Lamia.md` (brouillon, non validé), section « L'ère de la création et la dette ». Prose reprise telle quelle. **Contradictions potentielles** ajoutées par l'IA.
-> Comble une lacune déjà signalée dans la fiche déjà migrée [[2026-07-12 — Proposition — Migration Mageisys]] (« Backstory du Despophys incomplète... dette réclamée plus tard... Non intégré ici : à valider séparément »).
 
-**En une phrase :** Mageisys réclame la dette contractée par Albaesclatia lors des Pactes fondateurs et exige qu'un fragment de son essence divine soit implanté dans chaque être vivant de Lamia — germe latent d'où naîtra, des siècles plus tard, la pratique de la magie élémentaire.
+**En une phrase :** Mageisys réclame la dette contractée par Albaesclatia lors des Pactes fondateurs et exige qu'un fragment de son essence divine soit implanté dans chaque être vivant de Lamia — germe latent d'où naîtra, des siècles plus tard, la pratique de la magie via le contrôle de l'essence mageysienne.
 
 ## Résumé
 
@@ -26,7 +28,7 @@ Pendant que les peuples de Lamia évoluent en paix, leur inventivité stupéfie 
 
 ## Causes
 
-Après la création de [[Lamia]] (planète) et de ses premiers peuples ([[Humains]], [[Elfes]]), ceux-ci consacrent leur existence à l'apprentissage et à la création dans une paix sans conflit notable. Leur soif de comprendre et leur inventivité stupéfient [[Mageisys]], fasciné par l'originalité de ces êtres si primitifs — sa propre puissance, devenue linéaire à ses yeux, lui paraît éculée face à ce regard neuf. C'est alors qu'il rappelle à Albaesclatia la **dette** contractée lors des [[Les Pactes de Mageisys [à revoir]|Pactes fondateurs]].
+Après la création de [[Lamia]] (planète) et de ses premiers peuples ([[Humains]], [[Elfes]]), ceux-ci consacrent leur existence à l'apprentissage et à la création dans une paix sans conflit notable. Leur soif de comprendre et leur inventivité stupéfient [[Mageisys]], fasciné par l'originalité de ces êtres si primitifs — sa propre puissance, devenue linéaire à ses yeux, lui paraît éculée face à ce regard neuf. C'est alors qu'il rappelle à Albaesclatia la **dette** contractée lors des [[Les Pactes de Mageisys|Pactes fondateurs]].
 
 ## Déroulement
 
@@ -40,7 +42,7 @@ Pendant des siècles, Lamia continue de prospérer dans la paix. Les premiers La
 
 ## Qui en garde mémoire
 
-Vraisemblablement oublié comme événement précis à l'époque présente (1448 È.V.) : les Lamiens d'aujourd'hui savent que la magie existe et qu'elle vient des dieux dans un sens général, mais l'origine spécifique — une dette payée par Albaesclatia à Mageisys — n'est probablement conservée que dans les traditions religieuses ou arcanistes les plus anciennes, si elle l'est encore.
+Vraisemblablement oublié comme événement précis à l'époque présente : les Lamiens d'aujourd'hui savent que la magie existe et qu'elle vient des dieux dans un sens général, mais l'origine spécifique — une dette payée par Albaesclatia à Mageisys — n'est probablement conservée que dans les traditions religieuses ou arcanistes les plus anciennes, si elle l'est encore.
 
 ## Relations
 
@@ -53,4 +55,4 @@ Vraisemblablement oublié comme événement précis à l'époque présente (1448
 
 **Aucune contradiction directe relevée** — cet événement comble une lacune déjà identifiée plutôt qu'il n'en crée une nouvelle. À confirmer : l'articulation exacte entre cette « essence mageysienne latente » (universelle, à tous les Lamiens) et la magie arcanique d'Alfaryus (système distinct, pour ceux qui ne peuvent dompter l'élémentaire) — les deux fiches ne se contredisent pas mais gagneraient à être explicitement reliées dans un futur [[MOC Magies]].
 
-**Datation approximative proposée, non tranchée.** Situé après la fondation de Lamia et de ses premiers peuples, avant l'« âge d'or » et donc probablement avant Sérénale ≈500 (cf. [[Timeline Master]], « Premières cités elfes et humaines », Sérénale ≈100–500) — à ajuster si tu as une préférence.
+**Datation approximative proposée, non tranchée.** Situé après la fondation de Lamia et de ses premiers peuples, avant l'« âge d'or » et donc probablement avant Sérénale ≈500 (cf. [[Timeline Master]], « Premières cités elfes et humaines », Sérénale ≈100–500)

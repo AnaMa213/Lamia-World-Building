@@ -15,10 +15,10 @@
       }
     },
     {
-      "query": "path:Divinites/Majeurs  ",
+      "query": "path:\"01_Lore/Évenements/Ère Sérénale\"  ",
       "color": {
         "a": 1,
-        "rgb": 14010425
+        "rgb": 13985849
       }
     },
     {
@@ -60,6 +60,6 @@
   "repelStrength": 10.1041666666667,
   "linkStrength": 0.677083333333333,
   "linkDistance": 329,
-  "scale": 0.36288736930120724,
+  "scale": 0.362887369301207,
   "close": true
 }
