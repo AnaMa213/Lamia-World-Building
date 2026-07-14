@@ -15,11 +15,9 @@ tags:
 date: 2026-07-12
 portee:
 aliases:
-  - Naissance du Despophys
-  - Naissance de Xeros
+  - Le Serment des Deux Frères
 ---
-# Les Pactes de Mageisys
-
+# Les Accords du Despophys
 
 **En une phrase :** Après la mort de sa première fille, Albaesclatia obtient de Mageisys la création du Despophys et du Dibertium à condition d'accorder une âme et un libre arbitre à ses créations — condition qu'elle transgresse dès la naissance de Xeros, ce qui lui vaut un second pacte plus contraignant et une dette dont les termes restent à fixer.
 
@@ -43,11 +41,11 @@ C'est de Filiama qu'elle engendre son premier fils, l'Archange **[[Xeros]]**. Co
 
 Mageisys découvre la transgression et menace de tout détruire. Il finit par laisser passer la faute, mais impose un second pacte plus contraignant : Albaesclatia pourra poursuivre son œuvre à deux conditions — ne plus jamais déroger aux règles fixées, et accepter une **dette dont les termes seraient fixés au moment de son choix**. Sans alternative, elle accepte.
 
-En coulisses, Mageisys, fasciné par l'aisance avec laquelle sa sœur a su modeler un être si complexe, retourne dans son plan d'expérimentation secret, où il poursuit ses recherches entamées 500 000 ans plus tôt sur le corps de l'ange Lamia (voir [[Récupération du corps de Lamia par Mageisys|Récupération du corps de Lamia par Mageisys]]).
+En coulisses, Mageisys, fasciné par l'aisance avec laquelle sa sœur a su modeler un être si complexe, retourne dans son plan d'expérimentation secret, où il poursuit ses recherches entamées 500 000 ans plus tôt sur le corps de l'ange Lamia (voir [[Le Larcin de Mageisys]]).
 
 ## Conséquences
 
-Le Despophys et le Dibertium deviennent le foyer permanent des Archanges. Une dette reste due à Mageisys — elle sera réclamée plus tard (voir [[La Dette de Mageisys]]). Le plan d'expérimentation secret de Mageisys deviendra plus tard le lieu où il extraira l'essence du corps de la première Lamia pour l'implanter dans une planète (voir [[La Création de Lamia et l'Essence Cachée]]). Tenant sa promesse malgré tout, Albaesclatia formera ensuite le Conseil des Archanges (voir [[La Fondation du Conseil des Archanges]]).
+Le Despophys et le Dibertium deviennent le foyer permanent des Archanges. Une dette reste due à Mageisys — elle sera réclamée plus tard (voir [[Le Tribut de la Création]]). Le plan d'expérimentation secret de Mageisys deviendra plus tard le lieu où il extraira l'essence du corps de la première Lamia pour l'implanter dans une planète (voir [[La Semence Cachée]]). Tenant sa promesse malgré tout, Albaesclatia formera ensuite le Conseil des Archanges (voir [[La Charte du Conseil]]).
 
 ## Qui en garde mémoire
 
@@ -60,7 +58,7 @@ La fondation du Despophys et du Dibertium est vraisemblablement connue de tout l
 - [[Xeros]] — né de cet épisode ; reste un Archange à part entière — voir Contradictions potentielles pour la clarification de sa nature et de son rang.
 - [[Despophys]] / [[Dibertium]] / [[Filiama]] — lieux fondés dans cet événement.
 - [[Conseil des Archanges]] — se constitue dans la foulée (vingt enfants supplémentaires).
-- [[Récupération du corps de Lamia par Mageisys]] — événement antérieur directement lié (500 000 ans plus tôt).
+- [[Le Larcin de Mageisys]] — événement antérieur directement lié (500 000 ans plus tôt).
 
 ## Contradictions potentielles
 
@@ -68,4 +66,4 @@ La fondation du Despophys et du Dibertium est vraisemblablement connue de tout l
 
 ✅ **Nature de la conscience de Xeros — résolue.** Il possède un véritable libre arbitre, mais ses valeurs et désirs premiers ont été ancrés en lui par Albaesclatia plutôt que choisis librement — nuance importante à intégrer dans sa fiche personnelle (à faire lors de la révision des fiches divinités).
 
-**Datation relative confirmée : ≈ 500 000 ans avant Sérénale 0**, soit 500 000 ans après [[Récupération du corps de Lamia par Mageisys|Récupération du corps de Lamia par Mageisys]].
+**Datation relative confirmée : ≈ 500 000 ans avant Sérénale 0**, soit 500 000 ans après [[Le Larcin de Mageisys]].

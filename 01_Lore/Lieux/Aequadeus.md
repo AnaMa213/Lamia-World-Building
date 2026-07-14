@@ -21,7 +21,7 @@ Conçu par Mageisys pour limiter les affrontements directs entre divinités, l'A
 
 ## À travers les ères
 
-**Ère Sérénale :** création par Mageisys, échec de la trêve avec Ataraxus, dissensions internes du Conseil (voir [[L'Aequadeus et les Fissures du Conseil]]).
+**Ère Sérénale :** création par Mageisys, échec de la trêve avec Ataraxus, dissensions internes du Conseil (voir [[Le Concile Rompu]]).
 
 **Ères suivantes :** statut et usage actuels non documentés dans les sources disponibles — absent des sources.
 

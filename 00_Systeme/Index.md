@@ -30,18 +30,18 @@ Géographie · Peuples et Factions · Personnages · Créatures · Événements 
 > note concernée). Le [[Tableau de bord]] liste automatiquement les cases ouvertes.
 
 ### Ouverts
-- [x] ⚠️ PRIORITAIRE — Présent = 1448 È.V. mais des entrées de la chronologie vont jusqu'à Voile ≈ 1600 (règne d'Aldania, tentatives de retour de Vindiereis, « 1600 ans d'ère du Voile ») : arbitrer — le présent est-il en réalité ~1600, ou remplacer ces 1600 par 1448 / « à nos jours » ?
-- [ ] Orthographe officielle : « Sérénal » ou « Sérénale » (provisoire : Sérénale, d'après chronologie.md)
-- [ ] Cyroldan : cité (fondée Exodiale ≈ 600), continent central (après la Grande Bataille), cité « fondée » à nouveau Voile ≈ 10–200 → clarifier et désambiguïser (Cyroldan (cité) / Cyroldan (continent) ?)
-- [ ] Harmoniser corps vs synthèse de la chronologie : Vindiereis Roi Sombre (1350–1400 vs bloc 1000–1350) ; ravages de la guerre (« Sérénale 1000 à 3500 » vs fin d'ère ≈ 2950)
-- [ ] Valider les marquages 🔒 proposés dans [[Timeline Master]] (dispersion des fragments du cœur)
-- [ ] Abréviations officielles des ères Sérénale et Exodiale (È.S. ? È.E. ?)
+
+- [ ] Harmoniser corps vs synthèse de la chronologie : Vindiereis Roi Sombre
+- [ ] Valider les marquages 🔒 proposés dans [[Timeline Master]]
 - [ ] Le Calendrier Commun existait-il avant l'Ère du Voile ?
 - [ ] Valider la scission du fichier calendrier (Calendrier Commun / Fêtes occultes / dates de campagne)
-- [ ] Valider la règle « une note par lieu, section À travers les ères » (topologie variable)
 - [ ] Recalibrer le rang des ~20 divinités existantes à la migration
-
 ### Tranchés (mémoire des décisions)
 - [x] Sens du compte des années → croissant depuis l'an 0 de chaque ère (chronologie.md, 2026-07-11)
 - [x] Durée des ères → Sérénale ≈ 2950 ans, Exodiale ≈ 1600 ans, Voile en cours (2026-07-11)
-- [x] Atar → astre projeté par Ataraxus devenu la lune (Exodiale ≈ 1600) ; pas une divinité (2026-07-11)
+- [x] Atar → astre projeté par Ataraxus devenu la lune ; pas une divinité (2026-07-11)
+- [x]  Présent = non définie.
+- [x] Orthographe officielle : « Sérénale »
+- [x] Cyroldan : cité (fondée Exodiale) mais le nom est récupérée plus tard comme continent central (là où se trouve les ruines de la cité après la Grande Bataille), nommé l'Ancienne Cyroldan
+- [x] Abréviations officielles des ères Sérénale et Exodiale (È.S. ? È.E. ?) validées
+- [x] Valider la règle « une note par lieu, section À travers les ères » (topologie variable)

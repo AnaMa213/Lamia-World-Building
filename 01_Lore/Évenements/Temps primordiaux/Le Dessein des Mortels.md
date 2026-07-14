@@ -14,11 +14,11 @@ tags:
 date: 2026-07-12
 portee:
 aliases:
-  - Le projet des terres nouvelles
+  - Le Vœu d'Albaesclatia
 ---
-# La Nouvelle Ambition
+# Le Dessein des Mortels
 
-**En une phrase :** Constatant les conflits au seins du conseil et son envie de plus de partage, Albaesclatia imagine des êtres incomplets, mortels et vieillissants, capables de se parfaire eux-mêmes — et propose à Mageisys et Lumina de créer ensemble une multitude de terres nouvelles où chaque Archange pourra donner libre cours à son imagination.
+**En une phrase :** Constatant les conflits au sein du conseil et son envie de plus de partage, Albaesclatia imagine des êtres incomplets, mortels et vieillissants, capables de se parfaire eux-mêmes — et propose à Mageisys et Lumina de créer ensemble une multitude de terres nouvelles où chaque Archange pourra donner libre cours à son imagination.
 
 ## Résumé
 
@@ -26,7 +26,7 @@ Albaesclatia constate que tous les êtres créés jusqu'ici n'ont aucune perspec
 
 ## Causes
 
-À la suite des [[Les Dissensions au Conseil|dissensions au Conseil]], chaque Archange peut désormais exprimer sa vision à travers ses propres projets. Albaesclatia constate que tous les êtres créés jusqu'alors — anges, créatures mythiques — n'ont aucune perspective d'évolution : ils naissent complets, se contentant de profiter des attributs qu'on leur a donnés.
+À la suite des [[Les Prémices de la Discorde|dissensions au Conseil]], chaque Archange peut désormais exprimer sa vision à travers ses propres projets. Albaesclatia constate que tous les êtres créés jusqu'alors — anges, créatures mythiques — n'ont aucune perspective d'évolution : ils naissent complets, se contentant de profiter des attributs qu'on leur a donnés.
 
 ## Déroulement
 
@@ -34,7 +34,7 @@ Albaesclatia veut désormais autre chose : des **êtres incomplets, mortels, vie
 
 ## Conséquences
 
-Lumina crée des milliards d'étoiles ; Mageisys peuple les planètes orbitant autour, mais ses lois trop rigides empêchent toute vie de s'y implanter — échec qui mènera à la naissance de Naphusis (voir [[La Naissance de Naphusis]]), puis à la création de Lamia elle-même (voir [[La Création de Lamia et l'Essence Cachée]]).
+Lumina crée des milliards d'étoiles ; Mageisys peuple les planètes orbitant autour, mais ses lois trop rigides empêchent toute vie de s'y implanter — échec qui mènera à la naissance de Naphusis (voir [[L'Enracinement Primordial]]), puis à la création de Lamia elle-même (voir [[La Semence Cachée]]).
 
 ## Qui en garde mémoire
 
@@ -45,7 +45,7 @@ Fait fondateur largement connu — c'est l'origine conceptuelle de toute vie mor
 - [[Albaesclatia]] — à l'origine du concept de vie mortelle et incomplète.
 - [[Mageisys]] — chargé de peupler les nouvelles planètes ; échoue dans un premier temps.
 - [[Lumina]] — crée les étoiles nécessaires au projet.
-- [[La Naissance de Naphusis]] — conséquence directe de l'échec initial de ce projet.
+- [[L'Enracinement Primordial]] — conséquence directe de l'échec initial de ce projet.
 
 ## Contradictions potentielles
 

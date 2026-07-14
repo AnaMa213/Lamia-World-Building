@@ -12,19 +12,20 @@ tags:
   - vendards
 date: 2026-07-12
 portee:
-aliases: []
+aliases:
+  - Le Sacrifice des Vendards
 ---
-# La Destruction du Monde des Vendards
+# La Perte du Monde des Vendards
 
 **En une phrase :** À peine les premiers Vendards créés, les démons d'Ataraxus s'abattent sur la planète que Vindiereis leur destinait ; grâce au don de Mageisys, ils survivent en abandonnant leur corps, mais restent condamnés à errer sans enveloppe charnelle dans la dimension immatérielle du Plan des Mondes.
 
 ## Résumé
 
-À peine une poignée de Vendards a été créée que la Grande Guerre Divine éclate. Les démons d'Ataraxus s'abattent sur la planète que Vindiereis destinait à ses créations. Les Vendards parviennent à abandonner leur corps grâce au don reçu de Mageisys, mais restent condamnés à errer sans enveloppe charnelle.
+À peine une poignée de Vendards a été créée que la guerre atteint leur monde. Les démons d'Ataraxus s'abattent sur la planète que Vindiereis destinait à ses créations. Les Vendards parviennent à abandonner leur corps grâce au don reçu de Mageisys, mais restent condamnés à errer sans enveloppe charnelle.
 
 ## Causes
 
-[[Vindiereis]], désireux de rivaliser avec la puissance des dragons de son frère [[Akator]], venait de recevoir de [[Mageisys]] le don de détacher l'âme du corps, et l'avait transmis à ses premières créations, les [[Vendards]]. La Grande Guerre Divine, déjà en cours ailleurs dans l'univers, atteint alors la planète qu'il leur destinait.
+[[Vindiereis]], désireux de rivaliser avec la puissance des dragons de son frère [[Akator]], venait de recevoir de [[Mageisys]] le don de détacher l'âme du corps, et l'avait transmis à ses premières créations, les [[Vendards]]. La guerre, déjà en cours ailleurs dans l'univers, atteint alors la planète qu'il leur destinait.
 
 ## Déroulement
 

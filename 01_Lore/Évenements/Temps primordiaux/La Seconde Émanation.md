@@ -14,10 +14,9 @@ tags:
 date: 2026-07-12
 portee:
 aliases:
-  - La deuxième ère de changement
+  - L'Aube Jumelle
 ---
-# L'Émergence de Lumina et d'Albaesclatia
-
+# La Seconde Émanation
 
 **En une phrase :** Après plusieurs millions d'années, lassé de l'univers minéral façonné par Mageisys, Chronoversum engendre Lumina, qui devient la première étoile, puis Albaesclatia, dont la beauté inédite trouble jusqu'à son propre frère — et qui résout aussitôt de modeler les premiers Anges à son image.
 
@@ -39,7 +38,7 @@ Dès son apparition, Albaesclatia est prise d'un puissant sentiment de solitude 
 
 ## Conséquences
 
-Albaesclatia entreprend aussitôt sa première création, l'ange Lamia (voir [[La Mort de la Première Lamia (ange)]]). L'univers, jusque-là silencieux, commence à connaître lumière et présence divine sensible.
+Albaesclatia entreprend aussitôt sa première création, l'ange Lamia (voir [[La Flamme Éteinte]]). L'univers, jusque-là silencieux, commence à connaître lumière et présence divine sensible.
 
 ## Qui en garde mémoire
 

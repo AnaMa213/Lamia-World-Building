@@ -14,9 +14,9 @@ tags:
   - conseil-des-archanges
 date: 2026-07-12
 portee:
-aliases: []
+aliases: ["La Réconciliation Silencieuse"]
 ---
-# Le Conseil des Trois
+# L'Alliance Froide
 
 **En une phrase :** Lumina tire Albaesclatia de son effondrement et la convainc de se réunir avec Mageisys — non par pardon, mais par nécessité stratégique face à la menace d'Ataraxus.
 
@@ -26,15 +26,15 @@ Albaesclatia sort de son effondrement grâce à Lumina, qui lui rappelle qu'aucu
 
 ## Causes
 
-Depuis [[Le Génocide Universel]], Albaesclatia demeure effondrée dans le Despophys, hors d'état d'agir.
+Depuis [[Le Grand Déferlement]], Albaesclatia demeure effondrée dans le Despophys, hors d'état d'agir.
 
 ## Déroulement
 
-[[Lumina]], lui rappelle qu'aucun deuil et aucune trahison ne l'autorisent à laisser [[Ataraxus]] engloutir le peu qu'il reste. [[Albaesclatia]] consent à se réunir avec [[Mageisys]], **mais sans un mot de pardon**. Le silence glacial qui règne entre eux n'efface pas la nécessité : il faut trouver un moyen de raisonner Ataraxus, ou se préparer à une guerre qu'aucun d'eux ne peut gagner seul.
+[[Lumina]] lui rappelle qu'aucun deuil et aucune trahison ne l'autorisent à laisser [[Ataraxus]] engloutir le peu qu'il reste. [[Albaesclatia]] consent à se réunir avec [[Mageisys]], **mais sans un mot de pardon**. Le silence glacial qui règne entre eux n'efface pas la nécessité : il faut trouver un moyen de raisonner Ataraxus, ou se préparer à une guerre qu'aucun d'eux ne peut gagner seul.
 
 ## Conséquences
 
-Reprise en main collective face à la menace d'Ataraxus, sans réconciliation véritable entre Albaesclatia et Mageisys — cette blessure reste ouverte et continuera de fragiliser le Conseil des Archanges (voir [[L'Isolement de Lamia et la Trahison Révélée]]). Ce conseil des trois précède directement la tentative de trêve auprès d'Ataraxus (voir [[L'Aequadeus et les Fissures du Conseil]]).
+Reprise en main collective face à la menace d'Ataraxus, sans réconciliation véritable entre Albaesclatia et Mageisys — cette blessure reste ouverte et continuera de fragiliser le Conseil des Archanges (voir [[La Trahison Dévoilée]]). Cette alliance froide précède directement la tentative de trêve auprès d'Ataraxus (voir [[Le Concile Rompu]]).
 
 ## Qui en garde mémoire
 
@@ -44,8 +44,8 @@ Vraisemblablement connu du Conseil des Archanges de l'époque comme un moment de
 
 - [[Lumina]] — tire Albaesclatia de son effondrement.
 - [[Albaesclatia]] / [[Mageisys]] — réunion froide, sans pardon.
-- [[L'Isolement de Lamia et la Trahison Révélée]] — origine de la brouille non résolue ici.
-- [[L'Aequadeus et les Fissures du Conseil]] — suite directe.
+- [[La Trahison Dévoilée]] — origine de la brouille non résolue ici.
+- [[Le Concile Rompu]] — suite directe.
 
 ## Contradictions potentielles
 

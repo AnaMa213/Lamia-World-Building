@@ -14,7 +14,7 @@ aliases: []
 # Lamia (ange)
 
 > [!note] Brouillon de migration — 2026-07-12
-> Fiche créée à partir de `99_Archive/Evenements/Genèse de l'univers de Lamia.md`, section « La lumière et la vie », en complément de l'événement [[La Mort de la Première Lamia (ange)]]. Conformément à ta décision, cette fiche **omet les quatre sections psychologiques** (Désir conscient, Besoin profond, Croyance fausse, Faille intime) : Lamia s'est éteinte avant d'avoir jamais vécu, elle n'a pas de psychologie à documenter.
+> Fiche créée à partir de `99_Archive/Evenements/Genèse de l'univers de Lamia.md`, section « La lumière et la vie », en complément de l'événement [[La Flamme Éteinte]]. Conformément à ta décision, cette fiche **omet les quatre sections psychologiques** (Désir conscient, Besoin profond, Croyance fausse, Faille intime) : Lamia s'est éteinte avant d'avoir jamais vécu, elle n'a pas de psychologie à documenter.
 > ⚠️ `rang: esprit` proposé **par défaut, sans conviction** : aucune des quatre valeurs de l'énum (`primordiale | majeure | mineure | esprit`) ne correspond vraiment à un ange unique, mort-né, jamais vraiment entré dans l'existence. Signalé comme point système à trancher, au même titre que le rang manquant pour les demi-dieux.
 > Nom suffixé « (ange) » conformément à la règle des homonymes (Conventions §6), en vis-à-vis de la future fiche « Lamia (planète) ».
 
@@ -32,7 +32,7 @@ Mais lorsqu'Albaesclatia tenta d'allumer sa Flamme de vie, celle-ci s'éteignit 
 
 Sa mort ne fut cependant pas effacée. Elle devint la blessure originelle à partir de laquelle Albaesclatia comprit que créer la vie, ce n'était pas seulement lui donner naissance, mais lui donner les moyens de survivre sans elle — intuition qui la mena à supplier Mageisys de lui bâtir le [[Despophys]].
 
-Des éons plus tard, quand la vie mortelle devint enfin possible, Albaesclatia choisit délibérément la planète où son enfant s'était éteinte pour y faire naître les premiers Humains et Elfes, et la nomma **Lamia** en sa mémoire (voir [[La Création de Lamia et l'Essence Cachée]]). C'est également sur cette même planète que Mageisys, en secret, implanta plus tard une essence dérivée de celle de l'ange défunte — donnant naissance à ce qui deviendra le [[Cœur de Lamia]].
+Des éons plus tard, quand la vie mortelle devint enfin possible, Albaesclatia choisit délibérément la planète où son enfant s'était éteinte pour y faire naître les premiers Humains et Elfes, et la nomma **Lamia** en sa mémoire (voir [[La Semence Cachée]]). C'est également sur cette même planète que Mageisys, en secret, implanta plus tard une essence dérivée de celle de l'ange défunte — donnant naissance à ce qui deviendra le [[Cœur de Lamia]].
 
 ## Apparence
 
@@ -44,7 +44,7 @@ Absente des sources. Aucun texte ne décrit l'apparence de l'ange Lamia — elle
 - [[Mageisys]] — auteur involontaire de l'échec de sa création (les lois du Plan des Mondes), puis auteur du geste secret qui lie son essence à la planète portant son nom.
 - [[Plan des Mondes]] — lieu de sa création et de sa mort.
 - [[Cœur de Lamia]] — porte une part de son essence, implantée en secret par Mageisys.
-- [[La Mort de la Première Lamia (ange)]] — événement narrant sa mort.
+- [[La Flamme Éteinte]] — événement narrant sa mort.
 
 ## Contradictions potentielles
 

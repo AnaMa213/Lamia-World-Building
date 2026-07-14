@@ -13,10 +13,9 @@ tags:
 date: 2026-07-12
 portee:
 aliases:
-  - Les vingt Archanges
+  - La Naissance des Vingt
 ---
-# La Fondation du Conseil des Archanges
-
+# La Charte du Conseil
 
 **En une phrase :** Tenant cette fois sa promesse envers Mageisys, Albaesclatia met au monde vingt nouveaux enfants qui, avec Xeros, forment le Conseil des Archanges, consacré dès ses débuts à l'élaboration de nouvelles formes de vie.
 
@@ -26,7 +25,7 @@ Après le second pacte imposé par Mageisys, Albaesclatia tient sa promesse et d
 
 ## Causes
 
-À la suite de la transgression révélée lors de la naissance de [[Xeros]] et du second pacte imposé par [[Mageisys]] (voir [[Les Pactes de Mageisys [à revoir]]]), Albaesclatia doit désormais tenir parole sans plus jamais déroger aux règles fixées.
+À la suite de la transgression révélée lors de la naissance de [[Xeros]] et du second pacte imposé par [[Mageisys]] (voir [[Les Accords du Despophys]]), Albaesclatia doit désormais tenir parole sans plus jamais déroger aux règles fixées.
 
 ## Déroulement
 
@@ -34,7 +33,7 @@ Tenant cette fois sa promesse, [[Albaesclatia]] met au monde **vingt nouveaux en
 
 ## Conséquences
 
-Le Conseil des Archanges devient l'instance centrale de la famille divine — celle qui organisera plus tard les dissensions internes, la Grande Guerre Divine, et dont la plupart des divinités déjà migrées (Majeurs, Mineurs, Demi-dieux) sont membres ou héritières directes. Pendant plusieurs milliers d'années, le Conseil grandit sans dissension majeure (voir [[Les Dissensions au Conseil]]).
+Le Conseil des Archanges devient l'instance centrale de la famille divine — celle qui organisera plus tard les dissensions internes, la grande guerre, et dont la plupart des divinités déjà migrées (Majeurs, Mineurs, Demi-dieux) sont membres ou héritières directes. Pendant plusieurs milliers d'années, le Conseil grandit sans dissension majeure (voir [[Les Prémices de la Discorde]]).
 
 ## Qui en garde mémoire
 

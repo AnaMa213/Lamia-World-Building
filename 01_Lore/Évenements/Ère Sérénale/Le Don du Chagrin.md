@@ -10,9 +10,9 @@ annee_fin: 2600
 tags: [naphusis, gnomes, lamia]
 date: 2026-07-12
 portee:
-aliases: []
+aliases: ["Les Enfants de Naphusis"]
 ---
-# La Naissance des Gnomes
+# Le Don du Chagrin
 
 **En une phrase :** Le chagrin de Naphusis, dont presque tous les arbres-mondes ont été détruits avec leurs planètes, se concentre dans le seul arbre-monde survivant — celui de Lamia — et fait naître les Gnomes, canal vivant entre elle et les Lamiens, chargés de porter l'alerte du danger qui menace l'univers.
 
@@ -22,7 +22,7 @@ Naphusis, dont la quasi-totalité des arbres-mondes ont été détruits, sent so
 
 ## Causes
 
-Après [[Le Génocide Universel]], la quasi-totalité des arbres-mondes de [[Naphusis]] ont été détruits avec leurs planètes. Son essence se concentre dans le seul qui survit — celui de Lamia.
+Après [[Le Grand Déferlement]], la quasi-totalité des arbres-mondes de [[Naphusis]] ont été détruits avec leurs planètes. Son essence se concentre dans l'un des rares qui survit encore — celui de Lamia.
 
 ## Déroulement
 
@@ -32,19 +32,19 @@ Naphusis leur confie une mission : prévenir les peuples de Lamia du danger qui 
 
 ## Conséquences
 
-Les Lamiens, jusqu'ici ignorants de la guerre universelle, apprennent l'existence de la menace par les Gnomes — ce qui précipite [[L'Éveil des Lamiens]].
+Les Lamiens, jusqu'ici ignorants de la guerre universelle, apprennent l'existence de la menace par les Gnomes — ce qui précipite [[La Fin de l'Innocence]].
 
 ## Qui en garde mémoire
 
-Fait largement connu — les Gnomes eux-mêmes portent cette mémoire de génération en génération, et leur rôle d'messagers originels est vraisemblablement resté dans les traditions lamiennes.
+Fait largement connu — les Gnomes eux-mêmes portent cette mémoire de génération en génération, et leur rôle de messagers originels est vraisemblablement resté dans les traditions lamiennes.
 
 ## Relations
 
 - [[Naphusis]] — mère des Gnomes, née de son chagrin.
 - [[Gnomes]] — peuple créé dans cet événement, sans note dédiée à ce jour.
-- [[Le Génocide Universel]] — cause directe.
-- [[L'Éveil des Lamiens]] — conséquence directe.
+- [[Le Grand Déferlement]] — cause directe.
+- [[La Fin de l'Innocence]] — conséquence directe.
 
 ## Contradictions potentielles
 
-**Datation ≈2500–2600**, juste après [[Le Dernier Bastion]] — cohérent avec le fait que Lamia soit déjà le seul refuge restant à ce stade.
+**Datation ≈2500–2600**, juste après [[L'Asile des Dragons]] — cohérent avec le fait que Lamia soit déjà l'un des rares grands foyers de vie encore debout à ce stade.

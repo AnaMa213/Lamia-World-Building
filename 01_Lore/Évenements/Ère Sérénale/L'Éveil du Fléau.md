@@ -13,11 +13,11 @@ tags:
 date: 2026-07-12
 portee:
 aliases:
-  - Métamorphose d'Ataraxus
+  - La Chute du Dieu du Calme
 ---
-# La Métamorphose d'Ataraxus et la Première Planète
+# L'Éveil du Fléau
 
-**En une phrase :** Consumé par la rage depuis son exil, Ataraxus implose et renaît sous une forme de destruction, puis massacre au hasard une première planète entière — marquant le véritable début de la Grande Guerre Divine.
+**En une phrase :** Consumé par la rage depuis son exil, Ataraxus implose et renaît sous une forme de destruction, puis massacre au hasard une première planète entière — marquant le véritable début de la guerre.
 
 ## Résumé
 
@@ -25,7 +25,7 @@ Après des âges de colère accumulée dans son plan-refuge, la forme physique d
 
 ## Causes
 
-Depuis son retrait dans un plan-refuge bâti par Mageisys (voir [[Le Retrait d'Ataraxus]]), Ataraxus cherche une paix intérieure qu'il ne trouve plus. Baigné par la lumière de Lumina sans jamais s'apaiser, il se laisse peu à peu envahir par la colère et la haine.
+Depuis son retrait dans un plan-refuge bâti par Mageisys (voir [[La Retraite du Calme]]), Ataraxus cherche une paix intérieure qu'il ne trouve plus. Baigné par la lumière de Lumina sans jamais s'apaiser, il se laisse peu à peu envahir par la colère et la haine.
 
 ## Déroulement
 
@@ -37,7 +37,7 @@ Il choisit une première planète au hasard. Il observe brièvement l'œuvre des
 
 ## Conséquences
 
-Naissance du « dieu de la destruction » tel qu'il est connu aujourd'hui. Cet épisode marque, en pratique, le vrai début de ce qui deviendra la Grande Guerre Divine : Ataraxus, ayant goûté à la destruction, ne s'arrêtera plus (voir [[Le Génocide Universel]]).
+Naissance du « dieu de la destruction » tel qu'il est connu aujourd'hui. Cet épisode marque, en pratique, le vrai début de la guerre : Ataraxus, ayant goûté à la destruction, ne s'arrêtera plus (voir [[Le Grand Déferlement]]).
 
 ## Qui en garde mémoire
 
@@ -45,9 +45,9 @@ Fait largement connu et non contesté à l'époque présente : la nature d'Atara
 
 ## Relations
 
-- [[Le Retrait d'Ataraxus]] — événement antérieur directement lié.
+- [[La Retraite du Calme]] — événement antérieur directement lié.
 - [[Albaesclatia]] / [[Lumina]] / [[Mageisys]] — interviennent avec la coalition divine contre ce premier massacre.
-- [[Le Génocide Universel]] — conséquence directe et bien plus vaste.
+- [[Le Grand Déferlement]] — conséquence directe et bien plus vaste.
 - [[Ataraxus]] — fiche déjà migrée, à harmoniser lors de la grande révision différée.
 
 ## Contradictions potentielles

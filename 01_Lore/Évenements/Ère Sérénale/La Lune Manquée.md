@@ -10,9 +10,9 @@ annee_fin: 2600
 tags: [ataraxus, atar, lamia]
 date: 2026-07-12
 portee:
-aliases: ["Naissance d'Atar"]
+aliases: ["La Cicatrice du Ciel"]
 ---
-# La Lune Atar
+# La Lune Manquée
 
 **En une phrase :** Frustré de ne pouvoir franchir la barrière de Lamia pour l'exterminer lui-même, Ataraxus projette un astre contre la planète — l'astre échoue à la percuter, capturé par sa gravité, et devient Atar, sa lune.
 
@@ -22,7 +22,7 @@ Frustré par la barrière qu'il ne peut franchir, Ataraxus tente de détruire La
 
 ## Causes
 
-Après [[Le Dernier Bastion]], Lamia demeure protégée par sa barrière, hors de portée directe d'Ataraxus. Frustré de ne pouvoir s'y rendre pour l'exterminer lui-même, il cherche un autre moyen de l'atteindre.
+Après [[L'Asile des Dragons]], Lamia demeure protégée par sa barrière, hors de portée directe d'Ataraxus. Frustré de ne pouvoir s'y rendre pour l'exterminer lui-même, il cherche un autre moyen de l'atteindre.
 
 ## Déroulement
 
@@ -39,9 +39,9 @@ Fait largement connu et visible de tous — Atar est un objet céleste observabl
 ## Relations
 
 - [[Ataraxus]] — auteur de la tentative.
-- [[Le Dernier Bastion]] — événement antérieur directement lié.
+- [[L'Asile des Dragons]] — événement antérieur directement lié.
 - [[Atar]] — statut déjà tranché dans [[Index]] : un astre, pas une divinité.
 
 ## Contradictions potentielles
 
-**Datation ≈2500–2600**, juste après [[Le Dernier Bastion]].
+**Datation ≈2500–2600**, juste après [[L'Asile des Dragons]].

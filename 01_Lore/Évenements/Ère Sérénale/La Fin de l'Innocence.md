@@ -13,9 +13,10 @@ tags:
   - guerre
 date: 2026-07-12
 portee:
-aliases: []
+aliases:
+  - Le Premier Sortilège de Guerre
 ---
-# L'Éveil des Lamiens
+# La Fin de l'Innocence
 
 > [!note] Rédigé le 2026-07-12 d'après `99_Archive/Evenements/Genèse de l'univers de Lamia.md`, section « L'éveil des Lamiens ».
 
@@ -27,7 +28,7 @@ Le message des Gnomes brise l'innocence de Lamia. Pour la première fois, les pe
 
 ## Causes
 
-Le message porté par [[La Naissance des Gnomes|les Gnomes]] révèle aux Lamiens l'existence de la menace universelle qui pèse sur eux.
+Le message porté par [[Le Don du Chagrin|les Gnomes]] révèle aux Lamiens l'existence de la menace universelle qui pèse sur eux.
 
 ## Déroulement
 
@@ -47,10 +48,10 @@ Fait largement connu — c'est un tournant culturel majeur documenté dans les t
 
 ## Relations
 
-- [[La Naissance des Gnomes]] — cause directe.
+- [[Le Don du Chagrin]] — cause directe (naissance des Gnomes).
 - [[Mageisys]] — observe et s'inspire de cette transformation.
 - [[L'Âge d'Or de Lamia]] — état antérieur, définitivement clos par cet événement.
-- [[Le Conseil des Trois]] — se déroule dans la foulée.
+- [[L'Alliance Froide]] — se déroule dans la foulée (Conseil des Trois).
 
 ## Contradictions potentielles
 

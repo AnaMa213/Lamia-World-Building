@@ -14,11 +14,9 @@ tags:
 date: 2026-07-12
 portee:
 aliases:
-  - La première ère de changement
-  - Naissance du Plan des Mondes
+  - La Dyade Primordiale
 ---
-# L'Émergence d'Ataraxus et de Mageisys
-
+# La Première Émanation
 
 **En une phrase :** Tiraillé entre la peur du changement et l'envie d'accomplir, Chronoversum façonne inconsciemment Ataraxus puis Mageisys, qui instaure aussitôt les lois de l'univers et crée le Plan des Mondes.
 
@@ -32,9 +30,9 @@ Tandis que [[Chronoversum]] se constitue intellectuellement, la première ère d
 
 ## Déroulement
 
-**[[2026-07-11 — Proposition — Migration Ataraxus]]** émerge le premier — personnification de la paix intérieure et du calme. Pour lui, exister sans oscillation suffit ; son essence est en parfaite osmose avec le néant.
+**[[Ataraxus]]** émerge le premier — personnification de la paix intérieure et du calme. Pour lui, exister sans oscillation suffit ; son essence est en parfaite osmose avec le néant.
 
-[[2026-07-11 — Proposition — Migration Mageisys]] apparaît peu après — incarnation de la curiosité et de la créativité. Pour lui, l'inexistence est un fardeau qui l'empêche d'être pleinement lui-même ; il voit dans le néant un chantier à ouvrir.
+[[Mageisys]] apparaît peu après — incarnation de la curiosité et de la créativité. Pour lui, l'inexistence est un fardeau qui l'empêche d'être pleinement lui-même ; il voit dans le néant un chantier à ouvrir.
 
 Mageisys se met à l'ouvrage et instaure les règles qui régiront l'univers, tirant la matière première de l'essence de Chronoversum. Il crée deux plans : un **plan immatériel**, où il aime laisser vagabonder son esprit pour réfléchir et observer, et le **[[Plan des Mondes]]**, plan physique régi par des lois rigides, qui se matérialise en une multitude d'astres froids et déserts.
 
@@ -42,7 +40,7 @@ Chacune des deux consciences prend une forme adaptée à ce nouvel univers. Mage
 
 ## Conséquences
 
-Le Plan des Mondes et le plan immatériel existent désormais. L'univers dispose de ses premières lois structurantes. Plusieurs millions d'années plus tard, Chronoversum se lassera de cette unique perspective et engendrera Lumina et Albaesclatia (voir [[L'Émergence de Lumina et d'Albaesclatia]]).
+Le Plan des Mondes et le plan immatériel existent désormais. L'univers dispose de ses premières lois structurantes. Plusieurs millions d'années plus tard, Chronoversum se lassera de cette unique perspective et engendrera Lumina et Albaesclatia (voir [[La Seconde Émanation]]).
 
 ## Qui en garde mémoire
 
@@ -55,8 +53,6 @@ Le Plan des Mondes et le plan immatériel existent désormais. L'univers dispose
 - [[Mageisys]] — seconde conscience, architecte des lois de l'univers.
 - [[Plan des Mondes]] — créé dans cet événement.
 
-## ## Contradictions potentielles
+## Contradictions potentielles
 
 **Aucune contradiction relevée.** Cohérent avec l'entrée déjà existante dans [[Timeline Master]] (« ≈ 1,5 milliards d'années avant Sérénale 0 »).
-
-

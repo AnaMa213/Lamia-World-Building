@@ -15,6 +15,7 @@ date: 2026-07-12
 portee:
 aliases:
   - L'apogée de Lamia
+  - Le Temps de la Paix
 ---
 # L'Âge d'Or de Lamia
 
@@ -26,7 +27,7 @@ Pendant qu'Ataraxus prépare sa revanche, les peuples de Lamia connaissent leur 
 
 ## Causes
 
-Depuis la [[La Dette de Mageisys|dette de Mageisys]], l'essence divine dort dans chaque être vivant de Lamia. Pendant des siècles, à travers l'apprentissage et la patience, les peuples de Lamia commencent à en tirer des applications concrètes.
+Depuis le [[Le Tribut de la Création|tribut de Mageisys]], l'essence divine dort dans chaque être vivant de Lamia. Pendant des siècles, à travers l'apprentissage et la patience, les peuples de Lamia commencent à en tirer des applications concrètes.
 
 ## Déroulement
 
@@ -36,7 +37,7 @@ Mageisys observe avec fascination ces êtres qui détournent son outillage en y 
 
 ## Conséquences
 
-Cet âge d'or forme le contraste absolu avec ce qui suivra : c'est cette civilisation précisément que l'isolement instinctif de Lamia (voir [[L'Isolement de Lamia et la Trahison Révélée]]) puis le génocide universel (voir [[Le Génocide Universel]]) viendront briser.
+Cet âge d'or forme le contraste absolu avec ce qui suivra : c'est cette civilisation précisément que la trahison dévoilée (voir [[La Trahison Dévoilée]]) puis le grand déferlement (voir [[Le Grand Déferlement]]) viendront briser.
 
 ## Qui en garde mémoire
 
@@ -45,8 +46,8 @@ Fait largement célébré dans les traditions et légendes lamiennes postérieur
 ## Relations
 
 - [[Mageisys]] — inspiré par l'inventivité des Lamiens.
-- [[La Dette de Mageisys]] — cause structurelle de cette prospérité magique.
-- [[L'Isolement de Lamia et la Trahison Révélée]] / [[Le Génocide Universel]] — événements qui y mettent fin.
+- [[Le Tribut de la Création]] — cause structurelle de cette prospérité magique.
+- [[La Trahison Dévoilée]] / [[Le Grand Déferlement]] — événements qui y mettent fin.
 
 ## Contradictions potentielles
 

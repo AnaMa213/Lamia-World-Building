@@ -24,44 +24,44 @@ aliases: [Chronologie, Timeline]
 
 ## Temps primordiaux — origines cosmiques (avant Sérénale 0)
 
-- **≈ 2 milliards d'années avant Sérénale 0** · [MAJEUR] · [[La Naissance de Chronoversum|La Naissance de Chronoversum]] — Du vide qui se languissait de lui-même naît Chronoversum, l'entité du Tout.
-- **≈ 1,5 milliards d'années avant Sérénale 0** · [MAJEUR] · [[L'Émergence d'Ataraxus et de Mageisys|L'Émergence d'Ataraxus et de Mageisys]] — Première vague de consciences ; Mageisys instaure les lois de l'univers et crée le Plan des Mondes.
-- **≈ 15 millions d'années avant Sérénale 0*** · [MAJEUR] · [[L'Émergence de Lumina et d'Albaesclatia|L'Émergence de Lumina et d'Albaesclatia]] — Seconde vague de consciences ; Albaesclatia résout de créer les premiers Anges.
-- **≈ 1 millions d'années avant Sérénale 0** · [MAJEUR] · [[La Mort de la Première Lamia (ange)|La Mort de la Première Lamia (ange)]] — Le premier enfant d'Albaesclatia s'éteint sur une planète stérile du Plan des Mondes — la même qui deviendra plus tard la planète Lamia.
-- - **≈ 1 millions d'années avant Sérénale 0** · [MINEUR] · [[Récupération du corps de Lamia par Mageisys| Récupération du corps de Lamia par Mageisys]] — Mageisys profite du deuil de sa sœur pour récupérer le corps de Lamia a des fins scientifiques
-- **≈ 500 milles ans avant Sérénale 0** · [MAJEUR] · [[Les Pactes de Mageisys|Les Pactes de Mageisys]] — Fondation du Despophys, du Dibertium et de Filiama ; naissance de Xeros ; dette contractée par Albaesclatia envers Mageisys.
-- **≈ 500 milles ans avant Sérénale 0** · [MAJEUR] · [[La Fondation du Conseil des Archanges|La Fondation du Conseil des Archanges]] — Albaesclatia met au monde vingt enfants supplémentaires, formant avec Xeros le Conseil des Archanges.
-- **≈ 100 milles ans avant Sérénale 0** · [MAJEUR] · [[Le Retrait d'Ataraxus|Le Retrait d'Ataraxus]] — Repoussé par l'agitation du Despophys, Ataraxus se retire dans un plan-refuge où sa quête de calme se corrompt en colère.
-- **≈ 50 milles ans avant Sérénale 0** · [MAJEUR] · [[Les Dissensions au Conseil|Les Dissensions au Conseil]] — Des visions divergentes s'installent parmi les Archanges ; Albaesclatia leur ouvre la voie de projets individuels.
-- **≈ 5000 ans avant Sérénale 0** · [MAJEUR] · [[La Nouvelle Ambition|La Nouvelle Ambition]] — Albaesclatia conçoit le projet d'êtres mortels et incomplets ; Lumina et Mageisys s'associent pour peupler de nouvelles terres.
-- **≈ 1000 ans avant Sérénale 0** · [MAJEUR] · [[La Naissance de Naphusis|La Naissance de Naphusis]] — Face à l'échec de peupler les nouvelles planètes, Chronoversum engendre Naphusis.
-- **peu avant Sérénale 0** · [MAJEUR] · 🔒 · [[La Création de Lamia et l'Essence Cachée|La Création de Lamia et l'Essence Cachée]] — Albaesclatia crée la planète Lamia sur le site même de la mort de son premier enfant ; Mageisys y implante en secret l'essence de celui-ci ; le Cœur de Lamia et une barrière ténue s'y forment.
+- **≈ 2 milliards d'années avant Sérénale 0** · [MAJEUR] · [[L'Éveil du Néant]] — Du vide qui se languissait de lui-même naît Chronoversum, l'entité du Tout.
+- **≈ 1,5 milliards d'années avant Sérénale 0** · [MAJEUR] · [[La Première Émanation]] — Première vague de consciences ; Mageisys instaure les lois de l'univers et crée le Plan des Mondes.
+- **≈ 15 millions d'années avant Sérénale 0** · [MAJEUR] · [[La Seconde Émanation]] — Seconde vague de consciences ; Albaesclatia résout de créer les premiers Anges.
+- **≈ 1 millions d'années avant Sérénale 0** · [MAJEUR] · [[La Flamme Éteinte]] — Le premier enfant d'Albaesclatia s'éteint sur une planète stérile du Plan des Mondes — la même qui deviendra plus tard la planète Lamia.
+- **≈ 1 millions d'années avant Sérénale 0** · [MINEUR] · 🔒 · [[Le Larcin de Mageisys]] — Mageisys profite du deuil de sa sœur pour récupérer le corps de Lamia à des fins scientifiques.
+- **≈ 500 milles ans avant Sérénale 0** · [MAJEUR] · [[Les Accords du Despophys]] — Fondation du Despophys, du Dibertium et de Filiama ; naissance de Xeros ; dette contractée par Albaesclatia envers Mageisys.
+- **≈ 500 milles ans avant Sérénale 0** · [MAJEUR] · [[La Charte du Conseil]] — Albaesclatia met au monde vingt enfants supplémentaires, formant avec Xeros le Conseil des Archanges.
+- **≈ 100 milles ans avant Sérénale 0** · [MAJEUR] · [[La Retraite du Calme]] — Repoussé par l'agitation du Despophys, Ataraxus se retire dans un plan-refuge où sa quête de calme se corrompt en colère.
+- **≈ 50 milles ans avant Sérénale 0** · [MAJEUR] · [[Les Prémices de la Discorde]] — Des visions divergentes s'installent parmi les Archanges ; Albaesclatia leur ouvre la voie de projets individuels.
+- **≈ 5000 ans avant Sérénale 0** · [MAJEUR] · [[Le Dessein des Mortels]] — Albaesclatia conçoit le projet d'êtres mortels et incomplets ; Lumina et Mageisys s'associent pour peupler de nouvelles terres.
+- **≈ 1000 ans avant Sérénale 0** · [MAJEUR] · [[L'Enracinement Primordial]] — Face à l'échec de peupler les nouvelles planètes, Chronoversum engendre Naphusis.
+- **peu avant Sérénale 0** · [MAJEUR] · 🔒 · [[La Semence Cachée]] — Albaesclatia crée la planète Lamia sur le site même de la mort de son premier enfant ; Mageisys y implante en secret l'essence de celui-ci ; le Cœur de Lamia et une barrière ténue s'y forment.
 
 ---
 
 ## Ère Sérénale (0 → ≈ 2950)
 
-*Naissance et développement des peuples lamiens. La Grande Guerre divine éclate vers ≈ 1000 mais épargne longtemps Lamia.
+*Naissance et développement des peuples lamiens. La Grande Guerre divine éclate vers ≈ 1000 mais épargne longtemps Lamia — sans pour autant s'arrêter là : elle continue de faire rage sur d'innombrables autres mondes, dispersant durablement les forces du Conseil.*
 
 - **0** · [MAJEUR] — Apparition ou création des premiers peuples lamiens.
 - **≈ 100–500** · [MAJEUR] — Premières cités elfes et humaines, en lien direct avec les dieux. Lamia devient un berceau majeur de la vie mortelle intelligente.
-- **≈ 100–500** · [MAJEUR] · [[La Dette de Mageisys|La Dette de Mageisys]] — Mageisys réclame sa dette : un fragment de son essence est implanté dans chaque être vivant de Lamia, germe latent de la magie.
-- **≈ 500–950** · [MAJEUR] · [[L'Âge d'Or de Lamia|L'Âge d'Or de Lamia]] — Agriculture automatisée, lumières féeriques, illusions artistiques : l'apogée magique de Lamia, admirée dans tout le Plan des Mondes.
+- **≈ 100–500** · [MAJEUR] · [[Le Tribut de la Création]] — Mageisys réclame sa dette : un fragment de son essence est implanté dans chaque être vivant de Lamia, germe latent de la magie.
+- **≈ 500–950** · [MAJEUR] · [[L'Âge d'Or de Lamia]] — Agriculture automatisée, lumières féeriques, illusions artistiques : l'apogée magique de Lamia, admirée dans tout le Plan des Mondes.
 - **≈ 500–3000** · [MINEUR] — Humains et Elfes occupent progressivement la surface.
-- **≈ 900–1000** · [MAJEUR] · [[La Métamorphose d'Ataraxus et la Première Planète|La Métamorphose d'Ataraxus et la Première Planète]] — Consumé par la rage depuis son exil, Ataraxus implose et renaît en monstre de destruction ; il massacre au hasard une première planète entière.
-- **≈ 950–1000** · [MAJEUR] · 🔒 · [[L'Isolement de Lamia et la Trahison Révélée|L'Isolement de Lamia et la Trahison Révélée]] — Lamia durcit la barrière ténue de son cœur face à la menace d'Ataraxus, révélant à Albaesclatia la trahison de Mageisys — rupture jamais guérie entre eux.
+- **≈ 900–1000** · [MAJEUR] · [[L'Éveil du Fléau]] — Consumé par la rage depuis son exil, Ataraxus implose et renaît en monstre de destruction ; il massacre au hasard une première planète entière.
+- **≈ 950–1000** · [MAJEUR] · 🔒 · [[La Trahison Dévoilée]] — Lamia durcit la barrière ténue de son cœur face à la menace d'Ataraxus, révélant à Albaesclatia la trahison de Mageisys — rupture jamais guérie entre eux.
 - **≈ 1000** · [MAJEUR] — Début de la **Grande Guerre divine** dans le Chronoversum.
-- **≈ 1000–1100** · [MAJEUR] · [[Le Génocide Universel|Le Génocide Universel]] — Ataraxus libère ses démons simultanément sur des milliers de planètes ; effondrement d'Albaesclatia, doublement frappée par le deuil et la trahison ; Xeros prend le commandement des anges.
-- **≈ 1500** · [MINEUR] · [[La Destruction du Monde des Vendards|La Destruction du Monde des Vendards]] — Les démons détruisent le monde des Vendards ; beaucoup errent sous forme désincarnée ; l'archange Vindiereis, leur créateur, survit. Événement mineur, sans effet direct sur Lamia.
-- **≈ 1700–2000** · [MAJEUR] · [[Naïnrak et la Naissance des Nains|Naïnrak et la Naissance des Nains]] — Frappé par la révélation du Cœur, Naïnrak crée les Nains pour le protéger.
-- **≈ 2500** · [MAJEUR] · [[Le Dernier Bastion|Le Dernier Bastion]] — Lamia devient le dernier bastion de la vie ; les quatre derniers dragons de Koboldia y trouvent refuge, renforcés et postés par Mageisys.
-- **≈ 2500–2600** · [MAJEUR] · [[La Lune Atar|La Lune Atar]] — Frustré de ne pouvoir franchir la barrière, Ataraxus projette un astre contre Lamia : il échoue à la percuter et devient Atar, sa lune.
-- **≈ 2500–2600** · [MAJEUR] · [[La Naissance des Gnomes|La Naissance des Gnomes]] — Le chagrin de Naphusis, dont presque tous les arbres-mondes ont été détruits, fait naître les Gnomes, chargés d'alerter les Lamiens du danger.
-- **≈ 2550–2650** · [MAJEUR] · [[L'Éveil des Lamiens|L'Éveil des Lamiens]] — Le message des Gnomes brise l'innocence de Lamia ; naissance de la magie offensive.
-- **≈ 2600–2700** · [MAJEUR] · [[Le Conseil des Trois|Le Conseil des Trois]] — Lumina tire Albaesclatia de son effondrement ; réunion froide et sans pardon avec Mageisys face à la menace d'Ataraxus.
-- **≈ 2700–2750** · [MAJEUR] · [[L'Aequadeus et les Fissures du Conseil|L'Aequadeus et les Fissures du Conseil]] — Échec de la trêve avec Ataraxus à l'Aequadeus ; le Conseil des Archanges se fissure durablement en visions divergentes.
-- **≈ 2750** · [MAJEUR] · [[La Fracture du Cœur de Lamia - à revoir|La Fracture du Cœur de Lamia]] — Maurtria corrompt un gardien nain du cœur par les rêves ; le cœur est fracturé en trois, une brèche s'ouvre dans la barrière.
-- **≈ 2750 → Exodiale ≈280** · [MAJEUR] · [[La Première Guerre Souterraine|La Première Guerre Souterraine]] — Les démons envahissent les profondeurs par la brèche ; chute de la civilisation naine, exil des survivants vers les montagnes du nord.
+- **≈ 1000–1100** · [MAJEUR] · [[Le Grand Déferlement]] — Ataraxus, comprenant qu'exterminer seul ne suffit pas, se forge une armée de démons et la lance simultanément sur des milliers de planètes ; effondrement d'Albaesclatia, doublement frappée par le deuil et la trahison ; Xeros prend le commandement des anges.
+- **≈ 1500** · [MINEUR] · [[La Perte du Monde des Vendards]] — Les démons détruisent le monde des Vendards ; beaucoup errent sous forme désincarnée ; l'archange Vindiereis, leur créateur, survit. Événement mineur, sans effet direct sur Lamia.
+- **≈ 1700–2000** · [MAJEUR] · [[La Garde du Cœur]] — Frappé par la révélation du Cœur, Naïnrak crée les Nains pour le protéger.
+- **≈ 2500** · [MAJEUR] · [[L'Asile des Dragons]] — Lamia devient l'un des grands foyers de vie encore debout et la cible prioritaire d'Ataraxus ; les quatre derniers dragons de Koboldia y trouvent refuge, renforcés et postés par Mageisys.
+- **≈ 2500–2600** · [MAJEUR] · [[La Lune Manquée]] — Frustré de ne pouvoir franchir la barrière, Ataraxus projette un astre contre Lamia : il échoue à la percuter et devient Atar, sa lune.
+- **≈ 2500–2600** · [MAJEUR] · [[Le Don du Chagrin]] — Le chagrin de Naphusis, dont presque tous les arbres-mondes ont été détruits, fait naître les Gnomes, chargés d'alerter les Lamiens du danger.
+- **≈ 2550–2650** · [MAJEUR] · [[La Fin de l'Innocence]] — Le message des Gnomes brise l'innocence de Lamia ; naissance de la magie offensive.
+- **≈ 2600–2700** · [MAJEUR] · [[L'Alliance Froide]] — Lumina tire Albaesclatia de son effondrement ; réunion froide et sans pardon avec Mageisys face à la menace d'Ataraxus.
+- **≈ 2700–2750** · [MAJEUR] · [[Le Concile Rompu]] — Échec de la trêve avec Ataraxus à l'Aequadeus ; le Conseil des Archanges se fissure durablement en visions divergentes.
+- **≈ 2750** · [MAJEUR] · [[La Trahison des Gardiens]] — Maurtria corrompt un gardien nain du cœur par les rêves ; le cœur est fracturé en trois, une brèche s'ouvre dans la barrière.
+- **≈ 2750 → Exodiale ≈280** · [MAJEUR] · [[La Guerre des Profondeurs]] — Les démons envahissent les profondeurs par la brèche ; chute de la civilisation naine, exil des survivants vers les montagnes du nord.
 
 ---
 
@@ -69,8 +69,8 @@ aliases: [Chronologie, Timeline]
 
 *L'invasion de Lamia et les grands exodes. L'ère commence quand les démons atteignent Lamia, ≈ 1950 ans après le début de la guerre.*
 
-- **0** · [MAJEUR] · [[L'Invasion|L'Invasion]] — La barrière affaiblie par la fracture du cœur laisse enfin passer les démons ; en quelques années, plus de 90 % de la population de Lamia est éradiquée. L'âge d'or meurt, l'Ère Exodiale commence.
-- **≈ 0–30** · [MAJEUR] · 🔒 — Dispersion des trois fragments du cœur fracturé : le **Corps** enfermé dans une pierre noire, l'**Âme** assimilée par un Protecteur, la **Conscience** cachée dans **Oneira**, le plan des rêves.
+- **0** · [MAJEUR] · [[La Chute de l'Âge d'Or]] — La barrière affaiblie par la fracture du cœur laisse enfin passer les démons ; en quelques années, plus de 90 % de la population de Lamia est éradiquée. L'âge d'or meurt, l'Ère Exodiale commence.
+- **≈ 0–30** · [MAJEUR] · 🔒 · [[Le Dernier Serment des Gardiens]] — Dispersion des trois fragments du cœur fracturé : le **Corps** enfermé dans une pierre noire, l'**Âme** assimilée par un Protecteur, la **Conscience** cachée dans **Oneira**, le plan des rêves.
 - **≈ 0–300** · [MAJEUR] — Les démons ravagent profondeurs et surface ; royaumes nains détruits ; la majorité des institutions et savoirs sérénaux disparaissent.
 - **≈ 50–280** · [MINEUR] — Les Nains survivants abandonnent les profondeurs et migrent vers les montagnes du nord ; la surface ignore longtemps cette guerre souterraine.
 - **≈ 170–220** · [MAJEUR] — [[Albaesclatia]], [[Mageisys]] et le Conseil créent [[Alfaryus]] et [[Humarios]], guides incarnés des derniers survivants.

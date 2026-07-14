@@ -13,9 +13,9 @@ tags:
 date: 2026-07-12
 portee:
 aliases:
-  - L'auto-naissance de Chronoversum
+  - La Genèse du Tout
 ---
-# La Naissance de Chronoversum
+# L'Éveil du Néant
 
 **En une phrase :** Du vide qui se languissait de lui-même naquit Chronoversum, l'entité du Tout, marquant le commencement des temps.
 
@@ -33,7 +33,7 @@ De cette intention naquit le tout : ce fut l'auto naissance de **[[Chronoversum]
 
 ## Conséquences
 
-Le commencement des temps est amorcé. Peu après, la première ère de changement se déclenche et Chronoversum, tiraillé intérieurement, engendrera ses deux premières consciences (voir [[L'Émergence d'Ataraxus et de Mageisys]]).
+Le commencement des temps est amorcé. Peu après, la première ère de changement se déclenche et Chronoversum, tiraillé intérieurement, engendrera ses deux premières consciences (voir [[La Première Émanation]]).
 
 ## Qui en garde mémoire
 

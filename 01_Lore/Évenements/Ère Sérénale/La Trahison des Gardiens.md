@@ -10,19 +10,19 @@ annee_fin:
 tags: [coeur-de-lamia, maurtria, nains, secret]
 date: 2026-07-12
 portee:
-aliases: ["Corruption des gardiens du cœur"]
+aliases: ["La Fracture du Cœur"]
 ---
-# La Fracture du Cœur de Lamia
+# La Trahison des Gardiens
 
 **En une phrase :** Maurtria corrompt par les rêves l'un des trois gardiens nains du Cœur de Lamia, qui le fracture en trois morceaux avant d'être capturé de justesse par ses frères alors qu'il tentait de fuir vers la surface — ouvrant, par cette tentative même, la brèche par laquelle les démons s'insinueront bientôt.
 
 ## Résumé
 
-Frappé par la révélation que Lamia porte en son cœur l'essence de la première Lamia, Naïnrak crée les Nains pour le protéger. Trois gardiens en ont la charge directe. Un jour, Maurtria, en quête de violence après la lassitude de la guerre universelle, s'insinue dans leurs rêves. L'un d'eux fracture le cœur, et tente de fuir avec un fragment — ouvrant par ce geste même une brèche permettant au démons de pénétré Lamia depuis les autres plans — avant d'être rattrapé et emmuré par les deux autres.
+Frappé par la révélation que Lamia porte en son cœur l'essence de la première Lamia, Naïnrak crée les Nains pour le protéger. Trois gardiens en ont la charge directe. Un jour, Maurtria, en quête de violence après la lassitude de la guerre universelle, s'insinue dans leurs rêves. L'un d'eux fracture le cœur, et tente de fuir avec un fragment — ouvrant par ce geste même une brèche permettant aux démons de pénétrer Lamia depuis les autres plans — avant d'être rattrapé et emmuré par les deux autres.
 
 ## Causes
 
-Après [[Naïnrak et la Naissance des Nains]], les trois gardiens nains veillent depuis plusieurs siècles sur le Cœur de Lamia. Les siècles de batailles universelles ont changé certains Archanges plus profondément que d'autres. **[[Maurtria]]**, fille d'Albaesclatia, a découvert lors des combats contre les [[Démons]] un goût qu'elle ne se soupçonnait pas : celui du sang versé et de la violence pour elle-même. Lorsque la guerre universelle se réduit aux derniers feux mourants des dernières planètes, elle se retrouve privée de l'objet de son désir et tourne son regard vers Lamia.
+Après [[La Garde du Cœur]], les trois gardiens nains veillent depuis plusieurs siècles sur le Cœur de Lamia. Les siècles de batailles universelles ont changé certains Archanges plus profondément que d'autres. **[[Maurtria]]**, fille d'Albaesclatia, a découvert lors des combats contre les [[Démons]] un goût qu'elle ne se soupçonnait pas : celui du sang versé et de la violence pour elle-même. Lorsque la guerre universelle se réduit aux derniers feux mourants des dernières planètes, elle se retrouve privée de l'objet de son désir et tourne son regard vers Lamia.
 
 ## Déroulement
 
@@ -36,7 +36,7 @@ Mais le mal est fait : en tentant de remonter avec son fragment, le gardien corr
 
 ## Conséquences
 
-Fracture définitive du Cœur de Lamia en trois fragments. Ouverture d'une brèche vers la surface (préfigurant l'invasion). Début de la première guerre souterraine et de la chute de la civilisation naine (voir [[2026-07-12 — Proposition — Événement La Dispersion des Fragments du Cœur]]). Le lieu de la prison de pierre deviendra, sans que quiconque le sache encore, le socle sur lequel [[Alfaryus]] fondera [[Cyroldan]] (voir sa fiche déjà migrée).
+Fracture définitive du Cœur de Lamia en trois fragments. Ouverture d'une brèche vers la surface (préfigurant l'invasion). Début de la première guerre souterraine et de la chute de la civilisation naine (voir [[La Guerre des Profondeurs]]). Le lieu de la prison de pierre deviendra, sans que quiconque le sache encore, le socle sur lequel [[Alfaryus]] fondera [[Cyroldan]] (voir sa fiche déjà migrée).
 
 ## Qui en garde mémoire
 
@@ -44,7 +44,7 @@ Le fait brut (« le cœur de Lamia fut fracturé ») semble avoir traversé jusq
 
 ## Relations
 
-- [[Naïnrak et la Naissance des Nains]] — événement antérieur directement lié.
+- [[La Garde du Cœur]] — événement antérieur directement lié.
 - [[Maurtria]] — corrompt le gardien par les rêves.
 - [[Nains]] — peuple créé pour cette protection, dont la civilisation souterraine commence ici sa chute.
 - [[Alfaryus]] — fondera sans le savoir Cyroldan directement au-dessus de cette prison.

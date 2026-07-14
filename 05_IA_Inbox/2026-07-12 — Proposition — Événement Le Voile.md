@@ -28,7 +28,7 @@ Le cœur rescellé, les rares survivants qui en connaissent la nature véritable
 
 ## Causes
 
-Après le rescellement du cœur (événement non encore migré dans ce lot — voir « Le scellement du cœur », Niveau 3), les survivants veulent comprendre ce qui a été sauvé, ce qui a été perdu, et ce qui demeure encore sous leurs pieds. Mais ceux qui connaissent la nature véritable du cœur comprennent qu'une telle connaissance ne peut plus appartenir au monde : la première fracture avait suffi à ouvrir des failles dans la barrière de la planète (voir [[La Fracture du Cœur de Lamia [à revoi]]]) ; une seconde tentative, menée par des mains plus savantes ou plus corrompues, aurait pu achever ce que Maurtria avait commencé.
+Après le rescellement du cœur (événement non encore migré dans ce lot — voir « Le scellement du cœur », Niveau 3), les survivants veulent comprendre ce qui a été sauvé, ce qui a été perdu, et ce qui demeure encore sous leurs pieds. Mais ceux qui connaissent la nature véritable du cœur comprennent qu'une telle connaissance ne peut plus appartenir au monde : la première fracture avait suffi à ouvrir des failles dans la barrière de la planète (voir [[La Trahison des Gardiens]]) ; une seconde tentative, menée par des mains plus savantes ou plus corrompues, aurait pu achever ce que Maurtria avait commencé.
 
 ## Déroulement
 

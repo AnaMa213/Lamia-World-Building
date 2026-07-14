@@ -13,10 +13,9 @@ tags:
 date: 2026-07-12
 portee:
 aliases:
-  - L'exil d'Ataraxus
+  - L'Exil Volontaire
 ---
-# Le Retrait d'Ataraxus
-
+# La Retraite du Calme
 
 **En une phrase :** Excédé par l'agitation grandissante du Despophys, Ataraxus exige le retour au calme originel ; refusé par Albaesclatia, il se retire dans un plan-refuge bâti par Mageisys, où sa quête de paix intérieure se corrompt peu à peu en colère et en haine.
 
@@ -36,7 +35,7 @@ Là, baigné par la lumière chaleureuse de [[Lumina]], cherchant une paix inté
 
 ## Conséquences
 
-Ce retrait est le point de départ d'une dérive intérieure qui, bien plus tard, culminera dans sa métamorphose complète en dieu de la destruction (voir [[2026-07-12 — Proposition — Événement La Dérive d'Ataraxus et la Lune Atar]], à retravailler pour ne couvrir que cette phase ultérieure).
+Ce retrait est le point de départ d'une dérive intérieure qui, bien plus tard, culminera dans sa métamorphose complète en dieu de la destruction (voir [[L'Éveil du Fléau]]).
 
 ## Qui en garde mémoire
 
@@ -47,10 +46,8 @@ Fait connu du Conseil des Archanges de l'époque ; rien n'indique de secret part
 - [[Mageisys]] — bâtit le plan-refuge.
 - [[Albaesclatia]] — refuse la demande de retour au calme.
 - [[Lumina]] — sa lumière baigne le plan-refuge sans apaiser Ataraxus.
-- [[2026-07-12 — Proposition — Événement La Dérive d'Ataraxus et la Lune Atar]] — suite directe, bien plus tardive.
+- [[L'Éveil du Fléau]] — suite directe, bien plus tardive.
 
 ## Contradictions potentielles
 
 **Aucune contradiction relevée.** Cohérent avec l'entrée déjà existante dans [[Timeline Master]] (« ≈ 500 milles ans avant Sérénale 0 »).
-
-Rappel : la fiche « Dérive d'Ataraxus » doit être révisée pour retirer son propre paragraphe « Causes » sur le retrait (désormais couvert ici) et ne conserver que la métamorphose, la première planète et Atar.

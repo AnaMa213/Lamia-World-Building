@@ -15,14 +15,13 @@ tags:
 date: 2026-07-12
 portee:
 aliases:
-  - L'intensification de la barrière de Lamia
-  - La trahison de Mageisys
+  - Le Grand Isolement
 ---
-# L'Isolement de Lamia et la Trahison Révélée
+# La Trahison Dévoilée
 
 > 🔒 **SECRET — ne jamais laisser fuiter vers un contenu lecteur/joueur avant arbitrage.** 
 
-**En une phrase :** Sentant la menace d'Ataraxus s'amonceler, Lamia durcit soudain la barrière ténue qui sommeillait en elle depuis l'origine de son cœur — révélant du même geste à Albaesclatia que Mageisys avait secrètement implanté l'essence de sa fille défunte dans la planète, sans qu'elle ait jamais eu le temps d'en demander des comptes avant que le génocide universel ne déferle.
+**En une phrase :** Sentant la menace d'Ataraxus s'amonceler, Lamia durcit soudain la barrière ténue qui sommeillait en elle depuis l'origine de son cœur — révélant du même geste à Albaesclatia que Mageisys avait secrètement implanté l'essence de sa fille défunte dans la planète, sans qu'elle ait jamais eu le temps d'en demander des comptes avant que le grand déferlement ne s'abatte.
 
 ## Résumé
 
@@ -30,7 +29,7 @@ Par instinct de survie, Lamia intensifie brutalement la barrière ténue qui dor
 
 ## Causes
 
-Lamia est vivante, et son cœur — niché en son centre, porteur depuis l'origine d'une barrière ténue et sans réelle intensité faute de danger (voir [[La Création de Lamia et l'Essence Cachée]]) — sent la menace qui s'amoncelle à mesure qu'[[Ataraxus]] prépare sa vengeance après le massacre de sa première planète.
+Lamia est vivante, et son cœur — niché en son centre, porteur depuis l'origine d'une barrière ténue et sans réelle intensité faute de danger (voir [[La Semence Cachée]]) — sent la menace qui s'amoncelle à mesure qu'[[Ataraxus]] prépare sa vengeance après le massacre de sa première planète.
 
 ## Déroulement
 
@@ -38,13 +37,13 @@ Par peur, par envie de protéger la faune et la flore qu'elle abrite, **Lamia du
 
 [[Mageisys]] n'a pas à se présenter pour qu'on devine son rôle : ce durcissement soudain ne ressemble à rien de connu, aucune planète n'ayant jamais réagi ainsi de son propre chef. [[Albaesclatia]], cherchant à comprendre, finit par lever un voile que son frère avait soigneusement maintenu : Lamia, la planète, **porte en son cœur l'essence de la défunte Lamia**, son premier enfant. Mageisys l'avait implantée à son insu, des éons plus tôt.
 
-> 🔒 La révélation glace le Conseil des Archanges. Albaesclatia, déjà fragilisée par la menace d'Ataraxus, comprend que son frère l'a trahie depuis le commencement — et qu'elle avait elle-même, sans le savoir, interprété la présence de cette essence comme un doux écho du souvenir de sa fille (voir [[La Création de Lamia et l'Essence Cachée]]). Elle n'a pas le temps d'exiger des comptes : la vague d'Ataraxus déferle déjà.
+> 🔒 La révélation glace le Conseil des Archanges. Albaesclatia, déjà fragilisée par la menace d'Ataraxus, comprend que son frère l'a trahie depuis le commencement — et qu'elle avait elle-même, sans le savoir, interprété la présence de cette essence comme un doux écho du souvenir de sa fille (voir [[La Semence Cachée]]). Elle n'a pas le temps d'exiger des comptes : la vague d'Ataraxus déferle déjà.
 
 L'intensification de la barrière a aussi des conséquences que ni la planète ni Mageisys n'avaient anticipées. Si les autres planètes vivaient dans une présence divine discrète mais réelle, sur Lamia ce lien est désormais rompu. Pour la première fois dans l'histoire des Lamiens, des **tensions apparaissent** : entre villages d'abord, puis entre Elfes et Humains. La paix originelle se fissure.
 
 ## Conséquences
 
-Durcissement définitif de la barrière de Lamia — celle-ci restera active jusqu'à la fracture du cœur (voir [[La Fracture du Cœur de Lamia [à revoi]]]). Fracture définitive et non résolue entre Albaesclatia et Mageisys — jamais un mot de pardon n'est échangé lors du [[Le Conseil des Trois|Conseil des Trois]] qui suivra ; il faudra attendre bien plus tard, lors de la création des Jumeaux divins (ère Exodiale, événement non encore rédigé), pour qu'une véritable explication ait lieu entre eux. Premières tensions sociales chez les Lamiens.
+Durcissement définitif de la barrière de Lamia — celle-ci restera active jusqu'à la fracture du cœur (voir [[La Trahison des Gardiens]]). Fracture définitive et non résolue entre Albaesclatia et Mageisys — jamais un mot de pardon n'est échangé lors du [[L'Alliance Froide|Conseil des Trois]] qui suivra ; il faudra attendre bien plus tard, lors de la création des Jumeaux divins (ère Exodiale, événement non encore rédigé), pour qu'une véritable explication ait lieu entre eux. Premières tensions sociales chez les Lamiens.
 
 Cette rupture marque aussi, en germe, le début de l'éloignement idéologique du Conseil des Archanges : voir pour la première fois qu'un dieu primordial pouvait mentir, manipuler et trahir jette une ombre durable sur la confiance mutuelle du Conseil — un éloignement qui s'aggravera avec chaque épreuve ultérieure (corruption de Maurtria, effondrement d'Albaesclatia) jusqu'à la rupture définitive du Conseil à la fin de la guerre (ère du Voile, événement non encore rédigé).
 
@@ -58,7 +57,7 @@ Cette rupture marque aussi, en germe, le début de l'éloignement idéologique d
 - [[Mageisys]] — auteur de l'implantation secrète, démasqué ici.
 - [[Ataraxus]] — sa menace grandissante est le déclencheur immédiat du durcissement de la barrière.
 - [[Conseil des Archanges]] — témoin collectif de la révélation.
-- [[La Création de Lamia et l'Essence Cachée]] — événement antérieur directement lié : origine ténue de cette même barrière.
+- [[La Semence Cachée]] — événement antérieur directement lié : origine ténue de cette même barrière.
 
 ## Contradictions potentielles
 

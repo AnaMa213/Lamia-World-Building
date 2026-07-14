@@ -14,9 +14,9 @@ tags:
 date: 2026-07-12
 portee:
 aliases:
-  - La chute de la civilisation naine
+  - La Chute des Cités Naines
 ---
-# La Première Guerre Souterraine
+# La Guerre des Profondeurs
 
 **En une phrase :** La fracture du Cœur ouvre une brèche par laquelle les démons s'infiltrent dans les profondeurs de Lamia ; les Nains résistent des générations durant avant de perdre leurs cités et de fuir vers la surface et les montagnes du nord, laissant derrière eux une civilisation entière engloutie dans le silence.
 
@@ -26,7 +26,7 @@ La fracture du cœur ouvre un point de passage par lequel les démons d'Ataraxus
 
 ## Causes
 
-[[La Fracture du Cœur de Lamia - à revoir|Le gardien corrompu]], en tentant de remonter vers la surface avec l'un des fragments, a ouvert un **point de passage** dans les entrailles du monde — une faiblesse, une porte étroite mais suffisante pour qu'Ataraxus y pousse une part de ses démons.
+[[La Trahison des Gardiens|Le gardien corrompu]], en tentant de remonter vers la surface avec l'un des fragments, a ouvert un **point de passage** dans les entrailles du monde — une faiblesse, une porte étroite mais suffisante pour qu'Ataraxus y pousse une part de ses démons.
 
 ## Déroulement
 
@@ -40,7 +40,7 @@ Les mortels de la surface ne sauront jamais rien de cette première guerre. Lors
 
 ## Conséquences
 
-Chute de la civilisation souterraine naine. Migration des survivants vers les montagnes du nord (voir [[Timeline Master]], Exodiale « ≈50-280 »). Les deux gardiens restants, épuisés, choisissent de disperser les deux fragments qu'ils portent encore (voir [[La Dispersion des Fragments du Cœur]]).
+Chute de la civilisation souterraine naine. Migration des survivants vers les montagnes du nord (voir [[Timeline Master]], Exodiale « ≈50-280 »). Les deux gardiens restants, épuisés, choisissent de disperser les deux fragments qu'ils portent encore (voir [[Le Dernier Serment des Gardiens]]).
 
 ## Qui en garde mémoire
 
@@ -48,10 +48,10 @@ Totalement inconnue des peuples de la surface à l'époque des faits — « les 
 
 ## Relations
 
-- [[La Fracture du Cœur de Lamia [à revoi]]] — cause directe.
+- [[La Trahison des Gardiens]] — cause directe.
 - [[Nains]] — peuple qui subit cette guerre et s'exile.
-- [[La Dispersion des Fragments du Cœur]] — conséquence directe, sur ce que deviennent les deux fragments restants.
-- [[L'Invasion]] — se déroule en parallèle à la surface, sans lien de connaissance directe pour les mortels.
+- [[Le Dernier Serment des Gardiens]] — conséquence directe, sur ce que deviennent les deux fragments restants.
+- [[La Chute de l'Âge d'Or]] — se déroule en parallèle à la surface, sans lien de connaissance directe pour les mortels.
 
 ## Contradictions potentielles
 

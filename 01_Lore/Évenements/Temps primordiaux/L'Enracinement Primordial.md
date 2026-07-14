@@ -14,9 +14,9 @@ tags:
 date: 2026-07-12
 portee:
 aliases:
-  - Origine de l'Arbre-Monde
+  - Le Premier Bourgeon
 ---
-# La Naissance de Naphusis
+# L'Enracinement Primordial
 
 **En une phrase :** Face à l'échec de Lumina et Mageisys à faire naître la vie sur les nouvelles planètes du Plan des Mondes, Chronoversum, gêné par le désarroi des trois dieux créateurs, engendre Naphusis pour y remédier.
 
@@ -34,7 +34,7 @@ Pour s'en défaire, Chronoversum engendre **[[Naphusis]]**. L'Arbre-Monde s'impl
 
 ## Conséquences
 
-Les mondes vivants peuvent enfin se développer. Cette avancée rend possible, peu après, la création de [[Lamia]] elle-même et de ses premiers peuples intelligents (voir [[La Création de Lamia et l'Essence Cachée]]).
+Les mondes vivants peuvent enfin se développer. Cette avancée rend possible, peu après, la création de [[Lamia]] elle-même et de ses premiers peuples intelligents (voir [[La Semence Cachée]]).
 
 ## Qui en garde mémoire
 
@@ -51,6 +51,6 @@ Les mondes vivants peuvent enfin se développer. Cette avancée rend possible, p
 
 ⚠️ **Contradiction avec la fiche déjà migrée [[2026-07-12 — Proposition — Migration Naphusis]].** Sa fiche affirme qu'elle naît « de la convergence d'un projet » des trois dieux créateurs, sans mentionner Chronoversum comme géniteur. Ce document-ci est au contraire explicite et détaillé : « Chronoversum... l'engendra ».
 
-**Piste de conciliation proposée (non tranchée) :** les deux récits pourraient être complémentaires plutôt qu'exclusifs — la « convergence du projet » des trois dieux serait la *cause*/le déclencheur, et l'engendrement par Chronoversum le *mécanisme* réel de sa naissance. Cette lecture n'est pas explicitement confirmée par les sources et reste une proposition de l'IA à valider.
+✅ **Piste de conciliation confirmée en conversation** : les deux récits sont complémentaires plutôt qu'exclusifs — la « convergence du projet » des trois dieux est la *cause*/le déclencheur, et l'engendrement par Chronoversum le *mécanisme* réel de sa naissance.
 
-**Aucune contradiction relevée.** Cohérent avec l'entrée déjà existante dans [[Timeline Master]] (« ≈ 1000 ans avant Sérénale 0 »)..
+**Aucune contradiction relevée.** Cohérent avec l'entrée déjà existante dans [[Timeline Master]] (« ≈ 1000 ans avant Sérénale 0 »).

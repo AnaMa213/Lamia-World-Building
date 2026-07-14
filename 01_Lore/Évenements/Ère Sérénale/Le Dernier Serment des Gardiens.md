@@ -10,9 +10,9 @@ annee_fin: 30
 tags: [coeur-de-lamia, oneira, secret]
 date: 2026-07-12
 portee:
-aliases: ["Le Corps, l'Âme et la Conscience"]
+aliases: ["La Disparition des Gardiens"]
 ---
-# La Dispersion des Fragments du Cœur
+# Le Dernier Serment des Gardiens
 
 > [!note] Brouillon de migration — 2026-07-12
 > Extrait et reformaté depuis `99_Archive/Evenements/Genèse de l'univers de Lamia.md` (brouillon, non validé), fin de la section « La première guerre souterraine ». Prose reprise telle quelle. **Contradictions potentielles** ajoutées par l'IA.
@@ -27,7 +27,7 @@ aliases: ["Le Corps, l'Âme et la Conscience"]
 
 ## Causes
 
-Après [[La Première Guerre Souterraine]], qui ravage la civilisation naine (cités effondrées, clans décimés, lignées de gardiens brisées), les survivants choisissent l'exil vers les montagnes du nord plutôt que l'anéantissement. Les deux gardiens restants, épuisés par la fuite et la perte de leur peuple, comprennent qu'ils ne pourront plus protéger les fragments par la seule force de leurs bras : les profondeurs sont tombées, les routes anciennes sont perdues, et les démons d'Ataraxus connaissent désormais l'odeur du cœur de Lamia.
+Après [[La Guerre des Profondeurs]], qui ravage la civilisation naine (cités effondrées, clans décimés, lignées de gardiens brisées), les survivants choisissent l'exil vers les montagnes du nord plutôt que l'anéantissement. Les deux gardiens restants, épuisés par la fuite et la perte de leur peuple, comprennent qu'ils ne pourront plus protéger les fragments par la seule force de leurs bras : les profondeurs sont tombées, les routes anciennes sont perdues, et les démons d'Ataraxus connaissent désormais l'odeur du cœur de Lamia.
 
 ## Déroulement
 
@@ -49,7 +49,7 @@ Les trois fragments du Cœur de Lamia se retrouvent définitivement dispersés s
 
 - [[Oneira]] — reçoit et cache la Conscience dans le Plan des Rêves ; confirme le contenu de sa fiche déjà migrée.
 - [[Nains]] — les deux gardiens survivants portent chacun un fragment.
-- [[La Fracture du Cœur de Lamia [à revoi]]] — événement immédiatement antérieur.
+- [[La Trahison des Gardiens]] — événement immédiatement antérieur.
 - [[Timeline Master]] — secret 🔒 déjà présent (Exodiale ≈0–30), directement confirmé et détaillé ici.
 
 ## Contradictions potentielles

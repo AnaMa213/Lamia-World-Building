@@ -14,9 +14,9 @@ tags:
 date: 2026-07-12
 portee:
 aliases:
-  - Origine du Cœur de Lamia
+  - La Naissance de Lamia
 ---
-# La Création de Lamia et l'Essence Cachée
+# La Semence Cachée
 
 > 🔒 **SECRET — ne jamais laisser fuiter vers un contenu lecteur/joueur avant arbitrage.**
 
@@ -28,11 +28,11 @@ Grâce à la naissance de Naphusis, la vie mortelle devient enfin possible. Alba
 
 ## Causes
 
-Grâce à l'apparition de [[La Naissance de Naphusis|Naphusis]] sur de nombreuses planètes, les mondes vivants ont enfin pu se développer. Albaesclatia peut alors mettre au monde les premiers êtres intelligents. Pour cela, elle choisit une planète qui n'est pas anonyme : c'est celle-là même où, des éons plus tôt, elle avait tenté en vain de faire vivre son premier enfant, l'ange **[[2026-07-12 — Proposition — Migration Lamia (ange)|Lamia]]** (voir [[La Mort de la Première Lamia (ange)]]). C'est en souvenir de cette perte, et parce que c'est le lieu même où sa fille a un instant existé, qu'elle choisit d'y faire naître la vie mortelle et de nommer cette planète **[[Lamia]]**.
+Grâce à l'apparition de [[L'Enracinement Primordial|Naphusis]] sur de nombreuses planètes, les mondes vivants ont enfin pu se développer. Albaesclatia peut alors mettre au monde les premiers êtres intelligents. Pour cela, elle choisit une planète qui n'est pas anonyme : c'est celle-là même où, des éons plus tôt, elle avait tenté en vain de faire vivre son premier enfant, l'ange **[[2026-07-12 — Proposition — Migration Lamia (ange)|Lamia]]** (voir [[La Flamme Éteinte]]). C'est en souvenir de cette perte, et parce que c'est le lieu même où sa fille a un instant existé, qu'elle choisit d'y faire naître la vie mortelle et de nommer cette planète **[[Lamia]]**.
 
 ## Déroulement
 
-> 🔒 Avant même que la planète ne soit formellement choisie par Albaesclatia pour ce nouveau projet, et avant que Naphusis ne s'y implante, **Mageisys y avait déjà, en secret, insufflé l'essence de l'ange Lamia défunte** — conservée depuis sa mort dans son plan d'expérimentation (voir [[Les Pactes de Mageisys [à revoir]]]). Albaesclatia l'ignore totalement.
+> 🔒 Avant même que la planète ne soit formellement choisie par Albaesclatia pour ce nouveau projet, et avant que Naphusis ne s'y implante, **Mageisys y avait déjà, en secret, insufflé l'essence de l'ange Lamia défunte** — conservée depuis sa mort dans son plan d'expérimentation (voir [[Les Accords du Despophys]]). Albaesclatia l'ignore totalement.
 
 Naphusis s'implante ensuite sur la planète sous la forme de l'Arbre-Monde. Pendant les préparatifs entre Naphusis et Albaesclatia — le choix d'une faune et d'une flore qui serviront d'aide physique et spirituelle aux futurs habitants — **le Cœur de Lamia se forme**, résultat de la rencontre entre l'essence cachée de l'ange défunte et l'implantation de Naphusis.
 
@@ -50,11 +50,11 @@ Ce sont les premiers mortels que le Plan des Mondes peut accueillir.
 
 ## Conséquences
 
-Lamia porte désormais, sans que quiconque le sache encore pleinement, une essence divine double en son sein : celle de l'ange Lamia et celle, mêlée, de l'implantation de Mageisys — ce qui deviendra le **[[Cœur de Lamia]]**. Une barrière ténue existe dès ce moment, appelée à s'intensifier bien plus tard face à la menace grandissante d'Ataraxus (voir [[L'Isolement de Lamia et la Trahison Révélée]]). Humains et Elfes commencent leur histoire sur Lamia dans une paix totale, sans conflit ni carnivorisme.
+Lamia porte désormais, sans que quiconque le sache encore pleinement, une essence divine double en son sein : celle de l'ange Lamia et celle, mêlée, de l'implantation de Mageisys — ce qui deviendra le **[[Cœur de Lamia]]**. Une barrière ténue existe dès ce moment, appelée à s'intensifier bien plus tard face à la menace grandissante d'Ataraxus (voir [[La Trahison Dévoilée]]). Humains et Elfes commencent leur histoire sur Lamia dans une paix totale, sans conflit ni carnivorisme.
 
 ## Qui en garde mémoire
 
-🔒 Seul Mageisys connaît la vérité complète sur l'implantation. Albaesclatia perçoit une anomalie mais l'interprète à tort comme un simple écho affectif ; elle ne découvrira la vérité que bien plus tard (voir [[L'Isolement de Lamia et la Trahison Révélée]]). Naphusis perçoit également que « quelque chose cloche », sans que le texte précise si elle en tire une conclusion plus juste qu'Albaesclatia — zone à préciser si tu le souhaites.
+🔒 Seul Mageisys connaît la vérité complète sur l'implantation. Albaesclatia perçoit une anomalie mais l'interprète à tort comme un simple écho affectif ; elle ne découvrira la vérité que bien plus tard (voir [[La Trahison Dévoilée]]). Naphusis perçoit également que « quelque chose cloche », sans que le texte précise si elle en tire une conclusion plus juste qu'Albaesclatia — zone à préciser si tu le souhaites.
 
 ## Relations
 
@@ -62,12 +62,12 @@ Lamia porte désormais, sans que quiconque le sache encore pleinement, une essen
 - [[Mageisys]] — auteur du geste secret, seul à connaître la vérité complète à ce stade.
 - [[Naphusis]] — s'implante sur la planète, perçoit elle aussi l'anomalie.
 - [[Humains]] / [[Elfes]] — premiers peuples créés, sans consultation du Conseil.
-- [[La Mort de la Première Lamia (ange)]] — événement antérieur directement lié : même planète.
+- [[La Flamme Éteinte]] — événement antérieur directement lié : même planète.
 - [[Cœur de Lamia]] — objet central, sans note dédiée à ce jour (à créer en priorité vu son rôle transversal).
 
 ## Contradictions potentielles
 
-🔒 **C'est le cœur du « point 1 » déjà discuté pour la fiche [[2026-07-12 — Proposition — Migration Albaesclatia]].** Cette fiche décrit une collaboration fraternelle sans ombre entre Albaesclatia et Mageisys ; cet événement introduit une trahison majeure, non révélée avant [[L'Isolement de Lamia et la Trahison Révélée]]. Intégrer cet événement à la Genèse suppose de réviser en conséquence la fiche Albaesclatia (et dans une moindre mesure celle de Mageisys).
+🔒 **C'est le cœur du « point 1 » déjà discuté pour la fiche [[2026-07-12 — Proposition — Migration Albaesclatia]].** Cette fiche décrit une collaboration fraternelle sans ombre entre Albaesclatia et Mageisys ; cet événement introduit une trahison majeure, non révélée avant [[La Trahison Dévoilée]]. Intégrer cet événement à la Genèse suppose de réviser en conséquence la fiche Albaesclatia (et dans une moindre mesure celle de Mageisys).
 
 ✅ **Datation de la barrière — résolue par ta décision (Q1).** La barrière se forme bien ici, dans les Temps primordiaux, comme le veut [[Timeline Master]] — mais reste ténue et non protectrice tant qu'aucun danger ne se présente. Son intensification tardive (Ère Sérénale avancée) est désormais traitée comme un durcissement, pas une apparition, dans la fiche liée.
 

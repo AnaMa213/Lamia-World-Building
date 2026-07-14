@@ -97,8 +97,8 @@ Mais son danger est de croire que sa lumière est la seule forme légitime du bi
 
 ## Relations
 
-- [[Chronoversum]] — éveillée à l'aube de sa deuxième ère cosmique (voir [[L'Émergence de Lumina et d'Albaesclatia]]).
-- [[Mageisys]] — propose à Ataraxus le plan-refuge et intervient avec elle et Albaesclatia pour stopper le premier massacre d'Ataraxus (voir [[La Dérive d'Ataraxus et la Lune Atar]], événement encore en brouillon).
+- [[Chronoversum]] — éveillée à l'aube de sa deuxième ère cosmique (voir [[La Seconde Émanation]]).
+- [[Mageisys]] — propose à Ataraxus le plan-refuge et intervient avec elle et Albaesclatia pour stopper le premier massacre d'Ataraxus (voir [[L'Éveil du Fléau]]).
 - [[Albaesclatia]] — sœur d'intention et co-conceptrice du projet de vie ; Lumina lui succède comme régente des anges après son affaiblissement.
 - [[Mageisys]] — partenaire du projet créateur (elle crée les étoiles, lui les lois et les mondes).
 - [[Naphusis]] — quatrième pilier du projet de vie, ancrage de ce que Lumina illumine.

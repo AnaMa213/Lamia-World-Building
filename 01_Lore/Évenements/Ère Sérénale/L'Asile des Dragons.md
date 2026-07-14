@@ -15,26 +15,26 @@ tags:
 date: 2026-07-12
 portee:
 aliases:
-  - Arrivée des quatre derniers dragons
+  - L'Arrivée des Quatre
 ---
-# Le Dernier Bastion
+# L'Asile des Dragons
 
 > [!note] 
 > ⚠️ Détail à noter pour la fiche [[2026-07-12 — Proposition — Migration Akator]] (grosse révision différée) : Mageisys nomme et renforce lui-même les quatre dragons à leur arrivée — voir Contradictions potentielles.
 
-**En une phrase :** Protégée par sa barrière, Lamia devient le dernier refuge de la vie de l'univers ; les quatre derniers dragons de Koboldia y trouvent asile, et Mageisys les élève au rang de protecteurs de la planète, juste en dessous de la puissance d'un Archange.
+**En une phrase :** Protégée par sa barrière, Lamia devient l'un des grands foyers de vie encore intacts et la cible prioritaire d'Ataraxus ; les quatre derniers dragons de Koboldia y trouvent asile, et Mageisys les élève au rang de protecteurs de la planète, juste en dessous de la puissance d'un Archange.
 
 ## Résumé
 
-Lamia, protégée par sa propre barrière, reste intouchée par le génocide universel. Les rares survivants des autres mondes y trouvent refuge, dont les quatre derniers dragons de Koboldia. Mageisys les choisit comme protecteurs de la planète et infuse en eux sa magie élémentaire, les répartissant aux quatre coins du continent.
+Lamia, protégée par sa propre barrière, reste intouchée par [[Le Grand Déferlement|le grand déferlement démoniaque]] qui ravage d'innombrables autres mondes. Les rares survivants des mondes voisins y trouvent refuge, dont les quatre derniers dragons de Koboldia. Mageisys les choisit comme protecteurs de la planète et infuse en eux sa magie élémentaire, les répartissant aux quatre coins du continent.
 
 ## Causes
 
-Après [[Le Génocide Universel]], la civilisation universelle s'est effondrée sur des milliers de planètes. Seule [[Lamia]], protégée par sa propre barrière, reste intouchée.
+Après [[Le Grand Déferlement]], d'innombrables civilisations se sont effondrées à travers l'univers. [[Lamia]], protégée par sa propre barrière, reste intouchée — ce qui en fait, aux yeux d'Ataraxus, une cible d'autant plus obsédante qu'elle lui échappe.
 
 ## Déroulement
 
-Les rares survivants des autres mondes y trouvent refuge, guidés par les anges. Parmi eux, **les quatre derniers dragons de [[Koboldia]]**.
+Les rares survivants des mondes voisins y trouvent refuge, guidés par les anges. Parmi eux, **les quatre derniers dragons de [[Koboldia]]**.
 
 [[Mageisys]], mesurant le potentiel de ces créatures que son frère [[Akator]] avait jadis conçues pour rivaliser avec les puissances créatrices, les choisit comme **protecteurs de Lamia**. Il infuse sa magie élémentaire dans chacun, élevant leur puissance à un niveau juste en dessous de celui d'un Archange :
 
@@ -47,7 +47,7 @@ Akator, malgré la disparition de la quasi-totalité de ses créations à traver
 
 ## Conséquences
 
-Lamia devient officiellement le dernier bastion de la vie de l'univers. Les quatre dragons, désormais nommés et renforcés par Mageisys, veillent sur des points stratégiques du continent — position qui perdurera pendant des siècles (voir [[La Lune Atar]] pour la suite immédiate).
+Lamia devient l'un des grands foyers de vie encore debout, protégée mais jamais oubliée d'Ataraxus, qui continue d'y voir sa cible prioritaire — sans que le Conseil puisse pour autant s'y consacrer exclusivement, la guerre continuant de faire rage sur d'innombrables autres fronts. Les quatre dragons, désormais nommés et renforcés par Mageisys, veillent sur des points stratégiques du continent — position qui perdurera pendant des siècles (voir [[La Lune Manquée]] pour la suite immédiate).
 
 ## Qui en garde mémoire
 
@@ -60,11 +60,13 @@ Fait largement connu, célébré dans les traditions lamiennes liées aux dragon
 - [[Koboldia]] — monde d'origine des quatre survivants.
 - [[Raekialar]] / [[Daenithor]] / [[Hurinathil]] / [[Thariathor]] — les quatre dragons, sans note dédiée à ce jour.
 - [[Montagnes de Lerium]] — lieu sans note dédiée.
-- [[La Lune Atar]] — événement suivant immédiat.
+- [[La Lune Manquée]] — événement suivant immédiat.
 
 ## Contradictions potentielles
 
 ⚠️ **Mageisys nomme et renforce les dragons — absent de la fiche Akator migrée.** Sa fiche décrit sa propre création des dragons et son rôle dans leur exil, mais ne mentionne pas cette intervention spécifique de Mageisys à leur arrivée sur Lamia, ni les noms des quatre survivants. À intégrer lors de la grande révision différée de sa fiche (sur ta décision, pas maintenant).
+
+✅ **Recadrage « dernier bastion de l'univers » corrigé en conversation.** Lamia n'est plus présentée comme le dernier lieu de vie de tout l'univers (incohérent à l'échelle de temps impliquée), mais comme l'un des grands foyers encore debout et la cible prioritaire d'Ataraxus — cohérent avec le fait que la guerre continue ailleurs, potentiellement encore aujourd'hui.
 
 **Datation ≈2500 inchangée**, confirmée par [[Timeline Master]].
 

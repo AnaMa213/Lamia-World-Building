@@ -10,11 +10,11 @@ annee_fin:
 tags: [albaesclatia, mageisys, lamia-ange, secret]
 date: 2026-07-12
 portee:
-aliases: []
+aliases: ["Le Repos Promis"]
 ---
-# Récupération du corps de Lamia par Mageisys
+# Le Larcin de Mageisys
 
-> 🔒 **SECRET — ne jamais laisser fuiter vers un contenu lecteur/joueur avant arbitrage.** Se situe 500 000 ans avant [[Les Pactes de Mageisys|Les Pactes de Mageisys]], juste après [[La Mort de la Première Lamia (ange)]].
+> 🔒 **SECRET — ne jamais laisser fuiter vers un contenu lecteur/joueur avant arbitrage.** Se situe 500 000 ans avant [[Les Accords du Despophys]], juste après [[La Flamme Éteinte]].
 
 **En une phrase :** Albaesclatia recueille et pleure le corps de sa fille pendant un siècle avant que Mageisys, sous prétexte de lui offrir un repos éternel, ne l'emporte dans son plan secret pour l'étudier — ne rendant jamais à sa sœur que quelques grains d'une essence bien plus vaste, enfermés dans une perle qu'elle croit être un sanctuaire à part entière.
 
@@ -24,7 +24,7 @@ Albaesclatia recueille le corps de l'ange Lamia et la pleure pendant une centain
 
 ## Causes
 
-Après la mort de l'ange **[[Lamia (ange)|Lamia]]** (voir [[La Mort de la Première Lamia (ange)]]), Albaesclatia recueille elle-même le corps de sa fille et la pleure pendant près d'une centaine d'années. [[Mageisys]], de son côté, continue de percevoir une faible essence se dégager du corps sans vie — un résidu que les lois qu'il a lui-même établies auraient dû, en principe, dissiper depuis longtemps.
+Après la mort de l'ange **[[Lamia (ange)|Lamia]]** (voir [[La Flamme Éteinte]]), Albaesclatia recueille elle-même le corps de sa fille et la pleure pendant près d'une centaine d'années. [[Mageisys]], de son côté, continue de percevoir une faible essence se dégager du corps sans vie — un résidu que les lois qu'il a lui-même établies auraient dû, en principe, dissiper depuis longtemps.
 
 ## Déroulement
 
@@ -36,7 +36,7 @@ Jusqu'au jour où il met au point une **perle**, dans laquelle il enferme une in
 
 ## Conséquences
 
-🔒 L'essentiel de l'essence de l'ange Lamia demeure entre les mains de Mageisys, qui poursuit ses recherches sur elle pendant des centaines de milliers d'années — jusqu'à l'implanter en secret dans la planète qui portera plus tard le nom de sa fille (voir [[Les Pactes de Mageisys]] puis [[La Création de Lamia et l'Essence Cachée]]). Albaesclatia, elle, chérit une perle qui ne contient qu'une fraction infime de ce qu'elle croit y trouver tout entier.
+🔒 L'essentiel de l'essence de l'ange Lamia demeure entre les mains de Mageisys, qui poursuit ses recherches sur elle pendant des centaines de milliers d'années — jusqu'à l'implanter en secret dans la planète qui portera plus tard le nom de sa fille (voir [[Les Accords du Despophys]] puis [[La Semence Cachée]]). Albaesclatia, elle, chérit une perle qui ne contient qu'une fraction infime de ce qu'elle croit y trouver tout entier.
 
 ## Qui en garde mémoire
 
@@ -46,14 +46,14 @@ Jusqu'au jour où il met au point une **perle**, dans laquelle il enferme une in
 
 - [[Albaesclatia]] — pleure sa fille, confie le corps à Mageisys de bonne foi, chérit ensuite la perle sans connaître la vérité.
 - [[Mageisys]] — récupère le corps sous un faux prétexte, l'étudie dans son plan secret, ne rend qu'une part infime de l'essence.
-- [[La Mort de la Première Lamia (ange)]] — événement immédiatement antérieur.
-- [[Les Pactes de Mageisys [à revoir]]] — événement suivant (500 000 ans plus tard), où Mageisys retourne à ses recherches sur ce même corps.
-- [[La Création de Lamia et l'Essence Cachée]] — aboutissement final de ces recherches, bien plus tard.
+- [[La Flamme Éteinte]] — événement immédiatement antérieur.
+- [[Les Accords du Despophys]] — événement suivant (500 000 ans plus tard), où Mageisys retourne à ses recherches sur ce même corps.
+- [[La Semence Cachée]] — aboutissement final de ces recherches, bien plus tard.
 
 ## Contradictions potentielles
 
-**Aucune contradiction relevée.** Événement nouveau, cohérent avec [[La Mort de la Première Lamia (ange)]] et [[Les Pactes de Mageisys [à revoir]]].
+**Aucune contradiction relevée.** Événement nouveau, cohérent avec [[La Flamme Éteinte]] et [[Les Accords du Despophys]].
 
 **La perle n'a pas de nom ni de statut d'objet défini.** Elle pourrait mériter sa propre fiche (`type` à définir — objet, relique) si tu souhaites la développer, notamment si elle existe encore à l'époque présente entre les mains d'Albaesclatia.
 
-**Datation relative confirmée : ≈ 500 000 ans avant [[Les Pactes de Mageisys|Les Pactes de Mageisys]]**, elle-même ≈ 500 000 ans avant Sérénale 0 — soit environ 1 million d'années avant Sérénale 0 pour cet événement-ci.
+**Datation relative confirmée : ≈ 500 000 ans avant [[Les Accords du Despophys]]**, elle-même ≈ 500 000 ans avant Sérénale 0 — soit environ 1 million d'années avant Sérénale 0 pour cet événement-ci.

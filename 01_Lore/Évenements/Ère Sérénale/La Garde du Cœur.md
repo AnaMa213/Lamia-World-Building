@@ -14,11 +14,11 @@ tags:
 date: 2026-07-12
 portee:
 aliases:
-  - Création des Nains
+  - Le Serment de Naïnrak
 ---
-# Naïnrak et la Naissance des Nains
+# La Garde du Cœur
 
-**En une phrase :** Frappé par la révélation que le Cœur de Lamia porte l'essence de la première fille d'Albaesclatia, Naïnrak crée, avec l'accord de sa mère Albaeslcaita, les Nains pour le protéger — un peuple conçu pour vivre au sein même de la planète, bâtissant autour de trois gardiens désignés une civilisation souterraine entière.
+**En une phrase :** Frappé par la révélation que le Cœur de Lamia porte l'essence de la première fille d'Albaesclatia, Naïnrak crée, avec l'accord de sa mère Albaesclatia, les Nains pour le protéger — un peuple conçu pour vivre au sein même de la planète, bâtissant autour de trois gardiens désignés une civilisation souterraine entière.
 
 ## Résumé
 
@@ -26,7 +26,7 @@ Frappé par la révélation que Lamia porte en son cœur l'essence de la défunt
 
 ## Causes
 
-Parmi les Archanges, [[Naïnrak]] est frappé par la révélation que la planète Lamia porte en son cœur l'essence de la défunte Lamia, première fille d'Albaesclatia (voir [[L'Isolement de Lamia et la Trahison Révélée]]). Il juge de son devoir de protéger ce foyer, le plus sacré qui soit.
+Parmi les Archanges, [[Naïnrak]] est frappé par la révélation que la planète Lamia porte en son cœur l'essence de la défunte Lamia, première fille d'Albaesclatia (voir [[La Trahison Dévoilée]]). Il juge de son devoir de protéger ce foyer, le plus sacré qui soit.
 
 ## Déroulement
 
@@ -36,7 +36,7 @@ Pendant plusieurs siècles, les nains prospèrent dans les profondeurs. Leurs ci
 
 ## Conséquences
 
-Naissance d'une civilisation naine souterraine prospère, qui perdurera plusieurs siècles avant sa chute (voir [[La Fracture du Cœur de Lamia [à revoi]]]).
+Naissance d'une civilisation naine souterraine prospère, qui perdurera plusieurs siècles avant sa chute (voir [[La Trahison des Gardiens]]).
 
 ## Qui en garde mémoire
 
@@ -46,8 +46,8 @@ Fait largement connu à l'époque : la mission protectrice des Nains est reconnu
 
 - [[Naïnrak]] — créateur des Nains, agit seul suite à la fragmentation du Conseil.
 - [[Nains]] — peuple créé dans cet événement.
-- [[L'Isolement de Lamia et la Trahison Révélée]] — cause directe (révélation du Cœur).
-- [[La Fracture du Cœur de Lamia [à revoi]]] — suite directe, plusieurs siècles plus tard.
+- [[La Trahison Dévoilée]] — cause directe (révélation du Cœur).
+- [[La Trahison des Gardiens]] — suite directe, plusieurs siècles plus tard.
 
 ## Contradictions potentielles
 

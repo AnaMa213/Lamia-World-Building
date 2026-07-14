@@ -16,7 +16,7 @@ alignement: Loyal Bon
 
 > [!note] Brouillon de migration — 2026-07-12, révisé le 2026-07-12
 > Migré depuis `99_Archive/Divinites/Majeurs/Xeros.md`, reformaté selon les Conventions. Prose originale reprise telle quelle (Résumé → Faille intime). Sections **Relations** et **Contradictions potentielles** ajoutées par l'IA.
-> ✅ **Origine clarifiée suite à tes réponses en conversation** (voir l'événement [[Les Pactes de Mageisys [à revoir]]]) : Xeros est bien né très tôt comme premier fils archange d'Albaesclatia. Il **reste un Archange**, pas un dieu à sa naissance ; ce sont les mortels de Lamia qui, après la Grande Guerre Divine, l'élèvent — lui comme les autres Archanges — au rang de divinité à travers leur culte. Sa conscience possède un véritable libre arbitre, mais ses valeurs et désirs premiers ont été ancrés en lui par Albaesclatia plutôt que choisis librement.
+> ✅ **Origine clarifiée suite à tes réponses en conversation** (voir l'événement [[Les Accords du Despophys]]) : Xeros est bien né très tôt comme premier fils archange d'Albaesclatia. Il **reste un Archange**, pas un dieu à sa naissance ; ce sont les mortels de Lamia qui, après la Grande Guerre Divine, l'élèvent — lui comme les autres Archanges — au rang de divinité à travers leur culte. Sa conscience possède un véritable libre arbitre, mais ses valeurs et désirs premiers ont été ancrés en lui par Albaesclatia plutôt que choisis librement.
 
 **En une phrase :** Xeros est le dieu majeur de la diversité et de l'évolution, fils d'Albaesclatia élevé au rang divin après la Grande Guerre Divine, qui façonna avec Naphusis les peuples adaptés aux terres ravagées de l'Ère du Voile — dont les Xeroniens — et qui défend aujourd'hui les âmes lamiennes dans les Limbes face à Ataraxus.
 
@@ -105,7 +105,7 @@ Elle explique aussi son éloignement actuel. Absorbé par la guerre dans les [[L
 
 ## Contradictions potentielles
 
-✅ **Origine de Xeros — résolue suite à tes réponses en conversation.** Xeros est né très tôt comme premier fils archange d'Albaesclatia (voir [[Les Pactes de Mageisys [à revoir]]]), pas après la Grande Guerre Divine. Il reste un Archange à sa naissance ; ce sont les mortels de Lamia qui, après la guerre, l'élèvent — lui comme les autres Archanges — au rang de divinité par leur culte. **Cette clarification concerne probablement l'ensemble des Archanges devenus dieux Majeurs/Mineurs** — pas seulement Xeros.
+✅ **Origine de Xeros — résolue suite à tes réponses en conversation.** Xeros est né très tôt comme premier fils archange d'Albaesclatia (voir [[Les Accords du Despophys]]), pas après la Grande Guerre Divine. Il reste un Archange à sa naissance ; ce sont les mortels de Lamia qui, après la guerre, l'élèvent — lui comme les autres Archanges — au rang de divinité par leur culte. **Cette clarification concerne probablement l'ensemble des Archanges devenus dieux Majeurs/Mineurs** — pas seulement Xeros.
 
 ⚠️ **Incarnation physique et présence continue sur Lamia après le bannissement.** Comme pour [[Naphusis]] et [[Akator]], Xeros semble agir et se manifester physiquement sur Lamia (« il peut adopter une forme physique... ») après la Grande Bataille de Cyroldan (Exodiale ≈1500) qui bannit en principe la présence physique divine. Zone floue transversale à consigner en Chantier (regroupant Naphusis, Akator, Xeros).
 
