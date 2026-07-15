@@ -1,16 +1,20 @@
 ---
-statut: brouillon
-source: ia
+statut: canon
+source: auteur
 type: evenement
 importance: majeur
 ere: serenale
 annee: inconnu
 annee_debut: 2500
 annee_fin: 2600
-tags: [ataraxus, atar, lamia]
+tags:
+  - ataraxus
+  - atar
+  - lamia
 date: 2026-07-12
 portee:
-aliases: ["La Cicatrice du Ciel"]
+aliases:
+  - La Cicatrice du Ciel
 ---
 # La Lune Manquée
 

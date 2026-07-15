@@ -1,16 +1,20 @@
 ---
-statut: brouillon
-source: ia
+statut: semi-canon
+source: auteur
 type: evenement
 importance: majeur
 ere: exodiale
 annee: inconnu
 annee_debut: 0
 annee_fin: 30
-tags: [coeur-de-lamia, oneira, secret]
+tags:
+  - coeur-de-lamia
+  - oneira
+  - secret
 date: 2026-07-12
 portee:
-aliases: ["La Disparition des Gardiens"]
+aliases:
+  - La Disparition des Gardiens
 ---
 # Le Dernier Serment des Gardiens
 

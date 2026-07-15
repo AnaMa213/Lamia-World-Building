@@ -1,5 +1,5 @@
 ---
-statut: brouillon
+statut: canon
 source: auteur
 type: evenement
 importance: majeur
@@ -7,10 +7,15 @@ ere: primordial
 annee: inconnu
 annee_debut:
 annee_fin:
-tags: [albaesclatia, mageisys, lamia-ange, secret]
+tags:
+  - albaesclatia
+  - mageisys
+  - lamia-ange
+  - secret
 date: 2026-07-12
 portee:
-aliases: ["Le Repos Promis"]
+aliases:
+  - Le Repos Promis
 ---
 # Le Larcin de Mageisys
 

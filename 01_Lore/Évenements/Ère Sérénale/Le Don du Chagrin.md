@@ -1,16 +1,20 @@
 ---
-statut: brouillon
-source: ia
+statut: canon
+source: auteur
 type: evenement
 importance: majeur
 ere: serenale
 annee: inconnu
 annee_debut: 2500
 annee_fin: 2600
-tags: [naphusis, gnomes, lamia]
+tags:
+  - naphusis
+  - gnomes
+  - lamia
 date: 2026-07-12
 portee:
-aliases: ["Les Enfants de Naphusis"]
+aliases:
+  - Les Enfants de Naphusis
 ---
 # Le Don du Chagrin
 

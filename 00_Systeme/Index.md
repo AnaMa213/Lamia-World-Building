@@ -31,6 +31,9 @@ Géographie · Peuples et Factions · Personnages · Créatures · Événements 
 
 ### Ouverts
 
+- [ ] Retravailler le lore sur "[[La Trahison des Gardiens]]"
+- [ ] Retravailler le lore sur "[[Le Dernier Serment des Gardiens]]"
+- [ ] Retravailler le lore sur "[[Les Jumeaux Divins]]"
 - [ ] Harmoniser corps vs synthèse de la chronologie : Vindiereis Roi Sombre
 - [ ] Valider les marquages 🔒 proposés dans [[Timeline Master]]
 - [ ] Le Calendrier Commun existait-il avant l'Ère du Voile ?

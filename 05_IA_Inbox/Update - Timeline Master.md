@@ -70,14 +70,20 @@ aliases: [Chronologie, Timeline]
 *L'invasion de Lamia et les grands exodes. L'ère commence quand les démons atteignent Lamia, ≈ 1950 ans après le début de la guerre.*
 
 - **0** · [MAJEUR] · [[La Chute de l'Âge d'Or]] — La barrière affaiblie par la fracture du cœur laisse enfin passer les démons ; en quelques années, plus de 90 % de la population de Lamia est éradiquée. L'âge d'or meurt, l'Ère Exodiale commence.
-- **≈ 0–30** · [MAJEUR] · 🔒 · [[Le Dernier Serment des Gardiens]] — Dispersion des trois fragments du cœur fracturé : le **Corps** enfermé dans une pierre noire, l'**Âme** assimilée par un Protecteur, la **Conscience** cachée dans **Oneira**, le plan des rêves.
+- **≈ 0–30** · [MAJEUR] · 🔒 · [[Le Dernier Serment des Gardiens]] — Dispersion des trois fragments du cœur fracturé : le **Corps** enfermé dans une pierre noire, l'**Âme** assimilée par un Protecteur, la **Conscience** cachée dans le plan des rêves d'**Oneira**,.
 - **≈ 0–300** · [MAJEUR] — Les démons ravagent profondeurs et surface ; royaumes nains détruits ; la majorité des institutions et savoirs sérénaux disparaissent.
 - **≈ 50–280** · [MINEUR] — Les Nains survivants abandonnent les profondeurs et migrent vers les montagnes du nord ; la surface ignore longtemps cette guerre souterraine.
-- **≈ 170–220** · [MAJEUR] — [[Albaesclatia]], [[Mageisys]] et le Conseil créent [[Alfaryus]] et [[Humarios]], guides incarnés des derniers survivants.
-- **≈ 600** · [MAJEUR] — [[Alfaryus]] et [[Humarios]] restructurent les civilisations survivantes ; fondation de **Cyroldan** et **Humildas**.
-- **≈ 900** · [MAJEUR] — [[Alfaryus]] transmet l'essence mageysienne aux mortels : naissance de la **magie arcanique**, arme contre les démons sans dépendre des dieux.
-- **≈ 1500** · [MINEUR] — Corruption d'[[Humarios]] (magie noire d'absorption) ; [[Alfaryus]] l'affronte et l'emprisonne, espérant le sauver un jour.
-- **≈ 1500** · [MAJEUR] — **Grande Bataille de Cyroldan** : [[Humarios]] fragilise un fragment, la barrière cède assez pour qu'[[Ataraxus]] se manifeste physiquement. L'intervention directe des dieux fracture l'ancien continent → **Horiae**, le continent central (ancienne Cyroldan), **Eliyae** et des îles. Les démons sont repoussés, Ataraxus défait. Nouvelle loi : les êtres trop imprégnés d'essence divine sont **bannis** de la présence physique sur Lamia.
+- **≈ 170–220** · [MAJEUR] · [[Les Jumeaux Divins]] — Albaesclatia, Mageisys et le Conseil créent Alfaryus et Humarios, guides incarnés des derniers survivants.
+- **≈ 220–400** · [MAJEUR] · [[Alfaryus et la Fondation de Cyroldan]] — Guidé par les rêves d'Oneira, Alfaryus fonde Cyroldan, la Ville du Foyer, sans savoir que sa protection vient d'un gardien nain corrompu enfoui sous ses fondations.
+- **≈ 220–400** · [MAJEUR] · [[Humarios et la Fondation d'Humildas]] — Humarios mène son peuple vers une île isolée, hors de portée des démons, et y fonde Humildas.
+- **≈ 600–1450** · [MAJEUR] · [[La Dernière Menace]] — Maurtria, indépendante d'Ataraxus qu'elle méprise autant que le Conseil, sème la discorde parmi les mortels pour que la violence ne s'éteigne jamais.
+- **≈ 900** · [MAJEUR] · [[La Transmission de la Magie Arcanique]] — Alfaryus transmet l'essence mageysienne aux mortels : naissance de la magie arcanique, arme contre les démons sans dépendre des dieux.
+- **≈ 1450–1500** · [MAJEUR] · [[Le Scellement du Cœur]] — Face à la menace portée à son comble, le Cœur de Lamia est rescéllé au prix d'un sacrifice que même les survivants ne surent pas tous nommer.
+- **≈ 1500** · [MINEUR] · [[La Corruption d'Humarios]] — Humarios expérimente sur un fragment du Cœur pour accroître sa puissance ; Alfaryus l'affronte et l'emprisonne, espérant le sauver un jour.
+- **≈ 1500** · [MAJEUR] — **Grande Bataille de Cyroldan** : [[Humarios]] fragilise un fragment, la barrière cède assez pour qu'[[Ataraxus]] se manifeste physiquement. L'intervention directe des dieux fracture l'ancien continent → **Horiae**, le continent central (ancienne Cyroldan), **Eliyae** et des îles. Les démons sont repoussés, Ataraxus défait. Nouvelle loi : les êtres trop imprégnés d'essence divine sont **bannis** de la présence physique sur Lamia. *(Déroulement précis en suspens — à développer lors de l'écriture du roman sur l'Ère Exodiale.)*
+- **≈ 1500–1600** · [MAJEUR] · [[L'Impossible Retour à l'Unité]] — Le Conseil des Archanges, miné par les trahisons et les deuils, cesse peu à peu d'être reconnu comme une autorité commune.
+- **≈ 1500–1600** · [MAJEUR] · [[Les Archanges Devenus Dieux]] — Les Archanges survivants se revendiquent comme des divinités autonomes, élevées par le culte des mortels plutôt que par un acte de promotion divine.
+- **≈ 1550–1600** · [MAJEUR] · [[Le Dernier Bastion Disputé]] — Lamia devient le dernier lieu de l'univers encore à l'abri de la guerre divine, enjeu disputé entre les visions divergentes des dieux désormais indépendants.
 
 ---
 
@@ -87,10 +93,9 @@ aliases: [Chronologie, Timeline]
 
 - **0** · [MAJEUR] — Fin de la Grande Guerre divine. [[Alfaryus]] stabilise ce qui reste du cœur, enfouit ses secrets et organise l'effacement des connaissances sur les fragments : cet ensemble de protections devient le **Voile**.
 - **≈ 0–500** · [MAJEUR] — Grandes reconstructions ; fin du nomadisme. Une grande partie des savoirs anciens disparaît ; la guerre devient légendes et traditions religieuses contradictoires.
-- **≈ 10–200** · [MINEUR] — [[Alfaryus]] rassemble les survivants du nord et fonde **Cyroldan**, la « ville du Foyer », liée à la magie arcanique et aux secrets de Lamia.
 - **≈ 80–500** · [MAJEUR] — [[Xeros]] crée les **Xeroniens** sur Lamia ; leur adaptation régionale engendre plusieurs peuples, dont les **Shar-fen**.
 - **≈ 200–1000** · [MAJEUR] — Formation des nouveaux royaumes : **Luminorn**, **Mercatia**, **Rivenhelm**, **Magelia**, **[[Perservorn]]**.
-- **≈ 1150–1250** · [MAJEUR] — [[Vindiereis]] achève sa transformation en **Roi Sombre** et règne sur Horiae, avant d'être vaincu par l'empire de **Zalandria** et **Quaesir**. 
+- **≈ 1150–1250** · [MAJEUR] — [[Vindiereis]] achève sa transformation en **Roi Sombre** et tente de règner sur Horiae, avant d'être vaincu par l'empire de **Zalandria** et **Quaesir**. 
 - **≈ 1000–1350** · [MAJEUR] — Les fidèles de [[Maurtria]] s'organisent en **Disciples de Maurtria** ; théocratie de la magie du sang au nord de Luminorn.
 - **≈ 1350–1448 · [MINEUR] ·  — **Aldania**, maurtrienne immortelle, Grande Prêtresse Sanglante, dirige la théocratie depuis 100 ans. 
 

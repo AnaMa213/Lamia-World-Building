@@ -1,16 +1,20 @@
 ---
-statut: brouillon
-source: ia
+statut: canon
+source: auteur
 type: evenement
 importance: majeur
 ere: serenale
 annee: inconnu
 annee_debut: 2700
 annee_fin: 2750
-tags: [aequadeus, conseil-des-archanges, ataraxus]
+tags:
+  - aequadeus
+  - conseil-des-archanges
+  - ataraxus
 date: 2026-07-12
 portee:
-aliases: ["La Trêve Manquée"]
+aliases:
+  - La Trêve Manquée
 ---
 # Le Concile Rompu
 

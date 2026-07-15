@@ -272,7 +272,7 @@ Le sud de Lamia s'organisa autour de ce refuge maritime. Les survivants humains 
 
 Ainsi, à la fin de ces premiers siècles de cataclysme, Lamia n'était plus le monde qu'elle avait été. Sa population réduite au dixième. Sa civilisation magique en lambeaux. Sa barrière fracturée et fragile. Mais deux flammes brûlaient encore dans la nuit : **Cyroldan au nord, Humildas au sud**. Et dans l'ombre, des survivants nomades, des nains éparpillés, des Gnomes endeuillés essayaient encore de tenir. 
 
-Ce que les chroniques retinrent de cette période demeura fragmentaire. Les récits ne s’accordent pas sur l’ordre des batailles, ni sur le nombre exact de ceux qui comprirent la menace avant qu’elle ne devienne visible à tous. Mais ils s’accordent sur une chose : lorsque Maurtria crut Lamia suffisamment affaiblie pour être offerte à Ataraxus, des résistances se levèrent dans l’ombre.
+Ce que les chroniques retinrent de cette période demeura fragmentaire. Les récits ne s’accordent pas sur l’ordre des batailles, ni sur le nombre exact de ceux qui comprirent la menace avant qu’elle ne devienne visible à tous. Mais ils s’accordent sur une chose : lorsque Maurtria crut Lamia suffisamment affaiblie pour se laisser engouffrer dans une violences sans fins, des résistances se levèrent dans l’ombre.
 
 À **Cyroldan**, dans les forêts protectrices de **Naphusis** et jusqu’aux remparts d’**Humildas**, des forces dispersées refusèrent de laisser leur monde s’effondrer. Elles ne formaient pas une armée unique. Il y eut des gardiens sans cité, des mages privés de maîtres, des prêtres dont les dieux répondaient de moins en moins, des guerriers issus de peuples déjà décimés,  et de simples mortels qui n’avaient plus rien à perdre que l’avenir.
 
