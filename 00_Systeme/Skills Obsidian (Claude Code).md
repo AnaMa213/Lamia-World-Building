@@ -9,8 +9,16 @@ version: "1.0"
 > cette session Claude Code, et ce que chacun permet. À distinguer des outils
 > MCP `obsidian-mcp-server` (section 6), qui parlent directement au vault via
 > l'API REST du plugin Obsidian Local REST API.
+>
+> Ces skills sont vendorés directement dans `.claude/skills/` (repris de
+> [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills), MIT,
+> licence dans `.claude/skills/OBSIDIAN-SKILLS-LICENSE`) plutôt qu'installés
+> comme plugin marketplace au démarrage de session : le mécanisme plugin
+> s'est révélé peu fiable en session cloud (voir historique de la branche
+> `claude/skills-loading-issue-2n97f1`) — les fichiers commités dans le repo
+> sont chargés avec le clone, sans étape d'installation réseau.
 
-## 1. `obsidian:defuddle`
+## 1. `defuddle`
 
 **Ce que ça fait :** extrait le contenu propre d'une page web en Markdown via
 l'outil Defuddle CLI, en retirant la navigation, les pubs et le bruit.
@@ -21,7 +29,7 @@ article, blog). Remplace `WebFetch` pour ces cas — plus économe en tokens.
 **Ne pas utiliser pour :** les URLs qui pointent déjà vers un fichier `.md`
 brut (autant les lire directement).
 
-## 2. `obsidian:json-canvas`
+## 2. `json-canvas`
 
 **Ce que ça fait :** crée et édite des fichiers `.canvas` (format JSON Canvas)
 — nœuds, arêtes, groupes, connexions.
@@ -31,7 +39,7 @@ mentales, schémas de relations, flowcharts. Utile par exemple pour
 visualiser des réseaux de personnages, de factions ou une chronologie
 graphique de Lamia.
 
-## 3. `obsidian:obsidian-bases`
+## 3. `obsidian-bases`
 
 **Ce que ça fait :** crée et édite des fichiers `.base` — vues façon base de
 données sur un ensemble de notes (tables, cartes), avec filtres, formules et
@@ -42,7 +50,7 @@ sur un type de note (ex. lister toutes les divinités par rang, tous les
 événements d'une ère). Complète les vues Dataview déjà utilisées dans
 [[Tableau de bord]].
 
-## 4. `obsidian:obsidian-cli`
+## 4. `obsidian-cli`
 
 **Ce que ça fait :** pilote le vault Obsidian en ligne de commande — lire,
 créer, chercher, gérer notes/tâches/propriétés ; recharger des plugins,
@@ -52,7 +60,7 @@ exécuter du JS, capturer des erreurs, screenshots, inspection du DOM.
 débogage de plugins ou thèmes Obsidian (hors du périmètre lore actuel, mais
 utile si un jour on développe un plugin custom pour Lamia).
 
-## 5. `obsidian:obsidian-markdown`
+## 5. `obsidian-markdown`
 
 **Ce que ça fait :** écrit/édite du Markdown "Obsidian Flavored" — wikilinks
 `[[...]]`, embeds `![[...]]`, callouts `> [!note]`, propriétés (frontmatter),
@@ -102,7 +110,7 @@ normalement. Objectif : savoir quoi taper selon ce qu'on veut obtenir.
 > *"Crée-moi la fiche de la divinité Nyxara, déesse mineure du crépuscule,
 > vénérée par les peuples des marches d'Aldania."*
 
-- `obsidian:obsidian-markdown` → frontmatter conforme (`statut`, `source`,
+- `obsidian-markdown` → frontmatter conforme (`statut`, `source`,
   `type: divinite`, `rang`, etc.) + structure de fiche imposée par
   [[Conventions]] (Résumé/Histoire/Apparence/...).
 - `obsidian_search_notes` (MCP) → vérifier qu'aucune fiche homonyme n'existe
@@ -125,7 +133,7 @@ normalement. Objectif : savoir quoi taper selon ce qu'on veut obtenir.
   incohérentes.
 - `obsidian_patch_note` ou `obsidian_replace_in_note` (MCP) → édition ciblée
   plutôt que réécriture complète, pour ne pas perdre le reste de la fiche.
-- `obsidian:obsidian-markdown` → garde la syntaxe (wikilinks, callouts) et
+- `obsidian-markdown` → garde la syntaxe (wikilinks, callouts) et
   le format de date correct (`JJ Mois AAAA È.V.`).
 
 ### 7.3 Brainstorm d'idée dans une fiche en brouillon
@@ -138,7 +146,7 @@ normalement. Objectif : savoir quoi taper selon ce qu'on veut obtenir.
   contenu.
 - `obsidian_write_note` ou `obsidian_append_to_note` (MCP) → capture rapide,
   sans structure imposée.
-- `obsidian:obsidian-markdown` reste utile a minima pour le frontmatter,
+- `obsidian-markdown` reste utile a minima pour le frontmatter,
   mais aucune section obligatoire ici — la règle du §8 (liens/MOC) ne
   s'applique pas à `04_Brouillons`.
 - Le tri/formatage se fera plus tard, lors d'une relecture dédiée.
@@ -162,9 +170,9 @@ normalement. Objectif : savoir quoi taper selon ce qu'on veut obtenir.
 > *"Regarde cet article sur les mythes de crépuscule dans les traditions
 > nordiques, et fais-moi une note d'inspiration à trier dans l'Inbox IA."*
 
-- `obsidian:defuddle` → extrait le texte propre de la page web (au lieu de
+- `defuddle` → extrait le texte propre de la page web (au lieu de
   `WebFetch`, plus économe en tokens).
-- `obsidian:obsidian-markdown` → mise en forme de la note de synthèse.
+- `obsidian-markdown` → mise en forme de la note de synthèse.
 - `obsidian_write_note` (MCP) → dépôt dans `05_IA_Inbox/`, `source: ia`,
   à valider/reclasser ensuite par l'auteur.
 
@@ -186,7 +194,7 @@ normalement. Objectif : savoir quoi taper selon ce qu'on veut obtenir.
 > *"Fais-moi une vue qui liste toutes les divinités par rang, avec leur
 > état (active/voilée/bannie/morte)."*
 
-- `obsidian:obsidian-bases` → génère un fichier `.base` avec filtre
+- `obsidian-bases` → génère un fichier `.base` avec filtre
   `type: divinite`, colonnes `rang`/`etat`, éventuellement groupé.
 - Alternative légère : Dataview directement dans une note (déjà en place
   dans [[Tableau de bord]]) si on ne veut pas un fichier `.base` séparé.
@@ -196,7 +204,7 @@ normalement. Objectif : savoir quoi taper selon ce qu'on veut obtenir.
 > *"Fais-moi un canvas qui montre les alliances et rivalités entre les
 > grandes factions de l'Ère du Voile."*
 
-- `obsidian:json-canvas` → crée un `.canvas` avec un nœud par faction et des
+- `json-canvas` → crée un `.canvas` avec un nœud par faction et des
   arêtes annotées (allié / rival / vassal).
 - Peut référencer les fiches existantes (nœuds de type "note liée") plutôt
   que dupliquer le contenu.
