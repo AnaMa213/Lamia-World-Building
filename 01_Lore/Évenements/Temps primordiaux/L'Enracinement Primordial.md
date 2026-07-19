@@ -53,4 +53,4 @@ Les mondes vivants peuvent enfin se développer. Cette avancée rend possible, p
 
 ✅ **Piste de conciliation confirmée en conversation** : les deux récits sont complémentaires plutôt qu'exclusifs — la « convergence du projet » des trois dieux est la *cause*/le déclencheur, et l'engendrement par Chronoversum le *mécanisme* réel de sa naissance.
 
-**Aucune contradiction relevée.** Cohérent avec l'entrée déjà existante dans [[Timeline Master]] (« ≈ 1000 ans avant Sérénale 0 »).
+**Aucune contradiction relevée.** Cohérent avec l'entrée déjà existante dans [[Timeline Master]] (« ≈ 3000 ans avant Sérénale 0 »).

@@ -34,7 +34,7 @@ aliases: [Chronologie, Timeline]
 - **≈ 100 milles ans avant Sérénale 0** · [MAJEUR] · [[La Retraite du Calme]] — Repoussé par l'agitation du Despophys, Ataraxus se retire dans un plan-refuge où sa quête de calme se corrompt en colère.
 - **≈ 50 milles ans avant Sérénale 0** · [MAJEUR] · [[Les Prémices de la Discorde]] — Des visions divergentes s'installent parmi les Archanges ; Albaesclatia leur ouvre la voie de projets individuels.
 - **≈ 5000 ans avant Sérénale 0** · [MAJEUR] · [[Le Dessein des Mortels]] — Albaesclatia conçoit le projet d'êtres mortels et incomplets ; Lumina et Mageisys s'associent pour peupler de nouvelles terres.
-- **≈ 1000 ans avant Sérénale 0** · [MAJEUR] · [[L'Enracinement Primordial]] — Face à l'échec de peupler les nouvelles planètes, Chronoversum engendre Naphusis.
+- **≈ 3000 ans avant Sérénale 0** · [MAJEUR] · [[L'Enracinement Primordial]] — Face à l'échec de peupler les nouvelles planètes, Chronoversum engendre Naphusis.
 - **peu avant Sérénale 0** · [MAJEUR] · 🔒 · [[La Semence Cachée]] — Albaesclatia crée la planète Lamia sur le site même de la mort de son premier enfant ; Mageisys y implante en secret l'essence de celui-ci ; le Cœur de Lamia et une barrière ténue s'y forment.
 
 ---
