@@ -12,9 +12,10 @@ tags:
   - naïnrak
   - coeur-de-lamia
 date: 2026-07-12
-portee:
+portee: null
 aliases:
   - Le Serment de Naïnrak
+revision: ia-a-valider
 ---
 # La Garde du Cœur
 
@@ -29,8 +30,9 @@ Frappé par la révélation que Lamia porte en son cœur l'essence de la défunt
 Parmi les Archanges, [[Naïnrak]] est frappé par la révélation que la planète Lamia porte en son cœur l'essence de la défunte Lamia, première fille d'Albaesclatia (voir [[La Trahison Dévoilée]]). Il juge de son devoir de protéger ce foyer, le plus sacré qui soit.
 
 ## Déroulement
+> [!ia-a-valider] 2026-07-22 — Chantier Majeur (Index) : intégration du mécanisme du portail planaire (Naïnrak conçoit les Nains au Dibertium, Mageisys les transporte), pour clore la contradiction avec le durcissement de la barrière. Décision du brainstorm [[2026-07-18 — Brainstorm — PeuplementLamia]], validée par Key. Modifié : section Déroulement réécrite ; Relations et Contradictions potentielles complétées.
 
-Il crée alors une nouvelle race : les **[[Nains]]**. Êtres trapus et résistants, taillés pour la pierre et la profondeur, ils sont conçus pour vivre **au sein même de la planète**, à l'écart des humains et des elfes du dessus. Trois d'entre eux sont désignés gardiens directs du cœur — son corps et son essence. Le reste du peuple nain bâtit autour d'eux une civilisation souterraine entière, dédiée à cette protection.
+Comme toute divinité créant un nouveau peuple depuis le durcissement de la barrière (voir [[La Trahison Dévoilée]]), Naïnrak ne peut plus se manifester physiquement sur Lamia pour y faire naître directement une race. Il conçoit donc les Nains au [[Dibertium]] — êtres trapus et résistants, taillés pour la pierre et la profondeur — avant que [[Mageisys]] ne les transporte sur Lamia par un portail planaire, le même mécanisme qui permettra plus tard d'y implanter les quatre derniers dragons de Koboldia (voir [[L'Asile des Dragons]]). Une fois sur place, les Nains s'installent au sein même de la planète, à l'écart des humains et des elfes du dessus. Trois d'entre eux sont désignés gardiens directs du cœur — son corps et son essence. Le reste du peuple nain bâtit autour d'eux une civilisation souterraine entière, dédiée à cette protection.
 
 Pendant plusieurs siècles, les nains prospèrent dans les profondeurs. Leurs cités souterraines deviennent des merveilles d'architecture : galeries vertigineuses, halls de pierre sculptée, fonderies dont les feux brûlent en permanence. Loin du fracas du monde de surface, ils accumulent richesses et savoir, gardant fidèlement le foyer qui leur a été confié.
 
@@ -43,12 +45,12 @@ Naissance d'une civilisation naine souterraine prospère, qui perdurera plusieur
 Fait largement connu à l'époque : la mission protectrice des Nains est reconnue, même si la nature exacte de ce qu'ils protègent (l'essence de l'ange Lamia) reste un savoir plus restreint.
 
 ## Relations
-
 - [[Naïnrak]] — créateur des Nains, agit seul suite à la fragmentation du Conseil.
 - [[Nains]] — peuple créé dans cet événement.
 - [[La Trahison Dévoilée]] — cause directe (révélation du Cœur).
 - [[La Trahison des Gardiens]] — suite directe, plusieurs siècles plus tard.
+- [[Mageisys]] — ouvre le portail planaire qui transporte les Nains du Dibertium à Lamia.
+- [[Dibertium]] — lieu où Naïnrak conçoit les Nains avant leur transport.
 
 ## Contradictions potentielles
-
-**Datation ≈1700–2000**
+✅ **Mécanisme de création résolu (22/07/2026).** La création directe des Nains « sur la planète » posait problème face au durcissement de la barrière ≈750 ans plus tôt (voir [[La Trahison Dévoilée]]) : aucune divinité ne peut plus s'y manifester physiquement depuis lors. Voir Déroulement : Naïnrak les conçoit désormais au [[Dibertium]], Mageisys les transporte par portail planaire — décision du brainstorm [[2026-07-18 — Brainstorm — PeuplementLamia]].

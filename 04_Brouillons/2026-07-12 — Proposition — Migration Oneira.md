@@ -14,35 +14,31 @@ alignement: Loyal Bon
 
 # Oneira
 
-> [!note] Brouillon de migration — 2026-07-12
-> Migré depuis `99_Archive/Divinites/Mineurs/Oneira.md`, reformaté selon les Conventions. Prose originale reprise telle quelle (Résumé → Tension centrale). Sections **Relations** et **Contradictions potentielles** ajoutées par l'IA.
-> 🔒 **CETTE FICHE CONFIRME UN SECRET DÉJÀ PRÉSENT DANS [[TIMELINE MASTER]] — ne jamais laisser fuiter vers un contenu lecteur/joueur avant arbitrage.** Timeline Master (Exodiale ≈0–30, 🔒) mentionne « la Conscience [du Cœur de Lamia] cachée dans Oneira, le plan des rêves ». Cette fiche source confirme et détaille ce secret explicitement : un gardien nain lui confie le fragment lié à la conscience de Lamia pour le cacher dans le Monde des Rêves. Le passage correspondant est marqué 🔒 ci-dessous.
-
-**En une phrase :** Oneira est la déesse mineure des rêves et du destin, archange la plus proche des Lamiens durant l'Ère Sérénale, qui reçut d'un gardien nain survivant la garde secrète 🔒 du fragment de conscience du Cœur de Lamia, caché dans le Monde des Rêves, et qui depuis entrevoit les destins des mortels à travers leurs songes.
+**En une phrase :** Oneira est la déesse mineure des rêves et du destin, archange la plus proche des Lamiens durant l'Ère Sérénale, qui reçut d'un gardien nain survivant la garde secrète 🔒 du fragment de conscience du Cœur de Lamia, caché dans **[[Les Songes]]**, et qui depuis entrevoit les destins des mortels à travers leurs songes.
 
 ## Résumé
-
-Oneira, déesse des rêves et du destin, est l'archange qui fut la plus proche des Humains et Lamiens pendant l'Ère Sérénale. Elle était la plus investie dans la vie des êtres peuplant Lamia avec sa mère, au point qu'elle se mit à créer un lien avec toutes les âmes s'y trouvant. Ce lien augmentait d'autant plus lorsque, endormie, elle parvenait à communiquer directement avec eux à travers leurs rêves.
+Oneira, déesse des rêves et du destin, est l'archange qui fut la plus proche des Humains et Lamiens pendant l'Ère Sérénale. Proche de sa mère Albaesclatia et de son projet d'offrir aux Lamiens une vie paisible, elle doit d'abord à sa propre nature — son imagination, ses rêves — son lien naturel aux Songes. En découvrant que les mortels lamiens partagent inconsciemment cette même capacité en rêvant, portés par leur ambition, leurs rêves et leur désir de procréer, elle noue avec eux un lien profond, qu'elle approfondit ensuite en influençant certains d'entre eux à travers leurs songes.
 
 ## Histoire
-
 Oneira est la déesse des rêves et du destin. Parmi les Archanges d'[[Albaesclatia]], elle fut l'une des plus proches des [[Humains]] et des Lamiens durant l'Ère Sérénale. Là où certains dieux observaient les mortels avec distance, Oneira s'intéressait à leur intériorité : leurs peurs, leurs désirs, leurs espoirs, leurs souvenirs et les formes fragiles que prenait leur avenir.
 
-Avec sa mère Albaesclatia, elle développa peu à peu un lien profond avec les âmes présentes sur [[Lamia]]. Ce lien devenait particulièrement fort lorsque les mortels dormaient. Dans les rêves, Oneira pouvait approcher leur esprit sans briser les limites imposées au divin, leur parler par symboles, images, intuitions ou visions. Le rêve devint ainsi son domaine privilégié : un lieu où les mortels étaient vulnérables, mais aussi plus ouverts à ce qu'ils refusaient parfois de voir éveillés.
+Cette proximité vient d'abord de son lien avec sa mère : Oneira a toujours cherché à aider Albaesclatia dans son projet d'offrir aux Lamiens une existence paisible et douce. Mais avant même de se tourner vers eux, c'est sa propre nature qui la distingue parmi tous les Archanges : son imagination et ses rêves la lient naturellement aux **[[Les Songes|Songes]]**, ce plan éthéré que Mageisys lui-même avait façonné sans en avoir pleinement conscience, à l'aube des temps. Elle le parcourt sans effort, mieux que quiconque — mieux même que son propre créateur.
+
+C'est en observant les Lamiens qu'elle remarque qu'ils possèdent, sans le savoir, cette même capacité inconsciente : chaque nuit, en rêvant, ils touchent eux aussi aux Songes — portés, croit-elle, par leur ambition de progresser, par leurs rêves d'avenir, et par leur désir de procréer, autant d'élans vers un futur qui n'est pas encore advenu. C'est cette découverte qui fonde son lien profond avec eux. Dans le sommeil, elle peut approcher leur esprit sans briser les limites imposées au divin, leur parler par symboles, images, intuitions ou visions. Le rêve devint ainsi son domaine privilégié : un lieu où les mortels étaient vulnérables, mais aussi plus ouverts à ce qu'ils refusaient parfois de voir éveillés.
 
 Pendant l'Ère Sérénale, Oneira fut donc une présence discrète mais importante. Elle ne gouvernait pas les peuples, ne fondait pas de royaumes et ne cherchait pas à imposer une doctrine visible. Elle accompagnait plutôt les trajectoires individuelles, déposant des avertissements, des prémonitions ou des fragments de vérité dans le sommeil de ceux capables de les entendre.
 
 Lorsque la menace d'[[Ataraxus]] se précisa, Oneira joua un rôle essentiel dans l'avertissement des peuples de Lamia. Elle aida les [[Gnomes]], créatures issues des profondeurs de [[Naphusis]], à annoncer par les rêves le danger imminent que représentait le dieu de la destruction. Grâce à elle, certains mortels reçurent des signes avant même de voir les démons, les ruines et la guerre atteindre leur monde.
 
-Oneira n'était cependant pas une déesse de combat. Lorsque la [[Grande Guerre Divine]] éclata, elle resta dans le [[Dibertium]], observant depuis le palais divin les violences qui ravageaient Lamia. Le miroir de [[Lumina]] lui montrait les scènes macabres du continent : les batailles, les massacres, la chute des cités et la fragilité brutale des mortels qu'elle avait appris à connaître dans leurs songes.
+Oneira n'était cependant pas une déesse de combat. Lorsque la [[Grande Guerre Divine]] éclata, elle resta dans le [[Dibertium]], observant depuis le palais divin les violences qui ravageaient Lamia. [[Le miroir de Lumina]] lui montrait les scènes macabres du continent : les batailles, les massacres, la chute des cités et la fragilité brutale des mortels qu'elle avait appris à connaître dans leurs songes.
 
-> 🔒 Son rôle devint encore plus crucial après la fracture du cœur de Lamia. Lorsque les gardiens survivants comprirent qu'ils ne pouvaient plus protéger les fragments par la force seule, l'un d'eux se tourna vers Oneira. Il lui confia le fragment lié à la conscience de Lamia afin qu'elle le cache dans le seul lieu où nulle armée ne pouvait marcher : le [[Monde des Rêves]].
+> 🔒 Son rôle devint encore plus crucial après la fracture du cœur de Lamia (Ère Exodiale, ≈0–30). Lorsque les gardiens survivants comprirent qu'ils ne pouvaient plus protéger les fragments par la force seule, l'un d'eux se tourna vers Oneira. Il lui confia le fragment lié à la conscience de Lamia afin qu'elle le cache dans le seul lieu où nulle armée ne pouvait marcher : **[[Les Songes]]**.
 
-Après la Grande Guerre divine, l'affaiblissement d'[[Albaesclatia]] fut pour elle une blessure profonde. Pourtant, dans cette douleur, elle remarqua un phénomène étrange : malgré les obstacles dressés par le renforcement du [[Cœur de Lamia]], ses liens avec les habitants de Lamia semblaient s'intensifier.
+Après la Grande Guerre divine, l'affaiblissement d'[[Albaesclatia]] fut pour elle une blessure profonde. Ce n'est que bien plus tard, pendant l'**Ère du Voile** — après qu'Alfaryus eut stabilisé ce qu'il restait du Cœur — qu'elle remarqua un phénomène nouveau : ses liens avec les habitants de Lamia semblaient s'intensifier, portés par des rêves et des ambitions devenus plus grands qu'auparavant.
 
 Peu à peu, Oneira découvrit qu'elle pouvait entrevoir le destin de certains mortels. Cette capacité ne se manifesta pas comme une omniscience parfaite, mais comme un écho de ses liens avec les âmes. En observant les rêves, les désirs, les choix possibles et les blessures profondes des Lamiens, elle pouvait percevoir des lignes de destin, des convergences, des avertissements ou des chemins encore fragiles.
 
-Après la Grande Guerre, Oneira chercha dans cette observation une manière de guérir sa propre perte. Elle se plongea dans les vies des mortels, dans leurs intrigues politiques, leurs guerres intimes, leurs ambitions et leurs tourments. Elle guida certaines âmes vers des destinées plus prometteuses, non en leur retirant leur libre arbitre, mais en leur offrant des signes capables de les détourner d'une chute ou de les pousser vers un choix décisif.
+Dans cette observation grandissante, Oneira chercha aussi une manière de guérir sa propre perte. Elle se plongea dans les vies des mortels, dans leurs intrigues politiques, leurs guerres intimes, leurs ambitions et leurs tourments. Elle guida certaines âmes vers des destinées plus prometteuses, non en leur retirant leur libre arbitre, mais en leur offrant des signes capables de les détourner d'une chute ou de les pousser vers un choix décisif.
 
 > 🔒 Dans ce plan, le fragment fut soustrait aux mains des mortels, aux conquérants, aux cartes et aux démons. Il ne pouvait plus être simplement volé, transporté ou détruit. Mais il n'était pas pour autant accessible à tous. Seules des âmes capables d'en supporter l'appel pourraient un jour l'approcher, lorsque le temps viendrait et qu'une résistance serait prête à chercher ce que l'histoire avait volontairement enfoui.
 
@@ -56,7 +52,7 @@ Oneira, archange des rêves et du destin, incarne une grâce douce et bienveilla
 
 Ses yeux reflètent la profondeur des rêves. On y perçoit une compassion immense pour les mortels, mais aussi une distance étrange, celle d'un être capable d'entrevoir les chemins possibles d'une existence avant même que celui qui les porte n'en comprenne le sens.
 
-Sa chevelure d'un blanc éthéré flotte autour d'elle comme une aura onirique. Elle ne paraît jamais totalement soumise au mouvement du monde matériel, donnant l'impression que Oneira est toujours traversée par des courants invisibles venus du Monde des Rêves.
+Sa chevelure d'un blanc éthéré flotte autour d'elle comme une aura onirique. Elle ne paraît jamais totalement soumise au mouvement du monde matériel, donnant l'impression que Oneira est toujours traversée par des courants invisibles venus des **Songes**.
 
 Elle porte une robe iridescente dont la teinte semble changer selon les rêves qu'elle tisse, les âmes qu'elle approche ou les futurs qu'elle effleure. Cette robe symbolise la nature mouvante de son domaine : rien n'y est totalement fixe, rien n'y est entièrement faux, et chaque couleur peut devenir un présage.
 
@@ -112,13 +108,12 @@ Mais son danger est de croire qu'une révélation donne le droit d'orienter une 
 - [[Lumina]] — son miroir lui montre les scènes de la Grande Guerre Divine depuis le Dibertium.
 - [[Naphusis]] — les Gnomes qu'elle aide à porter l'alerte sont ses créatures.
 - [[Maurtria]] / [[Naïnrak]] — 🔒 le gardien nain qui lui confie le fragment de conscience appartient au trio de gardiens décrit dans leurs fiches (lot précédent) ; lien direct avec l'épisode de la fracture du Cœur de Lamia.
-- [[Cœur de Lamia]] / [[Monde des Rêves]] — 🔒 le fragment « Conscience » et son lieu de dissimulation sont au cœur de son rôle actuel.
+- [[Cœur de Lamia]] / [[Les Songes]] — 🔒 le fragment « Conscience » et son lieu de dissimulation sont au cœur de son rôle actuel.
 - [[Thanatia]] — rôles distingués explicitement dans la fiche de Thanatia (même lot) : Oneira agit par les rêves des vivants, Thanatia accompagne les morts.
 
 ## Contradictions potentielles
-
 🔒 **Confirmation d'un secret déjà présent dans [[Timeline Master]] — aucune fuite vers un contenu lecteur/joueur avant arbitrage.** Voir le callout en tête de fiche. Cette confirmation textuelle est une bonne nouvelle pour la cohérence (elle corrobore le secret existant plutôt que de le contredire), mais elle **augmente la sensibilité de cette fiche** : toute réutilisation dans un roman ou un scénario devra vérifier qu'aucune allusion ne révèle prématurément la localisation du fragment.
 
-**Datation absente.** Le moment où le gardien confie le fragment à Oneira n'est pas chiffré ; à situer vraisemblablement en Exodiale ≈0–30, en cohérence avec l'entrée secrète de [[Timeline Master]].
+✅ **Datation précisée (2026-07-21).** La confiance du fragment à Oneira est désormais explicitement datée d'Exodiale ≈0–30, cohérente avec [[Le Dernier Serment des Gardiens]] et l'entrée secrète de [[Timeline Master]]. L'intensification de son lien avec les mortels est quant à elle rattachée à l'Ère du Voile, après la stabilisation du Cœur par Alfaryus (Voile an 0) — sans impliquer une réunification des trois fragments, voir [[2026-07-21 — Brainstorm — ReparationDuCoeur]].
 
 **`titres`/`suivants` limités (non contradictoire).** Aucun suivant nommé dans la source ; laissé vide plutôt que reconstruit sans base textuelle.

@@ -56,6 +56,7 @@ aliases: [Chronologie, Timeline]
 - **≈ 1700–2000** · [MAJEUR] · [[La Garde du Cœur]] — Frappé par la révélation du Cœur, Naïnrak crée les Nains pour le protéger.
 - **≈ 2500** · [MAJEUR] · [[L'Asile des Dragons]] — Lamia devient l'un des grands foyers de vie encore debout et la cible prioritaire d'Ataraxus ; les quatre derniers dragons de Koboldia y trouvent refuge, renforcés et postés par Mageisys.
 - **≈ 2500–2600** · [MAJEUR] · [[La Lune Manquée]] — Frustré de ne pouvoir franchir la barrière, Ataraxus projette un astre contre Lamia : il échoue à la percuter et devient Atar, sa lune.
+- **≈ 2625–2700** · [MAJEUR] · [[La Création des Limbes]] — Alors qu'Ataraxus entreprend d'intercepter les âmes mortelles dans le plan transitoire, Xeros et Mageisys travaille ensemble pour le renforcer, créant les Limbes.
 - **≈ 2500–2600** · [MAJEUR] · [[Le Don du Chagrin]] — Le chagrin de Naphusis, dont presque tous les arbres-mondes ont été détruits, fait naître les Gnomes, chargés d'alerter les Lamiens du danger.
 - **≈ 2550–2650** · [MAJEUR] · [[La Fin de l'Innocence]] — Le message des Gnomes brise l'innocence de Lamia ; naissance de la magie offensive.
 - **≈ 2600–2700** · [MAJEUR] · [[L'Alliance Froide]] — Lumina tire Albaesclatia de son effondrement ; réunion froide et sans pardon avec Mageisys face à la menace d'Ataraxus.

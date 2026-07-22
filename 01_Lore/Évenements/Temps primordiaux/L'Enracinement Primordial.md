@@ -5,16 +5,17 @@ type: evenement
 importance: majeur
 ere: primordial
 annee: inconnu
-annee_debut:
-annee_fin:
+annee_debut: null
+annee_fin: null
 tags:
   - naphusis
   - arbre-monde
   - chronoversum
 date: 2026-07-12
-portee:
+portee: null
 aliases:
   - Le Premier Bourgeon
+revision: ia-a-valider
 ---
 # L'Enracinement Primordial
 
@@ -33,8 +34,9 @@ Albaesclatia propose à Mageisys et Lumina de collaborer pour créer une multitu
 Pour s'en défaire, Chronoversum engendre **[[Naphusis]]**. L'Arbre-Monde s'implante sur les planètes préparées. À la fois unique et multiple, cette âme divine prend la forme d'un arbre colossal qui germe sur chaque astre élu. Naphusis comprend qu'il faut d'abord engendrer une vie d'une nature plus simple : la **[[Flore]]**, extension directe de sa propre essence. Les planètes anciennement arides se couvrent d'une végétation diverse et vibrante.
 
 ## Conséquences
+> [!ia-a-valider] 2026-07-22 — Chantier Majeur (Index) : correction de « peu après » qui contredisait l'écart de ≈3000 ans voulu entre cet événement et [[La Semence Cachée]]. Décision du brainstorm [[2026-07-18 — Brainstorm — PeuplementLamia]], validée par Key. Modifié : section Conséquences réécrite.
 
-Les mondes vivants peuvent enfin se développer. Cette avancée rend possible, peu après, la création de [[Lamia]] elle-même et de ses premiers peuples intelligents (voir [[La Semence Cachée]]).
+Les mondes vivants peuvent enfin se développer. Sur Lamia, Naphusis développe Flore puis Faune durant ≈3000 ans. C'est seulement au terme de cette longue maturation, **peu avant Sérénale 0**, qu'Albaesclatia choisit cette planète pour y créer ses premiers peuples intelligents (voir [[La Semence Cachée]]).
 
 ## Qui en garde mémoire
 

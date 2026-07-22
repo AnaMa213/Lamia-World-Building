@@ -18,7 +18,7 @@ aliases:
 ---
 # Le Don du Chagrin
 
-**En une phrase :** Le chagrin de Naphusis, dont presque tous les arbres-mondes ont été détruits avec leurs planètes, se concentre dans le seul arbre-monde survivant — celui de Lamia — et fait naître les Gnomes, canal vivant entre elle et les Lamiens, chargés de porter l'alerte du danger qui menace l'univers.
+**En une phrase :** Le chagrin de Naphusis, dont énormément d'arbres-mondes ont été détruits avec leurs planètes, se concentre dans l'arbre-monde de Lamia — et fait naître les Gnomes, canal vivant entre elle et les Lamiens, chargés de porter l'alerte du danger qui menace l'univers.
 
 ## Résumé
 
@@ -26,7 +26,9 @@ Naphusis, dont la quasi-totalité des arbres-mondes ont été détruits, sent so
 
 ## Causes
 
-Après [[Le Grand Déferlement]], la quasi-totalité des arbres-mondes de [[Naphusis]] ont été détruits avec leurs planètes. Son essence se concentre dans l'un des rares qui survit encore — celui de Lamia.
+Après [[Le Grand Déferlement]], un grands nombres des arbres-mondes de [[Naphusis]] ont été détruits avec leurs planètes.
+
+Ce deuil déjà immense trouve un déclencheur local et immédiat dans [[La Lune Manquée]] (≈2500–2600) : voir Lamia elle-même, frappée à son tour par des marées et des séismes inédits, précipite sa décision d'agir maintenant, pour ce monde précisément.
 
 ## Déroulement
 
@@ -46,7 +48,8 @@ Fait largement connu — les Gnomes eux-mêmes portent cette mémoire de génér
 
 - [[Naphusis]] — mère des Gnomes, née de son chagrin.
 - [[Gnomes]] — peuple créé dans cet événement, sans note dédiée à ce jour.
-- [[Le Grand Déferlement]] — cause directe.
+- [[Le Grand Déferlement]] — cause profonde et lointaine.
+- [[La Lune Manquée]] — déclencheur local qui précipite sa décision d'agir pour Lamia spécifiquement.
 - [[La Fin de l'Innocence]] — conséquence directe.
 
 ## Contradictions potentielles

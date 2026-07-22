@@ -5,16 +5,17 @@ type: evenement
 importance: majeur
 ere: primordial
 annee: inconnu
-annee_debut:
-annee_fin:
+annee_debut: null
+annee_fin: null
 tags:
   - lamia
   - coeur-de-lamia
   - secret
 date: 2026-07-12
-portee:
+portee: null
 aliases:
   - La Naissance de Lamia
+revision: ia-a-valider
 ---
 # La Semence Cachée
 
@@ -31,22 +32,25 @@ Grâce à la naissance de Naphusis, la vie mortelle devient enfin possible. Alba
 Grâce à l'apparition de [[L'Enracinement Primordial|Naphusis]] sur de nombreuses planètes, les mondes vivants ont enfin pu se développer. Albaesclatia peut alors mettre au monde les premiers êtres intelligents. Pour cela, elle choisit une planète qui n'est pas anonyme : c'est celle-là même où, des éons plus tôt, elle avait tenté en vain de faire vivre son premier enfant, l'ange **[[2026-07-12 — Proposition — Migration Lamia (ange)|Lamia]]** (voir [[La Flamme Éteinte]]). C'est en souvenir de cette perte, et parce que c'est le lieu même où sa fille a un instant existé, qu'elle choisit d'y faire naître la vie mortelle et de nommer cette planète **[[Lamia]]**.
 
 ## Déroulement
+> [!ia-a-valider] 2026-07-22 — Chantier Majeur (Index) : dissociation implantation Naphusis (≈3000 avant Sérénale 0) / formation du Cœur (peu avant Sérénale 0), mécanisme Dibertium + portail planaire pour Humains/Elfes, reformulation de la diète — décisions du brainstorm [[2026-07-18 — Brainstorm — PeuplementLamia]], validées par Key. Modifié : section Déroulement réécrite ; note obsolète sur [[Le Cœur de Lamia]] corrigée en Relations.
 
 > 🔒 Avant même que la planète ne soit formellement choisie par Albaesclatia pour ce nouveau projet, et avant que Naphusis ne s'y implante, **Mageisys y avait déjà, en secret, insufflé l'essence de l'ange Lamia défunte** — conservée depuis sa mort dans son plan d'expérimentation (voir [[Les Accords du Despophys]]). Albaesclatia l'ignore totalement.
 
-Naphusis s'implante ensuite sur la planète sous la forme de l'Arbre-Monde. Pendant les préparatifs entre Naphusis et Albaesclatia — le choix d'une faune et d'une flore qui serviront d'aide physique et spirituelle aux futurs habitants — **le Cœur de Lamia se forme**, résultat de la rencontre entre l'essence cachée de l'ange défunte et l'implantation de Naphusis.
+Naphusis s'implante ensuite sur la planète sous la forme de l'Arbre-Monde, ≈3000 ans avant Sérénale 0 (voir [[L'Enracinement Primordial]]). Durant ces trois millénaires, elle y fait naître puis mûrir la Flore, puis la Faune — imposant sans consultation d'Albaesclatia le cycle proie-prédateur, une loi du vivant qui relève de son domaine et de celui de Mageisys, non de celui de sa sœur. Lamia devient ainsi, lentement, un monde vivant et équilibré.
+
+C'est seulement au bout de ces ≈3000 ans, **peu avant Sérénale 0**, qu'Albaesclatia choisit formellement cette planète déjà mûrie par Naphusis pour y faire naître la vie mortelle. Pendant ces préparatifs — l'accord entre les deux déesses sur l'accueil des futurs habitants — **le Cœur de Lamia se forme**, résultat de la rencontre entre l'essence cachée de l'ange défunte, restée en sommeil durant tout ce temps, et la présence désormais mûre et bien établie de Naphusis.
 
 > 🔒 Albaesclatia et surtout Naphusis remarquent bien que quelque chose cloche dans cette formation — une résonance, une densité inhabituelle. Mais Albaesclatia n'y voit qu'un signe : elle croit que c'est le souvenir de sa fille qui réagit à son amour, ému par la vie nouvelle qui s'apprête à naître au même endroit. Cette pensée la touche profondément. Elle ne soupçonne pas un instant la vérité.
 >
 > Une **barrière** naît de ce cœur au même moment, mais elle n'est alors pas intense : aucun danger ne pèse encore sur Lamia, et la barrière ne fait que sommeiller en lui, ténue, presque indiscernable.
 
-L'harmonie est totale entre les nouveaux habitants et leur monde : les animaux se nourrissent des récoltes d'Albaesclatia et offrent en retour laine, lait et autres ressources utiles ; nul n'enfreint jamais la règle de l'**importance de la vie**, et tous se nourrissent uniquement de fruits et de légumes.
+L'harmonie est totale entre les nouveaux habitants et leur monde : les animaux se nourrissent des récoltes d'Albaesclatia et offrent en retour laine, lait et autres ressources utiles. Humains et Elfes sont biologiquement omnivores, mais la règle de l'**importance de la vie**, imposée par Albaesclatia, leur interdit toute chair et tout œuf fécondé — lait et œufs non fécondés restent en revanche acceptés.
 
-Albaesclatia crée pour Lamia deux races, sans demander l'avis du Conseil :
+Albaesclatia crée pour Lamia deux races, sans demander l'avis du Conseil, en les faisant naître au [[Dibertium]] par la Flamme de [[Filiama]] :
 - les **[[Humains]]**, êtres totalement déconstruits, dotés d'un potentiel de progression immense ;
 - les **[[Elfes]]**, plus capables d'emblée, qui servent d'exemple et poussent les deux peuples à être empathiques et persévérants.
 
-Ce sont les premiers mortels que le Plan des Mondes peut accueillir.
+Une fois créés, ils sont transportés sur Lamia par un portail planaire ouvert par Mageisys — lui non plus n'a jamais besoin de fouler physiquement le sol de Lamia pour y faire apparaître de nouveaux habitants. Ce sont les premiers mortels que le Plan des Mondes peut accueillir.
 
 ## Conséquences
 
@@ -57,13 +61,12 @@ Lamia porte désormais, sans que quiconque le sache encore pleinement, une essen
 🔒 Seul Mageisys connaît la vérité complète sur l'implantation. Albaesclatia perçoit une anomalie mais l'interprète à tort comme un simple écho affectif ; elle ne découvrira la vérité que bien plus tard (voir [[La Trahison Dévoilée]]). Naphusis perçoit également que « quelque chose cloche », sans que le texte précise si elle en tire une conclusion plus juste qu'Albaesclatia — zone à préciser si tu le souhaites.
 
 ## Relations
-
 - [[Albaesclatia]] — choisit la planète en mémoire de sa fille, ignore la manipulation de Mageisys, interprète l'anomalie comme un écho affectif.
 - [[Mageisys]] — auteur du geste secret, seul à connaître la vérité complète à ce stade.
 - [[Naphusis]] — s'implante sur la planète, perçoit elle aussi l'anomalie.
 - [[Humains]] / [[Elfes]] — premiers peuples créés, sans consultation du Conseil.
 - [[La Flamme Éteinte]] — événement antérieur directement lié : même planète.
-- [[Cœur de Lamia]] — objet central, sans note dédiée à ce jour (à créer en priorité vu son rôle transversal).
+- [[Cœur de Lamia]] — objet central issu de cette rencontre ; fiche dédiée disponible.
 
 ## Contradictions potentielles
 

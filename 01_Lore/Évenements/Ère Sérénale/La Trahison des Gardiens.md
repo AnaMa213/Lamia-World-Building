@@ -1,21 +1,24 @@
 ---
-statut: brouillon
-source: ia
+statut: canon
+source: auteur
 type: evenement
 importance: majeur
 ere: serenale
 annee: 2750
 annee_debut:
 annee_fin:
-tags: [coeur-de-lamia, maurtria, nains, secret]
+tags:
+  - coeur-de-lamia
+  - maurtria
+  - nains
+  - secret
 date: 2026-07-12
 revision: ia-a-valider
 portee:
-aliases: ["La Fracture du Cœur"]
+aliases:
+  - La Fracture du Cœur
 ---
 # La Trahison des Gardiens
-
-> [!ia-a-valider] 2026-07-15 — Objet : révision du mécanisme de corruption du gardien, dictée par Key en conversation. Modifié : Résumé, Causes, Déroulement, Conséquences, Relations, Contradictions potentielles.
 
 **En une phrase :** Après plusieurs générations à voir leur mission vidée de son sens par les rêves insidieux de Maurtria, un gardien nain du Cœur de Lamia se laisse corrompre par une infime part de son essence, brise le cœur pour prouver sa liberté — avant d'être stoppé par ses frères, qui le pétrifient avec un fragment du cœur lui-même pour étouffer l'emprise de la déesse, en espérant le sauver un jour.
 
@@ -27,13 +30,15 @@ Après plusieurs générations de gardiens fidèles (voir [[La Garde du Cœur]] 
 
 Depuis [[La Garde du Cœur]], plusieurs générations de gardiens nains se succèdent dans la protection du Cœur de Lamia. Mais le premier nain chargé de cette mission par les dieux n'a jamais reçu de réponse à des questions simples : pourquoi protéger toute leur existence quelque chose dont ils ignorent eux-mêmes la véracité ? Pourquoi vivre enfermés dans les entrailles du monde plutôt que de rejoindre la surface ?
 
-**[[Maurtria]]**, incapable d'entrer sur Lamia à cause de la barrière, s'insinue patiemment dans les rêves des Nains au fil des générations, ravivant ces questions restées sans réponse — dans l'esprit général du peuple d'abord, puis, plus insidieusement, dans celui d'un des gardiens en particulier. Peu à peu, les Nains perdent de vue les raisons mêmes de leur garde.
+Ce doute abstrait prend une tournure bien plus concrète et amère avec [[La Lune Manquée]] (≈2500–2600) : les séismes qu'elle déclenche frappent durement les galeries et cités naines, causant des pertes lourdes. Pour la première fois, les Nains souffrent réellement pour une mission dont ils ne comprennent toujours pas le sens — et se demandent pourquoi les dieux qu'ils servent en silence les laissent payer un prix si lourd sans jamais leur répondre.
+
+**[[Maurtria]]**, incapable d'entrer sur Lamia à cause de la barrière, s'insinue patiemment dans les rêves des Nains au fil des générations, ravivant ces questions restées sans réponse — dans l'esprit général du peuple d'abord, puis, plus insidieusement, dans celui d'un des gardiens en particulier. Elle trouve dans cette blessure toute récente un terreau plus fertile encore que le doute abstrait des origines. Peu à peu, les Nains perdent de vue les raisons mêmes de leur garde.
 
 ## Déroulement
 
 Un des gardiens finit par se laisser tenter par la voie douce que Maurtria lui offre dans ses rêves. Le lien psychique et moral qu'elle a tissé avec lui au fil du temps lui permet, malgré la barrière, de lui insuffler une infime partie de son essence — assez pour le corrompre définitivement.
 
-D'une façon que nul ne sait précisément, il parvient à briser le cœur et tente de remonter vers la surface pour prouver sa liberté. Plus il s'éloigne des fragments du cœur, plus l'influence de Maurtria le rend puissant — car c'est le cœur lui-même qui maintient la barrière et contient la présence divine ; s'en éloigner revient à s'affranchir de cette limite.
+D'une façon que nul ne connait précisément, il parvient à briser le cœur et tente de remonter vers la surface pour prouver sa liberté. Plus il s'éloigne des fragments du cœur, plus l'influence de Maurtria le rend puissant — car c'est le cœur lui-même qui maintient la barrière et contient la présence divine ; s'en éloigner revient à s'affranchir de cette limite.
 
 Ses deux frères gardiens tentent de l'arrêter alors qu'il approche de la surface, mais il est devenu trop fort pour eux. Pour le stopper, ils parviennent à le sceller dans la roche et posent sur son corps pétrifié l'un des fragments du cœur — sachant qu'à proximité, un fragment suffit à étouffer les pouvoirs que Maurtria lui a conférés. Ils comptent revenir une fois qu'ils auront trouvé le moyen de reconstituer le cœur, pour l'affronter et, peut-être, le sauver alors.
 
@@ -57,6 +62,7 @@ Le fait brut (« le cœur de Lamia fut fracturé ») semble avoir traversé jusq
 - [[Nains]] — peuple dont plusieurs générations de gardiens se succèdent dans cette mission, avant que sa civilisation souterraine ne commence ici sa chute.
 - [[Alfaryus]] — fondera sans le savoir Cyroldan directement au-dessus de cette prison.
 - [[Le Dernier Serment des Gardiens]] — suite directe : la quête, finalement vaine, des deux gardiens survivants pour reconstituer le cœur.
+- [[La Lune Manquée]] — crise matérielle compostant le doute existentiel des Nains, terreau exploité par Maurtria.
 - [[2026-07-12 — Proposition — Migration Maurtria]] / [[2026-07-12 — Proposition — Migration Naïnrak]] — fiches déjà migrées, dont la divergence est résolue par cet événement (voir ci-dessous).
 
 ## Contradictions potentielles
@@ -64,5 +70,3 @@ Le fait brut (« le cœur de Lamia fut fracturé ») semble avoir traversé jusq
 **Datation reprise telle quelle de [[Timeline Master]] (Sérénale ≈2750) — cohérente, aucun conflit.**
 
 **Note de portée générale (non secrète) :** le mécanisme par lequel Maurtria contourne ici la barrière — un lien spirituel et psychique construit dans la durée, sans intrusion physique — préfigure la façon dont l'ensemble des dieux exercera son influence sur Lamia durant l'Ère du Voile, une fois la présence physique divine bannie : par la Foi et le lien spirituel des mortels, non plus par l'action directe.
-
-⚠️ **Point ouvert signalé par Key, non résolu ici : comment Naïnrak a-t-il pu créer les Nains directement sur Lamia (≈1700–2000) si la barrière issue du cœur était déjà durcie depuis ≈950–1000 ([[La Trahison Dévoilée]]) ?** Piste transmise en conversation : la barrière originelle (Genèse) ne repousse explicitement que « les essences divines portant l'empreinte d'Ataraxus » / « trop déviées » — pas toute divinité. Le bannissement universel de toute présence physique divine n'apparaîtrait, lui, qu'avec la **nouvelle loi** explicitement introduite après la Grande Bataille de Cyroldan (Exodiale ≈1500, déjà dans [[Timeline Master]]). Recoupe, sans le résoudre entièrement, le chantier déjà ouvert sur la présence physique de Naphusis/Akator/Xeros/Quaesir après cette date. À arbitrer par Key.

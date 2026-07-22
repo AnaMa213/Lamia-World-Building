@@ -33,11 +33,10 @@ Géographie · Peuples et Factions · Personnages · Créatures · Événements 
 
 #### Majeur
 
-- [ ] Réécrire [[La Semence Cachée]] : dissocier l'implantation écologique de Naphusis (≈3000 avant Sérénale 0) de la formation du Cœur ("peu avant Sérénale 0") — voir [[2026-07-18 — Brainstorm — PeuplementLamia]]
-- [ ] Intégrer le mécanisme du portail planaire dans [[La Garde du Cœur]] et [[L'Asile des Dragons]] — voir [[2026-07-18 — Brainstorm — PeuplementLamia]]
+- [x] Réécrire [[La Semence Cachée]] : dissocier l'implantation écologique de Naphusis (≈3000 avant Sérénale 0) de la formation du Cœur ("peu avant Sérénale 0") — voir [[2026-07-18 — Brainstorm — PeuplementLamia]]
+- [x] Intégrer le mécanisme du portail planaire dans [[La Garde du Cœur]] et [[L'Asile des Dragons]] — voir [[2026-07-18 — Brainstorm — PeuplementLamia]]
 - [ ] Créer une fiche evenement dédiée aux Xeroniens (Xeros/Naphusis/canal d'essence) — voir [[2026-07-18 — Brainstorm — PeuplementLamia]]
-- [ ] Retravailler le lore sur "[[La Trahison des Gardiens]]"
-- [ ] Retravailler le lore sur "[[Le Dernier Serment des Gardiens]]"
+- [x] Retravailler le lore sur "[[Le Dernier Serment des Gardiens]]"
 - [ ] Retravailler le lore sur "[[Les Jumeaux Divins]]"
 
 #### Mineur

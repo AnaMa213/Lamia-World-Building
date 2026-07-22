@@ -1,15 +1,27 @@
 ---
 statut: brouillon
 type: divinite
-tags: [foyer, famille, profondeurs]
+tags:
+  - foyer
+  - famille
+  - profondeurs
 date: 2026-07-12
-portee:
-aliases: ["Foyer du monde", "Dieu du Foyer", "Dieu de la Famille"]
+portee: null
+aliases:
+  - Foyer du monde
+  - Dieu du Foyer
+  - Dieu de la Famille
 rang: majeure
 etat: active
-titres: ["Le Foyer du monde"]
-suivants: ["[[Nains]]", "[[Ghorreks]]", "Yetains", "Familles en général"]
+titres:
+  - Le Foyer du monde
+suivants:
+  - "[[Nains]]"
+  - "[[Ghorreks]]"
+  - Yetains
+  - Familles en général
 alignement: Loyal Bon
+revision: ia-a-valider
 ---
 
 # Naïnrak
@@ -25,7 +37,6 @@ alignement: Loyal Bon
 Naïnrak, le Dieu du Foyer et de la Famille, a un passé touchant. En marge des idées de ses frères et sœurs archanges, il vouait un profond amour pour eux. Sur Lamia, il est honoré en tant que protecteur des foyers et de la cohésion familiale. La grande guerre divine l'a profondément affecté, perdant de nombreux semblables et sa mère Albaesclatia.
 
 ## Histoire
-
 Naïnrak est le dieu du Foyer, de la Famille et de la cohésion des siens. Parmi les Archanges, il s'est toujours tenu un peu en marge des grandes ambitions cosmiques de ses frères et sœurs. Là où d'autres cherchaient à créer des mondes, à façonner des lois, à développer la puissance ou à guider les civilisations, Naïnrak plaçait au centre de toute chose le lien familial : le foyer, la loyauté, la protection mutuelle et la chaleur partagée contre l'hostilité du monde.
 
 Aux premiers temps de la vie dans l'univers, il peupla une planète de petits êtres robustes, adaptés aux roches, aux montagnes et aux profondeurs. Ils trouvaient dans la pierre une sécurité naturelle, dans le feu une chaleur sacrée, et dans le sang familial le fondement de leur société. Pour Naïnrak, ce peuple représentait l'idéal d'une communauté soudée : peu brillante aux yeux du Conseil, peut-être, mais forte parce qu'elle savait ce qu'elle devait protéger.
@@ -34,9 +45,11 @@ Lorsque les démons d'[[Ataraxus]] ravagèrent les planètes vivantes, ce premie
 
 Une fois [[Lamia]] devenu le dernier refuge de la vie, Naïnrak fut frappé par la révélation que la planète portait en son cœur l'essence de la défunte Lamia, première fille d'[[Albaesclatia]]. Pour lui, ce cœur n'était pas seulement un vestige divin : il était le foyer le plus sacré de l'univers, le centre intime autour duquel toute vie restante devait être protégée.
 
-Naïnrak convainquit alors Albaesclatia qu'un tel foyer ne pouvait rester sans gardiens. Il ne s'agissait pas de transformer des humains ou des elfes déjà présents, mais d'ajouter à Lamia un peuple conçu pour cette mission précise. Ainsi naquirent les [[Nains]] : êtres trapus, résistants, liés à la pierre, à la profondeur, au feu intérieur et à la protection du foyer.
+> [!ia-a-valider] 2026-07-22 — Chantier Majeur (Index, via [[La Garde du Cœur]]) : alignement sur le mécanisme du portail planaire (brainstorm [[2026-07-18 — Brainstorm — PeuplementLamia]], validé par Key). Modifié : les deux paragraphes suivants, sur la création des Nains.
 
-Les Nains furent créés pour vivre au sein même de la planète, dans les profondeurs, à l'écart des peuples de la surface. Albaesclatia était convaincue qu'un contact trop direct avec les humains et les elfes risquait de briser l'équilibre de Lamia. Les Nains ne devaient donc pas devenir un peuple parmi les autres, mais une garde secrète, enracinée dans la chair du monde.
+Naïnrak convainquit alors Albaesclatia qu'un tel foyer ne pouvait rester sans gardiens. Il ne s'agissait pas de transformer des humains ou des elfes déjà présents, mais d'ajouter à Lamia un peuple conçu pour cette mission précise. La barrière du cœur, durcie depuis cette révélation même, ne laissant plus aucune divinité se manifester physiquement sur Lamia, Naïnrak conçut les [[Nains]] au sein du [[Dibertium]] — êtres trapus, résistants, liés à la pierre, à la profondeur, au feu intérieur et à la protection du foyer — avant que [[Mageisys]] ne les fasse passer sur Lamia par un portail planaire.
+
+Une fois sur place, les Nains s'installèrent au sein même de la planète, dans les profondeurs, à l'écart des peuples de la surface. Albaesclatia était convaincue qu'un contact trop direct avec les humains et les elfes risquait de briser l'équilibre de Lamia. Les Nains ne devaient donc pas devenir un peuple parmi les autres, mais une garde secrète, enracinée dans la chair du monde.
 
 Trois d'entre eux furent désignés comme gardiens directs du cœur de Lamia — son corps et son essence. Le reste du peuple nain bâtit autour de cette mission une civilisation souterraine entière, vouée à la protection, à la stabilité et à la préservation du foyer sacré.
 
@@ -118,11 +131,10 @@ Sa véritable évolution serait d'accepter que la famille n'est pas seulement le
 - [[Cœur de Lamia]] / [[Despophys]] / [[Conseil des Archanges]] — lieux et instances où se joue son rôle actuel de médiateur.
 
 ## Contradictions potentielles
-
 ⚠️ **Sort du gardien corrompu et mécanisme de la brèche : divergence avec la fiche [[Maurtria]] (même lot).** Cette fiche affirme que « les deux autres gardiens l'arrêtèrent avant qu'il ne rejoigne la surface... ils l'enfermèrent dans une prison de pierre, figé avec le fragment qu'il portait » — le gardien est donc capturé et la brèche s'ouvre par la catastrophe générale consécutive à la fracture (« un passage s'ouvrit dans les entrailles du monde »). La fiche [[Maurtria]] affirme au contraire que c'est le gardien corrompu, en tentant lui-même de gagner la surface, qui « ouvrit... une faiblesse... un point de passage » — sous-entendant une fuite non stoppée. **À arbitrer** — la version de cette fiche-ci (gardien capturé et emprisonné) est celle qui recoupe le mieux le secret 🔒 de [[Timeline Master]] sur le fragment « Corps enfermé dans une pierre noire » (voir aussi Contradictions de la fiche Maurtria).
 
 ⚠️ **Premier peuple de Naïnrak non documenté ailleurs.** La « planète de petits êtres robustes » détruite par les démons avant la création des Nains n'est nommée nulle part, ni datée, ni présente dans [[Timeline Master]]. Élément à consigner (nom du peuple, du monde, datation) si Key souhaite le développer, ou à laisser en zone floue assumée.
 
-**Datation de la création des Nains cohérente avec [[Timeline Master]] (non contradictoire, à confirmer).** Timeline Master indique Sérénale ≈750 (« semi-canon — à préciser ») pour la création des Nains « pour protéger le cœur de Lamia ». Cette fiche corrobore l'ordre des événements (révélation du cœur → création des Nains → trois gardiens → corruption) sans donner de date chiffrée. Cette convergence pourrait justifier de faire passer cette entrée de Timeline Master de « semi-canon » à validée — décision qui t'appartient.
+✅ **Datation mise à jour (22/07/2026).** Timeline Master a depuis été révisé : la création des Nains est datée ≈1700–2000 Sérénale dans la fiche canon [[La Garde du Cœur]] (validée, non plus « semi-canon »), et non ≈750 comme l'indiquait la version de Timeline Master consultée au moment de la rédaction de cette fiche. Cette fiche-ci ne donne pas de date chiffrée et reste compatible avec l'ordre des événements une fois recalée sur ≈1700–2000.
 
-**Statut face au bannissement de la présence physique divine (non contradictoire ici).** Contrairement à [[Naphusis]] ou [[Akator]], rien dans cette fiche n'indique que Naïnrak est physiquement présent sur Lamia — il agit depuis le [[Despophys]]. Aucune tension avec la loi post-Cyroldan de [[Timeline Master]].
+**Statut face au bannissement de la présence physique divine (non contradictoire ici).** Contrairement à [[Naphusis]] ou [[Akator]], rien dans cette fiche n'indique que Naïnrak est physiquement présent sur Lamia — il agit depuis le [[Despophys]]. Aucune tension avec la loi post-Cyroldan de [[Timeline Master]] ; cohérent avec le mécanisme du portail planaire désormais explicite en Histoire (Naïnrak conçoit au Dibertium, Mageisys transporte).

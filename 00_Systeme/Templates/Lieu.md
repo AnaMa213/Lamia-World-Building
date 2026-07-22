@@ -1,12 +1,13 @@
 ---
 statut: brouillon
 type: lieu
-continent: 
-region: 
+continent:
+region:
 tags: []
 date: <% tp.date.now("YYYY-MM-DD") %>
-portee: 
+portee:
 aliases: []
+plan:
 ---
 # <% tp.file.title %>
 

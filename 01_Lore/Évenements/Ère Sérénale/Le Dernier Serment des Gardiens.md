@@ -1,5 +1,5 @@
 ---
-statut: semi-canon
+statut: canon
 source: auteur
 type: evenement
 importance: majeur
@@ -12,25 +12,17 @@ tags:
   - oneira
   - secret
 date: 2026-07-12
-revision: ia-a-valider
 portee:
 aliases:
   - La Disparition des Gardiens
 ---
 # Le Dernier Serment des Gardiens
 
-> [!note] Brouillon de migration — 2026-07-12
-> Extrait et reformaté depuis `99_Archive/Evenements/Genèse de l'univers de Lamia.md` (brouillon, non validé), fin de la section « La première guerre souterraine ». Prose reprise telle quelle. **Contradictions potentielles** ajoutées par l'IA.
-> 🔒 **SECRET — confirme et détaille directement l'entrée déjà 🔒 dans [[Timeline Master]] (Exodiale ≈0–30) : « Corps enfermé dans une pierre noire, l'Âme assimilée par un Protecteur, la Conscience cachée dans Oneira ».**
-> ⚠️ Cette fiche **corrige une hypothèse que j'avais proposée** lors de la migration d'[[2026-07-12 — Proposition — Migration Humarios]] — voir Contradictions potentielles.
-
-> [!ia-a-valider] 2026-07-15 — Objet : ajout de la motivation des deux gardiens survivants, dicté par Key en conversation. Modifié : Causes, Conséquences, Contradictions potentielles (comblement d'un renvoi resté sans contenu).
-
-**En une phrase :** Après la chute de la civilisation naine, les deux gardiens survivants soustraient au monde les deux fragments restants du Cœur de Lamia — l'un assimilé dans l'âme même de son porteur pour renaître à travers les générations mortelles, l'autre confié à Oneira pour être caché dans le Plan des Rêves.
+**En une phrase :** Après la chute de la civilisation naine, les deux gardiens survivants soustraient au monde les deux fragments restants du Cœur de Lamia — l'un fusionné par sa propre volonté à son porteur mourant, piégé sur Lamia et contraint à une errance traquée de corps en corps, l'autre confié à Oneira pour être caché dans Les Songes.
 
 ## Résumé
 
-Épuisés par la chute de leur civilisation, les deux gardiens nains survivants comprennent qu'ils ne peuvent plus protéger leurs fragments par la seule force. Le premier lie le sien à sa propre âme, pour qu'il renaisse à travers ses futures incarnations mortelles. Le second confie le sien à Oneira, qui le cache dans le Plan des Rêves.
+Épuisés par la chute de leur civilisation, les deux gardiens nains survivants comprennent qu'ils ne peuvent plus protéger leurs fragments par la seule force. Le premier meurt en défendant seul le sien contre des vagues de démons ; touché par son dévouement, le fragment fusionne de lui-même avec lui, avant de renaître, par sa propre volonté, à travers ses futures incarnations mortelles. Le second confie le sien à Oneira, qui le cache dans Les Songes.
 
 ## Causes
 
@@ -42,13 +34,17 @@ Les survivants choisissent l'exil vers les montagnes du nord plutôt que l'anéa
 
 Aidés par leur proximité avec les dieux, les deux gardiens choisissent de soustraire les fragments au monde plutôt que de les confier à des royaumes qui n'existent pas encore.
 
-Le **premier gardien** assimile son fragment en lui. Il le lie à son essence, à son sang, à son âme même, de sorte qu'à sa mort le fragment ne puisse être saisi ni par les démons, ni par les mortels, ni par les puissances avides. Il suivra son âme dans le cycle de la vie, jusqu'à participer à la naissance d'un nouveau mortel qui, sans toujours connaître la nature de ce qu'il porte, deviendra à son tour le gardien vivant du fragment.
+Le **premier gardien**, resté seul après la chute des siens, défend son fragment durant plusieurs jours contre des vagues de démons profitant du chaos de [[La Chute de l'Âge d'Or]]. Épuisé, à bout de forces, sur le point de mourir, il continue de faire barrage de son corps. Touché par cet acharnement à le protéger, le fragment — qui n'est pas un objet inerte mais porte en lui la conscience matérialisée de l'ange Lamia défunte (voir [[La Semence Cachée]], [[Le Cœur de Lamia]]) — fusionne de lui-même avec le gardien pour le préserver.
 
-Le **second gardien** se tourne vers **[[Oneira]]** et lui demande de cacher son fragment là où nulle armée ne peut marcher : dans le **[[Plan des Rêves]]**. Là, le fragment sera perdu pour les mains, pour les cartes et pour les conquérants. Il ne pourra être approché que par des âmes capables d'en supporter l'appel, lorsque le temps viendra et qu'une résistance sera prête à chercher ce que l'histoire avait volontairement enfoui.
+Le gardien meurt malgré tout, submergé. Mais son âme résiste à l'appel des Limbes, retenue par l'essence même de Lamia dont le fragment est fait — un précédent déjà démontré par la substance du Cœur, dont une part avait déjà résisté au même sort par l'intervention de Mageisys, bien avant la formation de Lamia elle-même (voir [[Le Larcin de Mageisys]]). Le gardien lui-même, en un sens, ne meurt donc jamais tout à fait : son âme demeure piégée sur Lamia, invisible aux mortels — mais pas aux démons, dont l'odorat pour l'essence divine ne faiblit jamais. Si l'aura du fragment affaiblit tout démon qui s'en approche, leur nombre suffit à menacer sa survie ; il n'a donc jamais le loisir d'attendre ou de choisir.
+
+Contraint par cette menace permanente, le fragment passe au plus vite de corps en corps, cherchant refuge dans un nouveau-né — sans juger de sa nature ou de sa lignée, Nain, Humain ou Elfe indifféremment, le hasard de la survie primant sur tout dessein. Il ne peut que suggérer, jamais contraindre : la plupart des porteurs ne ressentent rien de plus qu'un rêve rare et incompréhensible, écho sans mémoire d'une vie qui n'est plus la leur. De loin en loin, l'un d'eux, sans le savoir vraiment, se met en marche vers une quête qu'il ne comprend qu'à moitié.
+
+Le **second gardien** se tourne vers **[[Oneira]]** et lui demande de cacher son fragment là où nulle armée ne peut marcher : dans **[[Les Songes]]**, le plus ancien et le plus mystérieux des plans de Mageisys — créé par lui, avant même le Plan des Mondes, sans qu'il en ait jamais pleinement conscience ni maîtrisé le fonctionnement. Parce que le fragment est lui aussi, avant tout, la conscience matérialisée de l'ange Lamia, il trouve dans ce plan d'imaginaire pur un refuge naturel : Oneira et le gardien parviennent à y plonger toute sa conscience, sans qu'il ait jamais besoin de quitter réellement le Plan des Mondes — Les Songes se croisent partout avec lui, sans jamais s'y fondre, ni y être atteignables par un quelconque portail planaire. Là, le fragment sera perdu pour les mains, pour les cartes et pour les conquérants. Il ne pourra être approché que par des âmes capables d'en supporter l'appel, lorsque le temps viendra et qu'une résistance sera prête à chercher ce que l'histoire avait volontairement enfoui.
 
 ## Conséquences
 
-Les trois fragments du Cœur de Lamia se retrouvent définitivement dispersés selon trois logiques distinctes : le **Corps**, scellé dans une prison de pierre avec le gardien corrompu (voir l'événement précédent) ; l'**Âme**, assimilée dans le cycle de réincarnation d'un gardien nain ; la **Conscience**, cachée par Oneira dans le Plan des Rêves. Cette triple dispersion correspond exactement au secret déjà consigné dans [[Timeline Master]].
+Les trois fragments du Cœur de Lamia se retrouvent définitivement dispersés selon trois logiques distinctes : le **Corps**, scellé dans une prison de pierre avec le gardien corrompu (voir l'événement précédent) ; l'**Âme**, piégée sur Lamia et contrainte à une errance perpétuelle, traquée par les démons, de corps mortel en corps mortel ; la **Conscience**, cachée par Oneira dans Les Songes. Cette triple dispersion correspond exactement au secret déjà consigné dans [[Timeline Master]].
 
 Les deux gardiens ne renoncent pas par résignation pure : chacun scelle son fragment en espérant qu'un jour, quelqu'un parviendra à les reconstituer tous les trois — non seulement pour affronter leur frère pétrifié, mais pour renforcer la barrière de Lamia elle-même.
 
@@ -58,8 +54,12 @@ Les deux gardiens ne renoncent pas par résignation pure : chacun scelle son fra
 
 ## Relations
 
-- [[Oneira]] — reçoit et cache la Conscience dans le Plan des Rêves ; confirme le contenu de sa fiche déjà migrée.
-- [[Nains]] — les deux gardiens survivants portent chacun un fragment.
+- [[Oneira]] — reçoit et cache la Conscience dans Les Songes ; confirme le contenu de sa fiche déjà migrée.
+- [[Les Songes]] — plan où la Conscience est cachée, sans jamais quitter réellement le Plan des Mondes.
+- [[Le Cœur de Lamia]] / [[La Semence Cachée]] / [[Le Larcin de Mageisys]] — précédent établi de résistance à la dissolution normale d'une essence, et origine des fragments comme conscience matérialisée de l'ange Lamia.
+- [[Le Cycle des Âmes]] — mécanisme normal des âmes auquel celle du gardien résiste, restant piégée sur Lamia plutôt que de rejoindre Filiama.
+- [[La Chute de l'Âge d'Or]] — chaos concomitant à la mort du premier gardien.
+- [[Nains]] — les deux gardiens survivants portent chacun un fragment ; l'Âme ne reste toutefois liée à aucune lignée en particulier (voir Déroulement).
 - [[La Trahison des Gardiens]] — événement immédiatement antérieur.
 - [[Timeline Master]] — secret 🔒 déjà présent (Exodiale ≈0–30), directement confirmé et détaillé ici.
 
@@ -68,5 +68,9 @@ Les deux gardiens ne renoncent pas par résignation pure : chacun scelle son fra
 ✅ **Corrige une hypothèse proposée lors de la migration de [[2026-07-12 — Proposition — Migration Humarios]] (renvoi resté sans contenu jusqu'ici — comblé maintenant).** Le porteur du fragment Âme (« le premier gardien », ci-dessus) n'est PAS Humarios : c'est l'un des deux gardiens nains survivants de [[La Trahison des Gardiens]]. Humarios n'a aucun lien avec le fragment Corps ni avec la pierre qui scelle le gardien corrompu (précision explicite de Key — à ne pas reconflater).
 
 **Identité du gardien-Âme non nommée.** Ni son nom, ni la lignée mortelle dans laquelle il aurait pu renaître ne sont précisés — fil narratif volontairement ouvert, possible accroche de campagne si tu souhaites le développer.
+
+✅ **Mécanisme du fragment-Âme entièrement revu (2026-07-21, suite au brainstorm [[2026-07-21 — Brainstorm — FragmentsCoeur]])** : la piste Naïnrak/ancrage lignéger et le passage par les Limbes/Filiama sont abandonnés. Le fragment retient désormais l'âme du gardien sur Lamia même, invisible aux mortels mais traqué sans relâche par les démons (son aura anti-essence divine les affaiblit, mais leur nombre peut lui être fatal) — d'où une errance rapide, sans jugement de dignité, de corps mortel en corps mortel, toute lignée confondue.
+
+✅ **Nommage du plan onirique tranché : Les Songes** (2026-07-21) — remplace « Plan des Rêves » dans cette fiche. Le brouillon Oneira reste à harmoniser séparément.
 
 **Datation reprise directement de [[Timeline Master]] (Exodiale ≈0–30) — cohérente, aucun conflit.**
