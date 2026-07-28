@@ -4,7 +4,7 @@ source: auteur
 type: evenement
 importance: majeur
 ere: primordial
-annee: inconnu
+annee: 15 millions d'années avant Sérénale 0
 annee_debut:
 annee_fin:
 tags:

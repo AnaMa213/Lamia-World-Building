@@ -1,15 +1,27 @@
 ---
 statut: brouillon
 type: divinite
-tags: [nature, arbre-monde]
+tags:
+  - nature
+  - arbre-monde
 date: 2026-07-11
-portee:
-aliases: ["Arbre-Monde", "Déesse de la Nature"]
+portee: null
+aliases:
+  - Arbre-Monde
+  - Déesse de la Nature
 rang: primordiale
 etat: active
-titres: ["Déesse de la Nature"]
-suivants: ["Druides", "Marins", "Paysans", "[[Gnomes]]"]
+titres:
+  - Déesse de la Nature
+suivants:
+  - Druides
+  - Marins
+  - Paysans
+  - "[[Gnomes]]"
 alignement: Loyal Neutre
+source: ia
+revision: ia-a-valider
+revision-date: 2026-07-27
 ---
 
 # Naphusis
@@ -123,3 +135,12 @@ Mais son danger est de regarder les êtres conscients comme des éléments d'un 
 **Emplacement de l'Arbre-Monde non défini.** « Dressé au cœur du monde » — aucun lieu précis nulle part dans le vault, alors que la géographie post-Exodiale (Horiae, Eliyae, îles) est fracturée. L'Arbre-Monde a-t-il survécu à la fracture du continent (Grande Bataille de Cyroldan) ? Zone floue à consigner.
 
 **Naphelia sans note.** « Certains Elfes de Naphelia » — lieu ou région lié à son nom, mentionné nulle part ailleurs. À créer ou rattacher lors de la migration des Lieux.
+
+
+> [!ia-a-valider]- 2026-07-27 — Origine de Naphusis : les deux récits sont conjoints, pas concurrents
+> **Décision** : tranchée avec l'auteur (session Chronoversum, 2026-07-27).
+> **Modifié** : résolution de la contradiction ci-dessus.
+>
+> Chronoversum est bien le géniteur direct (confirmé, cohérent avec [[L'Enracinement Primordial]] et [[Timeline Master]], déjà canon), mais la « convergence d'un projet » des trois dieux créateurs n'est pas invalidée pour autant : les deux causes sont vraies simultanément. Le désarroi collectif d'[[Albaesclatia]], [[Lumina]] et [[Mageisys]] face à l'échec de peupler les nouveaux mondes atteint Chronoversum lui-même — cohérent avec sa nature panthéiste (il *est* les dieux, il ressent ce qu'ils ressentent) — et se conjugue à sa propre envie inconsciente de nouveauté, déjà le moteur de chacune de ses émanations précédentes. Naphusis naît de cette double poussée : le projet des trois dieux lui donne sa forme et sa fonction (protéger le vivant), l'inconscient de Chronoversum lui donne l'impulsion qui la fait exister. Relations ci-dessus non réécrites (additif uniquement) — à ajuster par l'auteur si souhaité.
+
+^rev-20260727-naphusis-origine

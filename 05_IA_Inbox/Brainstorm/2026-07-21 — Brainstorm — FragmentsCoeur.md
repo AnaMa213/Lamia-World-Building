@@ -1,8 +1,9 @@
 ---
 statut: brouillon
 source: ia
-tags: [brainstorm]
-sujet: "Cohérence des trois fragments du Cœur de Lamia (Corps, Âme, Conscience) après leur dispersion dans Le Dernier Serment des Gardiens — mécanismes de survie, de dissimulation et de résistance à la dissolution normale des âmes."
+tags:
+  - brainstorm
+sujet: Cohérence des trois fragments du Cœur de Lamia (Corps, Âme, Conscience) après leur dispersion dans Le Dernier Serment des Gardiens — mécanismes de survie, de dissimulation et de résistance à la dissolution normale des âmes.
 entites_liees:
   - "[[Le Dernier Serment des Gardiens]]"
   - "[[Le Cœur de Lamia]]"
@@ -14,7 +15,7 @@ entites_liees:
   - "[[2026-07-12 — Proposition — Migration Naïnrak|Naïnrak]]"
   - "[[2026-07-12 — Proposition — Migration Oneira|Oneira]]"
   - "[[2026-07-12 — Proposition — Migration Maurtria|Maurtria]]"
-  - "[[2026-07-11 — Proposition — Migration Mageisys|Mageisys]]"
+  - "[[Mageisys|Mageisys]]"
 date: 2026-07-21
 ---
 # 2026-07-21 — Brainstorm — FragmentsCoeur
@@ -39,7 +40,7 @@ Vérifier / retravailler la cohérence des trois mécanismes de dissimulation de
 - [[La Semence Cachée]] / [[Le Larcin de Mageisys]] : précédent déjà établi qu'une part de l'essence de l'ange Lamia a pu résister à la dissolution normale d'une âme, préservée intacte par Mageisys avant même la formation de Lamia.
 - [[Le Cycle des Âmes]] : mécanisme normal de naissance/mort des âmes lamiennes via les Limbes jusqu'à Filiama ; Alketeria filtre la noirceur à l'arrivée, pas la densité d'une essence étrangère ; Aion peut intercepter des âmes exceptionnelles.
 - Archive non-canon (`Genèse de l'univers de Lamia`, section « Les deux premières consciences ») : Mageisys aurait créé un « plan immatériel » dès l'aube des temps pour y laisser vagabonder son esprit — jamais nommé ni relié à Oneira ailleurs avant cette session.
-- Brouillons divinités mobilisés (non migrés) : [[2026-07-12 — Proposition — Migration Naïnrak|Naïnrak]], [[2026-07-12 — Proposition — Migration Oneira|Oneira]], [[2026-07-12 — Proposition — Migration Maurtria|Maurtria]], [[2026-07-11 — Proposition — Migration Mageisys|Mageisys]].
+- Brouillons divinités mobilisés (non migrés) : [[2026-07-12 — Proposition — Migration Naïnrak|Naïnrak]], [[2026-07-12 — Proposition — Migration Oneira|Oneira]], [[2026-07-12 — Proposition — Migration Maurtria|Maurtria]], [[Mageisys|Mageisys]].
 
 ## Pistes explorées
 

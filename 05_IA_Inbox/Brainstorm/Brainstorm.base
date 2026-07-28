@@ -1,0 +1,21 @@
+filters:
+  and:
+    - file.inFolder("05_IA_Inbox/Brainstorm")
+    - file.ext == "md"
+properties:
+  file.name:
+    displayName: Fiche
+  sujet:
+    displayName: Sujet
+  date:
+    displayName: Session
+  statut:
+    displayName: Statut
+views:
+  - type: table
+    name: Brainstorms à trier
+    order:
+      - file.name
+      - sujet
+      - date
+      - statut

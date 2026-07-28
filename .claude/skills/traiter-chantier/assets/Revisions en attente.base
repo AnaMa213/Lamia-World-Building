@@ -1,0 +1,20 @@
+filters:
+  and:
+    - 'revision == "ia-a-valider"'
+properties:
+  file.name:
+    displayName: "Fiche"
+  revision-date:
+    displayName: "Marquée le"
+  statut:
+    displayName: "Statut"
+  file.folder:
+    displayName: "Dossier"
+views:
+  - type: table
+    name: "Revisions en attente"
+    order:
+      - file.name
+      - revision-date
+      - statut
+      - file.folder

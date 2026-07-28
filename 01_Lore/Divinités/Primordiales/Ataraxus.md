@@ -1,15 +1,28 @@
 ---
-statut: brouillon
+statut: canon
+source: auteur
 type: divinite
-tags: [chaos, destruction, demons]
+tags:
+  - chaos
+  - destruction
+  - demons
 date: 2026-07-11
 portee:
-aliases: ["Dieu du chaos", "Dieu de la destruction", "Ancien dieu du Calme et de la Tranquillité"]
+aliases:
+  - Dieu du chaos
+  - Dieu de la destruction
+  - Ancien dieu du Calme et de la Tranquillité
 rang: primordiale
 etat: bannie
-titres: ["Dieu du chaos et de la destruction"]
-suivants: ["Conjurateurs de démons", "Ombres", "[[Démons]]", "Ceux-qui-ont-tout-perdu"]
+titres:
+  - Dieu du chaos et de la destruction
+suivants:
+  - Conjurateurs de démons
+  - Ombres
+  - "[[Démons]]"
+  - Ceux-qui-ont-tout-perdu
 alignement: Chaotique Mauvais
+revision-date: 2026-07-28
 ---
 
 # Ataraxus
@@ -21,29 +34,29 @@ alignement: Chaotique Mauvais
 
 ## Résumé
 
-Ataraxus fut le premier dieu primordial à voir le jour lorsque [[Chronoversum]] déclencha la première ère du temps. Pendant longtemps, il demeura le dieu du Calme et de la Tranquillité, appréciant la quiétude sidérale de l'espace créée par Chronoversum. Son esprit ne faisait qu'un avec le monde qui l'entourait, évoluant dans une paix parfaite en son sein. Cependant, lors du déclenchement de la seconde ère et après l'arrivée de Lumina et Albaesclatia dans l'univers, tout son monde se brisa en éclats.
+Ataraxus fut le premier dieu primordial à voir le jour, lors de la première émanation de [[Chronoversum]]. Pendant longtemps, il demeura le dieu du Calme et de la Tranquillité, appréciant la quiétude sidérale de l'espace créée par Chronoversum. Son esprit ne faisait qu'un avec le monde qui l'entourait, évoluant dans une paix parfaite en son sein. Cependant, lors de la seconde émanation et après l'arrivée de Lumina et Albaesclatia dans l'univers, tout son monde se brisa en éclats.
 
 ## Histoire
 
-Ataraxus fut le premier dieu primordial à voir le jour lorsque Chronoversum déclencha la première ère du temps. Avant d'être craint comme dieu de la destruction, il fut d'abord le dieu du Calme et de la Tranquillité. Il trouvait dans le silence sidéral de l'univers une paix parfaite : un espace immense, froid, stable, sans tumulte, sans cri, sans agitation.
+Ataraxus fut le premier dieu primordial à voir le jour, lors de la première émanation de Chronoversum. Avant d'être craint comme dieu de la destruction, il fut d'abord le dieu du Calme et de la Tranquillité. Il trouvait dans le silence sidéral de l'univers une paix parfaite : un espace immense, froid, stable, sans tumulte, sans cri, sans agitation.
 
 Pendant des milliards d'années, son esprit ne fit presque qu'un avec cette quiétude. Exister sans oscillation lui suffisait. Là où d'autres divinités auraient vu le vide comme une absence, Ataraxus y voyait une plénitude : un ordre sans fracture, une paix sans désir, un monde sans conflit parce qu'aucune vie ne venait encore troubler son immobilité.
 
-Tout changea avec la seconde ère. L'arrivée de [[Lumina]] et d'[[Albaesclatia]], puis le projet de rendre l'univers vivant, interactif et habité, brisa l'équilibre intérieur d'Ataraxus. Les astres en feu, les mondes féconds, les voix, les désirs, les souffrances et les civilisations naissantes devinrent pour lui une agression permanente. En quelques millénaires, les êtres vivants produisirent plus de bruit, de conflit et de mouvement qu'il n'en avait connu en plusieurs milliards d'années.
+Tout changea avec la seconde émanation. L'arrivée de [[Lumina]] et d'[[Albaesclatia]], puis le projet de rendre l'univers vivant, interactif et habité, brisa l'équilibre intérieur d'Ataraxus. Les astres en feu, les mondes féconds, les voix, les désirs, les souffrances et les civilisations naissantes devinrent pour lui une agression permanente. En quelques millénaires, les êtres vivants produisirent plus de bruit, de conflit et de mouvement qu'il n'en avait connu en plusieurs milliards d'années.
 
 Cette rupture le rongea jusqu'au cœur de son essence divine. Ataraxus ne se perçut pas d'abord comme un destructeur, mais comme celui qui voulait restaurer l'état originel du cosmos. À ses yeux, Albaesclatia, Lumina et [[Mageisys]] avaient infligé une blessure à l'univers en y introduisant la vie, la lumière, la magie, la volonté et le changement. Il déclara donc la guerre à ceux qu'il considérait comme la source de son mal le plus profond.
 
-Conscient qu'il ne pourrait pas affronter seul les dieux et leurs anges, Ataraxus chercha à créer ses propres armes. Mais il ne possédait ni la maîtrise créatrice d'Albaesclatia, ni son amour du vivant. Ses créations furent des reflets déformés des anges : des êtres nés de sa souffrance, de son rejet du changement et de sa volonté de ramener le silence. Ainsi naquirent les [[Démons]].
+Conscient qu'il ne pourrait pas affronter seul les dieux et leurs anges, Ataraxus chercha à créer ses propres armes. Mais il ne possédait ni la maîtrise créatrice d'Albaesclatia, ni son amour du vivant. Ses créations furent des reflets déformés des anges : des êtres nés de sa souffrance, de son rejet du changement et de sa volonté de ramener le silence. Ainsi naquirent les [[Démons]] (voir [[Le Grand Déferlement]]).
 
-Là où les anges portaient une intention, une beauté ou une fonction sacrée, les démons furent conçus comme des instruments de négation. Ataraxus compensa leur imperfection par le nombre. Il leva des légions entières, alimentées par sa haine du tumulte vivant et par son désir obsessionnel de retrouver la paix sidérale de la première ère.
+Là où les anges portaient une intention, une beauté ou une fonction sacrée, les démons furent conçus comme des instruments de négation. Ataraxus compensa leur imperfection par le nombre. Il leva des légions entières, alimentées par sa haine du tumulte vivant et par son désir obsessionnel de retrouver la paix sidérale de la première émanation.
 
 La guerre qui suivit ravagea l'univers. Monde après monde, les créations d'Albaesclatia furent détruites, les civilisations réduites au silence et les formes de vie arrachées à l'existence. En frappant les protégés de la Déesse de la Vie, Ataraxus ne cherchait pas seulement à conquérir : il voulait éteindre les vibrations mêmes du vivant. Chaque planète morte était, pour lui, un pas vers le calme perdu.
 
 Au terme de ces batailles, Albaesclatia perdit une grande partie de sa puissance. Le vivant fut presque entièrement anéanti dans l'univers, et [[Lamia]] devint l'ultime arche de vie, protégée par les races intelligentes, par l'influence de Lumina et d'Albaesclatia, et par les ultimes décisions de Mageisys.
 
-Lors de l'ultime affrontement divin, Mageisys comprit que les êtres mortels et intelligents n'étaient pas une simple perturbation, mais une bénédiction pour l'évolution de la magie et du réel. Par son sacrifice et sa décision, il contribua à bannir la présence directe des dieux sur Lamia. Ce bannissement empêcha Ataraxus d'entrer librement dans le dernier monde vivant, mais il ne mit pas fin à son influence.
+Frustré de ne pouvoir franchir la barrière protégeant [[Lamia]] pour l'exterminer lui-même, [[Ataraxus]] tente, en pleine Grande Guerre divine (Sérénale ≈2500–2600), une destruction par la force brute : plutôt que d'envoyer seulement ses démons, il projette un astre vers la planète, cherchant à l'anéantir d'un seul impact (voir [[La Lune Manquée]]). Mais sa méconnaissance des lois du Plan des Mondes le trahit : l'astre ne percute pas Lamia, il est capturé par sa gravité et devient [[Atar]], sa lune. Depuis, elle demeure suspendue dans le ciel comme une cicatrice cosmique, rappelant à chaque Lamien que la menace d'Ataraxus n'a jamais disparu. Même lorsqu'il ne peut entrer, même lorsqu'il semble lointain, son ombre continue de veiller sur le monde qu'il veut réduire au silence.
 
-Après la Grande Guerre Divine, incapable de franchir directement la barrière protégeant [[Lamia]], [[Ataraxus]] tenta une dernière destruction par la force brute. Plutôt que d'envoyer seulement ses démons ou ses corruptions, il projeta un astre vers la planète, cherchant à anéantir d'un seul impact le dernier refuge du vivant. Mais la tentative échoua. L'astre ne détruisit pas Lamia : il fut arrêté, détourné ou brisé par les forces encore capables de défendre le monde. De cet échec naquit [[Atar]], la lune de Lamia. Depuis, elle demeure suspendue dans le ciel comme une cicatrice cosmique, rappelant à chaque Lamien que la menace d'Ataraxus n'a jamais disparu. Même lorsqu'il ne peut entrer, même lorsqu'il semble lointain, son ombre continue de veiller sur le monde qu'il veut réduire au silence.
+Bien plus tard, à la [[Grande Bataille de Cyroldan]] (Exodiale ≈1500), la barrière — fragilisée par la corruption d'un fragment du Cœur — cède enfin assez pour qu'Ataraxus s'y manifeste physiquement, cette fois pour de bon. L'affrontement, (*encore peu développé à ce jour*), se solde par sa défaite et par la fracture de l'ancien continent en [[Horiae]] et [[Eliyae]]. C'est de cette bataille, et du [[Le Scellement du Cœur|rescellement du Cœur]] qui la précède de peu, que naît la loi bannissant durablement la présence physique des dieux sur Lamia. Ce bannissement empêche Ataraxus d'entrer librement dans le dernier monde vivant, mais il ne met pas fin à son influence.
 
 Sur Lamia, Ataraxus est désormais considéré comme le dieu de la Destruction, le grand dirigeant des démons et la source majeure de corruption. Comprenant qu'il ne pourrait pas prendre le monde par la force pure, il changea de stratégie. Plutôt que de chercher uniquement l'invasion totale, il se mit à semer la discorde, à exploiter les failles des mortels, à transformer les êtres faibles ou brisés en instruments de chaos.
 
@@ -63,7 +76,7 @@ Cette iconographie traduit le paradoxe central d'Ataraxus. Il fut autrefois le d
 
 ## Désir conscient
 
-Ataraxus veut ramener l'univers au calme absolu de la première ère.
+Ataraxus veut ramener l'univers au calme absolu de la première émanation.
 
 Il ne se perçoit pas d'abord comme un destructeur, mais comme celui qui cherche à réparer une fracture cosmique. À ses yeux, la vie, la lumière, la magie, les voix, les désirs et les civilisations ont transformé l'univers en un tumulte insupportable. Ce que les autres dieux appellent création, il le ressent comme une agression permanente.
 
@@ -95,23 +108,34 @@ Ataraxus est donc dangereux parce qu'il peut justifier l'horreur comme une purif
 
 ## Relations
 
-- [[Chronoversum]] — origine de son éveil au déclenchement de la première ère cosmique.
-- [[Mageisys]] — apparu peu après lui ; impulsion opposée (structuration vs immobilité) ; lui fournit jadis un plan-refuge selon le document de Genèse (à valider).
+- [[Chronoversum]] — origine de son éveil, lors de sa première émanation.
+- [[Mageisys]] — apparu peu après lui ; impulsion opposée (structuration vs immobilité) ; lui bâtit un plan-refuge lors de [[La Retraite du Calme]] (confirmé, canon, Temps primordiaux).
 - [[Lumina]] et [[Albaesclatia]] — leur projet de vie est la blessure fondatrice qui le fait basculer ; ennemies premières.
 - [[Naphusis]] — antithèse idéologique (équilibre vivant vs silence final), selon la fiche [[Naphusis]].
-- [[Démons]] — ses créations, reflets déformés des anges.
+- [[Démons]] — ses créations, reflets déformés des anges (voir [[Le Grand Déferlement]]).
 - [[Maurtria]] — alliée objective : sa corruption des gardiens nains fracture le cœur de Lamia et ouvre la brèche aux démons ([[Timeline Master]], Sérénale ≈ 2750).
-- [[Atar]] — cicatrice de sa dernière attaque (Exodiale ≈ 1600) ; décision tranchée : pas une divinité ([[Index]]).
+- [[Atar]] — cicatrice de sa tentative manquée de détruire Lamia par un astre (Sérénale ≈ 2500–2600, voir [[La Lune Manquée]]) ; décision tranchée : pas une divinité ([[Index]]).
+- [[Grande Bataille de Cyroldan]] — seule manifestation physique confirmée sur Lamia (Exodiale ≈1500) ; chantier en cours, déroulement non développé ici.
+- [[L'Éveil du Fléau]] — sa métamorphose en dieu de la destruction (implosion, corps de destruction) et son premier massacre.
+- [[Le Grand Déferlement]] — création de son armée de démons, lancée simultanément sur des milliers de planètes.
 - [[Culte d'Ataraxus]] — relais mortels de son influence actuelle.
 
 ## Contradictions potentielles
 
-⚠️ **Manifestation physique sur Lamia omise.** Cette fiche laisse entendre qu'Ataraxus n'a jamais pu franchir la barrière de Lamia (« incapable de franchir directement la barrière... il projeta un astre »). Or [[Timeline Master]] (canon) affirme qu'à la Grande Bataille de Cyroldan (Exodiale ≈ 1500) « la barrière cède assez pour qu'Ataraxus se manifeste physiquement » avant d'être défait, l'intervention divine fracturant l'ancien continent. La fiche saute entièrement cet épisode central. À harmoniser : intégrer la Grande Bataille de Cyroldan dans l'Histoire d'Ataraxus.
 
-⚠️ **« Sacrifice » de Mageisys.** Cette fiche attribue le bannissement des dieux à un « sacrifice » de Mageisys — affirmation unique dans le vault : ni la fiche [[Mageisys]], ni [[Timeline Master]] (qui parle d'une « nouvelle loi » après Cyroldan sans en nommer l'auteur), ni le document de Genèse (qui attribue le Voile à [[Alfaryus]]) ne mentionnent de sacrifice de Mageisys. Nature et réalité de ce sacrifice à arbitrer.
+> [!ia-a-valider]- 2026-07-27 — Terminologie : « ère » → « émanation »
+> **Décision** : terminologie retenue avec l'auteur (session Chronoversum, 2026-07-27) — voir [[Chronoversum|Chronoversum]].
+> **Modifié** : Résumé, Histoire, Désir conscient et Relations — toutes les occurrences de « première/seconde ère (cosmique) » remplacées par « première/seconde émanation », plus champ `source: ia` ajouté (manquant). Aucun autre changement de contenu.
 
-⚠️ **Mécanisme de l'échec de l'astre (Atar).** Trois versions coexistent : cette fiche (« arrêté, détourné ou brisé par les forces encore capables de défendre le monde »), le document de Genèse (« capturé par sa gravité » — simple ignorance des lois physiques), et [[Timeline Master]] (« Échec — l'astre reste en orbite », neutre sur le mécanisme). L'Index a tranché la nature d'Atar (astre, pas divinité) mais pas le mécanisme de sa capture.
+^rev-20260727-ataraxus-terminologie
 
-⚠️ **Chronologie de l'astre dans la Genèse.** Le document `99_Archive/Evenements/Genèse de l'univers de Lamia.md` (brouillon) place la projection de l'astre AVANT la fracture du cœur et l'invasion de Lamia, alors que [[Timeline Master]] (canon) et cette fiche la placent en toute fin de guerre (Exodiale ≈ 1600, « dernière attaque »). Timeline Master fait foi ; la Genèse devra être corrigée ou son ordre arbitré lors de sa migration.
+> [!ia-a-valider]- 2026-07-28 — Arbitrages de session : Cyroldan, sacrifice de Mageisys, mécanisme d'Atar, liens événementiels
+> **Décision** : quatre points tranchés avec l'auteur (session du 2026-07-28).
+> **Modifié** : Histoire (deux paragraphes réécrits et réordonnés chronologiquement) et Relations (liens ajoutés/corrigés) — détail ci-dessous.
+>
+> 1. **Manifestation physique omise** — résolue en distinguant deux épisodes séparés : la projection de l'astre ([[La Lune Manquée]], Sérénale ≈2500–2600, échec — devient Atar) puis, bien plus tard, la [[Grande Bataille de Cyroldan]] (Exodiale ≈1500, chantier en cours — existence canon actée, déroulement non développé ici sur ta décision). Histoire réordonnée pour respecter cette chronologie.
+> 2. **« Sacrifice » de Mageisys** — abandonné. Le bannissement des dieux est désormais rattaché à la Grande Bataille de Cyroldan et au [[Le Scellement du Cœur|rescellement du Cœur]] qui la précède — chantier en cours de réflexion (l'auteur du sacrifice reste volontairement non tranché), sans attribution à Mageisys.
+> 3. **Mécanisme de l'échec de l'astre** — tranché par les fiches canon [[Atar]] et [[La Lune Manquée]] : capture gravitationnelle, due à l'ignorance d'Ataraxus des lois du Plan des Mondes. Les deux autres versions (« arrêté par des forces défensives » ; Timeline neutre) abandonnées.
+> 4. **Épisodes de la Genèse absents** — reliés à leurs fiches canon déjà existantes, ajoutées en Relations : [[La Retraite du Calme]] (plan-refuge de Mageisys), [[L'Éveil du Fléau]] (implosion, métamorphose, premier massacre), [[Le Grand Déferlement]] (levée des démons). Ils n'étaient pas vraiment absents : seuls les liens manquaient.
 
-**Épisodes de la Genèse absents (non contradictoires) :** le premier massacre d'Ataraxus sur une planète choisie au hasard avant la levée de ses armées, sa retraite dans un plan-refuge offert par Mageisys, et sa métamorphose physique (implosion, corps de destruction). À intégrer ou non selon validation de la Genèse.
+^rev-20260728-ataraxus-cyroldan-atar

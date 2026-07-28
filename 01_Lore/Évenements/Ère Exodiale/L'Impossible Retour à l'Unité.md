@@ -1,6 +1,6 @@
 ---
 statut: brouillon
-source: ia
+source: auteur
 type: evenement
 importance: majeur
 ere: exodiale
@@ -11,9 +11,11 @@ tags:
   - conseil-des-archanges
   - rupture
 date: 2026-07-12
-portee:
+portee: null
 aliases:
   - La Fin du Conseil
+revision: ia-a-valider
+revision-date: 2026-07-28
 ---
 # L'Impossible Retour à l'Unité
 
@@ -26,6 +28,16 @@ Après le scellement du cœur, le Conseil des Archanges ne peut retrouver son un
 ## Causes
 
 Le [[Le Scellement du Cœur|scellement du cœur]] a été acheté au prix d'un monde exsangue. Le Conseil des Archanges, fondé pour guider la création et préserver l'œuvre d'Albaesclatia, a survécu à la guerre — mais pas à ses fautes. La corruption de [[Maurtria]] a prouvé que les enfants d'Albaesclatia pouvaient se détourner de leur fonction première. La trahison ancienne de [[Mageisys]] (voir [[La Trahison Dévoilée]]) a révélé que même les desseins les plus brillants pouvaient être bâtis sur le secret. L'effondrement d'[[Albaesclatia]] a laissé une blessure que certains ne lui pardonnèrent jamais.
+
+
+
+> [!ia-a-valider]- 2026-07-28 — Quatrième cause : la régence de Lumina
+> **Décision** : ajoutée avec l'auteur (session Lumina, 2026-07-28).
+> **Modifié** : une quatrième faille ajoutée aux trois déjà listées ci-dessus.
+>
+> [[Lumina]], devenue régente des anges à la [[Grande Bataille de Cyroldan]] (voir [[Le Sceptre des Anges]]), gouverne le Conseil d'une main de fer : sa vision stricte et autoritaire du bien sépare les idées plutôt que de les réconcilier, contribuant à cette rupture au même titre que la trahison de Mageisys et la corruption de Maurtria — sans jamais l'empêcher de rester la dirigeante incontestée des troupes angéliques contre Ataraxus.
+
+^rev-20260728-impossible-retour-lumina
 
 ## Déroulement
 
@@ -42,7 +54,7 @@ Fait largement connu — l'absence d'unité du panthéon actuel en est la preuve
 ## Relations
 
 - [[Le Scellement du Cœur]] — événement antérieur directement lié.
-- [[Maurtria]] / [[Mageisys]] / [[Albaesclatia]] — trois failles distinctes ayant miné la confiance mutuelle du Conseil.
+- [[Maurtria]] / [[Mageisys]] / [[Albaesclatia]] / [[Lumina]] — quatre failles distinctes ayant miné la confiance mutuelle du Conseil.
 - [[Les Archanges Devenus Dieux]] — conséquence directe.
 
 ## Contradictions potentielles

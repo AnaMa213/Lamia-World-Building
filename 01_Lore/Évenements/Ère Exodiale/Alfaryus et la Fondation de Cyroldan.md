@@ -1,6 +1,6 @@
 ---
 statut: brouillon
-source: ia
+source: auteur
 type: evenement
 importance: majeur
 ere: exodiale

@@ -1,20 +1,22 @@
 ---
 statut: brouillon
-source: ia
+source: auteur
 type: evenement
 importance: majeur
 ere: exodiale
 annee: inconnu
 annee_debut: 1450
 annee_fin: 1500
-tags: [coeur-de-lamia, secret, legende]
+tags:
+  - coeur-de-lamia
+  - secret
+  - legende
 date: 2026-07-12
 portee:
-aliases: ["Le Sursis"]
+aliases:
+  - Le Sursis
 ---
 # Le Scellement du Cœur
-
-> [!note] **Événement volontairement laissé en brouillon (Q8)** : le flou des récits est assumé et non résolu — cette fiche ne tranche pas qui a réellement agi ni comment. Sur ta décision (Q5), l'articulation précise avec la Grande Bataille de Cyroldan (déjà dans [[Timeline Master]]) sera développée plus tard, au moment de l'écriture de ton roman sur l'Ère Exodiale.
 
 **En une phrase :** Face à la menace de Maurtria portée à son comble, le Cœur de Lamia est rescellé — non restauré, non guéri, mais verrouillé — au prix d'un sacrifice que même les survivants ne surent pas tous nommer, laissant le monde exsangue mais vivant.
 

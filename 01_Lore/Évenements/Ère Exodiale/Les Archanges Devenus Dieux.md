@@ -1,6 +1,6 @@
 ---
 statut: brouillon
-source: ia
+source: auteur
 type: evenement
 importance: majeur
 ere: exodiale
@@ -18,7 +18,7 @@ aliases:
 ---
 # Les Archanges Devenus Dieux
 
-**En une phrase :** Peu à peu, les Archanges survivants cessent de se présenter comme les membres d'un ordre commun et se revendiquent comme des divinités autonomes — un glissement né des prières des mortels, des miracles accordés et des cultes reconstruits dans les ruines, plutôt que d'un acte de promotion divine.
+**En une phrase :** Peu à peu, les Archanges cessent de se présenter comme les membres d'un ordre commun et se revendiquent comme des divinités autonomes — un glissement né des prières des mortels, des miracles accordés et des cultes reconstruits dans les ruines, plutôt que d'un acte de promotion divine.
 
 ## Résumé
 
@@ -51,7 +51,5 @@ Fait largement connu et vécu — c'est la structure même du culte lamien actue
 - Toutes les divinités Majeures et Mineures déjà migrées — bénéficiaires directes de ce mécanisme.
 
 ## Contradictions potentielles
-
-✅ **Confirme et généralise la clarification déjà obtenue sur Xeros (lot Temps primordiaux).** On avait établi que Xeros restait un Archange à sa naissance, et que ce sont les mortels qui l'élèvent au rang de divinité après la guerre par leur culte — pas un acte divin de promotion. Cet événement confirme que ce mécanisme s'applique à **l'ensemble** des Archanges devenus dieux Majeurs/Mineurs, pas seulement à Xeros. À reporter, lors de la grande révision différée, dans les fiches des autres divinités concernées si tu le souhaites.
 
 **Aucune contradiction relevée** avec les 28 fiches divinités déjà migrées.

@@ -71,7 +71,7 @@ annee:             # nombre seul, dans le compte de l'ère
 
 Champs additionnels par type (optionnels sauf mention) :
 - **divinite** : `rang` (primordiale | majeure | mineure | demi-dieu | esprit — OBLIGATOIRE),
-  `etat` (active | voilée | bannie | morte | inconnue), `titres`,
+  `etat` (active | voilée | bannie | morte | inconnue | ... ), `titres`,
   `suivants` (fidèles les plus courants : peuples, ordres — en wikilinks),
   `alignement` (optionnel, usage JDR)
 - **personnage** : `naissance` / `mort` (format court "AAAA È.V." ; inconnu

@@ -5,18 +5,17 @@ type: evenement
 importance: majeur
 ere: serenale
 annee: 2500
-annee_debut: null
-annee_fin: null
+annee_debut:
+annee_fin:
 tags:
   - lamia
   - dragons
   - akator
   - mageisys
 date: 2026-07-12
-portee: null
+portee:
 aliases:
   - L'Arrivée des Quatre
-revision: ia-a-valider
 ---
 # L'Asile des Dragons
 
@@ -33,16 +32,15 @@ Lamia, protégée par sa propre barrière, reste l'un des grands foyers de vie e
 Après [[Le Grand Déferlement]], d'innombrables civilisations se sont effondrées à travers l'univers. [[Lamia]], protégée par sa propre barrière, reste intouchée — ce qui en fait, aux yeux d'Ataraxus, une cible d'autant plus obsédante qu'elle lui échappe.
 
 ## Déroulement
-> [!ia-a-valider] 2026-07-22 — Chantier Majeur (Index) : intégration du mécanisme du portail planaire (dragons rapatriés au Dibertium, puis transportés par Mageisys sur proposition d'Akator), pour clore la contradiction avec le durcissement de la barrière. Décision du brainstorm [[2026-07-18 — Brainstorm — PeuplementLamia]], validée par Key. Modifié : Résumé et Déroulement réécrits ; Relations et Contradictions potentielles complétées.
 
 **Les quatre derniers dragons de [[Koboldia]]**, seuls survivants de leur monde anéanti par les démons, sont d'abord rapatriés au [[Dibertium]] — la barrière de Lamia, durcie depuis [[La Trahison Dévoilée]], ne laissant plus passer aucune présence physique directement depuis l'extérieur.
 
-[[Akator]], leur géniteur originel, propose alors à [[Mageisys]] de les poster sur Lamia comme protecteurs discrets du dernier grand foyer de vie encore debout. Mageisys, mesurant leur potentiel, accepte et les fait passer sur Lamia par un portail planaire — le même mécanisme qui a permis, plus tôt, l'installation des [[Nains]] (voir [[La Garde du Cœur]]). Il infuse sa magie élémentaire dans chacun, élevant leur puissance à un niveau juste en dessous de celui d'un Archange :
+[[Akator]], leur géniteur originel, propose alors à [[Mageisys]] de les poster sur Lamia comme protecteurs discrets du foyer des œuvres si précieuse au yeux de sa mère, Albaesclatia. Mageisys, mesurant leur potentiel, accepte et les fait passer sur Lamia par un portail planaire — le même mécanisme qui a permis, plus tôt, l'installation des [[Nains]] (voir [[La Garde du Cœur]]). Il infuse sa magie élémentaire dans chacun, élevant leur puissance à un niveau juste en dessous de celui d'un Archange :
 
 - **[[Raekialar]]**, dragon de feu, s'installe sur une île isolée au sud du continent principal ;
-- **[[Daenithor]]**, dragon d'eau, prend possession des terres gelées du Nord ;
+- **[[Daenithor]]**, dragon d'eau, prend possession des mers du Nord ;
 - **[[Hurinathil]]**, dragon de vent, se poste dans les **[[Montagnes de Lerium]]** ;
-- **[[Thariathor]]**, dragon de terre, se tapit dans les chaînes rocheuses du continent.
+- **[[Thariathor]]**, dragon de terre, s'enfonça dans les chaînes rocheuses du continent.
 
 Akator, malgré la disparition de la quasi-totalité de ses créations à travers l'univers, éprouve en cet instant une fierté profonde.
 

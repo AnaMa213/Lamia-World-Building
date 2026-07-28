@@ -12,14 +12,11 @@ tags:
   - atar
   - lamia
 date: 2026-07-12
-revision: ia-a-valider
 portee:
 aliases:
   - La Cicatrice du Ciel
 ---
 # La Lune Manquée
-
-> [!ia-a-valider] 2026-07-21 — Objet : ajout des conséquences physiques et démographiques de l'impact raté d'Atar, dicté par Key en conversation. Modifié : Conséquences, Relations.
 
 **En une phrase :** Frustré de ne pouvoir franchir la barrière de Lamia pour l'exterminer lui-même, Ataraxus projette un astre contre la planète — l'astre échoue à la percuter, capturé par sa gravité, et devient Atar, sa lune.
 

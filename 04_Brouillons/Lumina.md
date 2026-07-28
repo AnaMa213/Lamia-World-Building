@@ -1,21 +1,30 @@
 ---
 statut: brouillon
+source: ia
 type: divinite
-tags: [lumiere, justice, redemption]
+tags:
+  - lumiere
+  - justice
+  - redemption
 date: 2026-07-11
-portee:
-aliases: ["Fleur de l'aube", "Flamme guérisseuse"]
+portee: null
+aliases:
+  - Fleur de l'aube
+  - Flamme guérisseuse
 rang: primordiale
 etat: active
-titres: ["Déesse de la lumière et de la justice"]
-suivants: ["Soigneurs", "Agriculteurs", "Repentis du mal"]
-alignement: Chaotique Bon
+titres:
+  - Déesse de la lumière et de la justice
+suivants:
+  - Soigneurs
+  - Agriculteurs
+  - Repentis du mal
+alignement: Loyal Bon
+revision-date: 2026-07-28
+revision: ia-a-valider
 ---
 
 # Lumina
-
-> [!note] Brouillon de migration — 2026-07-11
-> Migré depuis `99_Archive/Divinites/Primordiaux/Lumina.md`, reformaté selon les Conventions. Prose originale reprise telle quelle (Résumé → Tension centrale). Sections **Relations** et **Contradictions potentielles** ajoutées par l'IA. `etat: active` proposé (l'une des divinités les plus influentes de Lamia, régente des anges) — à valider, notamment vis-à-vis du bannissement de la présence physique des dieux.
 
 **En une phrase :** Lumina est la déesse primordiale de la Lumière et de la Justice, née faible dans le néant puis grandie avec chaque étoile, devenue régente des anges après le déclin d'Albaesclatia — protectrice guérisseuse dont la certitude morale peut confondre salut et contrôle.
 
@@ -27,7 +36,7 @@ Déesse de la Lumière et de la Justice, connue comme la fleur de l'aube et la f
 
 Lumina est la déesse de la Lumière, de la Justice, de la tempérance et de la rédemption. Connue sous les titres de Fleur de l'Aube et de Flamme guérisseuse, elle incarne pour beaucoup de fidèles l'espoir, la compassion et la possibilité de revenir vers le bien même après la faute.
 
-À l'aube de la deuxième ère de [[Chronoversum]], Lumina émergea dans l'obscurité glaciale du néant. Elle était alors la plus faible des divinités primordiales, tirant son pouvoir de la lumière encore rare de l'univers. Mais là où [[Ataraxus]] voyait dans le silence sidéral un état parfait, Lumina y percevait un vide à éclairer. Avec [[Albaesclatia]], elle conçut le projet d'animer l'univers, de le rendre habité, sensible, vivant et traversé par des présences capables de répondre à la lumière.
+À l'aube de la seconde émanation de [[Chronoversum]], Lumina émergea dans l'obscurité glaciale du néant. Elle était alors la plus faible des divinités primordiales, tirant son pouvoir de la lumière encore rare de l'univers. Mais là où [[Ataraxus]] voyait dans le silence sidéral un état parfait, Lumina y percevait un vide à éclairer. Avec [[Albaesclatia]], elle conçut le projet d'animer l'univers, de le rendre habité, sensible, vivant et traversé par des présences capables de répondre à la lumière.
 
 À mesure que les étoiles se multiplièrent, Lumina gagna en force. Chaque astre, chaque éclat, chaque aube nouvelle augmentait son influence. Lorsque les mondes vivants commencèrent à se développer et que des civilisations intelligentes apparurent, son domaine ne se limita plus à la lumière physique : elle devint aussi une puissance morale, liée à la justice, à l'ordre, à la clarté des intentions et à la volonté de guider les peuples vers une forme d'élévation.
 
@@ -35,9 +44,11 @@ Lumina défend une idée exigeante du bien. Pour elle, la justice ne doit pas ê
 
 Mais cette vertu porte une faille. Derrière son apparence bienveillante, Lumina est aussi une déesse de pouvoir. Elle ne veut pas seulement éclairer : elle veut orienter. Elle ne veut pas seulement proposer la justice : elle veut faire triompher sa définition de la justice. Elle se persuade que son influence repose sur le libre choix de chacun, mais son désir de sauver, corriger et guider peut facilement devenir une volonté d'imposer sa vision du bien.
 
-Au crépuscule du règne d'Albaesclatia, après les pertes immenses de la [[Grande Guerre Divine]] et l'affaiblissement de la Déesse de la Vie, Lumina prit une place de plus en plus centrale parmi les dieux et les anges. Elle devint la nouvelle régente des anges, non seulement parce que sa puissance avait grandi, mais parce qu'elle offrait une direction claire à un ordre divin brisé par la guerre, la trahison et la chute de plusieurs de ses membres.
+À la [[Grande Bataille de Cyroldan]] (Exodiale ≈1500), après des âges de pertes cumulées, Albaesclatia se retire définitivement du commandement pour veiller sur Filiama avec Alketeria (voir [[Le Sceptre des Anges]]). Lumina prend alors la tête des troupes angéliques contre Ataraxus dans le Plan des Mondes, devenant la nouvelle régente des anges — non seulement parce que sa puissance avait grandi, mais parce qu'elle offrait une direction claire à un ordre divin déjà brisé par la guerre, la trahison et la chute de plusieurs de ses membres.
 
-Depuis lors, Lumina reste l'une des divinités les plus influentes de Lamia. Ses fidèles la voient dans chaque rayon du soleil, chaque éclat d'étoile, chaque rire d'enfant, chaque jugement juste et chaque pardon accordé sans naïveté. Son culte enseigne que la lumière doit révéler, guérir et guider.
+Mais cette régence a un prix. Sa vision trop stricte et trop autoritaire du bien, déjà au cœur de sa faille, sépare peu à peu les idées au sein du Conseil des Archanges : elle le gouverne d'une main de fer, ce qui contribue à son explosion plutôt qu'à le ressouder (voir [[L'Impossible Retour à l'Unité]]). Elle n'en reste pas moins, tout au long de cette période, la dirigeante incontestée des troupes angéliques contre les forces d'Ataraxus.
+
+Depuis lors, Lumina reste l'une des divinités les plus influentes de Lamia. Ses fidèles la voient dans chaque rayon du soleil — son fragment le plus direct sur Lamia, voir [[Soleil]] —, chaque éclat d'étoile, chaque rire d'enfant, chaque jugement juste et chaque pardon accordé sans naïveté. Son culte enseigne que la lumière doit révéler, guérir et guider.
 
 Cependant, cette lumière peut aussi aveugler. Lumina est convaincue d'agir pour le bien, mais sa certitude morale peut la rendre inflexible. Là où Albaesclatia aime la vie même imparfaite, Lumina cherche à la redresser. Là où Mageisys observe les lois du monde, Lumina veut y inscrire une justice. Là où Ataraxus veut réduire l'univers au silence, Lumina veut l'inonder d'une clarté qui ne laisse aucune ombre intacte.
 
@@ -97,20 +108,33 @@ Mais son danger est de croire que sa lumière est la seule forme légitime du bi
 
 ## Relations
 
-- [[Chronoversum]] — éveillée à l'aube de sa deuxième ère cosmique (voir [[La Seconde Émanation]]).
+- [[Chronoversum]] — éveillée à l'aube de sa seconde émanation (voir [[La Seconde Émanation]]).
 - [[Mageisys]] — propose à Ataraxus le plan-refuge et intervient avec elle et Albaesclatia pour stopper le premier massacre d'Ataraxus (voir [[L'Éveil du Fléau]]).
-- [[Albaesclatia]] — sœur d'intention et co-conceptrice du projet de vie ; Lumina lui succède comme régente des anges après son affaiblissement.
-- [[Mageisys]] — partenaire du projet créateur (elle crée les étoiles, lui les lois et les mondes).
+- [[Albaesclatia]] — sœur d'intention et co-conceptrice du projet de vie ; Lumina lui succède comme régente des anges à la [[Grande Bataille de Cyroldan]] (voir [[Le Sceptre des Anges]]).
 - [[Naphusis]] — quatrième pilier du projet de vie, ancrage de ce que Lumina illumine.
-- [[Ataraxus]] — adversaire absolu : il veut le silence, elle veut la clarté totale.
+- [[Ataraxus]] — adversaire absolu : il veut le silence, elle veut la clarté totale ; elle dirige les troupes angéliques contre lui après sa régence.
+- [[Soleil]] — fragment direct de son essence sur Lamia, distinct des astres ordinaires de Mageisys.
+- [[L'Impossible Retour à l'Unité]] — sa gouvernance stricte du Conseil des Archanges y contribue directement.
 - [[Empire de Luminorn]] — royaume de l'Ère du Voile portant vraisemblablement son nom (lien à confirmer lors de la migration du lieu).
 
 ## Contradictions potentielles
 
-⚠️ **Régence des anges non datée, absente de la Timeline.** L'accession de Lumina au rôle de « nouvelle régente des anges » (après l'affaiblissement d'Albaesclatia, donc fin Exodiale ou début Voile) ne figure pas dans [[Timeline Master]]. Événement structurant du panthéon : entrée à créer, date à arbitrer.
+La fiche **[[Le Sceptre des Anges]]** est encore en brouillon.
 
-⚠️ **Articulation avec la rupture du Conseil des Archanges.** Le document de Genèse (brouillon) décrit une dissolution de fait du Conseil et l'autonomisation des Archanges en divinités après la guerre — sans mentionner de régence de Lumina. Les deux récits ne sont pas incompatibles (régence sur les anges ≠ autorité sur les Archanges) mais la coexistence d'une « régente » et d'un ordre divin éclaté mérite clarification.
+[[Grande Bataille de Cyroldan]] non crée.
 
-**Alignement à recalibrer (mineur, champ JDR optionnel).** `Chaotique Bon` dans la source, alors que tout le portrait (justice, ordre, doctrine, institutions, dogme) évoque plutôt un profil loyal. Simple observation — choix qui t'appartient, éventuellement dans le cadre du chantier « recalibrer le rang des ~20 divinités ».
+> [!ia-a-valider]- 2026-07-27 — Terminologie : « ère » → « émanation »
+> **Décision** : terminologie retenue avec l'auteur (session Chronoversum, 2026-07-27) — voir [[Chronoversum|Chronoversum]].
+> **Modifié** : Histoire et Relations — « deuxième ère (cosmique) » remplacé par « seconde émanation ». `source: ia` ajouté (manquant). « Ère du Voile » en Relations non touché (ère lamienne, usage correct).
 
-**[[Soleil]] lié mais inexistant.** Le frontmatter source lie une note Soleil qui n'existe nulle part. Le statut cosmologique du soleil de Lamia (création de Lumina ? manifestation d'elle-même ? cf. « Lumina se matérialisa en une première étoile » dans la Genèse) est une zone floue à consigner.
+^rev-20260727-lumina-terminologie
+
+> [!ia-a-valider]- 2026-07-28 — Arbitrages de session : régence datée, rupture du Conseil, Soleil
+> **Décision** : trois points traités avec l'auteur (session du 2026-07-28).
+> **Modifié** : Histoire (paragraphe de régence réécrit, mention du Soleil ajoutée) et Relations (liens ajoutés).
+>
+> 1. **Régence des anges non datée** — désormais datée et événementialisée : nouvelle fiche [[Le Sceptre des Anges]] (05_IA_Inbox/Fiches, à valider et à ajouter à Timeline Master), Exodiale ≈1500, à la Grande Bataille de Cyroldan. Albaesclatia se retire définitivement veiller sur Filiama avec Alketeria ; Lumina prend la tête des troupes angéliques.
+> 2. **Articulation avec la rupture du Conseil** — résolue : la gouvernance stricte et autoritaire de Lumina est intégrée comme cause supplémentaire de [[L'Impossible Retour à l'Unité]] (aux côtés de la trahison de Mageisys et de la corruption de Maurtria, déjà établies), tout en la laissant dirigeante des troupes contre Ataraxus.
+> 3. **Soleil lié mais inexistant** — créé : nouvelle fiche [[Soleil]] (Objet Divin, 05_IA_Inbox/Fiches, à valider), fragment direct de l'essence de Lumina sur Lamia, distinct des astres ordinaires façonnés par Mageisys.
+
+^rev-20260728-lumina-regence-soleil

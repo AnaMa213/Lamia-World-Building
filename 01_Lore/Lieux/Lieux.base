@@ -1,0 +1,9 @@
+filters:
+  and:
+    - type == "lieu"
+views:
+  - type: table
+    name: Tableau
+    groupBy:
+      property: plan
+      direction: ASC

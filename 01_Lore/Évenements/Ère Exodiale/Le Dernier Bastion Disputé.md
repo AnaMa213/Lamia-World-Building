@@ -1,6 +1,6 @@
 ---
 statut: brouillon
-source: ia
+source: auteur
 type: evenement
 importance: majeur
 ere: exodiale
@@ -51,7 +51,3 @@ Fait largement connu et vécu au quotidien par les mortels de Lamia, jusqu'à l'
 - Le Voile (événement déjà rédigé, à réviser lors du prochain lot) — suite directe marquant le début de l'Ère du Voile.
 
 ## Contradictions potentielles
-
-✅ **Recadrage Lamia appliqué (Q3).** Le texte source disait « Lamia devint... le dernier grand vaisseau de vie ». Reformulé pour préciser qu'elle est le dernier lieu **à l'abri** de la guerre divine, qui continue de faire rage ailleurs dans l'univers — cohérent avec la correction déjà appliquée dans le lot Sérénale.
-
-**Clôture ce lot Ère Exodiale**, conformément à ta consigne de traiter la Genèse « jusqu'au dernier bastion disputé ».

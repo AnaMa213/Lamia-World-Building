@@ -1,48 +1,53 @@
 ---
 name: brainstorm-lore
-description: Lance ou formalise une session de brainstorming sur un sujet de lore de l'univers Lamia, capture une idée volée sans structuration, ou enregistre le résultat dans une Fiche Brainstorm sous 05_IA_Inbox/Brainstorm/. Utilise ce skill dès que l'utilisateur veut réfléchir, explorer, challenger, creuser ou résoudre une question de lore (mécanique, contradiction, nouvelle entité, doctrine, hypothèse...) — même s'il ne dit pas explicitement "brainstorm" (ex. "on réfléchit à X", "j'ai une idée pour Y", "comment résoudre cette incohérence sur Z", "et si..."). Utilise-le aussi quand l'utilisateur demande de formaliser une discussion déjà tenue, OU quand il veut juste noter une idée vite fait sans en discuter maintenant ("note ça vite fait", "capture cette idée", "je creuserai plus tard", "garde ça quelque part") — dans ce dernier cas, capture minimale sans recherche ni structuration, voir Mode C.
-compatibility: Fonctionne avec le MCP obsidian-mcp-server connecté au vault Lamia (obsidian_search_notes, obsidian_get_note, obsidian_list_notes, obsidian_write_note). En Claude Code, si ce MCP est absent, bascule sur un accès disque direct (Read/Write/Glob/Grep/Bash) et git — voir "Deux modes d'accès au vault".
+description: Lance ou formalise une session de brainstorming sur un sujet de lore de l'univers Lamia, capture une idée volée sans structuration, ou enregistre le résultat dans une Fiche Brainstorm sous 05_IA_Inbox/Brainstorm/. Utilise ce skill dès que l'utilisateur veut réfléchir, explorer, challenger, creuser ou résoudre une question de lore (mécanique, contradiction, nouvelle entité, doctrine, hypothèse...) — même s'il ne dit pas explicitement "brainstorm" (ex. "on réfléchit à X", "j'ai une idée pour Y", "comment résoudre cette incohérence sur Z", "et si...", "réfléchissons sur la fiche ouverte/active"). Utilise-le aussi quand l'utilisateur demande de formaliser une discussion déjà tenue, OU quand il veut juste noter une idée vite fait sans en discuter maintenant ("note ça vite fait", "capture cette idée", "je creuserai plus tard", "garde ça quelque part") — dans ce dernier cas, capture minimale sans recherche ni structuration, voir Mode C.
+compatibility: Fonctionne avec le MCP Obsidian (Local REST API) connecté au vault Lamia — tools vault_read, vault_list, vault_write, vault_append, vault_get_document_map, search_simple, search_query, active_file_get_path, open_file. En Claude Code, si le MCP est absent, replis en cascade (CLI Obsidian puis Fichiers/Git) — voir references/modes-repli.md.
 ---
 
 # Brainstorm Lore — Lamia
 
 Ce skill gère une session de brainstorming de lore de bout en bout : cadrage,
-exploration challengée, puis mise en fiche dans l'inbox IA. Il a deux modes,
+exploration challengée, puis mise en fiche dans l'inbox IA. Il a trois modes,
 et NE tranche jamais lui-même une décision de canon (voir Garde-fous).
 
-## Deux modes d'accès au vault
+## Accès au vault — hiérarchie des modes
 
-Ce skill dépend normalement du MCP `obsidian-mcp-server`. Deux cas de figure :
+1. **Mode MCP (par défaut, seul possible dans claude.ai)** : le serveur MCP
+   `obsidian` expose les tools cités ci-dessous. Tout le flux de ce fichier
+   est décrit dans ces tools.
+2. **Mode CLI Obsidian (Claude Code, application Obsidian ouverte)** : repli
+   si le MCP est absent ou tombe en cours de session.
+3. **Mode Fichiers/Git (Claude Code, application fermée)** : dernier repli,
+   accès disque direct au vault.
 
-- **Mode MCP (par défaut)** : les tools `obsidian_get_note`,
-  `obsidian_search_notes`, `obsidian_write_note`, `obsidian_list_notes` sont
-  disponibles → comportement décrit plus bas, inchangé.
-- **Mode Fichiers/Git (Claude Code uniquement)** : si ces tools sont absents,
-  ou si l'un d'eux échoue en cours de session (connexion MCP tombée), ET que
-  Claude a un accès disque direct au vault (cas Claude Code — le vault est
-  généralement la racine du repo git courant). Chaque étape MCP ci-dessous a
-  son équivalent Fichiers, indiqué par « **Si MCP indisponible :** ».
+Pour les modes 2 et 3, lire `references/modes-repli.md` AU MOMENT de basculer
+(équivalences tool par tool, règles git). Dans claude.ai (sandbox sans accès
+au vault réel), un échec MCP se signale à l'utilisateur et la tâche s'arrête
+— jamais improvisé, jamais présenté comme réussi.
 
-⚠️ Ce mode de repli n'existe QUE là où un accès disque réel au vault est
-possible. Dans claude.ai (sandbox isolée, sans accès au vault réel), un échec
-MCP doit être signalé à l'utilisateur et la tâche interrompue — jamais
-improvisé, jamais présenté comme réussi.
+> [!warning] `vault_write` écrase sans avertissement
+> Le tool n'a aucun paramètre de protection : écrire sur un chemin existant
+> remplace silencieusement le fichier. Règle absolue : ne jamais appeler
+> `vault_write` sur un chemin sans avoir, dans la même session, (a) vérifié
+> son inexistence via `vault_list` du dossier parent, OU (b) lu le fichier
+> via `vault_read` et intégré son contenu dans ce qu'on écrit (fusion
+> explicite). Cette vérification n'est pas une politesse : c'est l'unique
+> filet anti-perte de données.
 
 ## Étape 0 — Contexte (une fois par session, si pas déjà fait)
 
 Avant toute chose : `00_Systeme/Conventions.md` et `00_Systeme/Index.md`
-doivent être chargés (statuts, types, notation §5, nommage §6). S'ils ne
-sont pas déjà dans le contexte de la conversation en cours, les lire d'abord
-via `obsidian_get_note`.
-**Si MCP indisponible :** lire ces mêmes fichiers avec `Read` (chemins relatifs
-à la racine du vault — par défaut la racine du repo Claude Code ; vérifier
-avec `ls` si le vault est ailleurs).
+doivent être chargés (statuts §1, types §2, notation §5, nommage §6,
+arborescence §7). S'ils ne sont pas déjà dans le contexte de la conversation,
+les lire via `vault_read`. Si les Règles IA du projet ne sont pas non plus
+dans le contexte (cas d'une session Claude Code hors projet), lire aussi
+`00_Systeme/Regles_IA_Lore.md`.
 
 Si le sujet touche à une chronologie ou date des événements : charger
-`01_Lore/Timeline Master.md` EN ENTIER avant de discuter de dates. Ne jamais
-reconstruire une chronologie de mémoire.
-**Si MCP indisponible :** `Read` ce même fichier en entier — ne jamais résumer
-une chronologie de mémoire, même en mode Fichiers.
+`01_Lore/Timeline Master.md` EN ENTIER (`vault_read` sans `target` — jamais
+de lecture partielle pour ce fichier) avant de discuter de dates. Ne jamais
+reconstruire une chronologie de mémoire. Utiliser la notation de Conventions
+§5 (≈ · ? · (rumeur) · 🔒 · ⚠️) à l'identique quand des dates sont discutées.
 
 ## Choisir le mode
 
@@ -50,6 +55,9 @@ une chronologie de mémoire, même en mode Fichiers.
 commencer un brainstorm ("lance un brainstorm sur...", "brainstormons sur...",
 "j'ai une question sur X, réfléchissons"), ou quand aucune discussion
 substantielle sur ce sujet précis n'existe encore dans la conversation.
+Si l'utilisateur désigne "la fiche ouverte / active / que je regarde" comme
+sujet : résoudre le chemin via `active_file_get_path`, puis `vault_read`
+cette fiche avant de cadrer.
 
 **Mode B — Formaliser seulement** : déclenché par une demande de consigner /
 enregistrer / formaliser une réflexion déjà tenue ("formalise cette
@@ -73,14 +81,43 @@ nouvelle session dessus, ou que je formalise ce qu'on vient de dire ?"
 
 ## Mode A — Piloter la session
 
-1. **Cadrer et rechercher le canon existant.** Avant de proposer quoi que ce
-   soit, chercher ce qui existe déjà sur le sujet :
-   `obsidian_search_notes` (mode text, `pathPrefix: "01_Lore"`, mots-clés du
-   sujet, `maxMatchesPerHit: 3-5`), puis `obsidian_get_note` (format content)
-   sur les quelques fiches les plus pertinentes pour les lire réellement.
-   **Si MCP indisponible :** `Grep` (mots-clés du sujet, dossier `01_Lore/`)
-   et `Glob` (`01_Lore/**/*<terme>*.md`) pour repérer les fiches candidates,
-   puis `Read` directement les plus pertinentes.
+1. **Cadrer et rechercher l'existant.** Avant de proposer quoi que ce soit,
+   chercher ce qui existe déjà sur le sujet. Deux tools complémentaires :
+
+   - `search_simple` (mots-clés du sujet) : recherche large, scorée, avec
+     contexte autour de chaque correspondance. Elle couvre TOUT le vault —
+     le triage par zone est donc obligatoire (voir ci-dessous).
+   - `search_query` (JsonLogic) : ciblage précis quand on sait ce qu'on
+     cherche. Exemples utiles :
+     - contenu dans le canon seulement :
+       `{"and": [{"regexp": ["^01_Lore/", {"var": "path"}]}, {"regexp": ["(?i)drakéide", {"var": "content"}]}]}`
+     - restreint aux statuts qui font foi :
+       ajouter `{"in": [{"var": "frontmatter.statut"}, ["canon-verrouillé", "canon", "semi-canon"]]}`
+     - sessions de brainstorm antérieures sur le même sujet :
+       `{"and": [{"regexp": ["^05_IA_Inbox/Brainstorm/", {"var": "path"}]}, {"regexp": ["(?i)drakéide", {"var": "content"}]}]}`
+
+   **Triage par zone** de tout résultat de recherche, d'après Conventions §7 :
+   - `01_Lore/` : seuls candidats au canon. Lire la fiche et VÉRIFIER son
+     `frontmatter.statut` — une `rumeur` décrit ce que les habitants croient,
+     un `secret` (🔒) ne fuite jamais vers du contenu lecteur/joueur, un
+     `obsolète` ne fait plus foi. Toujours rapporter le statut réel, jamais
+     le supposer.
+   - `05_IA_Inbox/` : propositions IA non validées, dont d'éventuels
+     brainstorms antérieurs sur ce sujet — les signaler à l'utilisateur
+     (reprendre ? contradictoire ?), jamais les citer comme canon.
+   - `04_Brouillons/` : idées de l'auteur non triées — même règle.
+   - `02_Romans/`, `03_Scenarios_JDR/` : portée œuvre (`portee:`), ne
+     modifie pas le canon-univers.
+   - `99_Archive/` : ancien vault NON-CANON, lecture seule. Ne jamais citer
+     comme canon, même si le contenu semble pertinent.
+
+   Puis `vault_read` les quelques fiches les plus pertinentes pour les lire
+   réellement. La réponse inclut `links` et `backlinks` : les exploiter pour
+   cartographier le voisinage du sujet (une fiche liée non trouvée par la
+   recherche par mots-clés est un angle mort classique). Pour une fiche
+   longue et périphérique, `vault_get_document_map` d'abord, puis lecture
+   ciblée (`target`/`targetType`) ; pour une fiche centrale au sujet, lecture
+   entière — une lecture partielle rate les contradictions.
    Ne jamais inventer un élément qui existe déjà — et ne jamais présenter une
    fiche non lue comme connue.
 
@@ -102,9 +139,9 @@ nouvelle session dessus, ou que je formalise ce qu'on vient de dire ?"
 
 4. **"Retenu" = validé explicitement par l'utilisateur dans l'échange.**
    Claude ne fait jamais passer seul une idée en "Retenu" — c'est l'utilisateur
-   qui décide (cf. hypothesis-to-doctrine : l'auteur tranche). Quand une piste
-   est retenue, noter aussi son statut visé (hypothèse · doctrine de travail ·
-   à canoniser) : ce n'est jamais canon à ce stade.
+   qui décide (Conventions §1 : seul l'auteur attribue les statuts qui font
+   foi). Quand une piste est retenue, noter aussi son statut visé (hypothèse ·
+   doctrine de travail · à canoniser) : ce n'est jamais canon à ce stade.
 
 5. Quand l'utilisateur signale que la session est terminée ("on s'arrête là",
    "formalise", "crée la fiche"), passer à **Assembler et enregistrer**.
@@ -135,19 +172,16 @@ court, volontairement) :
    (orthographe/grammaire) mais jamais reformulée, étoffée ou structurée.
 2. Construire le nom de fichier : `AAAA-MM-JJ HHhMM.md` (date et heure de la
    capture — pas de sujet-en-un-mot, cette dérivation appartient déjà au
-   "formatage" que ce mode évite). En cas de collision (même minute),
-   ajouter une lettre (`...HHhMM-b.md`).
-3. Frontmatter minimal : `statut: brouillon`, `source: ia`,
-   `tags: [capture-rapide]`, `date: AAAA-MM-JJ`. Rien de plus — pas de
-   `sujet:`, pas d'`entites_liees:` (ce ne sont pas des champs pertinents
-   pour ce type de note).
-4. Écrire directement dans `04_Brouillons/` via `obsidian_write_note`
-   (`overwrite: false`).
-   **Si MCP indisponible :** `Write` au même chemin. Puis, seulement si le
-   vault est un dépôt git : `git add "04_Brouillons/<fichier>.md"` et
-   `git commit -m "[brouillon IA] Capture rapide" -- "04_Brouillons/<fichier>.md"`
-   — jamais `git add -A`/`-A`/`-a`, uniquement ce fichier.
-5. Confirmer en une ligne, sans reformuler le contenu ni proposer d'aller
+   "formatage" que ce mode évite).
+3. `vault_list` sur `04_Brouillons` AVANT d'écrire (vault_write écrase
+   silencieusement) : en cas de collision à la même minute, suffixer une
+   lettre (`...HHhMM-b.md`).
+4. Frontmatter minimal : `statut: brouillon`, `source: ai`,
+   `tags:` (liste avec `capture-rapide`), `date: AAAA-MM-JJ`. Rien de plus —
+   pas de `sujet:`, pas d'`entites_liees:` (pas pertinents pour ce type de
+   note).
+5. Écrire dans `04_Brouillons/` via `vault_write`.
+6. Confirmer en une ligne, sans reformuler le contenu ni proposer d'aller
    plus loin maintenant (l'utilisateur a explicitement signalé qu'il ne
    voulait pas en discuter tout de suite) : chemin du fichier, point final.
 
@@ -162,60 +196,77 @@ court, volontairement) :
    - si un seul mot est ambigu, concaténer en PascalCase sans espace
      (ex. `OrigineDrakéides`) ;
    - accents conservés, aucune ponctuation ;
-   - pas d'article initial (cf. Conventions §6 — l'article ne fait pas partie
+   - pas d'article initial (Conventions §6 — l'article ne fait pas partie
      du nom).
 
 2. **Construire le nom de fichier** :
    `AAAA-MM-JJ — Brainstorm — Sujet.md` (date du jour de la session).
 
-3. **Vérifier les collisions** : `obsidian_list_notes` sur
-   `05_IA_Inbox/Brainstorm` (créer ce chemin implicitement s'il n'existe pas
-   encore, en écrivant simplement dedans). Si un fichier du même nom existe
-   déjà (même sujet, même jour), proposer à l'utilisateur de compléter la
-   session existante plutôt que d'écraser.
-   **Si MCP indisponible :** `Bash` (`mkdir -p "05_IA_Inbox/Brainstorm"`) puis
-   `Glob`/`ls` sur ce dossier pour la même vérification de collision.
+3. **Vérifier les collisions et la Base de triage** : `vault_list` sur
+   `05_IA_Inbox/Brainstorm` (inutile de créer le dossier : `vault_write` crée
+   les dossiers parents manquants). Si un fichier du même nom existe déjà
+   (même sujet, même jour) : `vault_read` la fiche existante, puis proposer
+   à l'utilisateur de la compléter — la fusion se fait en intégrant le
+   contenu lu section par section dans un nouveau contenu complet, réécrit
+   via `vault_write` (le filet : on a lu avant d'écraser, et rien de
+   l'existant n'est perdu). Pour n'ajouter des éléments qu'à une seule
+   section, `vault_append` ou `vault_patch` (ciblage par heading) sont des
+   alternatives plus chirurgicales. Ne jamais écraser à l'aveugle.
+   Dans ce même listing, si `Brainstorms.base` est absent : le créer sans
+   demander (copier le contenu d'`assets/Brainstorms.base` vers
+   `05_IA_Inbox/Brainstorm/Brainstorms.base` via `vault_write`) — c'est la
+   vue installée d'office pour cette inbox (voir « Vue de triage » plus
+   bas). Si elle existe déjà, ne jamais la réécrire : l'utilisateur a pu la
+   personnaliser.
 
 4. **Remplir le gabarit** `assets/template.md` (placeholders `{{...}}`) :
    - `{{SUJET_COMPLET}}` : la question/le sujet en une phrase
    - `{{ENTITES_LIEES}}` : liste YAML des fiches réellement trouvées à
-     l'étape de recherche, en wikilinks (`  - "[[Nom de la fiche]]"`) —
-     jamais une entité qui n'a pas été vérifiée comme existante
+     l'étape de recherche, en wikilinks entre guillemets
+     (`  - "[[Nom de la fiche]]"` — les guillemets sont obligatoires pour
+     un lien en frontmatter) — jamais une entité qui n'a pas été vérifiée
+     comme existante
    - `{{DATE}}` : date du jour, format `AAAA-MM-JJ`
    - `{{TITRE_FICHIER}}` : nom du fichier sans l'extension `.md`
    - `{{RESUME_UNE_PHRASE}}`, `{{QUESTION_OBJECTIF}}`, `{{CANON_EXISTANT}}`,
      `{{PISTES_EXPLOREES}}`, `{{RETENU}}`, `{{ECARTE}}`,
      `{{QUESTIONS_OUVERTES}}`, `{{A_REPORTER}}` : contenu de la session,
      un item par ligne en liste à puces (voir Mode A/B).
+   - Dans `{{CANON_EXISTANT}}`, chaque fiche mobilisée porte son statut réel
+     lu en frontmatter, ex. `- [[Voile des Éthers]] (statut: semi-canon) —
+     élément mobilisé`. Le statut conditionne le poids de l'argument.
    - `{{A_REPORTER}}` : une checklist actionnable, une ligne par décision
      retenue, ex. `- [ ] [[Fiche cible]] ← [décision]`.
 
-5. **Écrire le fichier** via `obsidian_write_note` (target: path
-   `05_IA_Inbox/Brainstorm/<nom du fichier>.md`, `overwrite: false`). Ne
-   jamais ajouter le double-marqueur `revision: ia-a-valider` ici : ce
-   protocole concerne la modification de fichiers existants, pas la création
-   dans 05_IA_Inbox (déjà `statut: brouillon` + `source: ia`).
+5. **Écrire le fichier** via `vault_write` (path
+   `05_IA_Inbox/Brainstorm/<nom du fichier>.md`) — uniquement après la
+   vérification de l'étape 3. Ne jamais ajouter le double-marqueur
+   `revision: ia-a-valider` ici : ce protocole concerne la modification de
+   fichiers existants, pas la création dans 05_IA_Inbox (déjà
+   `statut: brouillon` + `source: ai`).
 
-   **Si MCP indisponible :** créer le fichier avec `Write`, même chemin, même
-   contenu assemblé. Puis, seulement si le vault est dans un dépôt git
-   (vérifier d'abord avec `git rev-parse --is-inside-work-tree`) :
-   ```bash
-   git add "05_IA_Inbox/Brainstorm/<nom du fichier>.md"
-   git commit -m "[brouillon IA] Brainstorm — <Sujet-en-un-mot>" -- "05_IA_Inbox/Brainstorm/<nom du fichier>.md"
-   ```
-   Le message de commit reprend le sujet-en-un-mot dérivé à l'étape 1, préfixé
-   par `[brouillon IA]` pour que l'historique git reflète honnêtement le
-   statut (pas une validation de l'utilisateur). Ne JAMAIS utiliser
-   `git add -A`, `git add .` ou `git commit -a` : stager et commiter
-   uniquement ce fichier précis, jamais le reste de l'arbre de travail (qui
-   peut contenir des changements de l'utilisateur sans rapport). Si le vault
-   n'est pas un dépôt git, ignorer l'étape git et le mentionner simplement
-   dans la confirmation.
+6. **Confirmer à l'utilisateur** : chemin du fichier créé, recap bref
+   (Retenu / Écarté / questions ouvertes / À reporter), et rappel que rien
+   n'engage le canon tant que le contenu n'est pas reporté dans 01_Lore par
+   l'utilisateur. Proposer d'ouvrir la fiche dans Obsidian (`open_file`) —
+   ne l'ouvrir que si l'utilisateur accepte : il n'est pas forcément devant
+   la machine où tourne le vault.
 
-6. **Confirmer à l'utilisateur** : chemin du fichier créé (+ mention du commit
-   git s'il a eu lieu, avec son message), recap bref (Retenu / Écarté /
-   questions ouvertes / À reporter), et rappel que rien n'engage le canon
-   tant que le contenu n'est pas reporté dans 01_Lore par l'utilisateur.
+---
+
+## Vue de triage des brainstorms (installée d'office)
+
+`assets/Brainstorms.base` est copiée automatiquement vers
+`05_IA_Inbox/Brainstorm/Brainstorms.base` dès la première fiche écrite dans
+ce dossier (Assembler et enregistrer, étape 3) — aucune demande explicite
+requise. Elle sert de MOC de facto pour l'inbox brainstorm et comble
+l'angle mort Conventions §8-(2) (une fiche de 05_IA_Inbox n'est listée dans
+aucune MOC) : les colonnes Fiche / Sujet / Session / Statut se trient en
+cliquant sur leur en-tête dans Obsidian. Elle coexiste avec Dataview
+(Tableau de bord) sans le remplacer — deux systèmes de vues, chacun sur son
+périmètre. Une fois installée, ne plus jamais la réécrire automatiquement :
+si l'utilisateur l'a modifiée (nouvelles colonnes, filtres), une réécriture
+silencieuse l'effacerait.
 
 ---
 
@@ -227,20 +278,30 @@ court, volontairement) :
   fiche n'existe pas, le dire ("absent des notes du vault") plutôt que de
   créer un lien mort silencieusement.
 - Jamais promouvoir un statut à `canon` ou `canon-verrouillé` depuis ce
-  skill — la fiche reste `brouillon`/`source: ia` par nature.
+  skill — la fiche reste `brouillon`/`source: ai` par nature (Conventions
+  §1 : seul l'auteur attribue ces statuts).
+- Jamais d'écriture dans `00_Systeme` (verrouillé) ni dans `99_Archive`
+  (lecture seule), et jamais de `vault_delete` ni de `vault_move` depuis ce
+  skill : il crée des fiches, il ne supprime ni ne déplace rien.
+- `vault_write` écrase sans avertissement : aucune écriture sans
+  vérification préalable d'inexistence (`vault_list`) ou sans
+  lecture-et-fusion explicite du fichier existant.
+- Tout résultat de recherche est trié par zone (voir Mode A, étape 1) : une
+  correspondance dans `99_Archive`, `04_Brouillons` ou `05_IA_Inbox` n'est
+  jamais du canon, quel que soit son contenu.
+- Le statut d'une fiche mobilisée est celui lu dans son frontmatter, jamais
+  un statut supposé — et il est rapporté explicitement dans la fiche
+  brainstorm.
 - Si la session couvre plusieurs sujets réellement distincts (pas juste des
   sous-aspects d'une même question), le signaler et proposer de scinder en
   plusieurs fiches plutôt que de tout mettre dans une seule.
 - Le contenu de la fiche brainstorm n'est jamais cité comme canon ailleurs
   dans la conversation tant qu'il n'a pas été reporté dans 01_Lore.
 - Si un tool MCP échoue en cours de session alors qu'il semblait disponible
-  (connexion tombée), basculer en Mode Fichiers/Git UNIQUEMENT si un accès
-  disque réel au vault existe (Claude Code) ; sinon, arrêter et signaler
-  l'échec à l'utilisateur — jamais fabriquer un succès ou improviser une
-  autre source.
-- En Mode Fichiers/Git : ne jamais `git add`/`git commit` autre chose que le
-  fichier de la fiche créée — jamais l'arbre de travail entier, même si
-  d'autres changements semblent liés.
+  (connexion tombée) : basculer sur un repli UNIQUEMENT en Claude Code avec
+  accès réel au vault (lire alors `references/modes-repli.md`) ; dans
+  claude.ai, arrêter et signaler l'échec — jamais fabriquer un succès ou
+  improviser une autre source.
 - En Mode C : ne jamais appliquer le gabarit ou la structure du Mode A/B à
   une capture express — si Claude se surprend à chercher le canon existant
   ou à structurer l'idée en sections, c'est le signal que ce n'est plus une

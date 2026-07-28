@@ -65,12 +65,6 @@ Les deux gardiens ne renoncent pas par résignation pure : chacun scelle son fra
 
 ## Contradictions potentielles
 
-✅ **Corrige une hypothèse proposée lors de la migration de [[2026-07-12 — Proposition — Migration Humarios]] (renvoi resté sans contenu jusqu'ici — comblé maintenant).** Le porteur du fragment Âme (« le premier gardien », ci-dessus) n'est PAS Humarios : c'est l'un des deux gardiens nains survivants de [[La Trahison des Gardiens]]. Humarios n'a aucun lien avec le fragment Corps ni avec la pierre qui scelle le gardien corrompu (précision explicite de Key — à ne pas reconflater).
-
 **Identité du gardien-Âme non nommée.** Ni son nom, ni la lignée mortelle dans laquelle il aurait pu renaître ne sont précisés — fil narratif volontairement ouvert, possible accroche de campagne si tu souhaites le développer.
-
-✅ **Mécanisme du fragment-Âme entièrement revu (2026-07-21, suite au brainstorm [[2026-07-21 — Brainstorm — FragmentsCoeur]])** : la piste Naïnrak/ancrage lignéger et le passage par les Limbes/Filiama sont abandonnés. Le fragment retient désormais l'âme du gardien sur Lamia même, invisible aux mortels mais traqué sans relâche par les démons (son aura anti-essence divine les affaiblit, mais leur nombre peut lui être fatal) — d'où une errance rapide, sans jugement de dignité, de corps mortel en corps mortel, toute lignée confondue.
-
-✅ **Nommage du plan onirique tranché : Les Songes** (2026-07-21) — remplace « Plan des Rêves » dans cette fiche. Le brouillon Oneira reste à harmoniser séparément.
 
 **Datation reprise directement de [[Timeline Master]] (Exodiale ≈0–30) — cohérente, aucun conflit.**

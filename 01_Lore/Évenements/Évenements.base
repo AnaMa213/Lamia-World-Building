@@ -1,0 +1,22 @@
+filters:
+  and:
+    - file.path.startsWith("01_Lore/Évenements/")
+    - type == "evenement"
+views:
+  - type: table
+    name: Tableau
+    filters:
+      and:
+        - file.path.startsWith("01_Lore/Évenements/")
+        - type == "evenement"
+    groupBy:
+      property: ere
+      direction: DESC
+    order:
+      - file.name
+      - statut
+      - source
+      - tags
+      - revision
+      - annee
+    sort: []

@@ -4,7 +4,7 @@ source: auteur
 type: evenement
 importance: majeur
 ere: primordial
-annee: "0"
+annee: " - 2 000 000 000 AS"
 annee_debut:
 annee_fin:
 tags:
@@ -42,7 +42,7 @@ L'existence de Chronoversum est relatée dans un texte in-univers cité par la s
 ## Relations
 
 - [[Chronoversum]] — sujet unique de cet événement.
-- *L'Infinitium de Chronoversum* — texte in-univers relatant cet événement, à créer (type `concept` ou `oeuvre` selon ce que tu préfères).
+- [[L'Infinitium de Chronoversum]] —  texte cosmogonique le plus ancien connu de Lamia, d'origine totalement inconnue et immémoriale, qui relate l'auto naissance de Chronoversum et l'éveil du Tout depuis le Rien.
 
 ## Contradictions potentielles
 

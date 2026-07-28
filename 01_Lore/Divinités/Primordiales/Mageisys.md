@@ -1,5 +1,6 @@
 ---
-statut: brouillon
+statut: canon
+source: auteur
 type: divinite
 tags:
   - magie
@@ -10,7 +11,7 @@ aliases:
   - Dieu de la Magie Élémentaire
   - Dieu du Savoir
 rang: primordiale
-etat: voilée
+etat: observateur
 titres:
   - Dieu du savoir et de la magie élémentaire
 suivants:
@@ -18,30 +19,32 @@ suivants:
   - "[[Chercheurs]]"
   - "[[Alchimistes]]"
 alignement: Chaotique Neutre
+revision-date: 2026-07-28
 ---
 
 # Mageisys
-
-> [!note] Brouillon de migration — 2026-07-11
-> Migré depuis `99_Archive/Divinites/Primordiaux/Mageisys.md`, reformaté selon les Conventions (frontmatter, structure des sections). La prose originale (Histoire, Apparence, Désir conscient, Besoin profond, Croyance fausse, Faille intime, Tension centrale) est reprise telle quelle. Les sections **Relations** et **Contradictions potentielles** sont des ajouts de l'IA. Statut, `etat`, et plusieurs points listés en Contradictions restent à arbitrer — voir l'analyse de migration en 9 points.
 
 **En une phrase :** Mageisys est le dieu primordial du savoir et de la magie élémentaire, architecte des lois du Plan des Mondes et concepteur du Despophys, dont l'expérimentation sur son fils Humarios précipita une catastrophe qui bouleversa durablement le climat de Lamia.
 
 ## Résumé
 
-Mageisys est le dieu de la Magie Élémentaire et du Savoir, représentant l'histoire de l'univers et possédant toutes les connaissances sur la manipulation des forces qui dirigent les mondes non-divins. Sa naissance divine se situe pendant la première ère, peu après celle d'Ataraxus. Il créa les astres sinistres et froids qui peuplent une grande partie de l'univers.
+Mageisys est le dieu de la Magie Élémentaire et du Savoir, représentant l'histoire de l'univers et possédant toutes les connaissances sur la manipulation des forces qui dirigent les mondes non-divins. Sa naissance divine se situe lors de la première émanation, peu après celle d'Ataraxus. Il créa les astres sinistres et froids qui peuplent une grande partie de l'univers.
 
 ## Histoire
 
-Mageisys est le dieu de la Magie Élémentaire et du Savoir, représentant l'histoire de l'univers et possédant toutes les connaissances sur la manipulation des forces qui dirigent les mondes non-divins. Sa naissance divine se situe pendant la première ère, peu après celle d'Ataraxus. Il créa les astres sinistres et froids qui peuplent une grande partie de l'univers.
+Mageisys est le dieu de la Magie Élémentaire et du Savoir, représentant l'histoire de l'univers et possédant toutes les connaissances sur la manipulation des forces qui dirigent les mondes non-divins. Sa naissance divine se situe lors de la première émanation, peu après celle d'Ataraxus. Il créa les astres sinistres et froids qui peuplent une grande partie de l'univers.
 
-Sa naissance remonte à la première ère, peu après celle d'[[Ataraxus]]. Là où Ataraxus incarnait le calme absolu et la stabilité du vide, [[Mageisys]] portait une autre impulsion : comprendre, structurer, organiser et complexifier. Il ne cherchait pas encore à créer la vie, mais à donner au réel des règles, des couches, des interactions et des lois capables de produire un univers cohérent.
+Sa naissance remonte à la première émanation, peu après celle d'[[Ataraxus]]. Là où Ataraxus incarnait le calme absolu et la stabilité du vide, [[Mageisys]] portait une autre impulsion : comprendre, structurer, organiser et complexifier. Il ne cherchait pas encore à créer la vie, mais à donner au réel des règles, des couches, des interactions et des lois capables de produire un univers cohérent.
 
 C'est seul qu'il créa le [[Plan des Mondes]], vaste plan physique gouverné par des lois d'une extrême complexité. Il y établit les principes fondamentaux de la matière, des forces, des astres, des équilibres élémentaires et des interactions magiques. Il façonna aussi de nombreux astres froids et sinistres, témoins d'un univers encore silencieux, immense et presque entièrement inhabité. Mageisys était fier de cette œuvre : le Plan des Mondes était stable, profond, structuré, admirable dans sa mécanique. Mais il était aussi trop rigide, trop vaste et trop complexe pour que la vie puisse y naître facilement.
 
 Lorsque [[Lumina]] et [[Albaesclatia]] apparurent et voulurent animer l'univers, Mageisys comprit vite le problème. Le Plan des Mondes n'avait pas été pensé pour recevoir des êtres non divin. Ses lois étaient trop lourdes, trop massives, trop indifférentes. Créer la vie directement dans ce plan revenait à tenter d'allumer une flamme dans une tempête de neiges.
 
-Pour permettre aux deux déesses de créer plus facilement, Mageisys conçut alors le [[Despophys]] : un plan plus restreint, plus simple, plus stable et plus contrôlable. Dans cet espace réduit, les conditions nécessaires à l'apparition d'êtres vivants pouvaient être ajustées sans devoir restructurer l'ensemble du Plan des Mondes. Le Despophys devint ainsi un laboratoire sacré, un lieu où la vie pouvait être tentée, protégée, corrigée et comprise avant d'être confrontée à la complexité du réel.
+Ce problème se posa avec une acuité particulière après la mort de la toute première création d'Albaesclatia : l'ange **Lamia**, dont la Flamme de vie s'éteignit presque aussitôt dans le Plan des Mondes, incompatible avec toute essence n'en émergeant pas naturellement (voir [[La Flamme Éteinte]]). Effondrée, Albaesclatia supplia Mageisys de lui bâtir un plan où ses futures créations pourraient vivre. Il accepta, à une condition : que ces créatures soient dotées d'une âme et d'un libre arbitre réels. Ainsi naquit le **[[Despophys]]** : un plan plus restreint, plus simple, plus stable et plus contrôlable que le Plan des Mondes, où les conditions nécessaires à l'apparition d'êtres vivants pouvaient être ajustées sans devoir en restructurer l'ensemble.
+
+🔒 En parallèle, et sans qu'Albaesclatia n'en connaisse jamais toute l'étendue, Mageisys profita du deuil de sa sœur pour recueillir en secret le corps de l'ange Lamia, prétextant vouloir lui offrir un plan de repos éternel (voir [[Le Larcin de Mageisys]]). Il n'en étudia en réalité l'essence résiduelle que pour sa propre curiosité, ne rendant à Albaesclatia qu'une infime fraction de celle-ci, enfermée dans une perle qu'elle crut être un sanctuaire à part entière. L'essentiel de cette essence resta entre ses mains pendant des centaines de milliers d'années, jusqu'à ce qu'il l'implante en secret, bien plus tard, dans la planète qui prendrait le nom de sa fille (voir [[La Semence Cachée]]).
+
+Voulant davantage, Albaesclatia rejoignit Mageisys pour ériger ensemble le **[[Dibertium]]**, où elle inséra une partie de son essence divine sous la forme d'une flamme bleutée : **[[Filiama]]**. C'est de Filiama qu'elle engendra son premier fils, l'Archange [[Xeros]] — mais en lui donnant un libre arbitre ancré dans ses propres valeurs plutôt que pleinement autonome, elle rompit sa parole. Mageisys découvrit la transgression et menaça de tout détruire avant d'imposer un second pacte, plus contraignant : elle ne dérogerait plus jamais aux règles fixées, et accepterait une dette dont il choisirait seul les termes — une dette qu'il réclamerait bien plus tard (voir [[Le Tribut de la Création]]).
 
 Mais [[Albaesclatia]] ne se satisfit pas entièrement de cette solution. Son ambition dépassait le cadre d'un plan protégé. Elle voulait que la vie puisse exister dans le véritable univers, sur les mondes physiques, au sein même du Plan des Mondes. Mageisys dut alors affronter une limite majeure de sa propre création : il ne pouvait pas simplement réécrire les lois du Plan des Mondes pour les rendre favorables à la vie sans risquer d'en briser l'équilibre général.
 
@@ -55,13 +58,11 @@ Malgré son génie, Mageisys fut souvent mal apprécié par les autres dieux. So
 
 Mageisys préféra longtemps une forme immatérielle. Il errait librement dans le Plan des Mondes, laissant son essence voguer comme autrefois dans le néant. Pour cela, il créa une dimension nouvelle, indéchiffrable, liée au plan physique mais séparée de lui. Cette strate immatérielle n'était atteignable que par Mageisys, puis plus tard par certains esprits particuliers, notamment ceux liés à [[Vindiereis]]. En s'extrayant de leur corps physique, ces esprits pouvaient parfois, guidés par leurs désirs, leurs sentiments ou leurs objectifs, interagir subtilement avec la dimension matérielle.
 
-Mais Mageisys ne se contentait pas d'observer. Cherchant toujours à perfectionner les possibilités de la magie dans un monde physique, il se matérialisait parfois pour mener des expériences dans le Plan des Mondes. Avec l'aide d'[[Albaesclatia]], il créa deux entités inspirées par l'évolution des races intelligentes de Lamia : [[Alfaryus]] et [[Humarios]]. À chacun, il transmit une part de son essence divine, espérant peut-être produire des héritiers capables d'explorer la magie, la connaissance et l'influence divine sous des formes nouvelles.
+Mais Mageisys ne se contentait pas d'observer. Cherchant toujours à perfectionner les possibilités de la magie dans un monde physique, il se matérialisait parfois pour mener des expériences dans le Plan des Mondes. Avec l'aide d'[[Albaesclatia]], il créa deux entités inspirées par l'évolution des races intelligentes de Lamia : [[Alfaryus]] et [[Humarios]], guides incarnés des derniers survivants après la Chute de l'Âge d'Or (Exodiale ≈170–220, voir [[Les Jumeaux Divins]]). À chacun, il transmit une part de son essence divine, espérant peut-être produire des héritiers capables d'explorer la magie, la connaissance et l'influence divine sous des formes nouvelles.
 
-Cette expérience devint sa plus grande faute. Humarios, rongé par la comparaison avec son frère et par le besoin d'être reconnu, finit par perdre la raison. Sa chute affaiblit l'influence du cœur de Lamia et contribua à ouvrir la voie à l'entrée directe d'Ataraxus et d'autres puissances divines sur le monde. Mageisys dut affronter lui-même son fils.
+Cette expérience devint sa plus grande faute. Humarios, rongé par la comparaison avec son frère et par le besoin d'être reconnu, expérimenta seul sur un fragment du Cœur de Lamia pour accroître sa puissance (voir [[La Corruption d'Humarios]]) — fragilisant du même coup la barrière protégeant Lamia et ouvrant la voie à la [[Grande Bataille de Cyroldan]] (Exodiale ≈1500). C'est là, à ce qu'on retient aujourd'hui — rien n'est encore figé sur le déroulement exact — que Mageisys aurait foulé lui-même le sol de Lamia, aux côtés d'[[Alfaryus]], pour tenter d'arrêter la corruption de son fils. Il aurait sous-estimé le pouvoir qu'il venait lui-même de créer : Humarios, submergé, n'aurait pu contenir la quantité d'essence divine qu'il lui arracha, celle-ci déferlant sur le monde sous la forme d'un cataclysme élémentaire. Les équilibres climatiques de Lamia s'en trouvèrent brisés, donnant naissance à des hivers extrêmes, des étés infernaux et des saisons devenues parfois hostiles aux peuples mortels.
 
-Le combat fut catastrophique. Humarios parvint à lui dérober une grande partie de son essence divine. Cette perte déstabilisa profondément les lois du monde, provoquant des cataclysmes d'une ampleur inimaginable. La météo de Lamia fut durablement altérée : les équilibres climatiques se brisèrent, donnant naissance à des hivers extrêmes, des étés infernaux et des saisons devenues parfois hostiles aux peuples mortels.
-
-Humarios fut finalement scellé par son frère [[Alfaryus]] dans une gemme d'emprisonnement, mais le mal était fait. Mageisys, humilié et honteux de n'avoir pas su arrêter sa propre création, se retira dans sa [[Strate Mageysienne]] immatérielle. Là, il poursuivit ses expérimentations, loin du jugement des autres dieux et des conséquences directes de son échec.
+Humarios fut finalement scellé par son frère [[Alfaryus]] dans une gemme d'emprisonnement, mais le mal était fait. Mageisys, humilié et honteux de n'avoir pas su arrêter sa propre création, se retira dans [[Les Songes]]. Là, il poursuivit ses expérimentations, loin du jugement des autres dieux et des conséquences directes de son échec.
 
 Depuis, Mageisys observe parfois la façon dont les mortels s'adaptent à l'instabilité qu'il a contribué à laisser derrière lui. Il reste une divinité majeure du savoir et de la magie, mais son héritage est ambigu. Il a donné aux mortels les lois qui rendent le monde compréhensible ; il a aussi engendré, par orgueil et par expérimentation, l'une des fractures les plus dangereuses de l'histoire de Lamia.
 
@@ -122,24 +123,33 @@ Mais son danger est de croire que la structure suffit. La vie a besoin de lois, 
 ## Relations
 
 - [[Ataraxus]] — le précède de peu parmi les consciences primordiales ; incarne une approche opposée (calme immobile vs structuration active du réel).
-- [[Albaesclatia]] — sœur et partenaire de création ; bénéficiaire du [[Despophys]] qu'il conçoit pour elle ; relation dont une part reste à documenter (voir Contradictions potentielles).
+- [[Albaesclatia]] — sœur et partenaire de création ; bénéficiaire du [[Despophys]] et du [[Dibertium]] ; lui a secrètement caché l'ampleur de ses recherches sur le corps de l'ange Lamia (voir [[Le Larcin de Mageisys]] 🔒).
 - [[Lumina]] — associée dans le projet d'animer l'univers.
 - [[Naphusis]] — solution architecturale imprévue à la rigidité de ses propres lois du Plan des Mondes.
-- [[Alfaryus]] — fils, dépositaire d'une part de son essence divine, fondateur de la magie arcanique (système distinct de sa propre magie élémentaire).
-- [[Humarios]] — fils déchu ; l'affrontement qui les oppose est au cœur de sa faute et de son retrait (mécanisme à arbitrer, voir Contradictions potentielles).
+- [[Xeros]] — né du second pacte avec Albaesclatia, à la suite des [[Les Accords du Despophys]].
+- [[La Flamme Éteinte]] / [[Le Larcin de Mageisys]] — origine de son intérêt secret pour l'essence de l'ange Lamia, implantée bien plus tard dans la planète (voir [[La Semence Cachée]]).
+- [[Alfaryus]] — fils, dépositaire d'une part de son essence divine, fondateur de la magie arcanique (système distinct de sa propre magie élémentaire) ; à ses côtés lors de la [[Grande Bataille de Cyroldan]].
+- [[Humarios]] — fils déchu ; la [[La Corruption d'Humarios|corruption]] qui l'oppose à Mageisys est au cœur de sa faute et de son retrait (mécanisme encore à figer, voir Contradictions potentielles).
+- [[Grande Bataille de Cyroldan]] — épisode où Mageisys se serait manifesté physiquement sur Lamia ; chantier en cours, non développé ici.
 - [[Vindiereis]] — parmi les rares esprits capables d'atteindre sa strate immatérielle.
 - [[Lamia]] — monde où, avec Albaesclatia, Lumina et Naphusis, la vie mortelle put s'établir.
 
 ## Contradictions potentielles
 
-⚠️ **Mécanisme de la chute d'Humarios.** Cette fiche affirme que Mageisys affronta lui-même Humarios en combat et que celui-ci lui déroba « une grande partie de son essence divine », provoquant le cataclysme climatique de Lamia. La fiche [[Humarios]] (99_Archive/Divinites/Demi-dieu/Humarios.md) raconte une origine différente : Humarios expérimente seul sur lui-même avec un fragment du Cœur de Lamia, corrompant sa propre essence — sans mention d'un combat contre Mageisys ni d'un vol d'essence. La fiche [[Naphusis]] corrobore l'existence d'un « combat contre Humarios » à l'origine des dérèglements climatiques attribués à Mageisys, sans trancher le mécanisme exact. À arbitrer : deux étapes complémentaires d'une même chute, ou une des trois fiches à corriger ?
 
-⚠️ **Secret non intégré : l'essence de la première Lamia.** Le document `99_Archive/Evenements/Genèse de l'univers de Lamia.md` (sans frontmatter, donc statut brouillon par défaut) révèle que Mageisys a secrètement conservé le corps de l'ange Lamia — premier enfant, mort-né, d'Albaesclatia — et implanté une part de son essence dans la planète qui prit ensuite ce nom, ce qui expliquerait l'auto-isolement du Cœur de Lamia. Albaesclatia découvre plus tard cette trahison, ce qui fracture durablement leur relation. Cet épisode, potentiellement 🔒, n'a pas été intégré à ce brouillon : décision de fond à prendre séparément.
+> [!ia-a-valider]- 2026-07-27 — Terminologie : « ère » → « émanation »
+> **Décision** : terminologie retenue avec l'auteur (session Chronoversum, 2026-07-27) — voir [[Chronoversum|Chronoversum]].
+> **Modifié** : Résumé et Histoire — « première ère » remplacé par « première émanation » (2 occurrences). « Avec le passage des ères » en Apparence non touché : il s'agit là des ères lamiennes (évolution des représentations artistiques dans le temps), pas des émanations de Chronoversum. Champ `source: ia` ajouté (manquant).
 
-⚠️ **Homonymie non résolue : Lamia (ange) vs Lamia (planète).** Le document de Genèse nomme le premier enfant mort-né d'Albaesclatia « Lamia (Anges) », tandis que la planète est nommée en sa mémoire. Aucune note « Lamia » n'existe encore dans le vault. Cette fiche utilise [[Lamia]] uniquement au sens planète — cohérent avec l'usage dominant du reste du vault — mais la scission par homonymie (Conventions §6) devra être tranchée lors de la migration d'Albaesclatia ou de Lamia elle-même.
+^rev-20260727-mageisys-terminologie
 
-**Backstory du Despophys incomplète (non contradictoire).** Cette fiche présente le Despophys comme une simple facilité offerte aux deux déesses. Le document de Genèse détaille une histoire plus riche : condition d'âme et de libre arbitre posée par Mageisys, naissance de Xeros, transgression d'Albaesclatia, dette réclamée plus tard sous forme d'implantation d'un fragment de l'essence de Mageisys dans tous les Lamiens (origine probable de la « magie élémentaire » et de l'« Essence de Mageisys » citées en liens). Non intégré ici : à valider séparément.
+> [!ia-a-valider]- 2026-07-28 — Arbitrages de session : chute d'Humarios, secret de l'essence de Lamia, Despophys, datation
+> **Décision** : quatre points traités avec l'auteur (session du 2026-07-28).
+> **Modifié** : Histoire (paragraphes Despophys et Alfaryus/Humarios réécrits et enrichis) et Relations (liens ajoutés) — détail ci-dessous.
+>
+> 1. **Mécanisme de la chute d'Humarios** — **non figé, piste de travail seulement** (précisé comme tel dans le texte). Synthèse retenue pour l'instant : Humarios se corrompt seul sur un fragment du Cœur ([[La Corruption d'Humarios]], canon), ce qui fragilise la barrière et permet la [[Grande Bataille de Cyroldan]] ; Mageisys s'y manifeste alors physiquement aux côtés d'Alfaryus pour l'arrêter, sous-estime sa puissance, et une grande part de son essence lui est arrachée — déferlant en cataclysme élémentaire. Unifie les trois versions en conflit sans les trancher définitivement.
+> 2. **Secret non intégré (essence de la première Lamia)** — intégré, basé sur les fiches canon [[La Flamme Éteinte]] et [[Le Larcin de Mageisys]] (🔒, pas l'archive) : mort de l'ange Lamia, deuil d'Albaesclatia, récupération secrète du corps par Mageisys sous prétexte d'un repos éternel, essence en grande partie gardée puis implantée dans la planète.
+> 3. **Backstory du Despophys** — enrichie à partir de [[Les Accords du Despophys]] (canon) : condition d'âme et de libre arbitre, naissance de Xeros comme transgression du pacte, second pacte plus contraignant, dette envers Mageisys.
+> 4. **Datation d'Alfaryus et Humarios** — indiquée : Exodiale ≈170–220 (voir [[Les Jumeaux Divins]]), cohérent avec [[Timeline Master]].
 
-**Datation implicite de la création d'Alfaryus et Humarios.** Non contradictoire avec [[Timeline Master]] (Ère Exodiale ≈170–220, « guides incarnés des derniers survivants »), mais cette fiche ne date pas l'épisode explicitement, ce qui pourrait laisser croire à une origine bien plus ancienne si elle est lue isolément.
-
-**Doublon de rôle apparent avec [[Alfaryus]] (non confirmé comme problématique).** Thèmes communs (magie, savoir, connaissance) — semblent voulus : Alfaryus est un héritier direct, fondateur d'un système de magie distinct (arcanique vs élémentaire). À surveiller lors de sa migration pour garder la distinction explicite.
+^rev-20260728-mageisys-cyroldan-despophys

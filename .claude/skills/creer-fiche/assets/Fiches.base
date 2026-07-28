@@ -1,0 +1,21 @@
+filters:
+  and:
+    - file.inFolder("05_IA_Inbox/Fiches")
+    - file.ext == "md"
+properties:
+  file.name:
+    displayName: Fiche
+  type:
+    displayName: Type
+  date:
+    displayName: Session
+  statut:
+    displayName: Statut
+views:
+  - type: table
+    name: Fiches à trancher
+    order:
+      - file.name
+      - type
+      - date
+      - statut

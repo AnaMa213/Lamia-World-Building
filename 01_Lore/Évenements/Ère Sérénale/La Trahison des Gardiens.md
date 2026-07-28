@@ -13,7 +13,6 @@ tags:
   - nains
   - secret
 date: 2026-07-12
-revision: ia-a-valider
 portee:
 aliases:
   - La Fracture du Cœur

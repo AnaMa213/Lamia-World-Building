@@ -1,20 +1,23 @@
 ---
 statut: brouillon
-source: ia
+source: auteur
 type: evenement
 importance: majeur
 ere: exodiale
 annee: 1500
 annee_debut:
 annee_fin:
-tags: [humarios, alfaryus, coeur-de-lamia, secret]
+tags:
+  - humarios
+  - alfaryus
+  - coeur-de-lamia
+  - secret
 date: 2026-07-12
 portee:
-aliases: ["La Chute du Mage Noir"]
+aliases:
+  - La Chute du Mage Noir
 ---
 # La Corruption d'Humarios
-
-> ⚠️ **Déroulement précis en suspens** — sur ta décision (Q5/Q9), l'articulation exacte entre cet événement et la Grande Bataille de Cyroldan (déjà dans [[Timeline Master]]) sera développée plus tard, au moment de l'écriture de ton roman sur l'Ère Exodiale. Cette fiche reste `brouillon` et se limite à ce qui est déjà établi via la fiche déjà migrée d'Humarios.
 
 **En une phrase :** Rongé par la jalousie envers son frère et la faim de reconnaissance, Humarios expérimente sur un fragment du Cœur de Lamia pour accroître sa propre puissance — corrompant son essence jusqu'à devenir une menace pour le monde qu'il devait protéger, avant qu'Alfaryus ne l'emprisonne, espérant le sauver un jour.
 

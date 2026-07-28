@@ -1,16 +1,19 @@
 ---
 statut: brouillon
-source: ia
+source: auteur
 type: evenement
 importance: majeur
 ere: exodiale
 annee: 900
 annee_debut:
 annee_fin:
-tags: [alfaryus, magie-arcanique]
+tags:
+  - alfaryus
+  - magie-arcanique
 date: 2026-07-12
 portee:
-aliases: ["La Naissance de l'Arcane"]
+aliases:
+  - La Naissance de l'Arcane
 ---
 # La Transmission de la Magie Arcanique
 
@@ -45,5 +48,3 @@ Fait largement connu — la magie arcanique et son lien à Alfaryus sont documen
 ## Contradictions potentielles
 
 **Aucune contradiction relevée.** Cohérent avec l'entrée déjà existante dans [[Timeline Master]] (≈900) et avec la fiche déjà migrée d'Alfaryus.
-
-**Déroulement précis non détaillé par la source (« Les derniers feux » ne mentionne pas cet épisode directement)** — reconstruit à partir de l'entrée Timeline Master existante et de la fiche Alfaryus. Sur ta remarque (Q9), le déroulement exact reste à ta discrétion pour une version future si tu veux le développer davantage, notamment dans le cadre de ton roman.

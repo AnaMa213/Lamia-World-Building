@@ -1,20 +1,22 @@
 ---
 statut: brouillon
-source: ia
+source: auteur
 type: evenement
 importance: majeur
 ere: exodiale
 annee: inconnu
 annee_debut: 600
 annee_fin: 1450
-tags: [maurtria, corruption, discorde]
+tags:
+  - maurtria
+  - corruption
+  - discorde
 date: 2026-07-12
 portee:
-aliases: ["Le Long Poison"]
+aliases:
+  - Le Long Poison
 ---
 # La Dernière Menace
-
-> [!note] Rédigé le 2026-07-12 d'après tes clarifications en conversation sur le rôle réel de Maurtria (Q2) — la version d'origine de la Genèse la présentait comme agissant pour le compte d'Ataraxus ; ce n'est pas le cas.
 
 **En une phrase :** Maurtria comprend que la force seule ne suffira jamais à assouvir son désir — elle retourne alors les mortels les uns contre les autres, corrompant lentement des lignées et des peuples entiers pour que la violence et la guerre ne s'éteignent jamais, poursuivant ses propres desseins sans jamais se ranger vraiment du côté d'Ataraxus, qu'elle méprise autant que le Conseil.
 
@@ -53,8 +55,4 @@ Fait vraisemblablement connu dans ses grandes lignes (une longue période de cor
 
 ## Contradictions potentielles
 
-✅ **Rôle et intentions de Maurtria clarifiés en conversation.** Version antérieure (issue de la Genèse brute) : Maurtria semblait agir en service d'Ataraxus. Version retenue : elle poursuit un objectif propre (discorde et violence perpétuelles chez les mortels), indépendant de la victoire ou de la défaite d'Ataraxus, qu'elle méprise également. Cette clarification devra être répercutée, lors de la grande révision différée, sur sa fiche personnelle déjà migrée et sur [[La Trahison des Gardiens]] si tu le souhaites.
-
-**Recadrage Lamia appliqué (Q3)** : Lamia présentée comme le dernier lieu encore à l'abri de la guerre divine qui continue de faire rage ailleurs, pas comme le dernier lieu de vie de l'univers.
-
-**Datation approximative (≈600–1450), non fournie par la source** — la Genèse ne donne aucun repère chiffré pour cette longue campagne ; à ajuster librement.
+**Datation approximative (≈600–1450).

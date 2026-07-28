@@ -4,7 +4,7 @@ source: auteur
 type: evenement
 importance: majeur
 ere: primordial
-annee: inconnu
+annee: "- 1 500 000 000 AS"
 annee_debut:
 annee_fin:
 tags:
@@ -15,6 +15,7 @@ date: 2026-07-12
 portee:
 aliases:
   - La Dyade Primordiale
+revision-date: 2026-07-27
 ---
 # La Première Émanation
 
@@ -56,3 +57,12 @@ Le Plan des Mondes et le plan immatériel existent désormais. L'univers dispose
 ## Contradictions potentielles
 
 **Aucune contradiction relevée.** Cohérent avec l'entrée déjà existante dans [[Timeline Master]] (« ≈ 1,5 milliards d'années avant Sérénale 0 »).
+
+
+> [!ia-a-valider]- 2026-07-27 — Mageisys et Les Songes naissent simultanément
+> **Décision** : tranchée avec l'auteur (session Chronoversum, 2026-07-27).
+> **Modifié** : précision sur la simultanéité de Mageisys et de [[Les Songes]] — le « plan immatériel » mentionné en Déroulement ci-dessus est identifié à [[Les Songes]].
+>
+> Mageisys et Les Songes émergent au même instant, juste après Ataraxus — non l'un après l'autre comme le suggère « il crée deux plans » en Déroulement. Les Songes n'est donc pas une création délibérée de Mageisys au même titre que le Plan des Mondes : il en émerge plutôt, ce qui explique (voir [[Les Songes]]) qu'il n'en maîtrise jamais entièrement les règles, celles-ci restant instinctives à Chronoversum. Seul le Plan des Mondes reste un acte de création consciente, postérieur, une fois Mageisys pleinement formé. Reformulation de Déroulement **non faite ici** (additif uniquement) — à ajuster par l'auteur si souhaité.
+
+^rev-20260727-premiere-emanation-songes

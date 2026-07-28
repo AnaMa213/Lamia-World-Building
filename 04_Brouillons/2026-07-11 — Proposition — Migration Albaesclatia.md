@@ -5,7 +5,7 @@ rang: primordiale
 tags:
   - vie
   - anges
-portee:
+portee: null
 etat: voilée
 titres:
   - Déesse de la vie
@@ -17,6 +17,9 @@ alignement: Loyal Bon
 date: 2026-07-11
 aliases:
   - Déesse de la Vie
+revision: ia-a-valider
+revision-date: 2026-07-27
+source: ia
 ---
 
 # Albaesclatia
@@ -28,13 +31,13 @@ aliases:
 
 ## Résumé
 
-La Déesse de la Vie, Albaesclatia, émerge telle une mère aimante pour les anges, recevant sa puissance de l'amour qu'elle porte à chaque être vivant parcourant les mondes de l'univers. Elle vit le jour lors de la deuxième ère de Chronoversum. À cette époque, l'univers n'était qu'un vaste étendu de planètes gazeuses et rocheuses. Accompagnée de Lumina, elle conçut un projet pour rendre l'univers interactif et vivant.
+La Déesse de la Vie, Albaesclatia, émerge telle une mère aimante pour les anges, recevant sa puissance de l'amour qu'elle porte à chaque être vivant parcourant les mondes de l'univers. Elle vit le jour lors de la seconde émanation de Chronoversum. À cette époque, l'univers n'était qu'un vaste étendu de planètes gazeuses et rocheuses. Accompagnée de Lumina, elle conçut un projet pour rendre l'univers interactif et vivant.
 
 ## Histoire
 
 Albaesclatia est la Déesse de la Vie, mère des Archanges et source majeure de la création vivante dans l'univers. Sa puissance naît de l'amour qu'elle porte à chaque être vivant, non comme une idée abstraite, mais comme une force réelle : plus la vie se déploie, plus son essence trouve de quoi rayonner.
 
-Elle vit le jour durant la deuxième ère de [[Chronoversum]], à une époque où l'univers n'était encore qu'un vaste ensemble de planètes rocheuses et gazeuses, silencieuses et inhabitées. Avec [[Lumina]], elle conçut un projet immense : rendre l'univers interactif, sensible, habité, capable de répondre à autre chose qu'au vide et au mouvement des astres.
+Elle vit le jour durant la seconde émanation de [[Chronoversum]], à une époque où l'univers n'était encore qu'un vaste ensemble de planètes rocheuses et gazeuses, silencieuses et inhabitées. Avec [[Lumina]], elle conçut un projet immense : rendre l'univers interactif, sensible, habité, capable de répondre à autre chose qu'au vide et au mouvement des astres.
 
 La création de la vie ne fut pourtant pas une réussite immédiate. Sa première création véritable fut [[Lamia]], une ange façonnée avec tout l'amour et toute l'espérance dont elle était capable. Mais cette première fille ne parvint pas à demeurer dans l'existence : sa flamme s'éteignit presque aussitôt dans le [[Plan des Mondes]], laissant Albaesclatia face à une douleur que la création divine elle-même ne savait pas réparer.
 
@@ -114,7 +117,7 @@ Son danger n'est donc pas la cruauté, mais l'amour sans limite. Elle peut voulo
 
 ## Relations
 
-- [[Chronoversum]] — éveillée durant sa deuxième ère cosmique.
+- [[Chronoversum]] — éveillée durant sa seconde émanation.
 - [[Lumina]] — co-conceptrice du projet de vie ; lui succédera comme régente des anges (fiche [[Lumina]]).
 - [[Mageisys]] — frère, architecte du [[Despophys]] et co-créateur du [[Dibertium]] ; relation marquée par des pactes et une trahison majeure selon le document de Genèse (non intégré, voir Contradictions potentielles).
 - [[Naphusis]] — clé de l'enracinement de la vie dans le Plan des Mondes.
@@ -138,3 +141,10 @@ Son danger n'est donc pas la cruauté, mais l'amour sans limite. Elle peut voulo
 ⚠️ **Forge de Creperstella non datée, absente de la Timeline.** Événement structurant (l'épée est un objectif de la trame de campagne selon la fiche [[Alfaryus]]) : entrée à créer dans [[Timeline Master]], date à arbitrer (pendant la Grande Guerre divine, sans plus de précision dans les sources).
 
 **Retrait au Dibertium non daté.** Vraisemblablement fin Exodiale ou début Voile ; à positionner dans [[Timeline Master]] si jugé assez majeur.
+
+
+> [!ia-a-valider]- 2026-07-27 — Terminologie : « ère » → « émanation »
+> **Décision** : terminologie retenue avec l'auteur (session Chronoversum, 2026-07-27) — voir [[Chronoversum|Chronoversum]].
+> **Modifié** : Résumé, Histoire et Relations — « deuxième ère (cosmique) » remplacé par « seconde émanation » (3 occurrences). `source: ia` ajouté (manquant).
+
+^rev-20260727-albaesclatia-terminologie

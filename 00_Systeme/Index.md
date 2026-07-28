@@ -31,16 +31,21 @@ Géographie · Peuples et Factions · Personnages · Créatures · Événements 
 
 ### Ouverts
 
+#### 28/07/2026
+
+- [ ] Le brouillon [[Naphusis]] (04_Brouillons) contredit maintenant le canon acté — à corriger quand on le traitera.
+- [ ] Sweep terminologique « ère → émanation » dans [[La Première Émanation]] et [[La Seconde Émanation]] — pas fait, hors périmètre.
+- [ ]  Reformulation du Résumé/Histoire de Chronoversum pour intégrer sa nature panthéiste — pas faite, juste actée en callout.
+- [ ]  `alignement: Chaotique Neutre` — ma remarque reste sans réponse, non touché.
+
 #### Majeur
 
-- [x] Réécrire [[La Semence Cachée]] : dissocier l'implantation écologique de Naphusis (≈3000 avant Sérénale 0) de la formation du Cœur ("peu avant Sérénale 0") — voir [[2026-07-18 — Brainstorm — PeuplementLamia]]
-- [x] Intégrer le mécanisme du portail planaire dans [[La Garde du Cœur]] et [[L'Asile des Dragons]] — voir [[2026-07-18 — Brainstorm — PeuplementLamia]]
-- [ ] Créer une fiche evenement dédiée aux Xeroniens (Xeros/Naphusis/canal d'essence) — voir [[2026-07-18 — Brainstorm — PeuplementLamia]]
-- [x] Retravailler le lore sur "[[Le Dernier Serment des Gardiens]]"
+- [ ] Créer chaque Fiche lié au Evènements crées et déjà validé comme Canon. 
 - [ ] Retravailler le lore sur "[[Les Jumeaux Divins]]"
 
 #### Mineur
 
+- [ ] Créer une fiche evenement dédiée aux Xeroniens (Xeros/Naphusis/canal d'essence) — voir [[2026-07-18 — Brainstorm — PeuplementLamia]]
 - [ ] Harmoniser corps vs synthèse de la chronologie : Vindiereis Roi Sombre
 - [ ] Le Calendrier Commun existait-il avant l'Ère du Voile ?
 - [ ] Valider la scission du fichier calendrier (Calendrier Commun / Fêtes occultes / dates de campagne)
@@ -55,3 +60,6 @@ Géographie · Peuples et Factions · Personnages · Créatures · Événements 
 - [x] Abréviations officielles des ères Sérénale et Exodiale (È.S. ? È.E. ?) validées
 - [x] Valider la règle « une note par lieu, section À travers les ères » (topologie variable)
 - [x] Valider les marquages 🔒 proposés dans [[Timeline Master]]
+- [x] Réécrire [[La Semence Cachée]] : dissocier l'implantation écologique de Naphusis (≈3000 avant Sérénale 0) de la formation du Cœur ("peu avant Sérénale 0") — voir [[2026-07-18 — Brainstorm — PeuplementLamia]]
+- [x] Intégrer le mécanisme du portail planaire dans [[La Garde du Cœur]] et [[L'Asile des Dragons]] — voir [[2026-07-18 — Brainstorm — PeuplementLamia]]
+- [x] Retravailler le lore sur "[[Le Dernier Serment des Gardiens]]"
