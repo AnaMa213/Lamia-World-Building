@@ -1,11 +1,12 @@
 ---
 statut: brouillon
 type: divinite
+source: auteur
 tags:
   - nature
   - arbre-monde
 date: 2026-07-11
-portee: null
+portee:
 aliases:
   - Arbre-Monde
   - Déesse de la Nature
@@ -19,25 +20,20 @@ suivants:
   - Paysans
   - "[[Gnomes]]"
 alignement: Loyal Neutre
-source: ia
-revision: ia-a-valider
-revision-date: 2026-07-27
+revision-date: 2026-07-28
 ---
 
 # Naphusis
-
-> [!note] Brouillon de migration — 2026-07-11
-> Migré depuis `99_Archive/Divinites/Primordiaux/Naphusis.md`, reformaté selon les Conventions. Prose originale reprise telle quelle (Résumé → Tension centrale). Sections **Relations** et **Contradictions potentielles** ajoutées par l'IA. `etat: active` proposé — elle est physiquement présente sur Lamia comme Arbre-Monde, ce qui soulève une question vis-à-vis du bannissement des dieux (voir Contradictions potentielles).
 
 **En une phrase :** Naphusis est la divinité de la Nature née en réponse au projet de vie des trois dieux créateurs, enracinée sur Lamia sous la forme de l'Arbre-Monde, condition silencieuse de l'existence du vivant et mère des Gnomes.
 
 ## Résumé
 
-Naphusis est la divinité de la Nature, une fusion et la représentation de la volonté des trois dieux de la création (Albaesclatia, Lumina et Mageisys) de créer un monde durable pour leur projet de vie, limitant son influence au plan du monde de Lamia, aujourd'hui dernier vaisseau de vie de l'univers. Son essence divine ne s'est pas formée de la même manière que celle des autres dieux primordiaux.
+Naphusis est la divinité de la Nature, née de [[Chronoversum]] lui-même — son inconscient répondant au désarroi collectif des trois dieux créateurs ([[Albaesclatia]], [[Lumina]] et [[Mageisys]]) face à l'échec de peupler durablement le Plan des Mondes. Le projet des trois dieux lui donne sa forme et sa fonction ; l'impulsion inconsciente de Chronoversum lui donne l'existence. Limitant son influence au plan du monde de Lamia, aujourd'hui dernier vaisseau de vie de l'univers, son essence divine ne s'est pas formée de la même manière que celle des autres dieux primordiaux.
 
 ## Histoire
 
-Naphusis est la divinité de la Nature, de l'équilibre sauvage, de la flore, de la faune et des cycles vivants. Son essence ne s'est pas formée comme celle des autres dieux primordiaux. Elle n'est pas née d'une volonté individuelle comparable à celle d'Ataraxus, de Mageisys ou de Lumina, mais de la convergence d'un projet : celui d'[[Albaesclatia]], de [[Lumina]] et de [[Mageisys]] cherchant à rendre possible une vie durable dans le [[Plan des Mondes]].
+Naphusis est la divinité de la Nature, de l'équilibre sauvage, de la flore, de la faune et des cycles vivants. Son essence ne s'est pas formée comme celle des autres dieux primordiaux : elle naît de [[Chronoversum]] lui-même, mais pas comme Ataraxus ou Mageisys avant elle — pas d'un conflit intérieur retourné contre lui, cette fois, mais d'un désarroi qui n'était pas seulement le sien. [[Albaesclatia]], [[Lumina]] et [[Mageisys]] cherchaient depuis longtemps à rendre possible une vie durable dans le [[Plan des Mondes]], sans y parvenir ; ce désarroi collectif atteignit Chronoversum lui-même — car il est les dieux autant qu'il est le Tout — et se conjugua à sa propre envie inconsciente de nouveauté, déjà à l'origine de chacune de ses émanations précédentes. De cette double poussée naquit Naphusis : le projet des trois dieux lui donna sa forme et sa fonction, l'inconscient de Chronoversum lui donna l'existence. ( voir [[L'Enracinement Primordial]])
 
 Lorsque les trois puissances créatrices cherchèrent à permettre à la vie de s'implanter dans des mondes physiques trop complexes pour elle, Naphusis apparut comme une réponse vivante à ce problème. Elle ne fut pas seulement une divinité ajoutée au monde : elle devint le lien entre la fragilité du vivant et la dureté des lois cosmiques. Là où Mageisys avait créé des structures trop vastes et trop rigides, Naphusis offrit des points d'ancrage capables d'accueillir la vie sans briser l'équilibre du réel.
 
@@ -53,7 +49,7 @@ Ses adeptes la perçoivent dans tout ce qui relève de la nature : les forêts, 
 
 Naphusis ne contrôle cependant pas toute manifestation du monde naturel. Les catastrophes naturelles, les hivers extrêmes, les étés infernaux et les dérèglements climatiques de Lamia ne relèvent pas directement de sa volonté. Beaucoup sont les conséquences des lois physiques troublées par les fractures de Mageisys, notamment après le combat contre [[Humarios]]. Cette distinction est importante : Naphusis incarne l'équilibre vivant, pas la totalité brutale des phénomènes naturels.
 
-Lorsque Lamia fut ravagée par la [[Grande Guerre Divine]], Naphusis joua un rôle crucial dans la survie et le repeuplement du monde. Après les destructions, [[Xeros]] chercha à créer ou transformer de nouvelles formes de vie intelligentes capables de survivre dans des environnements devenus hostiles. Il s'appuya sur les travaux d'Albaesclatia et sur l'aide de Naphusis, utilisant les espèces déjà présentes dans le monde pour faire émerger de nouveaux peuples adaptés aux territoires abandonnés, blessés ou transformés.
+Lorsque Lamia fut ravagée par la [[Grande Guerre Divine]], Naphusis joua un rôle crucial dans la survie et le repeuplement du monde — mais elle n'en sortit pas indemne. Ses forêts servirent de bases de résistance contre la corruption de [[Maurtria]] (voir [[La Dernière Menace]], Exodiale ≈600–1450), aux côtés de Cyroldan et d'Humildas. Des forêts entières, liées à elle depuis l'origine, y perdirent leur chant lors du [[Le Scellement du Cœur|scellement du Cœur]] qui suivit (≈1450–1500) et ne repoussèrent jamais vraiment : une perte que même Naphusis, dans sa patience, ne put entièrement effacer. Après les destructions, [[Xeros]] chercha à créer ou transformer de nouvelles formes de vie intelligentes capables de survivre dans des environnements devenus hostiles. Il s'appuya sur les travaux d'Albaesclatia et sur l'aide de Naphusis, utilisant les espèces déjà présentes dans le monde pour faire émerger de nouveaux peuples adaptés aux territoires abandonnés, blessés ou transformés.
 
 Naphusis possède aussi un héraut, une créature très ancienne et redoutable, souvent surnommée la personnification de la fureur. Cet être prend généralement la forme d'un hybride entre animal et végétal. Il n'est pas seulement un messager : il est la réponse violente de la nature lorsqu'on force trop longtemps son silence. Là où Naphusis demeure patiente, enracinée et neutre, son héraut rappelle que la nature peut aussi devenir implacable lorsqu'elle est menacée.
 
@@ -115,26 +111,27 @@ Mais son danger est de regarder les êtres conscients comme des éléments d'un 
 
 ## Relations
 
-- [[Albaesclatia]], [[Lumina]], [[Mageisys]] — les trois volontés créatrices dont son apparition est la réponse (mode exact de sa naissance à arbitrer, voir Contradictions potentielles).
-- [[Chronoversum]] — selon le document de Genèse, son géniteur direct (à valider).
+- [[Albaesclatia]], [[Lumina]], [[Mageisys]] — les trois volontés créatrices dont son apparition est la réponse ; conjointe à l'impulsion de Chronoversum (résolu, voir Contradictions potentielles).
+- [[Chronoversum]] — géniteur direct confirmé (résolu, voir [[L'Enracinement Primordial]] et Contradictions potentielles).
 - [[Ataraxus]] — antithèse idéologique absolue.
+- [[Maurtria]] — sa corruption vise directement les forêts de Naphusis, utilisées comme bases de résistance (voir [[La Dernière Menace]]).
 - [[Lamia]] — porte son dernier Arbre-Monde survivant ; [[Timeline Master]] : « Naphusis s'enracine dans Lamia et devient l'Arbre-Monde » (Temps primordiaux).
-- [[Gnomes]] — nés de ses bourgeons, canal vivant entre elle et les Lamiens.
+- [[Le Cœur de Lamia]] — son implantation écologique en est l'une des deux origines.
+- [[La Barrière de Lamia]] — sa présence physique continue est traitée en analogie avec l'exemption déjà écrite pour le Cycle des Âmes (voir Contradictions potentielles).
+- [[La Dernière Menace]] — ses forêts servent de bases de résistance contre la corruption de Maurtria (Exodiale ≈600–1450).
+- [[Le Scellement du Cœur]] — des forêts entières liées à elle y sont détruites de façon permanente (≈1450–1500) — blessure jamais refermée.
+- [[La Forêt de Naphusis]] — forêt entourant l'Arbre-Monde, créée en 05_IA_Inbox/Fiches (à valider).
+- [[Naphusis (lieu)]] — lieu/cité elfique bâtie plus tard autour de l'Arbre-Monde, homonyme de la divinité, créée en 05_IA_Inbox/Fiches (à valider).
+- [[Gnomes]] — nés de ses bourgeons, canal vivant entre elle et les Lamiens ; naissance désormais datée (voir [[Le Don du Chagrin]], Sérénale ≈2500–2600).
 - [[Xeros]] — appuyé par elle pour la création des peuples adaptés après la guerre ([[Timeline Master]], Voile ≈ 80–500).
 - [[Humarios]] et [[Mageisys]] — leur combat est la source des dérèglements climatiques qu'on lui attribue à tort.
 - Héraut de Naphusis — créature hybride animal/végétal, personnification de la fureur (sans note, à créer).
 
 ## Contradictions potentielles
 
-⚠️ **Origine : convergence des trois dieux vs engendrement par Chronoversum.** Cette fiche fait naître Naphusis « de la convergence d'un projet » des trois dieux créateurs. Le document `99_Archive/Evenements/Genèse de l'univers de Lamia.md` (brouillon) affirme que Chronoversum, gêné par le désarroi des trois dieux, « engendra Naphusis ». Les deux récits sont conciliables (Chronoversum répond au projet) mais le géniteur direct diffère. À arbitrer — signalé aussi dans le brouillon Chronoversum.
-
-⚠️ **Présence physique sur Lamia vs bannissement des dieux.** [[Timeline Master]] (Exodiale ≈ 1500) établit que « les êtres trop imprégnés d'essence divine sont bannis de la présence physique sur Lamia ». Or Naphusis EST physiquement présente sur Lamia comme Arbre-Monde, aujourd'hui encore. Exception implicite (enracinée avant la loi ? nature différente de son essence ?) ou incohérence ? Zone floue importante à consigner en Chantier — elle conditionne aussi le statut du héraut.
-
-⚠️ **Date de naissance des Gnomes absente de la Timeline.** Le document de Genèse place leur naissance pendant la Grande Guerre divine (concentration de l'essence de Naphusis dans le dernier Arbre-Monde), donc vraisemblablement Ère Sérénale entre ≈ 1000 et ≈ 2950. Aucune entrée dans [[Timeline Master]]. Événement majeur (naissance d'un peuple) : entrée à créer, date à arbitrer.
-
-**Emplacement de l'Arbre-Monde non défini.** « Dressé au cœur du monde » — aucun lieu précis nulle part dans le vault, alors que la géographie post-Exodiale (Horiae, Eliyae, îles) est fracturée. L'Arbre-Monde a-t-il survécu à la fracture du continent (Grande Bataille de Cyroldan) ? Zone floue à consigner.
-
 **Naphelia sans note.** « Certains Elfes de Naphelia » — lieu ou région lié à son nom, mentionné nulle part ailleurs. À créer ou rattacher lors de la migration des Lieux.
+
+**Pas de mention, ni de lien avec la Flore ou la Faune**. Fiches à créer, et à parler dans l'histoire de la déesse. Placer en chantier Majeur. 
 
 
 > [!ia-a-valider]- 2026-07-27 — Origine de Naphusis : les deux récits sont conjoints, pas concurrents
@@ -144,3 +141,12 @@ Mais son danger est de regarder les êtres conscients comme des éléments d'un 
 > Chronoversum est bien le géniteur direct (confirmé, cohérent avec [[L'Enracinement Primordial]] et [[Timeline Master]], déjà canon), mais la « convergence d'un projet » des trois dieux créateurs n'est pas invalidée pour autant : les deux causes sont vraies simultanément. Le désarroi collectif d'[[Albaesclatia]], [[Lumina]] et [[Mageisys]] face à l'échec de peupler les nouveaux mondes atteint Chronoversum lui-même — cohérent avec sa nature panthéiste (il *est* les dieux, il ressent ce qu'ils ressentent) — et se conjugue à sa propre envie inconsciente de nouveauté, déjà le moteur de chacune de ses émanations précédentes. Naphusis naît de cette double poussée : le projet des trois dieux lui donne sa forme et sa fonction (protéger le vivant), l'inconscient de Chronoversum lui donne l'impulsion qui la fait exister. Relations ci-dessus non réécrites (additif uniquement) — à ajuster par l'auteur si souhaité.
 
 ^rev-20260727-naphusis-origine
+
+> [!ia-a-valider]- 2026-07-28 — Arbitrages de session : présence physique, Gnomes, emplacement de l'Arbre-Monde
+> **Décision** : trois points traités avec l'auteur (session du 2026-07-28).
+>
+> **1. Présence physique vs bannissement — hypothèse proposée, à confirmer.** [[La Barrière de Lamia]] (canon) traite déjà un cas analogue dans ses « Limites et exceptions » : le Cycle des Âmes et l'implantation écologique de Naphusis y sont exemptés du durcissement de la barrière car « antérieurs et extérieurs à la notion de lien avec un autre monde » que ce mécanisme cible. Je propose d'étendre ce même raisonnement à la loi de bannissement de [[Grande Bataille de Cyroldan|Cyroldan]] (Exodiale ≈1500) : l'Arbre-Monde s'enracine ≈3000 ans avant Sérénale 0 — bien avant la barrière (≈950-1000 Sérénale) et *a fortiori* avant la loi de bannissement, qui vise une **manifestation active** de dieux mobiles (Ataraxus, Mageisys se présentant physiquement à un instant donné), pas une **présence structurelle statique**, déjà intégrée au monde depuis son origine, à la manière d'une montagne ou d'un fleuve. Cohérent avec le caractère non-interventionniste déjà établi de Naphusis. **Hypothèse, pas un fait tranché ailleurs — à valider.**
+> **2. Date de naissance des Gnomes — résolu.** [[Le Don du Chagrin]] existe et date bien l'événement (Sérénale ≈2500–2600). La mention ci-dessus (« aucune entrée dans Timeline Master ») est désormais obsolète.
+> **3. Emplacement de l'Arbre-Monde — précisé par l'auteur, avec une hypothèse de ma part à confirmer.** L'Arbre-Monde se dresse au centre du continent principal (non nommé à cette époque, bien avant la fondation de la cité de Cyroldan sur ce même sol), entouré de [[La Forêt de Naphusis]] ; plus tard, une cité elfique reprend son nom : [[Naphusis (lieu)]]. **Hypothèse non confirmée par l'auteur** : puisque ce continent est probablement celui qui deviendra l'Ancienne Cyroldan, et que Cyroldan occupe la position centrale conservée après la fracture (devenant Horiae), l'Arbre-Monde se trouverait aujourd'hui à l'intérieur d'Horiae — ce qui répondrait aussi à la question ouverte de sa survie à la fracture. Deux fiches créées en 05_IA_Inbox/Fiches : [[La Forêt de Naphusis]] et [[Naphusis (lieu)]].
+
+^rev-20260728-naphusis-presence-lieu

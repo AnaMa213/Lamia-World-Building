@@ -1,5 +1,5 @@
 ---
-type: systeme
+type: core
 date: 2026-07-10
 ---
 # Tableau de bord

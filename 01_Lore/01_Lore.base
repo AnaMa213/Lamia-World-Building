@@ -1,0 +1,10 @@
+filters:
+  and:
+    - file.inFolder("01_Lore")
+    - file.ext == "md"
+views:
+  - type: table
+    name: Tableau
+    groupBy:
+      property: type
+      direction: ASC

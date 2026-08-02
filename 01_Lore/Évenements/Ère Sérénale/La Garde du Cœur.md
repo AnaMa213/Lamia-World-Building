@@ -12,9 +12,11 @@ tags:
   - naïnrak
   - coeur-de-lamia
 date: 2026-07-12
-portee:
+portee: null
 aliases:
   - Le Serment de Naïnrak
+revision: ia-a-valider
+revision-date: 2026-08-01
 ---
 # La Garde du Cœur
 
@@ -43,7 +45,7 @@ Naissance d'une civilisation naine souterraine prospère, qui perdurera plusieur
 Fait largement connu à l'époque : la mission protectrice des Nains est reconnue, même si la nature exacte de ce qu'ils protègent (l'essence de l'ange Lamia) reste un savoir plus restreint.
 
 ## Relations
-- [[Naïnrak]] — créateur des Nains, agit seul suite à la fragmentation du Conseil.
+- [[Naïnrak]] — créateur des Nains, agit sans le consensus collectif du Conseil déjà fragmenté (voir [[Le Concile Rompu]]), mais avec l'aval individuel de sa mère [[Albaesclatia]].
 - [[Nains]] — peuple créé dans cet événement.
 - [[La Trahison Dévoilée]] — cause directe (révélation du Cœur).
 - [[La Trahison des Gardiens]] — suite directe, plusieurs siècles plus tard.

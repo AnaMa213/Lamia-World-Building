@@ -1,9 +1,14 @@
 filters:
   and:
     - type == "lieu"
+    - file.path.startsWith("01_Lore")
 views:
   - type: table
     name: Tableau
     groupBy:
       property: plan
       direction: ASC
+    order:
+      - file.name
+      - source
+      - statut

@@ -2,7 +2,7 @@
 statut: brouillon
 source: auteur
 type: systeme
-instaure_par:
+instaure_par: null
 echelle: lamien
 tags:
   - barriere
@@ -10,8 +10,9 @@ tags:
   - coeur-de-lamia
   - ataraxus
 date: 2026-07-20
-portee:
+portee: null
 aliases: []
+revision: ia-a-valider
 ---
 
 # La Barrière de Lamia
@@ -40,6 +41,7 @@ Pas d'instauration délibérée par un dieu : la présence ténue naît du proce
 
 - **Le Cycle des Âmes (voir [[Le Cycle des Âmes]]) n'est pas concerné** par la coupure de lien — par analogie directe avec les processus écologiques implantés par Naphusis (croissance, reproduction, cycles naturels, voir [[La Semence Cachée]]), que ce même durcissement n'a jamais interrompus. Le Cycle des Âmes, comme l'implantation de Naphusis, est un mécanisme fondateur de la vie, antérieur et extérieur à la notion de "lien avec un autre monde" que cible la barrière — pas un canal externe qu'elle aurait à couper. Inférence renforcée par cette analogie, non confirmée explicitement par le texte.
 - **Le transport physique via portail planaire** (arrivée des Nains).
+- **Le [[Fil]]** : même lorsqu'un lien parvient à franchir la barrière, il ne connecte jamais un dieu directement à la matière — il relie l'âme d'un mortel (part individualisée de Filiama, voir [[Le Cycle des Âmes]]) à son dieu, qui lui transmet une infime part de sa propre essence. C'est le mortel, ainsi habilité, qui agit ensuite sur le monde physique — par miracle ou par magie divine — jamais le dieu lui-même. La limite esprit/matière découle directement de ce mécanisme, sans verrou séparé.
 
 ## Relations
 
@@ -61,4 +63,3 @@ Pas d'instauration délibérée par un dieu : la présence ténue naît du proce
 
 **Mécanique précise de la Phase 3 (post-fracture) non détaillée nulle part.** Timeline Master confirme seulement que les démons passent désormais ; rien n'est écrit sur ce qui bloque encore ou non les dieux, les autres essences, etc.
 
-**Pas de fiche dédiée pour la planète Lamia elle-même** (en tant qu'entité vivante et actrice, distincte de l'univers/le vault dans son ensemble) — gap à signaler séparément.

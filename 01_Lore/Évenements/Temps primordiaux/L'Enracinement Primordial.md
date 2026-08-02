@@ -58,7 +58,7 @@ Les mondes vivants peuvent enfin se développer. Sur Lamia, Naphusis développe 
 
 > [!ia-a-valider]- 2026-07-27 — Les deux récits d'origine de Naphusis sont conjoints, pas concurrents
 > **Décision** : tranchée avec l'auteur (session Chronoversum, 2026-07-27).
-> **Modifié** : résolution de la contradiction ci-dessus, en cohérence avec [[2026-07-11 — Proposition — Migration Naphusis|Naphusis]] et le brouillon [[Chronoversum|Chronoversum]].
+> **Modifié** : résolution de la contradiction ci-dessus, en cohérence avec [[Naphusis|Naphusis]] et le brouillon [[Chronoversum|Chronoversum]].
 >
 > Chronoversum reste le géniteur direct (ce récit-ci fait foi). Mais la « convergence d'un projet » des trois dieux créateurs, mentionnée dans le brouillon Naphusis, n'est pas fausse pour autant : c'est précisément ce désarroi collectif — déjà décrit ci-dessus en Causes comme atteignant Chronoversum lui-même — qui, combiné à sa propre envie inconsciente de nouveauté, le pousse à engendrer Naphusis. Les deux récits décrivent le même événement à deux niveaux (la cause relationnelle chez les trois dieux, le mécanisme inconscient chez Chronoversum), cohérent avec la nature panthéiste de Chronoversum (il *est* les dieux, il ressent ce qu'ils ressentent).
 

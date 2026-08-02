@@ -1,12 +1,13 @@
 ---
-statut: brouillon
+statut: canon
+source: auteur
 type: divinite
 rang: primordiale
 tags:
   - vie
   - anges
-portee: null
-etat: voilée
+portee:
+etat: affaiblie
 titres:
   - Déesse de la vie
 suivants:
@@ -17,15 +18,10 @@ alignement: Loyal Bon
 date: 2026-07-11
 aliases:
   - Déesse de la Vie
-revision: ia-a-valider
-revision-date: 2026-07-27
-source: ia
+revision-date: 2026-08-01
 ---
 
 # Albaesclatia
-
-> [!note] Brouillon de migration — 2026-07-11
-> Migré depuis `99_Archive/Divinites/Primordiaux/Albaesclatia.md`, reformaté selon les Conventions. Prose originale reprise telle quelle (Résumé → Faille intime). Sections **Relations** et **Contradictions potentielles** ajoutées par l'IA. `etat: voilée` proposé (retirée au Dibertium, n'agit plus que par signes, songes et reliques) — à valider. La trahison de Mageisys révélée dans le document de Genèse n'a volontairement PAS été intégrée (décision de fond, potentiellement 🔒) — voir Contradictions potentielles.
 
 **En une phrase :** Albaesclatia est la déesse primordiale de la Vie, mère des Archanges et créatrice des premiers peuples mortels de Lamia, épuisée par la Grande Guerre divine et retirée au Dibertium, d'où elle cherche aujourd'hui un porteur digne de défendre le vivant.
 
@@ -39,31 +35,38 @@ Albaesclatia est la Déesse de la Vie, mère des Archanges et source majeure de 
 
 Elle vit le jour durant la seconde émanation de [[Chronoversum]], à une époque où l'univers n'était encore qu'un vaste ensemble de planètes rocheuses et gazeuses, silencieuses et inhabitées. Avec [[Lumina]], elle conçut un projet immense : rendre l'univers interactif, sensible, habité, capable de répondre à autre chose qu'au vide et au mouvement des astres.
 
-La création de la vie ne fut pourtant pas une réussite immédiate. Sa première création véritable fut [[Lamia]], une ange façonnée avec tout l'amour et toute l'espérance dont elle était capable. Mais cette première fille ne parvint pas à demeurer dans l'existence : sa flamme s'éteignit presque aussitôt dans le [[Plan des Mondes]], laissant Albaesclatia face à une douleur que la création divine elle-même ne savait pas réparer.
+La création de la vie ne fut pourtant pas une réussite immédiate. Sa première création véritable fut [[Lamia (ange)|Lamia]], une ange façonnée avec tout l'amour et toute l'espérance dont elle était capable. Mais cette première fille ne parvint pas à demeurer dans l'existence : sa flamme s'éteignit presque aussitôt dans le [[Plan des Mondes]], laissant Albaesclatia face à une douleur que la création divine elle-même ne savait pas réparer.
 
-Elle se tourna alors vers son frère [[Mageisys]]. Là où Albaesclatia portait l'amour de la vie, Mageisys possédait la compréhension des lois, des structures et des équilibres capables de soutenir cette vie. Il lui instaura un plan plus restreint en règle mais aussi en liberté, créant le [[Despophys]] dans le quel Albaesclatia fonda le [[Dibertium]], qui deviendra l'Antre des anges et le sanctuaire de [[Filiama]], la Flamme de vie.
+Elle se tourna alors vers son frère [[Mageisys]]. Là où Albaesclatia portait l'amour de la vie, Mageisys possédait la compréhension des lois, des structures et des équilibres capables de soutenir cette vie. Il accepta de lui bâtir un plan plus restreint en règles mais aussi en liberté — à une condition : que ses futures créations soient dotées d'une âme et d'un libre arbitre réels. Ainsi naquit le [[Despophys]], dans lequel Albaesclatia fonda le [[Dibertium]], qui deviendra l'Antre des anges et le sanctuaire de [[Filiama]], la Flamme de vie.
+
+De Filiama, elle engendra son premier fils, l'Archange [[Xeros]] — mais en lui donnant un libre arbitre ancré dans ses propres valeurs plutôt que pleinement autonome, elle rompit sa parole envers Mageisys. Celui-ci découvrit la transgression et menaça de tout détruire avant d'imposer un second pacte, plus contraignant : elle ne dérogerait plus jamais aux règles fixées, et accepterait une dette dont il choisirait seul les termes. Cette dette, Mageisys la réclamera bien plus tard : un fragment dormant de son essence implanté dans chaque être vivant de Lamia — germe d'où naîtra, des siècles après, la pratique de la magie élémentaire (voir [[Le Tribut de la Création]]). Albaesclatia hésita longuement avant d'accepter, redoutant l'effet de cette nouvelle règle sur son monde ; n'ayant pas la possibilité de refuser, elle consentit.
 
 Dans ce nouveau plan, Albaesclatia parvint à créer des anges à son image, puis des centaines d'êtres vivants divins, chacun unique dans sa forme, son rôle et son essence. Mais son ambition créatrice ne s'arrêta pas à ces êtres parfaits ou proches du divin. Elle voulut créer quelque chose de plus fragile, de plus libre, de plus imprévisible : des entités imparfaites, faibles, mortelles et impures, mais capables d'exister par elles-mêmes. Et leur place devait être sur le plan des Mondes.
 
-Mais même après de nombreuses discussions avec Mageisys, ils ne trouvèrent pas le moyen suffisant pour créer la vie sur ce plan complexe. La vie ne pouvait pas seulement être posée sur les mondes comme une lumière fragile. Elle avait besoin d'un environnement vivant, d'un cycle, d'un souffle, d'un réseau capable de soutenir les êtres imparfaits qu'Albaesclatia rêvait de voir évoluer. C'est dans cette quête d'un monde réellement habitable qu'apparut [[Naphusis]], lié à la nature, à l'équilibre organique et à la capacité de la vie à s'enraciner dans la matière.
+Mais même après de nombreuses discussions avec Mageisys, ils ne trouvèrent pas le moyen suffisant pour créer la vie sur ce plan complexe. La vie ne pouvait pas seulement être posée sur les mondes comme une lumière fragile. Elle avait besoin d'un environnement vivant, d'un cycle, d'un souffle, d'un réseau capable de soutenir les êtres imparfaits qu'Albaesclatia rêvait de voir évoluer. C'est dans cette quête d'un monde réellement habitable qu'apparut [[Naphusis]], lié à la nature, à l'équilibre organique et à la capacité de la vie à s'enraciner dans la matière. (voir  [[L'Enracinement Primordial]])
 
 Grâce à l'apparition de Naphusis sur de nombreuses planètes, les mondes vivants purent enfin se développer. Des espèces, des peuples et des civilisations apparurent dans de nombreux lieux de l'univers, jusqu'à donner naissance aux multiples races intelligentes qui peupleraient plus tard [[Lamia]] et d'autres mondes du [[Plan des Mondes]]. La mort de la première Lamia ne fut donc pas effacée ; elle devint la blessure originelle à partir de laquelle Albaesclatia comprit que créer la vie, ce n'était pas seulement lui donner naissance, mais lui donner les moyens de survivre sans elle.
 
 Pendant longtemps, Albaesclatia fut l'une des divinités les plus puissantes du cosmos. L'abondance croissante de la vie nourrissait son influence, tandis que ses créations se multipliaient dans l'univers. Mais cette expansion troubla profondément [[Ataraxus]], ancien dieu de la plénitude, attaché au silence froid du vide et à l'absence d'agitation. Pour lui, la vie était une rupture, une vibration insupportable dans l'ordre immobile qu'il désirait.
 
+🔒 Peu avant que la guerre n'éclate pleinement, alors qu'Ataraxus, mué en fléau, venait de massacrer une première planète et préparait sa vengeance plus large, la planète Lamia durcit d'elle-même la barrière qui sommeillait en son cœur. Cherchant à comprendre cette anomalie, Albaesclatia découvrit ce que Mageisys lui avait caché depuis toujours : il avait secrètement conservé le corps de sa fille défunte, puis implanté l'essentiel de son essence dans la planète qui porterait son nom (voir [[La Trahison Dévoilée]]). Le Conseil des Archanges tout entier apprit la vérité — mais la menace d'Ataraxus était déjà trop pressante pour qu'aucun compte ne soit demandé sur le moment. Jamais un mot de pardon ne fut échangé entre le frère et la sœur ; il faudra attendre la création des Jumeaux divins, bien plus tard, pour qu'une véritable explication ait lieu (voir [[Les Jumeaux Divins]]).
+
 Lorsque Ataraxus se dressa contre les mondes vivants, Albaesclatia entra dans une guerre qui ne correspondait pas à sa nature profonde. Elle n'était pas une déesse belliqueuse, mais une mère poussée à défendre ses enfants. Chaque monde détruit, chaque peuple anéanti et chaque forme de vie arrachée à l'existence l'affaiblit autant qu'elle l'enragea.
 
 Les batailles contre Ataraxus la consumèrent peu à peu. Sa puissance déclina, non seulement à cause de l'effort du combat, mais parce que son domaine même était massacré à travers l'univers. La déesse de la vie perdait des fragments d'elle-même dans chaque extinction.
 
-Pour réparer les erreurs de son frère et de certains de ses propres enfants, Albaesclatia forgea alors [[Creperstella]], une épée imprégnée de son essence. Cette arme n'est pas conçue pour tuer n'importe quel être : elle ne peut atteindre que ceux qui sont touchés par les maux, les corruptions ou les déviations d'[[Ataraxus]] et de [[Maurtria]]. Creperstella incarne donc une forme de violence paradoxale : une arme de vie, créée non pour dominer, mais pour trancher ce qui dévore le vivant de l'intérieur.
+Pour réparer les erreurs de son frère et de certains de ses propres enfants, Albaesclatia demande à [[Armerith]] de forger [[Creperstella]] (voir [[La Forge de Creperstella]], Sérénale ≈1200), une épée imprégnée d'essence d'[[Alketeria]] et de pierre mageysienne. Cette arme n'est pas conçue pour tuer n'importe quel être : elle ne peut atteindre que ceux qui sont touchés par les maux, les corruptions ou les déviations d'[[Ataraxus]] et de [[Maurtria]]. Creperstella incarne donc une forme de violence paradoxale : une arme de vie, créée non pour dominer, mais pour trancher ce qui dévore le vivant de l'intérieur. Elle est confiée à [[Xeros]].
 
-Épuisée par les guerres et par la perte d'innombrables créations, Albaesclatia finit par se retirer dans le [[Dibertium]]. Elle y veille avec [[Alketeria]] sur [[Filiama]], tout en observant Lamia, dernier grand vaisseau de vie, avec le peu d'influence qui lui reste.
+Vaincue à la [[Grande Bataille de Cyroldan]] et vidée d'une grande part de son énergie, Albaesclatia constate aussi qu'elle a perdu, par la corruption, le lien qui l'unissait à nombre de ses enfants. Ce double épuisement la pousse cette fois à un retrait définitif — non plus passager comme après le Grand Déferlement — dans le [[Dibertium]] (voir [[Les Liens Rompus]]). Elle y veille avec [[Alketeria]] sur [[Filiama]], tout en observant Lamia, dernier grand vaisseau de vie, avec le peu d'influence qui lui reste. Lumina prend alors sa suite à la tête des troupes angéliques (voir [[Le Sceptre des Anges]]).
 
 Depuis le bannissement des dieux, elle ne peut plus agir librement sur le monde qu'elle a créé. Ses interventions doivent passer par des signes, des bénédictions, des reliques, des songes, des miracles rares ou des porteurs capables de recevoir sa volonté sans rompre l'équilibre fragile de Lamia.
 
 Aujourd'hui, Albaesclatia cherche un porteur digne de répandre son influence sur le monde. Elle ne cherche pas un conquérant, ni un champion animé par la haine. Elle cherche un être courageux, capable de défendre la vie sous toutes ses formes, même lorsqu'elle est fragile, imparfaite ou indigne aux yeux des puissants.
 
 Son objectif n'est pas seulement de vaincre Ataraxus ou Maurtria. Il est de rendre possible, un jour, le retour d'une paix semblable à celle qui baignait Lamia avant les grandes fractures — non une paix naïve, mais une paix gagnée par la protection du vivant.
+
+Pendant les longs siècles de paix qui suivirent la naissance des premiers peuples mortels — l'Âge d'Or —, Albaesclatia choisit délibérément de ne pas intervenir directement dans leur quotidien. Elle délégua cette présence à des anges « à portefeuille », chacun investi d'un domaine précis (les voyageurs, les moissons, la guérison...), agissant via un lien de croyance individuel avec les mortels qui s'adressaient à eux. Cette retenue volontaire n'était pas un désintérêt : c'était déjà l'expression de son besoin profond de laisser ses créations vivre et choisir par elles-mêmes, plutôt que de peser sur elles de tout son poids divin.
+
 
 ## Apparence
 
@@ -115,32 +118,30 @@ Cette faille ne vient pas d'une naïveté simple. Elle vient d'une blessure mate
 
 Son danger n'est donc pas la cruauté, mais l'amour sans limite. Elle peut vouloir sauver ce qui doit être arrêté, protéger ce qui doit être laissé partir, ou réparer ce qui ne peut plus l'être sans coût terrible.
 
+Cette inaction apparente pendant les guerres qui suivront ne doit cependant pas être lue comme un simple choix : à aucun moment du conflit, Albaesclatia n'a disposé à la fois de sa pleine puissance et d'un accès direct à Lamia. Avant le durcissement de la barrière (voir [[La Barrière de Lamia]], ≈950–1000 Sérénale), elle jouissait encore de cet accès, mais la guerre n'avait pas encore entamé sa puissance ; après ce durcissement, sa force déclinait déjà sous les coups d'Ataraxus, au moment même où Lamia lui devenait inaccessible. Sa faille intime — la difficulté à lâcher prise — reste réelle, mais elle s'exerce dans les marges qu'une contrainte structurelle, et non un simple choix, lui laissait.
+
+
 ## Relations
 
 - [[Chronoversum]] — éveillée durant sa seconde émanation.
-- [[Lumina]] — co-conceptrice du projet de vie ; lui succédera comme régente des anges (fiche [[Lumina]]).
-- [[Mageisys]] — frère, architecte du [[Despophys]] et co-créateur du [[Dibertium]] ; relation marquée par des pactes et une trahison majeure selon le document de Genèse (non intégré, voir Contradictions potentielles).
+- [[Lumina]] — co-conceptrice du projet de vie ; lui succède comme régente des anges à la Grande Bataille de Cyroldan (voir [[Le Sceptre des Anges]]).
+- [[Mageisys]] — frère, architecte du [[Despophys]] et co-créateur du [[Dibertium]] ; deux pactes (âme/libre arbitre, puis dette) et une trahison majeure découverte bien plus tard (voir [[Le Tribut de la Création]], [[La Trahison Dévoilée]] 🔒).
 - [[Naphusis]] — clé de l'enracinement de la vie dans le Plan des Mondes.
-- [[Ataraxus]] — ennemi existentiel, destructeur de ses créations.
-- [[Lamia]] — double sens : son premier enfant ange, mort-né, et la planète nommée en sa mémoire (homonymie à trancher).
+- [[Ataraxus]] — ennemi existentiel, destructeur de ses créations, vainqueur à la [[Grande Bataille de Cyroldan]].
+- [[Lamia (ange)|Lamia (ange)]] — son premier enfant, mort-né ; son essence, cachée par Mageisys, est à l'origine du 🔒 secret de [[La Trahison Dévoilée]].
+- [[Lamia (planète)]] — planète nommée en mémoire de sa fille, et où l'essence de celle-ci fut secrètement implantée à son insu.
 - [[Maurtria]] — enfant divin dévoyé, cible avec Ataraxus de [[Creperstella]].
-- [[Alketeria]] — veille avec elle sur [[Filiama]] au [[Dibertium]].
+- [[Alketeria]] — veille avec elle sur [[Filiama]] au [[Dibertium]] depuis [[Les Liens Rompus]] ; source d'un des matériaux de Creperstella.
+- [[Armerith]] — forge [[Creperstella]] à sa demande (voir [[La Forge de Creperstella]]).
 - [[Alfaryus]] et [[Humarios]] — guides incarnés créés avec Mageisys pendant la guerre ([[Timeline Master]], Exodiale ≈ 170–220).
-- [[Xeros]] — selon le document de Genèse, son premier fils archange, né de Filiama (à valider).
-- [[Humains]] et [[Elfes]] — premiers peuples mortels créés par elle sur Lamia.
-- [[Conseil des Archanges]] — fondé autour de ses enfants.
+- [[Xeros]] — premier fils archange, né de Filiama ; porteur de Creperstella ; réconciliation tardive avec Mageisys lors des [[Les Jumeaux Divins|Jumeaux Divins]].
+- [[Humains]] et [[Elfes]] — premiers peuples mortels créés par elle sur Lamia, bénéficiaires (à leur insu) de la dette de [[Le Tribut de la Création|Tribut de la Création]].
+- [[Conseil des Archanges]] — fondé autour de ses enfants ; témoin de la révélation de la trahison de Mageisys.
+- [[Les Liens Rompus]] — son retrait définitif au Dibertium après Cyroldan.
+- 🔒 [[La Trahison des Gardiens]] — elle réalise que c'est Maurtria qui a corrompu le gardien nain ; détail complet sur cette fiche.
+
 
 ## Contradictions potentielles
-
-⚠️ **Trahison de Mageisys absente (secret potentiel 🔒).** Le document `99_Archive/Evenements/Genèse de l'univers de Lamia.md` (brouillon) révèle que Mageisys a secrètement conservé le corps de l'ange Lamia et implanté son essence dans la planète, qu'Albaesclatia a fini par découvrir cette trahison, et que leur relation en est restée fracturée (« sans un mot de pardon »). Cette fiche décrit au contraire une collaboration fraternelle sans ombre. Si la Genèse est validée, l'Histoire d'Albaesclatia devra intégrer la découverte de la trahison — et le statut 🔒 de l'origine du Cœur de Lamia devra être arbitré.
-
-⚠️ **Pactes et dette absents.** La Genèse détaille deux pactes avec Mageisys (condition d'âme et de libre arbitre ; puis dette aux termes libres, soldée par l'implantation de l'essence de Mageisys dans tous les Lamiens) ainsi que la transgression d'Albaesclatia à la création de Xeros. Rien de tout cela dans cette fiche. Ces éléments expliquent pourtant l'origine de la magie mortelle sur Lamia — enjeu majeur de cohérence avec [[MOC Magies]] à venir.
-
-⚠️ **Homonymie Lamia (ange) / Lamia (planète).** Cette fiche utilise [[Lamia]] dans les deux sens sans désambiguïsation. La règle des homonymes (Conventions §6) imposera `Lamia (ange)` / `Lamia (planète)` — ou un autre arbitrage — dès qu'une note Lamia sera créée. L'entrée « Création de Lamia par Albaesclatia » de [[Timeline Master]] devra préciser le sens (planète).
-
-⚠️ **Forge de Creperstella non datée, absente de la Timeline.** Événement structurant (l'épée est un objectif de la trame de campagne selon la fiche [[Alfaryus]]) : entrée à créer dans [[Timeline Master]], date à arbitrer (pendant la Grande Guerre divine, sans plus de précision dans les sources).
-
-**Retrait au Dibertium non daté.** Vraisemblablement fin Exodiale ou début Voile ; à positionner dans [[Timeline Master]] si jugé assez majeur.
 
 
 > [!ia-a-valider]- 2026-07-27 — Terminologie : « ère » → « émanation »
@@ -148,3 +149,14 @@ Son danger n'est donc pas la cruauté, mais l'amour sans limite. Elle peut voulo
 > **Modifié** : Résumé, Histoire et Relations — « deuxième ère (cosmique) » remplacé par « seconde émanation » (3 occurrences). `source: ia` ajouté (manquant).
 
 ^rev-20260727-albaesclatia-terminologie
+
+> [!ia-a-valider]- 2026-07-28 — Arbitrages de session : trahison de Mageisys, pactes, Creperstella, retrait au Dibertium
+> **Décision** : quatre points traités avec l'auteur (session du 2026-07-28).
+> **Modifié** : Histoire réécrite (insertions datées, secret 🔒 intégré) et Relations enrichies — détail ci-dessous.
+>
+> 1. **Trahison de Mageisys (secret 🔒)** — intégrée à partir de [[La Trahison Dévoilée]] (canon, déjà validée, Sérénale ≈950–1000), qui appelait elle-même cette révision. Marquée 🔒 dans le texte. Liens créés vers [[Lamia (ange)|Lamia (ange)]] et [[Lamia (planète)]], ainsi que vers toutes les fiches déjà connues référençant Albaesclatia dans cette affaire ([[Le Cœur de Lamia]], [[La Semence Cachée]], [[Le Larcin de Mageisys]] — déjà liées par ailleurs).
+> 2. **Pactes et dette** — intégrés à partir de [[Les Accords du Despophys]] et [[Le Tribut de la Création]] (les deux canon) : condition d'âme/libre arbitre, transgression à la naissance de Xeros, second pacte, dette réclamée plus tard (essence mageysienne implantée dans tous les Lamiens, origine de la magie élémentaire).
+> 3. **Forge de Creperstella** — datée et événementialisée : deux nouvelles fiches [[Creperstella]] (objet) et [[La Forge de Creperstella]] (événement mineur, Sérénale ≈1200), déposées en 05_IA_Inbox/Fiches. Détails fournis par l'auteur : forge divine d'Armerith au Dibertium, alliage essence d'Alketeria + pierre mageysienne, ne frappe que les âmes corrompues. Un brainstorm dédié reste à faire pour approfondir, comme convenu.
+> 4. **Retrait au Dibertium** — daté et événementialisé : nouvelle fiche [[Les Liens Rompus]] (événement majeur, Exodiale ≈1500, à la suite de Cyroldan), déposée en 05_IA_Inbox/Fiches. Double cause actée : épuisement énergétique après la défaite face à Ataraxus, et rupture du lien avec plusieurs enfants corrompus.
+
+^rev-20260728-albaesclatia-trahison-pactes

@@ -1,0 +1,23 @@
+filters:
+  and:
+    - file.path.startsWith("01_Lore/Systèmes/")
+    - type == "systeme"
+views:
+  - type: table
+    name: Tableau
+    filters:
+      and:
+        - file.path.startsWith("01_Lore/Systèmes/")
+        - type == "systeme"
+    groupBy:
+      property: echelle
+      direction: ASC
+    order:
+      - file.name
+      - statut
+      - source
+      - instaure_par
+      - echelle
+      - tags
+      - revision
+    sort: []

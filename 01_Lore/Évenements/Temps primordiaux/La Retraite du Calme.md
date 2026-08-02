@@ -4,7 +4,7 @@ source: auteur
 type: evenement
 importance: majeur
 ere: primordial
-annee: inconnu
+annee: -500 000 AS
 annee_debut:
 annee_fin:
 tags:

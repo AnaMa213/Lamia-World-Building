@@ -1,6 +1,6 @@
 ---
 name: creer-fiche
-description: "Crée une nouvelle fiche d'entité canon-candidate pour le vault Lamia (Divinité, Personnage, Lieu, Événement, ou tout autre type disposant d'un template dans 00_Systeme/Templates) à partir d'une fiche existante, d'autres infos du vault, ou d'une discussion en amont — conception collaborative section par section, jamais un jet automatique. Dépose le résultat dans 05_IA_Inbox/Fiches/ (jamais dans 01_Lore). Déclenche dès que l'utilisateur veut créer, concevoir, imaginer ou mettre en fiche une nouvelle entité de l'univers — « créons une nouvelle fiche Divinité », « crée-moi une fiche pour X », « créons une fiche ensemble », « faisons le point sur quoi mettre dans cette fiche » — même sans nommer explicitement le type. Distinct de brainstorm-lore (exploration ouverte sans structure de fiche finale, dépose dans 05_IA_Inbox/Brainstorm) ; distinct de migrer-fiche (reprend une fiche EXISTANTE de 99_Archive, ne conçoit rien de neuf) ; distinct de traiter-chantier (modifie des fiches déjà existantes dans 01_Lore, ne crée jamais de fiche neuve)."
+description: "Crée une nouvelle fiche d'entité pour le vault Lamia (Divinité, Personnage, Lieu, Événement, ou tout type ayant un template dans 00_Systeme/Templates) à partir d'une fiche existante, d'infos du vault, ou d'une discussion en amont — conception collaborative section par section, jamais un jet automatique. Dépose le résultat dans 05_IA_Inbox/Fiches/ (jamais dans 01_Lore). Déclenche dès que l'utilisateur veut créer, concevoir ou mettre en fiche une nouvelle entité — « créons une fiche Divinité », « crée-moi une fiche pour X », « faisons le point sur quoi mettre dans cette fiche » — même sans nommer le type. Distinct de brainstorm-lore (exploration sans fiche finale, dans 05_IA_Inbox/Brainstorm) ; de migrer-fiche (reprend une fiche EXISTANTE de 99_Archive) ; de traiter-chantier (modifie des fiches déjà existantes dans 01_Lore, ne crée jamais de fiche neuve)."
 compatibility: "Mode MCP (seul mode implémenté dans cette version) : tools vault_read, vault_list, vault_write, vault_get_document_map, search_simple, search_query, tag_list, active_file_get_path, open_file — connecteur obsidian (Local REST API). Le mode Local (CLI Obsidian / Fichiers-Git, pour Claude Code) n'est pas encore couvert dans cette v1 — à ajouter dans une itération suivante une fois le mode MCP validé."
 ---
 
@@ -92,7 +92,12 @@ Même discipline que le Mode A de `brainstorm-lore` :
    là.
 4. `vault_read` en entier les fiches liées pertinentes trouvées, exploiter
    `links`/`backlinks` pour cartographier le voisinage (une fiche liée non
-   trouvée par mots-clés est un angle mort classique).
+   trouvée par mots-clés est un angle mort classique). Si la nouvelle fiche
+   est étroitement rattachée à une entité déjà existante (ex. un lieu qui
+   n'est qu'une manifestation ou une extension d'une divinité), vérifier
+   aussi les `backlinks` de CETTE entité existante, pas seulement le nom de
+   la fiche à créer — le canon la concernant peut déjà exister sans
+   mentionner encore le nom de ce qu'on s'apprête à créer.
 
 ## Étape 3 — Construire le contenu, section par section, jamais de yes-man
 

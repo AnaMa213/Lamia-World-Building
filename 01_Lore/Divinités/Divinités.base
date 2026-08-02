@@ -1,0 +1,23 @@
+filters:
+  and:
+    - file.path.startsWith("01_Lore/Divinités/")
+    - type == "divinite"
+views:
+  - type: table
+    name: Tableau
+    filters:
+      and:
+        - file.path.startsWith("01_Lore/Divinités/")
+        - type == "divinite"
+    groupBy:
+      property: rang
+      direction: ASC
+    order:
+      - file.name
+      - statut
+      - source
+      - rang
+      - etat
+      - tags
+      - revision
+    sort: []

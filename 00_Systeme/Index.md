@@ -1,5 +1,5 @@
 ---
-type: systeme
+type: core
 date: 2026-07-11
 ---
 # Index — carte racine du vault
@@ -40,6 +40,7 @@ Géographie · Peuples et Factions · Personnages · Créatures · Événements 
 
 #### Majeur
 
+- [ ] Brainstorm sur Creperstella
 - [ ] Créer chaque Fiche lié au Evènements crées et déjà validé comme Canon. 
 - [ ] Retravailler le lore sur "[[Les Jumeaux Divins]]"
 

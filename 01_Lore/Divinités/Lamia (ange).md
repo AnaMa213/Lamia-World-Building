@@ -1,7 +1,9 @@
 ---
-statut: brouillon
+statut: canon
 type: divinite
-tags: [ange, premiere-creation]
+tags:
+  - ange
+  - premiere-creation
 date: 2026-07-12
 portee:
 etat: morte
@@ -12,11 +14,6 @@ rang: esprit
 aliases: []
 ---
 # Lamia (ange)
-
-> [!note] Brouillon de migration — 2026-07-12
-> Fiche créée à partir de `99_Archive/Evenements/Genèse de l'univers de Lamia.md`, section « La lumière et la vie », en complément de l'événement [[La Flamme Éteinte]]. Conformément à ta décision, cette fiche **omet les quatre sections psychologiques** (Désir conscient, Besoin profond, Croyance fausse, Faille intime) : Lamia s'est éteinte avant d'avoir jamais vécu, elle n'a pas de psychologie à documenter.
-> ⚠️ `rang: esprit` proposé **par défaut, sans conviction** : aucune des quatre valeurs de l'énum (`primordiale | majeure | mineure | esprit`) ne correspond vraiment à un ange unique, mort-né, jamais vraiment entré dans l'existence. Signalé comme point système à trancher, au même titre que le rang manquant pour les demi-dieux.
-> Nom suffixé « (ange) » conformément à la règle des homonymes (Conventions §6), en vis-à-vis de la future fiche « Lamia (planète) ».
 
 **En une phrase :** Lamia est le premier ange façonné par Albaesclatia à son image, dont la Flamme de vie s'éteignit presque aussitôt sur une planète stérile du Plan des Mondes — perte fondatrice qui donnera son nom, des éons plus tard, à la planète où naîtra la vie mortelle.
 
@@ -47,9 +44,5 @@ Absente des sources. Aucun texte ne décrit l'apparence de l'ange Lamia — elle
 - [[La Flamme Éteinte]] — événement narrant sa mort.
 
 ## Contradictions potentielles
-
-⚠️ **`rang` sans valeur satisfaisante — point système à trancher.** Voir le callout en tête de fiche.
-
-**Absence volontaire des sections psychologiques — conforme à ta décision, non une omission.**
 
 **Aucune apparence documentée.** Pas une contradiction, mais une absence totale de source — à ne pas combler par une invention sans validation explicite de ta part.

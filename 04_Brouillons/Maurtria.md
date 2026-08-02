@@ -1,22 +1,30 @@
 ---
 statut: brouillon
 type: divinite
-tags: [meurtre, sang, corruption]
+tags:
+  - meurtre
+  - sang
+  - corruption
 date: 2026-07-12
 portee:
-aliases: ["Déesse du meurtre", "Déesse du sang"]
+aliases:
+  - Déesse du meurtre
+  - Déesse du sang
 rang: majeure
 etat: active
-titres: ["Déesse du meurtre et du sang"]
-suivants: ["Âmes perdues", "Désespérés", "Tourmentés", "[[Disciples de Maurtria]]", "Marqués"]
+titres:
+  - Déesse du meurtre et du sang
+suivants:
+  - Âmes perdues
+  - Désespérés
+  - Tourmentés
+  - "[[Disciples de Maurtria]]"
+  - Marqués
 alignement: Chaotique Mauvais
+source: auteur
 ---
 
 # Maurtria
-
-> [!note] Brouillon de migration — 2026-07-12
-> Migré depuis `99_Archive/Divinites/Majeurs/Maurtria.md`, reformaté selon les Conventions. Prose originale reprise telle quelle (Résumé → Tension centrale). Sections **Relations** et **Contradictions potentielles** ajoutées par l'IA. `aliases`/`titres`/`suivants` de la source cohérents avec le personnage (contrairement à [[Fastiae]], voir la fiche de celle-ci pour l'anomalie croisée détectée). `etat: active` proposé — Maurtria dirige activement des cultes et une théocratie sur Lamia au présent narratif.
-> ⚠️ Cette fiche fournit le récit le plus détaillé de la **fracture du Cœur de Lamia** (événement déjà présent dans [[Timeline Master]], Sérénale ≈2750) : elle diverge sur un point précis du récit parallèle donné par [[Naïnrak]] (même lot) — voir Contradictions potentielles.
 
 **En une phrase :** Maurtria est la déesse majeure du meurtre, du sang et de la torture, fille d'Albaesclatia qui corrompit par les rêves les gardiens nains du Cœur de Lamia — provoquant sa fracture et la brèche par laquelle les démons envahirent le monde — et qui règne aujourd'hui sur ses Disciples et sa théocratie en alliée objective d'Ataraxus.
 
@@ -123,9 +131,9 @@ Elle ne représente pas seulement le meurtre. Elle représente la justification 
 
 ## Contradictions potentielles
 
-⚠️ **Mécanisme du franchissement de la brèche : divergence avec la fiche [[Naïnrak]] (même lot).** Cette fiche affirme qu'« en tentant de remonter vers la surface avec l'un d'eux, le gardien corrompu ouvrit aussi une faiblesse... par laquelle les démons... purent s'insinuer » — sous-entendant que le gardien corrompu s'est approché de la surface, voire s'est échappé. La fiche [[Naïnrak]] affirme au contraire que « les deux autres gardiens l'arrêtèrent avant qu'il ne rejoigne la surface... ils l'enfermèrent dans une prison de pierre, figé avec le fragment qu'il portait » — un tout autre dénouement (le gardien est capturé, pas en fuite). Les deux fiches s'accordent sur la fracture en trois fragments et sur l'ouverture d'une brèche, mais divergent sur le sort du gardien corrompu et le mécanisme exact de la brèche (fuite qui l'ouvre directement, vs catastrophe générale consécutive à la fracture). **À arbitrer.**
+⚠️ **Mécanisme du franchissement de la brèche : divergence avec la fiche [[Naïnrak]] (même lot).** Cette fiche affirme qu'« en tentant de remonter vers la surface avec l'un d'eux, le gardien corrompu ouvrit aussi une faiblesse... par laquelle les démons... purent s'insinuer » — sous-entendant que le gardien corrompu s'est approché de la surface, voire s'est échappé. La fiche [[Naïnrak]] affirme au contraire que « les deux autres gardiens l'arrêtèrent avant qu'il ne rejoigne la surface... ils l'enfermèrent dans une prison de pierre, figé avec le fragment qu'il portait » — un tout autre dénouement (le gardien est capturé, pas en fuite). Les deux fiches s'accordent sur la fracture en trois fragments et sur l'ouverture d'une brèche, mais divergent sur le sort du gardien corrompu et le mécanisme exact de la brèche (fuite qui l'ouvre directement, vs catastrophe générale consécutive à la fracture). **À arbitrer. : Il n'attends pas la surface, la breche créer n'est pas un point des entraille de la terre vers la sruface, il s'agit d'un affaiblissement de la barrière permettant à Ataraxus de faire penetrer ses démons dans Lamia directement. **
 
-⚠️ **Écart de calendrier avec [[Timeline Master]].** Timeline Master date la fracture du cœur à Sérénale ≈2750, et le franchissement de la barrière par les premiers démons à Exodiale 0 (= Sérénale ≈2950) — soit un intervalle de ≈200 ans. Cette fiche (et celle de Naïnrak) racontent un enchaînement qui semble immédiat (« l'invasion déferla » aussitôt après la fracture). Non nécessairement contradictoire (200 ans peuvent s'être écoulés entre la brèche initiale et l'invasion massive), mais le rythme narratif mériterait d'être harmonisé avec la Timeline lors d'une relecture d'ensemble.
+⚠️ **Écart de calendrier avec [[Timeline Master]].** Timeline Master date la fracture du cœur à Sérénale ≈2750, et le franchissement de la barrière par les premiers démons à Exodiale 0 (= Sérénale ≈2950) — soit un intervalle de ≈200 ans. Cette fiche (et celle de Naïnrak) racontent un enchaînement qui semble immédiat (« l'invasion déferla » aussitôt après la fracture). Non nécessairement contradictoire (200 ans peuvent s'être écoulés entre la brèche initiale et l'invasion massive), mais le rythme narratif mériterait d'être harmonisé avec la Timeline lors d'une relecture d'ensemble. **La Timeline Master fait foi**
 
 **Lien avec le secret 🔒 de la dispersion des trois fragments (non contradictoire, à noter).** La fracture en trois fragments racontée ici correspond vraisemblablement à l'origine des trois fragments dispersés en Exodiale ≈0–30 (🔒, Timeline Master) : Corps enfermé dans une pierre noire, Âme assimilée par un Protecteur, Conscience cachée dans Oneira. Le « gardien corrompu enfermé dans une prison de pierre » (version Naïnrak) pourrait *être* l'origine du fragment « Corps enfermé dans une pierre noire ». Hypothèse cohérente mais non confirmée par le texte — à considérer lors de l'arbitrage du secret.
 

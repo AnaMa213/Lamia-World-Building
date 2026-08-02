@@ -28,7 +28,7 @@ Grâce à la naissance de Naphusis, la vie mortelle devient enfin possible. Alba
 
 ## Causes
 
-Grâce à l'apparition de [[L'Enracinement Primordial|Naphusis]] sur de nombreuses planètes, les mondes vivants ont enfin pu se développer. Albaesclatia peut alors mettre au monde les premiers êtres intelligents. Pour cela, elle choisit une planète qui n'est pas anonyme : c'est celle-là même où, des éons plus tôt, elle avait tenté en vain de faire vivre son premier enfant, l'ange **[[2026-07-12 — Proposition — Migration Lamia (ange)|Lamia]]** (voir [[La Flamme Éteinte]]). C'est en souvenir de cette perte, et parce que c'est le lieu même où sa fille a un instant existé, qu'elle choisit d'y faire naître la vie mortelle et de nommer cette planète **[[Lamia]]**.
+Grâce à l'apparition de [[L'Enracinement Primordial|Naphusis]] sur de nombreuses planètes, les mondes vivants ont enfin pu se développer. Albaesclatia peut alors mettre au monde les premiers êtres intelligents. Pour cela, elle choisit une planète qui n'est pas anonyme : c'est celle-là même où, des éons plus tôt, elle avait tenté en vain de faire vivre son premier enfant, l'ange **[[Lamia (ange)|Lamia]]** (voir [[La Flamme Éteinte]]). C'est en souvenir de cette perte, et parce que c'est le lieu même où sa fille a un instant existé, qu'elle choisit d'y faire naître la vie mortelle et de nommer cette planète **[[Lamia]]**.
 
 ## Déroulement
 

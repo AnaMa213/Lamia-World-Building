@@ -1,9 +1,13 @@
 ---
 statut: canon
 type: systeme
-tags: [timeline]
+tags:
+  - timeline
 date: 2026-07-11
-aliases: [Chronologie, Timeline]
+aliases:
+  - Chronologie
+  - Timeline
+revision-date: 2026-07-28
 ---
 # Timeline Master
 
@@ -52,6 +56,7 @@ aliases: [Chronologie, Timeline]
 - **≈ 950–1000** · [MAJEUR] · 🔒 · [[La Trahison Dévoilée]] — Lamia durcit la barrière ténue de son cœur face à la menace d'Ataraxus, révélant à Albaesclatia la trahison de Mageisys — rupture jamais guérie entre eux.
 - **≈ 1000** · [MAJEUR] — Début de la **Grande Guerre divine** dans le Chronoversum.
 - **≈ 1000–1100** · [MAJEUR] · [[Le Grand Déferlement]] — Ataraxus, comprenant qu'exterminer seul ne suffit pas, se forge une armée de démons et la lance simultanément sur des milliers de planètes ; effondrement d'Albaesclatia, doublement frappée par le deuil et la trahison ; Xeros prend le commandement des anges.
+- **≈ 1200** · [MINEUR] · (brouillon) · [[La Forge de Creperstella]] — Albaesclatia fait forger par Armerith, dans sa forge divine du Dibertium, l'épée Creperstella — alliage d'essence d'Alketeria et de pierre mageysienne ne frappant que les âmes corrompues — aussitôt confiée à Xeros.
 - **≈ 1500** · [MINEUR] · [[La Perte du Monde des Vendards]] — Les démons détruisent le monde des Vendards ; beaucoup errent sous forme désincarnée ; l'archange Vindiereis, leur créateur, survit. Événement mineur, sans effet direct sur Lamia.
 - **≈ 1700–2000** · [MAJEUR] · [[La Garde du Cœur]] — Frappé par la révélation du Cœur, Naïnrak crée les Nains pour le protéger.
 - **≈ 2500** · [MAJEUR] · [[L'Asile des Dragons]] — Lamia devient l'un des grands foyers de vie encore debout et la cible prioritaire d'Ataraxus ; les quatre derniers dragons de Koboldia y trouvent refuge, renforcés et postés par Mageisys.
@@ -63,8 +68,6 @@ aliases: [Chronologie, Timeline]
 - **≈ 2700–2750** · [MAJEUR] · [[Le Concile Rompu]] — Échec de la trêve avec Ataraxus à l'Aequadeus ; le Conseil des Archanges se fissure durablement en visions divergentes.
 - **≈ 2750** · [MAJEUR] · [[La Trahison des Gardiens]] — Maurtria corrompt un gardien nain du cœur par les rêves ; le cœur est fracturé en trois, une brèche s'ouvre dans la barrière.
 - **≈ 2750 → Exodiale ≈280** · [MAJEUR] · [[La Guerre des Profondeurs]] — Les démons envahissent les profondeurs par la brèche ; chute de la civilisation naine, exil des survivants vers les montagnes du nord.
-
----
 
 ## Ère Exodiale (0 = Sérénale ≈ 2950 → ≈ 1600)
 
@@ -82,11 +85,11 @@ aliases: [Chronologie, Timeline]
 - **≈ 1450–1500** · [MAJEUR] · [[Le Scellement du Cœur]] — Face à la menace portée à son comble, le Cœur de Lamia est rescéllé au prix d'un sacrifice que même les survivants ne surent pas tous nommer.
 - **≈ 1500** · [MINEUR] · [[La Corruption d'Humarios]] — Humarios expérimente sur un fragment du Cœur pour accroître sa puissance ; Alfaryus l'affronte et l'emprisonne, espérant le sauver un jour.
 - **≈ 1500** · [MAJEUR] — **Grande Bataille de Cyroldan** : [[Humarios]] fragilise un fragment, la barrière cède assez pour qu'[[Ataraxus]] se manifeste physiquement. L'intervention directe des dieux fracture l'ancien continent → **Horiae**, le continent central (ancienne Cyroldan), **Eliyae** et des îles. Les démons sont repoussés, Ataraxus défait. Nouvelle loi : les êtres trop imprégnés d'essence divine sont **bannis** de la présence physique sur Lamia. *(Déroulement précis en suspens — à développer lors de l'écriture du roman sur l'Ère Exodiale.)*
+- **≈ 1500** · [MAJEUR] · (brouillon) · [[Le Sceptre des Anges]] — Albaesclatia, épuisée, se retire définitivement du commandement des troupes angéliques ; Lumina devient régente des anges.
+- **≈ 1500** · [MAJEUR] · [[Les Liens Rompus]] — Vaincue face à Ataraxus et coupée par la corruption du lien avec nombre de ses enfants, Albaesclatia se retire définitivement au Dibertium veiller sur Filiama avec Alketeria.
 - **≈ 1500–1600** · [MAJEUR] · [[L'Impossible Retour à l'Unité]] — Le Conseil des Archanges, miné par les trahisons et les deuils, cesse peu à peu d'être reconnu comme une autorité commune.
 - **≈ 1500–1600** · [MAJEUR] · [[Les Archanges Devenus Dieux]] — Les Archanges survivants se revendiquent comme des divinités autonomes, élevées par le culte des mortels plutôt que par un acte de promotion divine.
 - **≈ 1550–1600** · [MAJEUR] · [[Le Dernier Bastion Disputé]] — Lamia devient le dernier lieu de l'univers encore à l'abri de la guerre divine, enjeu disputé entre les visions divergentes des dieux désormais indépendants.
-
----
 
 ## Ère du Voile (0 = Exodiale ≈ 1600 → présent : 1448 È.V.)
 

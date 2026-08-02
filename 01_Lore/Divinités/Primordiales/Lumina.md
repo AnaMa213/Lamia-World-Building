@@ -1,13 +1,13 @@
 ---
-statut: brouillon
-source: ia
+statut: canon
+source: auteur
 type: divinite
 tags:
   - lumiere
   - justice
   - redemption
 date: 2026-07-11
-portee: null
+portee:
 aliases:
   - Fleur de l'aube
   - Flamme guérisseuse
@@ -21,7 +21,6 @@ suivants:
   - Repentis du mal
 alignement: Loyal Bon
 revision-date: 2026-07-28
-revision: ia-a-valider
 ---
 
 # Lumina
@@ -34,7 +33,7 @@ Déesse de la Lumière et de la Justice, connue comme la fleur de l'aube et la f
 
 ## Histoire
 
-Lumina est la déesse de la Lumière, de la Justice, de la tempérance et de la rédemption. Connue sous les titres de Fleur de l'Aube et de Flamme guérisseuse, elle incarne pour beaucoup de fidèles l'espoir, la compassion et la possibilité de revenir vers le bien même après la faute.
+Lumina est la déesse de la Lumière, de la Justice, de la Droiture. Connue sous les titres de Fleur de l'Aube et de Flamme guérisseuse, elle incarne pour beaucoup de fidèles l'espoir, la voie de la Justice et du Bien.
 
 À l'aube de la seconde émanation de [[Chronoversum]], Lumina émergea dans l'obscurité glaciale du néant. Elle était alors la plus faible des divinités primordiales, tirant son pouvoir de la lumière encore rare de l'univers. Mais là où [[Ataraxus]] voyait dans le silence sidéral un état parfait, Lumina y percevait un vide à éclairer. Avec [[Albaesclatia]], elle conçut le projet d'animer l'univers, de le rendre habité, sensible, vivant et traversé par des présences capables de répondre à la lumière.
 

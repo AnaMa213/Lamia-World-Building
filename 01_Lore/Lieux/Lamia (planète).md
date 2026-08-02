@@ -31,7 +31,7 @@ Planète autrefois stérile du Plan des Mondes, Lamia est le lieu où s'éteigni
 ## À travers les ères
 
 ### Temps primordiaux
-Planète stérile où s'éteint l'ange [[2026-07-12 — Proposition — Migration Lamia (ange)|Lamia]] (voir [[La Flamme Éteinte]]). Choisie et nommée en sa mémoire par [[Albaesclatia]] pour y faire naître la vie mortelle (voir [[La Semence Cachée]]). [[Naphusis]] s'y implante sous la forme de l'Arbre-Monde. Le Cœur de Lamia se forme ; une barrière ténue naît avec lui.
+Planète stérile où s'éteint l'ange [[Lamia (ange)|Lamia]] (voir [[La Flamme Éteinte]]). Choisie et nommée en sa mémoire par [[Albaesclatia]] pour y faire naître la vie mortelle (voir [[La Semence Cachée]]). [[Naphusis]] s'y implante sous la forme de l'Arbre-Monde. Le Cœur de Lamia se forme ; une barrière ténue naît avec lui.
 
 ### Ère Sérénale
 Paix originelle entre [[Humains]] et [[Elfes]], les deux premiers peuples créés par Albaesclatia. Durcissement de la barrière face à la menace d'Ataraxus (≈950–1000, voir [[La Trahison Dévoilée]]) : premières tensions sociales. Arrivée ultérieure des Nains par portail planaire depuis le Despophys (voir brainstorm [[2026-07-18 — Brainstorm — PeuplementLamia]], datation non encore fixée). Fracture du Cœur (≈2750, voir [[La Trahison des Gardiens]]) et dispersion de ses fragments (voir [[Le Dernier Serment des Gardiens]], Exodiale ≈0–30).
@@ -57,7 +57,7 @@ Lamia n'est pas un astre inerte : elle porte en son cœur l'essence de l'ange d�
 
 ## Relations
 
-- [[2026-07-12 — Proposition — Migration Lamia (ange)|Lamia (ange)]] — la planète est nommée en sa mémoire et porte une part de son essence.
+- [[Lamia (ange)|Lamia (ange)]] — la planète est nommée en sa mémoire et porte une part de son essence.
 - [[Albaesclatia]] — la choisit et la nomme.
 - [[Mageisys]] — y implante secrètement l'essence de l'ange défunte.
 - [[Naphusis]] — s'y implante sous la forme de l'Arbre-Monde.

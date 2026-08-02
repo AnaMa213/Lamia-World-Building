@@ -25,7 +25,7 @@ revision: ia-a-valider
 Formé peu avant Sérénale 0, au terme des ≈3000 ans qui ont vu Naphusis implanter puis faire mûrir la Flore et la Faune de Lamia, le Cœur de Lamia est le résultat d'une rencontre que ni Naphusis ni Albaesclatia ne comprennent sur le moment : la présence désormais mûre de Naphusis se mêle à une essence cachée par Mageisys bien plus tôt — celle de l'ange Lamia, sa fille défunte. Une barrière ténue naît avec lui. Des millénaires plus tard, il se fracture lors de la corruption des gardiens nains qui le protégeaient, dispersant trois fragments (Corps, Âme, Conscience) et affaiblissant durablement la barrière qui isolait Lamia.
 
 ## Origine
-Formé aux Temps primordiaux, **peu avant Sérénale 0** — soit ≈3000 ans après que [[Naphusis]] s'est implantée sur la planète et y a fait naître puis mûrir Flore et Faune (voir [[L'Enracinement Primordial]]). C'est au terme de ce long développement, lorsqu'[[Albaesclatia]] choisit formellement la planète pour y créer Humains et Elfes (voir [[La Semence Cachée]]), que le Cœur se forme. À l'insu d'Albaesclatia, [[Mageisys]] y avait déjà implanté en secret, bien avant même l'arrivée de Naphusis, l'essence de l'ange [[2026-07-12 — Proposition — Migration Lamia (ange)|Lamia]], conservée depuis sa mort (voir [[Le Larcin de Mageisys]]). Le Cœur est donc double dès l'origine : essence végétale/vitale de la présence désormais mûre de Naphusis, et essence divine individuelle de l'ange défunte, restée en sommeil durant tout ce temps.
+Formé aux Temps primordiaux, **peu avant Sérénale 0** — soit ≈3000 ans après que [[Naphusis]] s'est implantée sur la planète et y a fait naître puis mûrir Flore et Faune (voir [[L'Enracinement Primordial]]). C'est au terme de ce long développement, lorsqu'[[Albaesclatia]] choisit formellement la planète pour y créer Humains et Elfes (voir [[La Semence Cachée]]), que le Cœur se forme. À l'insu d'Albaesclatia, [[Mageisys]] y avait déjà implanté en secret, bien avant même l'arrivée de Naphusis, l'essence de l'ange [[Lamia (ange)|Lamia]], conservée depuis sa mort (voir [[Le Larcin de Mageisys]]). Le Cœur est donc double dès l'origine : essence végétale/vitale de la présence désormais mûre de Naphusis, et essence divine individuelle de l'ange défunte, restée en sommeil durant tout ce temps.
 
 ## Fonctionnement
 
@@ -49,7 +49,7 @@ La fracture affaiblit durablement la barrière, qui laisse finalement passer les
 
 - [[Naphusis]] — implantation écologique, une des deux origines du Cœur.
 - [[Mageisys]] — implantation secrète de l'essence de l'ange Lamia.
-- [[2026-07-12 — Proposition — Migration Lamia (ange)|Lamia (ange)]] — source de l'essence divine individuelle du Cœur.
+- [[Lamia (ange)|Lamia (ange)]] — source de l'essence divine individuelle du Cœur.
 - [[Albaesclatia]] — ignore la vérité jusqu'à [[La Trahison Dévoilée]].
 - [[La Barrière de Lamia]] — système directement généré par le Cœur.
 - [[La Trahison des Gardiens]] / [[Le Dernier Serment des Gardiens]] — fracture et dispersion.

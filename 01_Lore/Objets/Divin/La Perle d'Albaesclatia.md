@@ -29,7 +29,7 @@ Après la mort de l'ange Lamia, Albaesclatia confie le corps de sa fille à Mage
 
 ## Origine
 
-Créée par [[Mageisys]] lors du [[Le Larcin de Mageisys|Larcin de Mageisys]] (Temps primordiaux, ≈500 000 ans avant [[Les Accords du Despophys]]), pour apaiser les demandes répétées d'[[Albaesclatia]] à se recueillir auprès du corps de sa fille défunte, l'ange [[2026-07-12 — Proposition — Migration Lamia (ange)|Lamia]].
+Créée par [[Mageisys]] lors du [[Le Larcin de Mageisys|Larcin de Mageisys]] (Temps primordiaux, ≈500 000 ans avant [[Les Accords du Despophys]]), pour apaiser les demandes répétées d'[[Albaesclatia]] à se recueillir auprès du corps de sa fille défunte, l'ange [[Lamia (ange)|Lamia]].
 
 ## Fonctionnement
 
@@ -39,7 +39,7 @@ Créée par [[Mageisys]] lors du [[Le Larcin de Mageisys|Larcin de Mageisys]] (T
 
 - [[Albaesclatia]] — la reçoit, la chérit, ignore la vérité complète.
 - [[Mageisys]] — la crée pour apaiser sa sœur sans révéler l'ampleur de ce qu'il a gardé.
-- [[2026-07-12 — Proposition — Migration Lamia (ange)|Lamia (ange)]] — source de l'essence contenue.
+- [[Lamia (ange)|Lamia (ange)]] — source de l'essence contenue.
 - [[Le Larcin de Mageisys]] — événement de sa création.
 - [[La Semence Cachée]] — révèle, en creux, l'ampleur de ce que la perle ne contient pas.
 

@@ -16,6 +16,7 @@ date: 2026-07-12
 portee:
 aliases:
   - La Fracture du Cœur
+revision-date: 2026-08-01
 ---
 # La Trahison des Gardiens
 
@@ -49,6 +50,7 @@ Fracture définitive du Cœur de Lamia en trois fragments. Ouverture d'une brèc
 
 Les deux gardiens survivants entament une recherche pour trouver le moyen de reconstituer le cœur et sauver leur frère — recherche que la guerre à venir leur laissera trop peu de temps pour mener à bien (voir [[Le Dernier Serment des Gardiens]]).
 
+🔒 Plus tard, Albaesclatia comprend — ou accepte — que c'est sa propre fille [[Maurtria]] qui se cache derrière la corruption du gardien. Cette seconde blessure, plus intime que la découverte de la trahison de Mageisys, pèse dans son basculement vers une prudence croissante envers l'intégration de nouveaux vivants sur Lamia (voir [[Albaesclatia]]).
 
 ## Qui en garde mémoire
 
@@ -62,10 +64,8 @@ Le fait brut (« le cœur de Lamia fut fracturé ») semble avoir traversé jusq
 - [[Alfaryus]] — fondera sans le savoir Cyroldan directement au-dessus de cette prison.
 - [[Le Dernier Serment des Gardiens]] — suite directe : la quête, finalement vaine, des deux gardiens survivants pour reconstituer le cœur.
 - [[La Lune Manquée]] — crise matérielle compostant le doute existentiel des Nains, terreau exploité par Maurtria.
-- [[2026-07-12 — Proposition — Migration Maurtria]] / [[2026-07-12 — Proposition — Migration Naïnrak]] — fiches déjà migrées, dont la divergence est résolue par cet événement (voir ci-dessous).
+- [[Maurtria]] / [[2026-07-12 — Proposition — Migration Naïnrak]] — fiches déjà migrées, dont la divergence est résolue par cet événement (voir ci-dessous).
 
 ## Contradictions potentielles
 
 **Datation reprise telle quelle de [[Timeline Master]] (Sérénale ≈2750) — cohérente, aucun conflit.**
-
-**Note de portée générale (non secrète) :** le mécanisme par lequel Maurtria contourne ici la barrière — un lien spirituel et psychique construit dans la durée, sans intrusion physique — préfigure la façon dont l'ensemble des dieux exercera son influence sur Lamia durant l'Ère du Voile, une fois la présence physique divine bannie : par la Foi et le lien spirituel des mortels, non plus par l'action directe.

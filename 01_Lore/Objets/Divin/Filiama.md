@@ -27,7 +27,7 @@ Au cœur de la montagne du [[Dibertium]], Albaesclatia insère une partie de son
 
 Créée lors de la conclusion des [[Les Accords du Despophys|Accords du Despophys]], quand Mageisys bâtit pour Albaesclatia un plan où la vie devient possible. Albaesclatia y insère une part de sa propre essence divine sous forme de flamme — Filiama naît ainsi directement d'elle, pas d'un acte de Mageisys.
 
-**Point de chronologie important :** Filiama est postérieure à la mort de l'ange [[2026-07-12 — Proposition — Migration Lamia (ange)|Lamia]], le tout premier enfant d'Albaesclatia (voir [[La Flamme Éteinte]]). L'essence de cette dernière n'est donc jamais passée par Filiama — elle a suivi une voie totalement distincte et antérieure, préservée en secret par Mageisys puis implantée dans la planète Lamia (voir [[Le Larcin de Mageisys]], [[La Semence Cachée]]). Les deux ne doivent pas être confondues malgré l'homonymie de circonstance.
+**Point de chronologie important :** Filiama est postérieure à la mort de l'ange [[Lamia (ange)|Lamia]], le tout premier enfant d'Albaesclatia (voir [[La Flamme Éteinte]]). L'essence de cette dernière n'est donc jamais passée par Filiama — elle a suivi une voie totalement distincte et antérieure, préservée en secret par Mageisys puis implantée dans la planète Lamia (voir [[Le Larcin de Mageisys]], [[La Semence Cachée]]). Les deux ne doivent pas être confondues malgré l'homonymie de circonstance.
 
 ## Fonctionnement
 
@@ -42,7 +42,7 @@ Créée lors de la conclusion des [[Les Accords du Despophys|Accords du Despophy
 - [[Xeros]] — premier enfant né de Filiama (brouillon, non migré).
 - [[Alketeria]] — gardienne de la flamme (brouillon, non migrée).
 - [[Le Cycle des Âmes]] — mécanisme documentant son rôle de destination des âmes mortelles.
-- [[2026-07-12 — Proposition — Migration Lamia (ange)|Lamia (ange)]] — homonymie de circonstance mais mécanisme distinct, voir "Origine".
+- [[Lamia (ange)|Lamia (ange)]] — homonymie de circonstance mais mécanisme distinct, voir "Origine".
 
 ## Contradictions potentielles
 

@@ -111,14 +111,26 @@ Si le chantier touche une chronologie ou des dates : charger
 3. Lire les fiches concernées EN ENTIER (`obsidian_get_note`, format
    `content` ou `full`). **Si MCP indisponible :** CLI `read` ou `Read`.
    Ne jamais trancher à partir d'un extrait ou d'un souvenir.
-4. Si utile, chercher le canon existant lié au sujet
-   (`obsidian_search_notes`, `pathPrefix: "01_Lore"`). Attention :
-   `pathPrefix` est un POST-filtre appliqué après la recherche, pas un
-   scope — une page de résultats peut revenir vide alors que des hits
-   existent aux pages suivantes ; en cas de vide suspect, paginer via
-   `nextCursor` avant de conclure à l'absence.
-   **Si MCP indisponible :** CLI `obsidian search`, ou `Grep`/`Glob` sur
-   `01_Lore/`.
+4. **Obligatoire — pas seulement "si utile"** : avant de réécrire
+   l'Histoire, le Résumé ou les Relations d'une fiche existante, vérifier
+   ses `backlinks` (déjà renvoyés par `obsidian_get_note` à l'Étape 2.3) ET
+   lancer une recherche texte sur son nom (`obsidian_search_notes`, mode
+   `text`) pour repérer les mentions non liées. Lire EN ENTIER toute fiche
+   de type `evenement` ou `objet` qui en ressort et qui n'a pas encore été
+   lue cette session, même si elle ne semble pas centrale au premier coup
+   d'œil. Les Relations déjà présentes sur la fiche ne suffisent pas :
+   elles reflètent ce qui était su au moment de leur rédaction, pas le
+   canon qui a pu s'y ajouter depuis. Un oubli ici crée une incohérence
+   silencieuse, découverte seulement si l'utilisateur la remarque
+   lui-même — expérience vécue (fiche Naphusis, 2026-07-28 : deux
+   événements canon déjà établis, passés inaperçus jusqu'à ce que
+   l'utilisateur signale leur absence de l'Histoire).
+   Ne pas se limiter à la première page de résultats : `pathPrefix` est un
+   POST-filtre appliqué après la recherche, pas un scope — une page peut
+   revenir vide alors que des hits existent aux pages suivantes ; paginer
+   via `nextCursor` avant de conclure à l'absence.
+   **Si MCP indisponible :** CLI `obsidian backlinks file="Nom"` et
+   `obsidian search query="Nom"`, ou `Grep`/`Glob` sur `01_Lore/`.
 
 ## Étape 3 — Trancher ensemble (jamais de yes-man)
 
@@ -351,6 +363,10 @@ fermé en écriture à l'IA) :
   nom du CLI) avant lecture ou écriture.
 - Jamais réécrire ou supprimer de la prose existante sans demande explicite
   — additif par défaut.
+- Avant de réécrire Histoire/Résumé/Relations d'une fiche existante,
+  vérifier systématiquement ses backlinks et lancer une recherche texte
+  sur son nom (Étape 2, point 4) — ne jamais se fier aux seules Relations
+  déjà présentes sur la fiche pour connaître le canon qui la concerne.
 - Jamais écraser silencieusement un marqueur `revision:` préexistant portant
   une autre valeur — le signaler avant.
 - Jamais improviser de la syntaxe Obsidian avancée (Base, embed, propriété

@@ -1,0 +1,22 @@
+filters:
+  and:
+    - file.path.startsWith("01_Lore/Objets/")
+    - type == "objet"
+views:
+  - type: table
+    name: Tableau
+    filters:
+      and:
+        - file.path.startsWith("01_Lore/Objets/")
+        - type == "objet"
+    groupBy:
+      property: categorie
+      direction: ASC
+    order:
+      - file.name
+      - statut
+      - source
+      - categorie
+      - tags
+      - revision
+    sort: []

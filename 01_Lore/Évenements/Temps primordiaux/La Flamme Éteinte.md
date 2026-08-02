@@ -48,7 +48,7 @@ Connue d'Albaesclatia comme blessure intime et de Mageisys, qui récupèrera le 
 
 - [[Albaesclatia]] — créatrice, endeuillée par cette perte fondatrice.
 - [[Mageisys]] — auteur involontaire de l'échec (les lois du Plan des Mondes).
-- [[2026-07-12 — Proposition — Migration Lamia (ange)]] — fiche Divinité dédiée à l'ange elle-même.
+- [[Lamia (ange)]] — fiche Divinité dédiée à l'ange elle-même.
 - [[La Semence Cachée]] — événement où la même planète est choisie et nommée en sa mémoire.
 - [[Le Larcin de Mageisys]] — événement découlant de l'ange défunt entreprit par Mageisys.
 

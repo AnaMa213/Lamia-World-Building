@@ -4,7 +4,7 @@ source: auteur
 type: evenement
 importance: majeur
 ere: primordial
-annee: 15 millions d'années avant Sérénale 0
+annee: "- 15 000 000 AS"
 annee_debut:
 annee_fin:
 tags:
@@ -34,7 +34,7 @@ Après plusieurs millions d'années, [[Chronoversum]] se lasse de cette unique p
 
 **[[Albaesclatia]]**, personnification du partage et de la générosité, prend une forme d'un genre tout nouveau. Elle ne ressemble à aucune des créations de Mageisys : un corps unique, brillant sans lumière propre, d'une beauté qui perturbe même son créateur de frère.
 
-Dès son apparition, Albaesclatia est prise d'un puissant sentiment de solitude et résout de modeler les premiers êtres divins, les **[[Anges]]**, à son image — physiquement gracieux, et psychiquement prolongements de sa propre conscience.
+Dès son apparition, Albaesclatia est prise d'un puissant sentiment de solitude et résout de modeler les premiers êtres divins, à son image — physiquement gracieux, et psychiquement prolongements de sa propre conscience.
 
 ## Conséquences
 

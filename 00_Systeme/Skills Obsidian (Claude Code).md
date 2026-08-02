@@ -1,5 +1,5 @@
 ---
-type: systeme
+type: core
 date: 2026-07-16
 version: "1.0"
 ---
