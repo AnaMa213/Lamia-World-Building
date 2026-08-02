@@ -7,7 +7,8 @@ date: 2026-07-11
 aliases:
   - Chronologie
   - Timeline
-revision-date: 2026-07-28
+revision-date: 2026-08-02
+revision: ia-a-valider
 ---
 # Timeline Master
 
@@ -44,7 +45,6 @@ revision-date: 2026-07-28
 ---
 
 ## Ère Sérénale (0 → ≈ 2950)
-
 *Naissance et développement des peuples lamiens. La Grande Guerre divine éclate vers ≈ 1000 mais épargne longtemps Lamia — sans pour autant s'arrêter là : elle continue de faire rage sur d'innombrables autres mondes, dispersant durablement les forces du Conseil.*
 
 - **0** · [MAJEUR] — Apparition ou création des premiers peuples lamiens.
@@ -58,8 +58,9 @@ revision-date: 2026-07-28
 - **≈ 1000–1100** · [MAJEUR] · [[Le Grand Déferlement]] — Ataraxus, comprenant qu'exterminer seul ne suffit pas, se forge une armée de démons et la lance simultanément sur des milliers de planètes ; effondrement d'Albaesclatia, doublement frappée par le deuil et la trahison ; Xeros prend le commandement des anges.
 - **≈ 1200** · [MINEUR] · (brouillon) · [[La Forge de Creperstella]] — Albaesclatia fait forger par Armerith, dans sa forge divine du Dibertium, l'épée Creperstella — alliage d'essence d'Alketeria et de pierre mageysienne ne frappant que les âmes corrompues — aussitôt confiée à Xeros.
 - **≈ 1500** · [MINEUR] · [[La Perte du Monde des Vendards]] — Les démons détruisent le monde des Vendards ; beaucoup errent sous forme désincarnée ; l'archange Vindiereis, leur créateur, survit. Événement mineur, sans effet direct sur Lamia.
-- **≈ 1700–2000** · [MAJEUR] · [[La Garde du Cœur]] — Frappé par la révélation du Cœur, Naïnrak crée les Nains pour le protéger.
+- **≈ 1700–2000** · [MAJEUR] · [[La Garde du Cœur]] — Frappé par la révélation du Cœur, Naïnrak crée les Nains pour le protéger. ⚠️ *(à recouper avec l'effondrement d'Albaesclatia ci-dessus — voir Contradictions potentielles)*
 - **≈ 2500** · [MAJEUR] · [[L'Asile des Dragons]] — Lamia devient l'un des grands foyers de vie encore debout et la cible prioritaire d'Ataraxus ; les quatre derniers dragons de Koboldia y trouvent refuge, renforcés et postés par Mageisys.
+- **≈ 2500–2600** · [MAJEUR] · [[Le Refus d'Albaesclatia]] — Mageisys et Akator ayant installé les dragons sans son aval, Albaesclatia doit imposer un refus catégorique à toute nouvelle création destinée à Lamia, face à d'autres archanges tentés de suivre l'exemple.
 - **≈ 2500–2600** · [MAJEUR] · [[La Lune Manquée]] — Frustré de ne pouvoir franchir la barrière, Ataraxus projette un astre contre Lamia : il échoue à la percuter et devient Atar, sa lune.
 - **≈ 2625–2700** · [MAJEUR] · [[La Création des Limbes]] — Alors qu'Ataraxus entreprend d'intercepter les âmes mortelles dans le plan transitoire, Xeros et Mageisys travaille ensemble pour le renforcer, créant les Limbes.
 - **≈ 2500–2600** · [MAJEUR] · [[Le Don du Chagrin]] — Le chagrin de Naphusis, dont presque tous les arbres-mondes ont été détruits, fait naître les Gnomes, chargés d'alerter les Lamiens du danger.
@@ -107,6 +108,12 @@ revision-date: 2026-07-28
 
 
 ---
+
+
+
+> [!ia-a-valider]- 2026-08-02 — Ajout de Le Refus d'Albaesclatia
+> **Décision** : tranchée avec l'auteur (session Le Fil / Le Refus d'Albaesclatia, 2026-08-02).
+> **Modifié** : ajout de la ligne [[Le Refus d'Albaesclatia]] (≈2500–2600 Sérénale, brouillon) dans la section Ère Sérénale, juste après [[L'Asile des Dragons]]. Note ⚠️ ajoutée sur la ligne [[La Garde du Cœur]] : sa datation (≈1700–2000, Albaesclatia consciente et consentante) tombe dans la fenêtre où [[Le Grand Déferlement]] la dit « hors d'état d'agir jusqu'au Conseil des Trois » (≈2600–2700, voir [[L'Alliance Froide]]) — tension à arbitrer, pas résolue ici.
 
 ## Notes d'événements détaillées (auto — Dataview)
 

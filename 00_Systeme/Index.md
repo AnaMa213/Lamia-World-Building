@@ -40,6 +40,8 @@ Géographie · Peuples et Factions · Personnages · Créatures · Événements 
 
 #### Majeur
 
+- [x] Ajouter le type `peuple` aux templates : créer `00_Systeme/Templates/Peuple.md` (proposition validée en session du 2026-08-02, voir fiche [[Anges]] en 05_IA_Inbox/Fiches une fois créée). 
+- [x] Ajouter un nouveau type `vocation` à Conventions §2 (liste fermée) + créer `00_Systeme/Templates/Vocation.md` — voie/pratique transversale aux peuples (ex. Druide), distincte de `concept` et de `magie`. Proposition faite en session du 2026-08-02, voir fiche [[Druides]] en 05_IA_Inbox/Fiches une fois créée.
 - [ ] Brainstorm sur Creperstella
 - [ ] Créer chaque Fiche lié au Evènements crées et déjà validé comme Canon. 
 - [ ] Retravailler le lore sur "[[Les Jumeaux Divins]]"
