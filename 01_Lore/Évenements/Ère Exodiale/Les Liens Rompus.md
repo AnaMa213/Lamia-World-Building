@@ -15,6 +15,7 @@ date: 2026-07-28
 portee:
 aliases:
   - Le Retrait d'Albaesclatia
+revision-date: 2026-08-01
 ---
 # Les Liens Rompus
 
@@ -35,6 +36,8 @@ Après la bataille, Albaesclatia ne reprend pas les rênes du commandement comme
 ## Conséquences
 
 Retrait définitif d'Albaesclatia du rôle actif qu'elle occupait depuis les origines de la vie sur Lamia. Son influence sur le monde ne passe plus, dès lors, que par des signes, des bénédictions, des reliques ou des porteurs — jamais plus par une présence directe dans les conflits.
+
+Ce retrait marque aussi, de fait, la fin du mécanisme de création-et-envoi de nouveaux vivants vers Lamia (voir [[La Garde du Cœur]]) : le portail planaire de Mageisys reste techniquement ouvert, mais plus aucune nouvelle création n'y est envoyée sans l'aval qu'Albaesclatia seule pouvait donner — aval qu'elle n'est, depuis ce retrait, plus en position d'exercer activement. L'essentiel de l'influence divine sur Lamia bascule alors vers Le [[Fil]], seul canal encore ouvert entre les dieux et le monde — à cette date, uniquement sous sa forme de miracle rare, initié par les Archanges et les dieux eux-mêmes ; les mortels ne développeront la pratique apprise (magie divine des prêtres et paladins) qu'après la fin de l'Ère Exodiale.
 
 ## Qui en garde mémoire
 

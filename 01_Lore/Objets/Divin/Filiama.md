@@ -13,6 +13,7 @@ date: 2026-07-20
 portee:
 aliases:
   - La Flamme de Vie
+revision-date: 2026-08-01
 ---
 
 # Filiama
@@ -29,6 +30,8 @@ Créée lors de la conclusion des [[Les Accords du Despophys|Accords du Despophy
 
 **Point de chronologie important :** Filiama est postérieure à la mort de l'ange [[Lamia (ange)|Lamia]], le tout premier enfant d'Albaesclatia (voir [[La Flamme Éteinte]]). L'essence de cette dernière n'est donc jamais passée par Filiama — elle a suivi une voie totalement distincte et antérieure, préservée en secret par Mageisys puis implantée dans la planète Lamia (voir [[Le Larcin de Mageisys]], [[La Semence Cachée]]). Les deux ne doivent pas être confondues malgré l'homonymie de circonstance.
 
+Lumina joue aussi un rôle dans cette naissance : elle y ajoute une part de sa propre essence, à son initiative, animée par l'envie de partager le projet de vie de sa sœur. C'est cette essence combinée qui catalyse la transformation de celle d'Albaesclatia en flamme éternelle, capable de subsister hors de son propre corps — sans Lumina, Filiama ne serait peut-être restée qu'une simple extension d'Albaesclatia elle-même, non une entité durable et distincte.
+
 ## Fonctionnement
 
 **Naissance des archanges :** Albaesclatia engendre ses enfants directement de Filiama — Xeros en est le premier exemple documenté.
@@ -43,6 +46,9 @@ Créée lors de la conclusion des [[Les Accords du Despophys|Accords du Despophy
 - [[Alketeria]] — gardienne de la flamme (brouillon, non migrée).
 - [[Le Cycle des Âmes]] — mécanisme documentant son rôle de destination des âmes mortelles.
 - [[Lamia (ange)|Lamia (ange)]] — homonymie de circonstance mais mécanisme distinct, voir "Origine".
+
+
+- [[Lumina]] — co-catalyseur de la flamme (part d'essence propre ajoutée à celle d'Albaesclatia, voir Origine).
 
 ## Contradictions potentielles
 

@@ -22,13 +22,10 @@ suivants:
   - "[[Démons]]"
   - Ceux-qui-ont-tout-perdu
 alignement: Chaotique Mauvais
-revision-date: 2026-07-28
+revision-date: 2026-08-01
 ---
 
 # Ataraxus
-
-> [!note] Brouillon de migration — 2026-07-11
-> Migré depuis `99_Archive/Divinites/Primordiaux/Ataraxus.md`, reformaté selon les Conventions. Prose originale reprise telle quelle (Résumé → Faille intime). Sections **Relations** et **Contradictions potentielles** ajoutées par l'IA. `etat: bannie` proposé (banni de la présence physique sur Lamia depuis la Grande Bataille de Cyroldan, cf. [[Timeline Master]]) — à valider.
 
 **En une phrase :** Ataraxus, premier dieu primordial et ancien dieu du Calme, devint le dieu du chaos et de la destruction lorsque l'apparition de la vie brisa le silence cosmique qu'il chérissait, déclenchant la Grande Guerre divine et la création des démons.
 
@@ -107,13 +104,12 @@ Cette faille explique sa transformation. Plus il entend les discordes du vivant,
 Ataraxus est donc dangereux parce qu'il peut justifier l'horreur comme une purification. Là où Albaesclatia voit une vie fragile à protéger, il voit une agitation à réduire. Là où Mageisys voit l'évolution du réel, il voit une dérive. Là où Lumina voit une lumière à maintenir, il voit une intrusion dans le silence.
 
 ## Relations
-
 - [[Chronoversum]] — origine de son éveil, lors de sa première émanation.
 - [[Mageisys]] — apparu peu après lui ; impulsion opposée (structuration vs immobilité) ; lui bâtit un plan-refuge lors de [[La Retraite du Calme]] (confirmé, canon, Temps primordiaux).
 - [[Lumina]] et [[Albaesclatia]] — leur projet de vie est la blessure fondatrice qui le fait basculer ; ennemies premières.
 - [[Naphusis]] — antithèse idéologique (équilibre vivant vs silence final), selon la fiche [[Naphusis]].
 - [[Démons]] — ses créations, reflets déformés des anges (voir [[Le Grand Déferlement]]).
-- [[Maurtria]] — alliée objective : sa corruption des gardiens nains fracture le cœur de Lamia et ouvre la brèche aux démons ([[Timeline Master]], Sérénale ≈ 2750).
+- [[Maurtria]] — alliée objective, tolérée malgré sa haine des Archanges : sa corruption des gardiens nains fracture le cœur de Lamia et ouvre la brèche aux démons ([[Timeline Master]], Sérénale ≈ 2750) ; il la laisse faire, elle et d'autres Archanges retournés contre le Conseil, parce qu'ils lui offrent un accès à Lamia qu'il n'a pas lui-même.
 - [[Atar]] — cicatrice de sa tentative manquée de détruire Lamia par un astre (Sérénale ≈ 2500–2600, voir [[La Lune Manquée]]) ; décision tranchée : pas une divinité ([[Index]]).
 - [[Grande Bataille de Cyroldan]] — seule manifestation physique confirmée sur Lamia (Exodiale ≈1500) ; chantier en cours, déroulement non développé ici.
 - [[L'Éveil du Fléau]] — sa métamorphose en dieu de la destruction (implosion, corps de destruction) et son premier massacre.
@@ -121,7 +117,6 @@ Ataraxus est donc dangereux parce qu'il peut justifier l'horreur comme une purif
 - [[Culte d'Ataraxus]] — relais mortels de son influence actuelle.
 
 ## Contradictions potentielles
-
 
 > [!ia-a-valider]- 2026-07-27 — Terminologie : « ère » → « émanation »
 > **Décision** : terminologie retenue avec l'auteur (session Chronoversum, 2026-07-27) — voir [[Chronoversum|Chronoversum]].
@@ -139,3 +134,9 @@ Ataraxus est donc dangereux parce qu'il peut justifier l'horreur comme une purif
 > 4. **Épisodes de la Genèse absents** — reliés à leurs fiches canon déjà existantes, ajoutées en Relations : [[La Retraite du Calme]] (plan-refuge de Mageisys), [[L'Éveil du Fléau]] (implosion, métamorphose, premier massacre), [[Le Grand Déferlement]] (levée des démons). Ils n'étaient pas vraiment absents : seuls les liens manquaient.
 
 ^rev-20260728-ataraxus-cyroldan-atar
+
+> [!ia-a-valider]- 2026-08-01 — Motivation de la tolérance envers Maurtria et les Archanges retournés
+> **Décision** : tranchée avec l'auteur (session du 2026-08-01).
+> **Modifié** : ligne Maurtria enrichie d'une motivation explicite.
+
+^rev-20260801-ataraxus-tolerance-maurtria

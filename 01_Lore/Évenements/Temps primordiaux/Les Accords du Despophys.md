@@ -16,6 +16,7 @@ date: 2026-07-12
 portee:
 aliases:
   - Le Serment des Deux Frères
+revision-date: 2026-08-01
 ---
 # Les Accords du Despophys
 
@@ -42,6 +43,8 @@ C'est de Filiama qu'elle engendre son premier fils, l'Archange **[[Xeros]]**. Co
 Mageisys découvre la transgression et menace de tout détruire. Il finit par laisser passer la faute, mais impose un second pacte plus contraignant : Albaesclatia pourra poursuivre son œuvre à deux conditions — ne plus jamais déroger aux règles fixées, et accepter une **dette dont les termes seraient fixés au moment de son choix**. Sans alternative, elle accepte.
 
 En coulisses, Mageisys, fasciné par l'aisance avec laquelle sa sœur a su modeler un être si complexe, retourne dans son plan d'expérimentation secret, où il poursuit ses recherches entamées 500 000 ans plus tôt sur le corps de l'ange Lamia (voir [[Le Larcin de Mageisys]]).
+
+Ce moment mérite une précision : Filiama ne naît pas de la seule essence d'Albaesclatia. Lumina, présente à ses côtés, y insuffle aussi une part de la sienne — geste de sa propre initiative, motivé par l'envie de partager le projet de vie de sa sœur. Cette essence combinée agit comme catalyseur : elle permet à celle d'Albaesclatia de se transformer en une flamme éternelle, capable d'exister hors de son propre corps, plutôt que de rester une simple extension d'elle-même.
 
 ## Conséquences
 

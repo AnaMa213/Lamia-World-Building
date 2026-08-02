@@ -1,15 +1,21 @@
 ---
 statut: brouillon
 type: divinite
-tags: [reves, destin, oniromancie]
+tags:
+  - reves
+  - destin
+  - oniromancie
 date: 2026-07-12
 portee:
 aliases: []
 rang: mineure
 etat: active
-titres: ["Déesse des Rêves", "La Tisseuse de Rêve"]
+titres:
+  - Déesse des Rêves
+  - La Tisseuse de Rêve
 suivants: []
 alignement: Loyal Bon
+revision-date: 2026-08-01
 ---
 
 # Oneira
@@ -110,6 +116,7 @@ Mais son danger est de croire qu'une révélation donne le droit d'orienter une 
 - [[Maurtria]] / [[Naïnrak]] — 🔒 le gardien nain qui lui confie le fragment de conscience appartient au trio de gardiens décrit dans leurs fiches (lot précédent) ; lien direct avec l'épisode de la fracture du Cœur de Lamia.
 - [[Cœur de Lamia]] / [[Les Songes]] — 🔒 le fragment « Conscience » et son lieu de dissimulation sont au cœur de son rôle actuel.
 - [[Thanatia]] — rôles distingués explicitement dans la fiche de Thanatia (même lot) : Oneira agit par les rêves des vivants, Thanatia accompagne les morts.
+- [[Les Archanges Devenus Dieux]] — son influence bienveillante par les rêves est un précédent déjà écrit de l'usage « aider-guider » du [[Fil]], avant même sa formalisation.
 
 ## Contradictions potentielles
 🔒 **Confirmation d'un secret déjà présent dans [[Timeline Master]] — aucune fuite vers un contenu lecteur/joueur avant arbitrage.** Voir le callout en tête de fiche. Cette confirmation textuelle est une bonne nouvelle pour la cohérence (elle corrobore le secret existant plutôt que de le contredire), mais elle **augmente la sensibilité de cette fiche** : toute réutilisation dans un roman ou un scénario devra vérifier qu'aucune allusion ne révèle prématurément la localisation du fragment.

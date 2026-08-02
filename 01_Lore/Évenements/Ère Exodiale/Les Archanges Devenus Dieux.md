@@ -12,9 +12,11 @@ tags:
   - culte
   - divinite
 date: 2026-07-12
-portee:
+portee: null
 aliases:
   - L'Élévation par le Culte
+revision: ia-a-valider
+revision-date: 2026-08-01
 ---
 # Les Archanges Devenus Dieux
 
@@ -49,6 +51,15 @@ Fait largement connu et vécu — c'est la structure même du culte lamien actue
 - [[L'Impossible Retour à l'Unité]] — cause directe.
 - [[Conseil des Archanges]] — institution qui se dissout en divinités indépendantes.
 - Toutes les divinités Majeures et Mineures déjà migrées — bénéficiaires directes de ce mécanisme.
+
+
+- Le Fil — les trois postures décrites en Déroulement (protéger sincèrement / exiger obéissance et sacrifice / instrumentaliser) préfigurent les trois usages du Fil, formalisés plus tard : aider-guider, corrompre, influence-divertissement. Voir aussi [[Oneira|Oneira]] (usage bienveillant par les rêves) et [[Maurtria]] (usage corrupteur par les rêves), précédents déjà écrits pour ce même motif.
+
+> [!ia-a-valider]- 2026-08-01 — Rattachement au motif des trois usages du Fil
+> **Décision** : tranchée avec l'auteur (session du 2026-08-01).
+> **Modifié** : nouvelle ligne en fin de Relations — aucune réécriture des trois postures déjà décrites en Déroulement.
+
+^rev-20260801-archangesdieux-troisusages
 
 ## Contradictions potentielles
 

@@ -1,10 +1,11 @@
 ---
 statut: brouillon
 source: ia
-tags: [brainstorm]
-sujet: "Refonte du lien d'Oneira avec les mortels lamiens et de la timeline de sa fiche — origine de son affinité avec Les Songes via sa proximité avec Albaesclatia, découverte que les mortels partagent inconsciemment cette capacité en rêvant, et datation Exodiale (dissimulation du fragment) / Voile an 0 (renforcement du lien, suite à la stabilisation du Cœur par Alfaryus)."
+tags:
+  - brainstorm
+sujet: Refonte du lien d'Oneira avec les mortels lamiens et de la timeline de sa fiche — origine de son affinité avec Les Songes via sa proximité avec Albaesclatia, découverte que les mortels partagent inconsciemment cette capacité en rêvant, et datation Exodiale (dissimulation du fragment) / Voile an 0 (renforcement du lien, suite à la stabilisation du Cœur par Alfaryus).
 entites_liees:
-  - "[[2026-07-12 — Proposition — Migration Oneira|Oneira]]"
+  - "[[Oneira|Oneira]]"
   - "[[Les Songes]]"
   - "[[Le Dernier Serment des Gardiens]]"
   - "[[Timeline Master]]"
@@ -52,4 +53,4 @@ Contenu proposé directement par Key, déjà cohérent avec l'existant — pas d
 
 ## À reporter dans le canon
 
-- [x] [[2026-07-12 — Proposition — Migration Oneira|Oneira]] ← fait (2026-07-21) : réécriture de la section Histoire (réordonnancement : proximité Albaesclatia + affinité Songes d'abord, découverte du lien mortel ensuite), Résumé, et Contradictions potentielles (datation précisée).
+- [x] [[Oneira|Oneira]] ← fait (2026-07-21) : réécriture de la section Histoire (réordonnancement : proximité Albaesclatia + affinité Songes d'abord, découverte du lien mortel ensuite), Résumé, et Contradictions potentielles (datation précisée).

@@ -20,7 +20,7 @@ suivants:
   - Paysans
   - "[[Gnomes]]"
 alignement: Loyal Neutre
-revision-date: 2026-07-28
+revision-date: 2026-08-01
 ---
 
 # Naphusis
@@ -54,6 +54,9 @@ Lorsque Lamia fut ravagée par la [[Grande Guerre Divine]], Naphusis joua un rô
 Naphusis possède aussi un héraut, une créature très ancienne et redoutable, souvent surnommée la personnification de la fureur. Cet être prend généralement la forme d'un hybride entre animal et végétal. Il n'est pas seulement un messager : il est la réponse violente de la nature lorsqu'on force trop longtemps son silence. Là où Naphusis demeure patiente, enracinée et neutre, son héraut rappelle que la nature peut aussi devenir implacable lorsqu'elle est menacée.
 
 Aujourd'hui, Naphusis demeure l'un des fondements silencieux de Lamia. Elle n'est pas une déesse de conquête, de loi ou de salut. Elle est la condition profonde qui permet au vivant de continuer : racine, cycle, refuge et équilibre. Tant que ses racines tiennent encore, Lamia reste plus qu'un champ de ruines divin ; elle reste un monde capable de repousser.
+
+Son influence directe reste bordée par l'espace : elle est la plus forte à proximité immédiate de l'Arbre-Monde, dans [[La Forêt de Naphusis]], et nettement plus limitée ailleurs sur Lamia. Elle ne relève pas du miracle : hors de sa zone d'influence, elle ne peut ni déplacer un arbre ni faire pousser une forêt en un instant — seulement orienter ou accélérer des processus déjà naturels, jamais les créer de toutes pièces. Les [[Druides]], viennent compenser cette limite : en apprenant à communiquer avec elle, ils obtiennent des faveurs locales et amplifient sa portée par leur propre essence — un mécanisme distinct du [[Fil]] (voir [[La Barrière de Lamia]]), propre à elle seule, puisque Naphusis n'emprunte jamais ce canal.
+
 
 ## Apparence
 
@@ -127,6 +130,9 @@ Mais son danger est de regarder les êtres conscients comme des éléments d'un 
 - [[Humarios]] et [[Mageisys]] — leur combat est la source des dérèglements climatiques qu'on lui attribue à tort.
 - Héraut de Naphusis — créature hybride animal/végétal, personnification de la fureur (sans note, à créer).
 
+
+- Druides (concept à ficher séparément) — pratiquants capables de communiquer avec elle pour obtenir des faveurs locales, amplifiant sa portée par leur propre essence.
+
 ## Contradictions potentielles
 
 **Naphelia sans note.** « Certains Elfes de Naphelia » — lieu ou région lié à son nom, mentionné nulle part ailleurs. À créer ou rattacher lors de la migration des Lieux.
@@ -150,3 +156,9 @@ Mais son danger est de regarder les êtres conscients comme des éléments d'un 
 > **3. Emplacement de l'Arbre-Monde — précisé par l'auteur, avec une hypothèse de ma part à confirmer.** L'Arbre-Monde se dresse au centre du continent principal (non nommé à cette époque, bien avant la fondation de la cité de Cyroldan sur ce même sol), entouré de [[La Forêt de Naphusis]] ; plus tard, une cité elfique reprend son nom : [[Naphusis (lieu)]]. **Hypothèse non confirmée par l'auteur** : puisque ce continent est probablement celui qui deviendra l'Ancienne Cyroldan, et que Cyroldan occupe la position centrale conservée après la fracture (devenant Horiae), l'Arbre-Monde se trouverait aujourd'hui à l'intérieur d'Horiae — ce qui répondrait aussi à la question ouverte de sa survie à la fracture. Deux fiches créées en 05_IA_Inbox/Fiches : [[La Forêt de Naphusis]] et [[Naphusis (lieu)]].
 
 ^rev-20260728-naphusis-presence-lieu
+
+> [!ia-a-valider]- 2026-08-01 — Validation de l'hypothèse du 28/07 (point 1 : régime de présence à part)
+> **Décision** : tranchée avec l'auteur (session du 2026-08-01).
+> **Modifié** : statut de l'hypothèse ci-dessus — le point 1 du callout du 2026-07-28 (« Présence physique vs bannissement ») passe d'hypothèse non tranchée à confirmé. Naphusis n'utilise pas le lien mortel-dieu et n'est donc pas concernée par la loi de bannissement, qui vise une manifestation active des dieux mobiles, pas une présence structurelle statique comme la sienne.
+
+^rev-20260801-naphusis-hypothese-validee

@@ -22,6 +22,7 @@ suivants:
   - Marqués
 alignement: Chaotique Mauvais
 source: auteur
+revision-date: 2026-08-01
 ---
 
 # Maurtria
@@ -119,11 +120,10 @@ Son paradoxe est là. Les mortels de Lamia ont eu besoin d'apprendre à combattr
 Elle ne représente pas seulement le meurtre. Elle représente la justification du meurtre.
 
 ## Relations
-
 - [[Albaesclatia]] — mère ; refuse toujours de l'exclure du Conseil malgré les mises en garde de Lumina.
 - [[Mageisys]] — le libre arbitre qu'il institue empêche le Conseil de simplement effacer les désirs de Maurtria ou de ses créations.
 - [[Lumina]] — seule à percevoir tôt son double jeu ; demande à plusieurs reprises son exclusion du Conseil et du Dibertium.
-- [[Ataraxus]] — alliée objective puis assumée après la Grande Guerre Divine ; c'est elle qui, en corrompant les gardiens nains, ouvre la brèche par laquelle ses démons envahissent Lamia.
+- [[Ataraxus]] — alliée objective puis assumée après la Grande Guerre Divine ; c'est elle qui, en corrompant les gardiens nains, ouvre la brèche par laquelle ses démons envahissent Lamia. Il la tolère malgré sa haine des Archanges, car elle — comme d'autres Archanges retournés contre le Conseil — lui offre un accès à Lamia qu'il n'a pas lui-même.
 - [[Naïnrak]] — créateur des Nains et des trois gardiens qu'elle corrompt ; les deux fiches (même lot) donnent un récit de cet épisode divergeant sur un point précis — voir Contradictions potentielles.
 - [[Nains]] — peuple créé pour garder le Cœur de Lamia, brisé par la corruption qu'elle instille.
 - [[Cœur de Lamia]] — sa fracturation en trois fragments est l'acte fondateur de la chute de l'âge d'or lamien ; à relier à l'entrée 🔒 de [[Timeline Master]] (Exodiale ≈0–30 : dispersion des trois fragments — Corps / Âme / Conscience). Lien fort mais **sensible : ne jamais exposer à un contenu lecteur/joueur avant arbitrage.**

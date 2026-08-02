@@ -1,14 +1,15 @@
 ---
 statut: brouillon
 source: ia
-tags: [brainstorm]
-sujet: "Clarifier la mention d'une « réparation du Cœur de Lamia » évoquée pour la mise à jour d'Oneira — confirmer qu'il s'agit d'un chantier futur, pas d'un fait déjà acté, et le relier à l'entrée déjà existante de Timeline Master sur Alfaryus stabilisant le Cœur et créant le Voile. Contenu détaillé de la quête reporté à une session ultérieure."
+tags:
+  - brainstorm
+sujet: Clarifier la mention d'une « réparation du Cœur de Lamia » évoquée pour la mise à jour d'Oneira — confirmer qu'il s'agit d'un chantier futur, pas d'un fait déjà acté, et le relier à l'entrée déjà existante de Timeline Master sur Alfaryus stabilisant le Cœur et créant le Voile. Contenu détaillé de la quête reporté à une session ultérieure.
 entites_liees:
   - "[[Timeline Master]]"
   - "[[La Trahison des Gardiens]]"
   - "[[Alfaryus et la Fondation de Cyroldan]]"
   - "[[Les Jumeaux Divins]]"
-  - "[[2026-07-12 — Proposition — Migration Oneira|Oneira]]"
+  - "[[Oneira|Oneira]]"
 date: 2026-07-21
 ---
 # 2026-07-21 — Brainstorm — ReparationDuCoeur
