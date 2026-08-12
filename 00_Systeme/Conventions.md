@@ -36,12 +36,12 @@ version: "1.3"
 
 ## 2. Types d'entités (`type:`, liste fermée)
 
-`core` · `divinite` · `personnage` · `peuple` · `faction` · `lieu` · `creature` · `magie` · `objet` · `ere` · `evenement` · `legende` · `concept` · `oeuvre` · `systeme` · `moc`
+`core` · `divinite` · `personnage` · `peuple` · `faction` · `lieu` · `creature` · `magie` · `objet` · `ere` · `evenement` · `legende` · `concept` · `oeuvre` · `systeme` · `moc`· `race`· `peuple`
 
-- **evenement** = fait daté de l'histoire de l'univers. Modèle hybride : [[Timeline Master]] est le registre maître de TOUS les événements ; seuls les événements MAJEURS reçoivent en plus leur propre note `evenement`. Toute note evenement DOIT figurer dans Timeline Master.
+- **evenement** = fait daté de l'histoire de l'univers. Modèle hybride : [[01_Lore/Timeline Master]] est le registre maître de TOUS les événements ; seuls les événements MAJEURS reçoivent en plus leur propre note `evenement`. Toute note evenement DOIT figurer dans Timeline Master.
 - **legende** = un récit qui circule DANS l'univers. La fiche peut être `statut: canon` (la légende existe) tout en racontant des choses fausses. Indiquer : part vraie / part fausse / origine du récit.
 - **concept** = élément culturel ou systémique : calendrier, monnaie, langue, coutume, rite.
-- **ere** = période historique. Détail dans sa fiche, ordre et dates dans [[Timeline Master]].
+- **ere** = période historique. Détail dans sa fiche, ordre et dates dans [[01_Lore/Timeline Master]].
 - **moc** = document de navigation pur (Map of Content), un par type d'entité ayant au moins une fiche `canon` dans [[01_Lore]] (Divinités, Lieux, Objets, Systèmes, Événements...). N'affirme aucun fait de lore : liste et annote à la main les fiches déjà validées (`statut: canon`) de ce type, organisée par la subdivision la plus pertinente (`rang` pour les divinités, `plan` → `continent` → `region` pour les lieux, chronologie pour les événements si aucune Timeline Master n'existe déjà pour ce type). Vit directement dans `01_Lore` (pas d'étape 05_IA_Inbox : n'introduit aucun canon nouveau). N'inclut jamais une fiche `brouillon`, même présente dans `01_Lore`.
 - Ajouter un nouveau type = modifier CE fichier d'abord.
 
@@ -116,7 +116,7 @@ Fiche divinité et personnage (sections, dans cet ordre) : Résumé / Histoire /
 
 ### Modèle de timelines (hybride, multi-niveaux)
 
-- [[Timeline Master]] = registre maître manuel, échelle de l'ANNÉE, tous les événements canoniques de l'univers, y compris secrets (🔒).
+- [[01_Lore/Timeline Master]] = registre maître manuel, échelle de l'ANNÉE, tous les événements canoniques de l'univers, y compris secrets (🔒).
 - Les événements MAJEURS peuvent en plus avoir leur note `evenement` (auto-listées dans Timeline Master via Dataview).
 - Chaque œuvre a SA timeline (`portee:` œuvre) : échelle fine, au jour près (format complet `JJ Mois AAAA È.V.`), avec ses propres entrées secrètes.
 - Timeline Master ne descend jamais au jour près, sauf exception justifiée.
@@ -131,8 +131,8 @@ Fiche divinité et personnage (sections, dans cet ordre) : Résumé / Histoire /
 
 ### Règles
 
-- Tout événement daté canonique figure dans [[Timeline Master]].
-- Toute note datée lie [[Timeline Master]] ou la fiche d'ère concernée.
+- Tout événement daté canonique figure dans [[01_Lore/Timeline Master]].
+- Toute note datée lie [[01_Lore/Timeline Master]] ou la fiche d'ère concernée.
 
 ## 6. Nommage des fichiers
 

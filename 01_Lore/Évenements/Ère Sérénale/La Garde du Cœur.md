@@ -4,7 +4,7 @@ source: auteur
 type: evenement
 importance: majeur
 ere: serenale
-annee: inconnu
+annee: ≈ 1700 ES
 annee_debut: 1700
 annee_fin: 2000
 tags:
@@ -12,27 +12,26 @@ tags:
   - naïnrak
   - coeur-de-lamia
 date: 2026-07-12
-portee: null
+portee:
 aliases:
   - Le Serment de Naïnrak
-revision: ia-a-valider
-revision-date: 2026-08-01
+revision-date: 2026-08-09
 ---
 # La Garde du Cœur
 
-**En une phrase :** Frappé par la révélation que le Cœur de Lamia porte l'essence de la première fille d'Albaesclatia, Naïnrak crée, avec l'accord de sa mère Albaesclatia, les Nains pour le protéger — un peuple conçu pour vivre au sein même de la planète, bâtissant autour de trois gardiens désignés une civilisation souterraine entière.
+**En une phrase :** Frappé par la révélation que le Cœur de Lamia porte l'essence de la première fille d'Albaesclatia, Naïnrak convainc sa mère de confier la protection du Cœur aux Nains — son peuple déjà réfugié au Dibertium après la destruction de leur planète natale — et choisit lui-même les trois gardiens parmi ceux qu'il a vus survivre, avant que Mageisys ne les transporte sur Lamia.
 
 ## Résumé
 
-Frappé par la révélation que Lamia porte en son cœur l'essence de la défunte Lamia, Naïnrak crée les Nains, conçus pour vivre au sein même de la planète. Trois d'entre eux sont désignés gardiens directs du cœur ; le reste du peuple bâtit autour d'eux une civilisation souterraine entière, prospère pendant plusieurs siècles.
+Frappé par la révélation que Lamia porte en son cœur l'essence de la défunte Lamia, Naïnrak convainc Albaesclatia de confier la protection du Cœur à ses Nains, déjà réfugiés au Dibertium après l'exode de leur planète d'origine. Il choisit lui-même les trois gardiens — des Nains qu'il connaît, qu'il a vus tenir dans les tunnels de leur monde perdu. Une fois sur Lamia, les Nains s'installent au sein même de la planète et bâtissent autour de ces trois gardiens une civilisation souterraine entière, prospère pendant plusieurs siècles.
 
 ## Causes
 
 Parmi les Archanges, [[Naïnrak]] est frappé par la révélation que la planète Lamia porte en son cœur l'essence de la défunte Lamia, première fille d'Albaesclatia (voir [[La Trahison Dévoilée]]). Il juge de son devoir de protéger ce foyer, le plus sacré qui soit.
 
-## Déroulement
+Les Nains se trouvent déjà au [[Dibertium]] à ce moment : réfugiés de leur planète natale, ravagée par les forces d'[[Ataraxus]] (voir fiche [[Naïnrak]]). Sur cette planète perdue, [[Naphusis]] avait planté l'un de ses Arbres-Monde, créant un lien profond entre le peuple nain et la terre vivante — lien que la destruction d'Ataraxus a brisé. Les Nains, formés depuis leur origine à vivre dans les entrailles de leur monde, sont les seuls êtres déjà présents au Dibertium que Naïnrak connaît assez pour leur confier une telle mission.
 
-Comme toute divinité créant un nouveau peuple depuis le durcissement de la barrière (voir [[La Trahison Dévoilée]]), Naïnrak ne peut plus se manifester physiquement sur Lamia pour y faire naître directement une race. Il conçoit donc les Nains au [[Dibertium]] — êtres trapus et résistants, taillés pour la pierre et la profondeur — avant que [[Mageisys]] ne les transporte sur Lamia par un portail planaire, le même mécanisme qui permettra plus tard d'y implanter les quatre derniers dragons de Koboldia (voir [[L'Asile des Dragons]]). Une fois sur place, les Nains s'installent au sein même de la planète, à l'écart des humains et des elfes du dessus. Trois d'entre eux sont désignés gardiens directs du cœur — son corps et son essence. Le reste du peuple nain bâtit autour d'eux une civilisation souterraine entière, dédiée à cette protection.
+## Déroulement
 
 Pendant plusieurs siècles, les nains prospèrent dans les profondeurs. Leurs cités souterraines deviennent des merveilles d'architecture : galeries vertigineuses, halls de pierre sculptée, fonderies dont les feux brûlent en permanence. Loin du fracas du monde de surface, ils accumulent richesses et savoir, gardant fidèlement le foyer qui leur a été confié.
 
@@ -45,11 +44,12 @@ Naissance d'une civilisation naine souterraine prospère, qui perdurera plusieur
 Fait largement connu à l'époque : la mission protectrice des Nains est reconnue, même si la nature exacte de ce qu'ils protègent (l'essence de l'ange Lamia) reste un savoir plus restreint.
 
 ## Relations
-- [[Naïnrak]] — créateur des Nains, agit sans le consensus collectif du Conseil déjà fragmenté (voir [[Le Concile Rompu]]), mais avec l'aval individuel de sa mère [[Albaesclatia]].
-- [[Nains]] — peuple créé dans cet événement.
+- [[Naïnrak]] — agit avec l'aval individuel de sa mère [[Albaesclatia]], sans le consensus collectif du Conseil déjà fragmenté (voir [[Le Concile Rompu]]) ; choisit lui-même les trois gardiens parmi les survivants réfugiés au Dibertium.
+- [[Nains]] — peuple déjà présent au Dibertium comme réfugiés, implanté sur Lamia dans cet événement.
+- [[Naphusis]] — son Arbre-Monde s'était enraciné sur la planète d'origine des Nains, contribuant à forger leur lien profond à la terre ; sa destruction par Ataraxus est l'une des causes de l'exode des Nains vers le Dibertium.
 - [[La Trahison Dévoilée]] — cause directe (révélation du Cœur).
 - [[La Trahison des Gardiens]] — suite directe, plusieurs siècles plus tard.
 - [[Mageisys]] — ouvre le portail planaire qui transporte les Nains du Dibertium à Lamia.
-- [[Dibertium]] — lieu où Naïnrak conçoit les Nains avant leur transport.
+- [[Dibertium]] — lieu de refuge des Nains après l'exode de leur planète natale, point de départ vers Lamia.
 
 ## Contradictions potentielles

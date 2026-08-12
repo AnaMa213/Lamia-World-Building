@@ -1,0 +1,25 @@
+{
+  "id": "conv-1786474094421-4huri8ylf",
+  "providerId": "claude",
+  "title": "Créer une fiche Race pour les Gnomes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786474094421,
+  "lastActivityAt": 1786522574378,
+  "sessionId": "a8946b2a-7c27-4999-9bf8-fb09fd39bea5",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "a8946b2a-7c27-4999-9bf8-fb09fd39bea5"
+  },
+  "enabledMcpServers": [
+    "obsidian-mcp"
+  ],
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 115292,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 115295,
+    "percentage": 12
+  }
+}

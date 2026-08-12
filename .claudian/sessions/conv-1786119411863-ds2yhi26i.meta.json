@@ -1,0 +1,26 @@
+{
+  "id": "conv-1786119411863-ds2yhi26i",
+  "providerId": "claude",
+  "title": "Réécrire la fiche de Vindiereis avec nouveaux d...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786119411864,
+  "lastActivityAt": 1786127233206,
+  "sessionId": "9911e904-8f4f-4e5c-bcb8-56c9a6e74b75",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "9911e904-8f4f-4e5c-bcb8-56c9a6e74b75"
+  },
+  "currentNote": "01_Lore/Divinités/Mineur/Vindiereis.md",
+  "enabledMcpServers": [
+    "obsidian-mcp"
+  ],
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 927,
+    "cacheReadInputTokens": 132582,
+    "contextWindow": 1000000,
+    "contextTokens": 133510,
+    "percentage": 13
+  }
+}

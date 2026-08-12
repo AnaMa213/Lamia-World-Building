@@ -10,9 +10,8 @@ tags:
   - mageisys
   - ange-lamia
 date: 2026-07-20
-portee: null
+portee:
 aliases: []
-revision: ia-a-valider
 ---
 
 # Cœur de Lamia
@@ -20,7 +19,6 @@ revision: ia-a-valider
 **En une phrase :** Le Cœur de Lamia naît de la rencontre, aux Temps primordiaux, entre l'implantation écologique de Naphusis et l'essence secrètement cachée de l'ange Lamia défunte — porteur d'une barrière protectrice, il se fracture en trois fragments lors de la corruption des gardiens nains, précipitant la chute de l'Âge d'Or.
 
 ## Résumé
-> [!ia-a-valider] 2026-07-22 — Chantier Majeur (Index) : alignement sur la réécriture de [[La Semence Cachée]] — le Cœur se forme sur la présence désormais *mûre* de Naphusis (≈3000 ans après son implantation), pas sur son implantation elle-même. Décision du brainstorm [[2026-07-18 — Brainstorm — PeuplementLamia]], validée par Key. Modifié : sections Résumé et Origine réécrites.
 
 Formé peu avant Sérénale 0, au terme des ≈3000 ans qui ont vu Naphusis implanter puis faire mûrir la Flore et la Faune de Lamia, le Cœur de Lamia est le résultat d'une rencontre que ni Naphusis ni Albaesclatia ne comprennent sur le moment : la présence désormais mûre de Naphusis se mêle à une essence cachée par Mageisys bien plus tôt — celle de l'ange Lamia, sa fille défunte. Une barrière ténue naît avec lui. Des millénaires plus tard, il se fracture lors de la corruption des gardiens nains qui le protégeaient, dispersant trois fragments (Corps, Âme, Conscience) et affaiblissant durablement la barrière qui isolait Lamia.
 
@@ -35,7 +33,7 @@ Formé aux Temps primordiaux, **peu avant Sérénale 0** — soit ≈3000 ans ap
 
 **Suppression des pouvoirs divinement accordés à proximité** — la proximité d'un fragment du Cœur suppresse les pouvoirs d'origine divine (établi dans [[Le Dernier Serment des Gardiens]]).
 
-**Résiste à la dissolution normale des âmes** — un fragment fusionné à une âme mortelle peut résister à la fusion anonyme dans Filiama qui attend normalement toute âme lamienne (voir [[Le Cycle des Âmes]], cas documenté dans [[Le Dernier Serment des Gardiens]]). Précédent déjà présent avant même cet épisode : l'essence de l'ange Lamia elle-même avait déjà résisté à la dissolution, préservée intacte par Mageisys.
+**Résiste à la dissolution normale des âmes** — un fragment fusionné à une âme mortelle peut résister à la fusion anonyme dans [[Filiama]] qui attend normalement toute âme lamienne (voir [[Le Cycle des Âmes]], cas documenté dans [[Le Dernier Serment des Gardiens]]). Précédent déjà présent avant même cet épisode : l'essence de l'ange Lamia elle-même avait déjà résisté à la dissolution, préservée intacte par Mageisys.
 
 ## Fracture
 

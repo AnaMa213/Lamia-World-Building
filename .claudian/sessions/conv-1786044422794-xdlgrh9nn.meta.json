@@ -1,0 +1,24 @@
+{
+  "id": "conv-1786044422794-xdlgrh9nn",
+  "providerId": "claude",
+  "title": "Lire un fichier via MCP Obsidian vault_read",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786044422796,
+  "lastActivityAt": 1786045190608,
+  "sessionId": "eb65d822-22e1-4584-99a0-b61f66fa57b4",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "eb65d822-22e1-4584-99a0-b61f66fa57b4"
+  },
+  "isPinned": false,
+  "isArchived": true,
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 1546,
+    "cacheReadInputTokens": 36201,
+    "contextWindow": 1000000,
+    "contextTokens": 37750,
+    "percentage": 4
+  }
+}

@@ -1,9 +1,10 @@
 ---
 statut: brouillon
 type: faction
+importance:
 tags: []
 date: <% tp.date.now("YYYY-MM-DD") %>
-portee: 
+portee:
 aliases: []
 ---
 # <% tp.file.title %>

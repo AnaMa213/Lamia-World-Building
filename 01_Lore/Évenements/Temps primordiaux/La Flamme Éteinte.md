@@ -4,7 +4,7 @@ source: auteur
 type: evenement
 importance: majeur
 ere: primordial
-annee: 1 millions d'années avant Sérénale 0
+annee: -1 000 000  AS
 annee_debut:
 annee_fin:
 tags:
@@ -54,4 +54,4 @@ Connue d'Albaesclatia comme blessure intime et de Mageisys, qui récupèrera le 
 
 ## Contradictions potentielles
 
-**Aucune contradiction relevée.** Cohérent avec l'entrée déjà existante dans [[Timeline Master]] (« ≈ 1 millions d'années avant Sérénale 0 »).
+**Aucune contradiction relevée.** Cohérent avec l'entrée déjà existante dans [[01_Lore/Timeline Master]] (« ≈ 1 millions d'années avant Sérénale 0 »).

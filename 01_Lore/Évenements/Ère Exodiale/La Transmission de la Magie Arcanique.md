@@ -47,4 +47,4 @@ Fait largement connu — la magie arcanique et son lien à Alfaryus sont documen
 
 ## Contradictions potentielles
 
-**Aucune contradiction relevée.** Cohérent avec l'entrée déjà existante dans [[Timeline Master]] (≈900) et avec la fiche déjà migrée d'Alfaryus.
+**Aucune contradiction relevée.** Cohérent avec l'entrée déjà existante dans [[01_Lore/Timeline Master]] (≈900) et avec la fiche déjà migrée d'Alfaryus.

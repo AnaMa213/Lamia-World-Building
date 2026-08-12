@@ -4,7 +4,7 @@ source: auteur
 type: evenement
 importance: majeur
 ere: serenale
-annee: inconnu
+annee: ≈ 2750 ES
 annee_debut: 2750
 annee_fin: 280
 tags:
@@ -55,4 +55,4 @@ Totalement inconnue des peuples de la surface à l'époque des faits — « les 
 
 ## Contradictions potentielles
 
-**Aucune contradiction relevée sur le fond.** Cohérent avec l'entrée déjà existante dans [[Timeline Master]] (Exodiale « ≈50-280 — Les Nains survivants abandonnent les profondeurs »).
+**Aucune contradiction relevée sur le fond.** Cohérent avec l'entrée déjà existante dans [[01_Lore/Timeline Master]] (Exodiale « ≈50-280 — Les Nains survivants abandonnent les profondeurs »).

@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786524519002-oyxn6nbhw",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786524519029-jsjqcpl",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786524519001-8flttku",
+      "timestamp": 1786524519001,
+      "rawDisplayText": "/creer-fiche Cyroldan de type Lieu",
+      "canonicalText": "/creer-fiche Cyroldan de type Lieu",
+      "context": {
+        "currentNote": {
+          "path": "01_Lore/Évenements/Ère Sérénale/La Trahison des Gardiens.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "9101ac7d3fdb26bd7adeadb3980da86513b4435ec90e2ca86fb7186a765f5dc1",
+      "providerUserMessageId": "cb816a52-bf5d-4e24-a7ca-b16a74c38b74",
+      "providerAssistantMessageId": "94ff966c-41d1-4ed7-8747-64a4e02eb247"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786525328507-9vgja3r",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786525328504-dk6n030",
+      "timestamp": 1786525328504,
+      "rawDisplayText": "Avant la grande bataille , Lamia n'avait qu'un continent, il n'avait donc pas de nom (Continent unique de Lamia) . Région, Cyroldan était situé près de la Forêt de Naphusis à point centrale nord du continent. Elle se trouvait plusieurs centaines de km de l'arbre-monde.",
+      "canonicalText": "Avant la grande bataille , Lamia n'avait qu'un continent, il n'avait donc pas de nom (Continent unique de Lamia) . Région, Cyroldan était situé près de la Forêt de Naphusis à point centrale nord du continent. Elle se trouvait plusieurs centaines de km de l'arbre-monde.",
+      "images": [],
+      "contentDigest": "4f71befecd9db872b175b3911daee8237e0a70c6e65dc536476b6df8837c2e03",
+      "providerUserMessageId": "88790609-4a04-4d1a-b1e5-0dbaad34af55",
+      "providerAssistantMessageId": "88bacf56-345b-42ef-926c-528d82776a9e"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786525938335-1kfchq0",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1786525938331-lx70jzq",
+      "timestamp": 1786525938331,
+      "rawDisplayText": "On peut ajouter que Cyorldan est proche (5 jours à cheval d'une ancienne petite cité tombé en ruine comportant un trans-flux (téléporteur mageysien servant à se deplacer plus rapidement de cité en cité pendant l'ère Sérénale.)  \"y avait-il des activités naines en surface à cet endroit, ou les Nains étaient-ils exclusivement souterrains dans cette zone ?\" : Ce n'est pas une \"prison naine\" mais uniquement le gardien nains emprisonné dans la roche avec le Fragement du coeur proche de la surface. Mais non il n'y a pas d'activité naines en surface. \"la date et le déroulé de la Grande Bataille de Cyroldan. Que sais-tu de cet événement à ce stade ?\" : pas encore définie complétement . \"L'Ancienne Cyroldan est-elle habitée en 1448 È.V. ?\" : Non , la majorité sont en ruines et corrompu par l'Ichor du Néant. C'est le territoire des Tumeurs de Rhamal essentiellement. Au sud du continent de l'Ancienne Cyroldan se trouve une prison , La Prison de Cyroldan utilisé par l'empire de Zalandria et l'Archipel de Marelion. \"Les ruines de la cité proprement dites\" Le continent s'appelle l'Ancienne Cyroldan. Mais les ruines de la cité ne represente qu'une petite cité du continent. au centre de celui-çi . \"La prison du gardien :\" : Pendant l'ère Exodiale, elle aurait été découverte mais c'est un des sujets du roman pas encore detaillé.",
+      "canonicalText": "On peut ajouter que Cyorldan est proche (5 jours à cheval d'une ancienne petite cité tombé en ruine comportant un trans-flux (téléporteur mageysien servant à se deplacer plus rapidement de cité en cité pendant l'ère Sérénale.)  \"y avait-il des activités naines en surface à cet endroit, ou les Nains étaient-ils exclusivement souterrains dans cette zone ?\" : Ce n'est pas une \"prison naine\" mais uniquement le gardien nains emprisonné dans la roche avec le Fragement du coeur proche de la surface. Mais non il n'y a pas d'activité naines en surface. \"la date et le déroulé de la Grande Bataille de Cyroldan. Que sais-tu de cet événement à ce stade ?\" : pas encore définie complétement . \"L'Ancienne Cyroldan est-elle habitée en 1448 È.V. ?\" : Non , la majorité sont en ruines et corrompu par l'Ichor du Néant. C'est le territoire des Tumeurs de Rhamal essentiellement. Au sud du continent de l'Ancienne Cyroldan se trouve une prison , La Prison de Cyroldan utilisé par l'empire de Zalandria et l'Archipel de Marelion. \"Les ruines de la cité proprement dites\" Le continent s'appelle l'Ancienne Cyroldan. Mais les ruines de la cité ne represente qu'une petite cité du continent. au centre de celui-çi . \"La prison du gardien :\" : Pendant l'ère Exodiale, elle aurait été découverte mais c'est un des sujets du roman pas encore detaillé.",
+      "images": [],
+      "contentDigest": "d1fa8c52cdccffab43242fbfff17f3213b219b7d447466bb2b118314d145464c",
+      "providerUserMessageId": "66045999-cad6-4d76-b07b-d45aefefbd94",
+      "providerAssistantMessageId": "3450fa9c-129a-42cc-bdaa-06b75a9911c3"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786526484375-fbowaux",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1786526484371-sozp74c",
+      "timestamp": 1786526484371,
+      "rawDisplayText": "Non Horiae est le continent à l'ouest du continent de l'Ancienne Cyroldan. C'est 2 continent différents. L'Ancienne Cyroldan est un petit continent inhabitable à cause de l'ichor du Néant et des Tumeurs de Rhamal, Horiae et le continent principale des civilisations de l'ère du Voile.",
+      "canonicalText": "Non Horiae est le continent à l'ouest du continent de l'Ancienne Cyroldan. C'est 2 continent différents. L'Ancienne Cyroldan est un petit continent inhabitable à cause de l'ichor du Néant et des Tumeurs de Rhamal, Horiae et le continent principale des civilisations de l'ère du Voile.",
+      "images": [],
+      "contentDigest": "a7d1a23dd68947e01d4a524fa184d03d1fe23a49ee2ed5d5ff9f505e61faddc1",
+      "providerUserMessageId": "8b65b14b-9409-4afe-8b01-3a5d4e8c9c61",
+      "providerAssistantMessageId": "50c46334-97a8-4e58-b8b6-fa53b91e332b"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786526556487-bzasykw",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1786526556482-om9lhe9",
+      "timestamp": 1786526556482,
+      "rawDisplayText": "Pour le trans-flux, il est nommé Trans-flux et il existe des version arcanique plus efficace créer pendant l'ère du Voile.",
+      "canonicalText": "Pour le trans-flux, il est nommé Trans-flux et il existe des version arcanique plus efficace créer pendant l'ère du Voile.",
+      "images": [],
+      "contentDigest": "1935ca237b5f8f8f7a5b0b47e440541dd21deb091ab13b83bb2828aa4e231575",
+      "providerUserMessageId": "5dabec33-3936-4fba-bbe5-f76a83a55f2d",
+      "providerAssistantMessageId": "bc278c6a-b1ed-44c7-ae3a-e79ca8698865"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786526962632-6exf0zg",
+      "userTurnOrdinal": 6,
+      "state": "accepted",
+      "localMessageId": "msg-1786526962627-700d3q2",
+      "timestamp": 1786526962627,
+      "rawDisplayText": "Tu peux écrire tu as le go",
+      "canonicalText": "Tu peux écrire tu as le go",
+      "images": [],
+      "contentDigest": "c553448582aace030b4b5d468ad9d0e18452897f49aee9330974b6b2bfdd963a",
+      "providerUserMessageId": "bfa03e51-0e7c-41b6-9e78-c4b395b1e53e",
+      "providerAssistantMessageId": "5b25c0c4-93c0-4ab4-878a-934c51e2332c"
+    }
+  ]
+}

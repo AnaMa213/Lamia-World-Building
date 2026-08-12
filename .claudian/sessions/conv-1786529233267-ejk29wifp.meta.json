@@ -1,0 +1,25 @@
+{
+  "id": "conv-1786529233267-ejk29wifp",
+  "providerId": "claude",
+  "title": "Configurer les propriétés Obsidian pour les Div...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786529233267,
+  "lastActivityAt": 1786530625681,
+  "sessionId": "d72283cc-8a1a-4e10-ab29-5efee3286ba5",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "d72283cc-8a1a-4e10-ab29-5efee3286ba5"
+  },
+  "enabledMcpServers": [
+    "obsidian-mcp"
+  ],
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1676,
+    "cacheReadInputTokens": 168679,
+    "contextWindow": 1000000,
+    "contextTokens": 170356,
+    "percentage": 17
+  }
+}

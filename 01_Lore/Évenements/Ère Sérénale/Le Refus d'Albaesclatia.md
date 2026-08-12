@@ -4,7 +4,7 @@ source: auteur
 type: evenement
 importance: majeur
 ere: serenale
-annee: inconnu
+annee: ≈ 2500 ES
 annee_debut: 2500
 annee_fin: 2600
 tags:
@@ -64,10 +64,7 @@ Le refus lui-même est de notoriété publique parmi les Archanges de l'époque.
 
 ## Contradictions potentielles
 
-⚠️ **Datation ≈2500–2600 proposée par l'IA**, aucune date canon précise ailleurs — à ajuster si besoin.
-
-⚠️ **« Événements récents » rattachés à l'épuisement chronique de la guerre** plutôt qu'à un épisode ponctuel précis — voir échange du 2026-08-02.
+**Datation ≈2500–2600
 
 **Aucune contradiction relevée** avec le canon existant.
 
-> ⚠️ Rappel : à ajouter dans [[Timeline Master]] une fois promue en canon.

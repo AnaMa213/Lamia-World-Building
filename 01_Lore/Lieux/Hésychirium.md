@@ -12,10 +12,11 @@ date: 2026-07-29
 portee:
 aliases:
   - Le Plan-Refuge d'Ataraxus
-plan: hésychion
+plan: hésychirium
+revision-date: 2026-08-05
 ---
 
-# Hésychion
+# Hésychirium
 
 **En une phrase :** Hésychion est le plan-refuge que Mageisys bâtit à Ataraxus, en exil loin de l'agitation du Despophys, sur les anciennes règles d'avant sa modification — un sanctuaire de calme où la paix recherchée se corrompt en rage jusqu'à l'implosion de sa forme, et qui devient depuis le repaire d'où il lève ses légions démoniaques.
 
@@ -36,7 +37,11 @@ Bâti par [[Mageisys]] pour [[Ataraxus]] (voir [[La Retraite du Calme]]), sur le
 
 ### Ère Sérénale
 
-≈900–1000 : consumé par la rage accumulée, la forme d'Ataraxus implose ; la montagne où il s'était figé est détruite par l'onde. De cette destruction émerge son nouveau corps, monstre de destruction, qui se rematérialise à l'orée du [[05_IA_Inbox/Fiches/Plan des Mondes]] pour son premier massacre (voir [[L'Éveil du Fléau]]). Repoussé par la coalition divine, il bat en retraite vers Hésychion. ≈1000–1100 : il y façonne par millions les démons de ses légions avant de les lâcher simultanément sur des milliers de planètes (voir [[Le Grand Déferlement]]).
+≈900–1000 : consumé par la rage accumulée, la forme d'Ataraxus implose ; la montagne où il s'était figé est détruite par l'onde. De cette destruction émerge son nouveau corps, monstre de destruction, qui se rematérialise à l'orée du [[Plan des Mondes]] pour son premier massacre (voir [[L'Éveil du Fléau]]). Repoussé par la coalition divine, il bat en retraite vers Hésychion. ≈1000–1100 : il y façonne par millions les démons de ses légions avant de les lâcher simultanément sur des milliers de planètes (voir [[Le Grand Déferlement]]).
+
+
+
+Lors de ce même [[Le Grand Déferlement|Grand Déferlement]], [[Lumina]] — dont la lumière baigne Hésychion depuis l'exil d'Ataraxus — retire son soleil du plan : ce retrait soudain détruit une grande partie de l'armée démoniaque tout juste forgée. Contraint de remodeler ses créations pour qu'elles puissent « vivre » sans cette lumière, Ataraxus en tire des démons capables de survivre dans l'obscurité du plan — mais qui, depuis, restent intrinsèquement vulnérables à la lumière (voir [[Démons]]).
 
 ### Ère Exodiale
 
@@ -64,8 +69,6 @@ Absent des notes du vault à ce jour.
 - [[Le Grand Déferlement]] — devient le lieu de fabrication des légions démoniaques.
 
 ## Contradictions potentielles
-
-⚠️ **Question déjà posée dans [[Le Grand Déferlement]], non tranchée :** pourquoi Mageisys ne détruit-il pas simplement ce plan, où Ataraxus fabrique ses démons ? Piste avancée (non tranchée) : un plan déjà établi ne peut être supprimé, et l'y suivre serait perçu par Ataraxus comme un affront risquant de déclencher une attaque directe.
 
 **Géographie au-delà de « la plus haute montagne » non détaillée**, et l'état de cette montagne après sa destruction (ruine permanente ? reconstruite ?) n'est précisé nulle part.
 

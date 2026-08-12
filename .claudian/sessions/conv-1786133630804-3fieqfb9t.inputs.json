@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786133630804-3fieqfb9t",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786133630836-t3z74ef",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786133630802-pcott9m",
+      "timestamp": 1786133630802,
+      "rawDisplayText": "/traiter-chantier On s'occuper de retravailler la fiche d'Akator. il faudrait réecrire et peaufiner chaque paragraphe de l'histoire. Certaines partie sont à moidifier : - Parler du faite que Xeros l'aide à se forger son nouveau corps, car Xeros est le seule Archange avec Albaesclatia, capable de créer des mutations chez des être déjà vivant pour leur changer leur apparences, durablement, sans de risquer de les tuer. (à reporter dans la fiche de Xeros également) - Parler des 4 dragons (présenté avec leur noms, ect). Parler des Drakéide et descendant des dragons qui avec les générations sont devenu des Humanoïdes. Il existe encore de nombreux dragons vivant plusieurs millénaires. - créer les chantier des créations des événements de l'Intrahium ect",
+      "canonicalText": "/traiter-chantier On s'occuper de retravailler la fiche d'Akator. il faudrait réecrire et peaufiner chaque paragraphe de l'histoire. Certaines partie sont à moidifier : - Parler du faite que Xeros l'aide à se forger son nouveau corps, car Xeros est le seule Archange avec Albaesclatia, capable de créer des mutations chez des être déjà vivant pour leur changer leur apparences, durablement, sans de risquer de les tuer. (à reporter dans la fiche de Xeros également) - Parler des 4 dragons (présenté avec leur noms, ect). Parler des Drakéide et descendant des dragons qui avec les générations sont devenu des Humanoïdes. Il existe encore de nombreux dragons vivant plusieurs millénaires. - créer les chantier des créations des événements de l'Intrahium ect",
+      "context": {
+        "currentNote": {
+          "path": "04_Brouillons/Akator.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "642344e5c254060a794d5752d822535017c99bd7411b1727e685943eb9bc87a5",
+      "providerUserMessageId": "9178c768-2053-473b-89c6-acd125dcf928",
+      "providerAssistantMessageId": "0c220add-3466-41a6-9114-d9b4aec7d0a9"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786134535809-yzqfndo",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786134535806-o97g8rx",
+      "timestamp": 1786134535806,
+      "rawDisplayText": "La capacité unique de Xeros :  a) oui tous les êtres modelés et issue de Filiama b) Albaesclatia peut le faire, et c'est le fait qu'il soit le premier fils , le plus proche et presque une extension d'elle.  Datation de l'Intraherium : Pendant l'ère Sérénale vers 2700. 200 après l'Asile des Dragons. Il n'a pas pu participer à la Grande Bataille de Cyroldan à cause de sa forme physique qui risquerait de détruire trop de chose. Chantiers événements Intraherium — de quoi parle-t-on exactement ? : 1. oui mettre à jours Xeros là dessus. 2. oui mettre à jour Mageisys et créer l'Intraherium et les 2 événements",
+      "canonicalText": "La capacité unique de Xeros :  a) oui tous les êtres modelés et issue de Filiama b) Albaesclatia peut le faire, et c'est le fait qu'il soit le premier fils , le plus proche et presque une extension d'elle.  Datation de l'Intraherium : Pendant l'ère Sérénale vers 2700. 200 après l'Asile des Dragons. Il n'a pas pu participer à la Grande Bataille de Cyroldan à cause de sa forme physique qui risquerait de détruire trop de chose. Chantiers événements Intraherium — de quoi parle-t-on exactement ? : 1. oui mettre à jours Xeros là dessus. 2. oui mettre à jour Mageisys et créer l'Intraherium et les 2 événements",
+      "images": [],
+      "contentDigest": "130b417c8e0f4df8a682a68c2d2f0a3b565f6a6dee064c7bdfcd76dbcac2a60a",
+      "providerUserMessageId": "4c7e6166-81cb-4976-a206-d6de48eb5b81",
+      "providerAssistantMessageId": "62211ce9-48de-4ec3-9fec-8237e96eadca"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786135518605-kta36i1",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1786135518601-r56dzp4",
+      "timestamp": 1786135518601,
+      "rawDisplayText": "Traite les chantiers avec /traiter-chantier et /creer-fiche",
+      "canonicalText": "Traite les chantiers avec /traiter-chantier et /creer-fiche",
+      "images": [],
+      "contentDigest": "3596a834e1319c24657177f2e3f1560de68a508222e665dc5d7cb2536c8f0e63",
+      "providerUserMessageId": "e3cebf99-1f59-4c62-bbd3-c68d15097895",
+      "providerAssistantMessageId": "407e3962-800c-45e8-94c9-2e6f8268480f"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786178368939-8oqquow",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1786178368930-6zhmkg9",
+      "timestamp": 1786178368930,
+      "rawDisplayText": "Avant de passer au étape suivante, j'aimerais que tu reportes dans la fiche Xeros le fait qu'il a cette facultés de remodeler le vivant. (j'ai placer les fiches dans 01_Lore et finaliser les etapes 1 et 2",
+      "canonicalText": "Avant de passer au étape suivante, j'aimerais que tu reportes dans la fiche Xeros le fait qu'il a cette facultés de remodeler le vivant. (j'ai placer les fiches dans 01_Lore et finaliser les etapes 1 et 2",
+      "images": [],
+      "contentDigest": "c11f62fc1215bf1ea926c857e0b1a0361e729a7c605bcae123b9190aa6be3537",
+      "providerUserMessageId": "1e10f436-aa78-4bdf-811b-6f4b8cc6e8fb",
+      "providerAssistantMessageId": "f77d96cf-9768-4bc1-a7b5-4a8d464c4a26"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786178968734-0volsnv",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1786178968728-1fuc67y",
+      "timestamp": 1786178968728,
+      "rawDisplayText": "On peut reprendre l'Etape 3 : Questions — dragons 1. Oui ils sont toujours en vie mais souvent hibernation (ne s'implique pas dans les politiques lamiennes). 2. Non pas directement, uniquement si un mortel vient les voir et ils peuvent être agressifs et n'aurait aucun remords à tuer un ou plusieurs lamiens qui les dérangent. 3. Couleur liée à l'élément effectivement. 4. Le dragon de feu, Raekialar a été gravement blessé et corrompu face à Humarios. Il reste en hibernation et procrée des dragons maléfiques. (dragons rouges). Daenithor, le dragons d'eau gèrent les flux dans l'océan. Après la grande guerre, les climat de Lamia se sont vu totalement dérèglé, Daenithor a pour but de maintenir les flux et les température océanique stable. Sa descendance les dragons bleu, vivent dans les océans et se montre que très rarement face au Lamiens terrestres. Hurinathil, dragon du vent, Hiberne dans les montagnes de Lerium et calme les tempêtes venant du nord pour qu'elles ne pertubre pas l'ensemble du continent d'Horiae. Thariathor, le dragon de terre, se situe dans les entrailles de Lamia et purge encore aujourd'hui l'intérieur des Tumeurs de Rhamal et autre monstruosités si trouvant, créant malgré lui des séismes important là où il se bat. Après la corruption de son frère Raekialar, il doit également prévenir de monter de lave terrible qui pourrait dévaster des populations entières.  Question cruciale — Drakéide 1. c'est une race à part entière avec des peuples et sous-peuples",
+      "canonicalText": "On peut reprendre l'Etape 3 : Questions — dragons 1. Oui ils sont toujours en vie mais souvent hibernation (ne s'implique pas dans les politiques lamiennes). 2. Non pas directement, uniquement si un mortel vient les voir et ils peuvent être agressifs et n'aurait aucun remords à tuer un ou plusieurs lamiens qui les dérangent. 3. Couleur liée à l'élément effectivement. 4. Le dragon de feu, Raekialar a été gravement blessé et corrompu face à Humarios. Il reste en hibernation et procrée des dragons maléfiques. (dragons rouges). Daenithor, le dragons d'eau gèrent les flux dans l'océan. Après la grande guerre, les climat de Lamia se sont vu totalement dérèglé, Daenithor a pour but de maintenir les flux et les température océanique stable. Sa descendance les dragons bleu, vivent dans les océans et se montre que très rarement face au Lamiens terrestres. Hurinathil, dragon du vent, Hiberne dans les montagnes de Lerium et calme les tempêtes venant du nord pour qu'elles ne pertubre pas l'ensemble du continent d'Horiae. Thariathor, le dragon de terre, se situe dans les entrailles de Lamia et purge encore aujourd'hui l'intérieur des Tumeurs de Rhamal et autre monstruosités si trouvant, créant malgré lui des séismes important là où il se bat. Après la corruption de son frère Raekialar, il doit également prévenir de monter de lave terrible qui pourrait dévaster des populations entières.  Question cruciale — Drakéide 1. c'est une race à part entière avec des peuples et sous-peuples",
+      "images": [],
+      "contentDigest": "879f643369677882a8bf1eab482290614217bdf2758d85597e3624cc9657be7b",
+      "providerUserMessageId": "41530053-b715-4513-889f-fa4a6c5e7a57",
+      "providerAssistantMessageId": "0c354889-d2f9-4b36-bebb-45fca1f51e46"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786179406534-r147a5h",
+      "userTurnOrdinal": 6,
+      "state": "accepted",
+      "localMessageId": "msg-1786179406529-w7iyo7e",
+      "timestamp": 1786179406529,
+      "rawDisplayText": "feu = rouges( avec morphologie plus imposante gros cou fais pour cracher du feu, vrais dragons), vent = blanc ( avec morphologie plus reptile volant vrais dragons), terre= vert (avec morphologie plus reptile de grotte, qui creuse va sous terre), eau = bleu (avec un morphologie plus poisson/reptile aquatique). JE valide",
+      "canonicalText": "feu = rouges( avec morphologie plus imposante gros cou fais pour cracher du feu, vrais dragons), vent = blanc ( avec morphologie plus reptile volant vrais dragons), terre= vert (avec morphologie plus reptile de grotte, qui creuse va sous terre), eau = bleu (avec un morphologie plus poisson/reptile aquatique). JE valide",
+      "images": [],
+      "contentDigest": "c4783e1a63384ff99042006fa8b41759938a5d2297abd5332185c8b3bc396dcc",
+      "providerUserMessageId": "31c5420f-4db0-4a59-b357-da5f9dcc4c82",
+      "providerAssistantMessageId": "df43cc93-60a1-4a3f-bcc6-27aff1dc06ee"
+    }
+  ]
+}

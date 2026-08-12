@@ -1,10 +1,11 @@
 ---
 statut: brouillon
 source: ia
-tags: [brainstorm]
-sujet: "Comment les mortels (Humains, Elfes, Nains, Dragons, Xeroniens) sont implantés sur Lamia, et comment ce mécanisme cohabite avec le rôle protecteur de la barrière du Cœur"
+tags:
+  - brainstorm
+sujet: Comment les mortels (Humains, Elfes, Nains, Dragons, Xeroniens) sont implantés sur Lamia, et comment ce mécanisme cohabite avec le rôle protecteur de la barrière du Cœur
 entites_liees:
-  - "[[Timeline Master]]"
+  - "[[01_Lore/Timeline Master]]"
   - "[[L'Enracinement Primordial]]"
   - "[[La Semence Cachée]]"
   - "[[La Trahison Dévoilée]]"
@@ -34,7 +35,7 @@ Comment les êtres vivants — Flore, Faune, puis peuples mortels (Humains, Elfe
 - [[L'Asile des Dragons]] (Sérénale ≈2500) : les quatre derniers dragons de Koboldia trouvent refuge sur Lamia, renforcés par Mageisys ; aucun mécanisme de passage à travers la barrière n'y est expliqué.
 - [[Le Tribut de la Création]] (Sérénale ≈100–500) : Mageisys implante un fragment dormant de son essence dans chaque être vivant déjà présent sur Lamia — germe de la magie latente. Mécanisme distinct de la création de nouveaux peuples : il enrichit des êtres déjà là, il n'en fait pas apparaître de nouveaux.
 - [[Les Accords du Despophys]] (Temps primordiaux) : fondation du Despophys, du Dibertium et de Filiama, la Flamme de vie — source de toute vie albaesclatienne.
-- Xeroniens (Ère du Voile ≈80–500) : mentionnés uniquement dans [[Timeline Master]], aucune fiche dédiée. Xeros crée ce peuple sur Lamia après la loi de bannissement universel de la présence physique divine (Grande Bataille de Cyroldan, Exodiale ≈1500, semi-canon) — tension chronologique non signalée ailleurs avant cette session.
+- Xeroniens (Ère du Voile ≈80–500) : mentionnés uniquement dans [[01_Lore/Timeline Master]], aucune fiche dédiée. Xeros crée ce peuple sur Lamia après la loi de bannissement universel de la présence physique divine (Grande Bataille de Cyroldan, Exodiale ≈1500, semi-canon) — tension chronologique non signalée ailleurs avant cette session.
 
 ## Pistes explorées
 - Résoudre le passage des Nains/Dragons/Xeroniens en tranchant d'abord entre les deux modèles de barrière déjà en tension dans le vault (filtre qualitatif « empreinte d'Ataraxus » + loi tardive vs seuil quantitatif d'essence) — mise de côté : aucun des deux, seul, n'explique les trois cas sans ajouter une règle non écrite.
@@ -69,5 +70,5 @@ Comment les êtres vivants — Flore, Faune, puis peuples mortels (Humains, Elfe
 - [ ] [[La Semence Cachée]] ← dissocier l'implantation écologique de Naphusis (≈3000 avant Sérénale 0) de la formation du Cœur (« peu avant Sérénale 0 ») ; reformuler la phrase sur l'alimentation exclusivement végétale pour autoriser lait et œufs non fécondés.
 - [ ] [[La Garde du Cœur]] ← ajouter le mécanisme du portail planaire (Nains créés ailleurs, puis transportés) pour clore la contradiction déjà signalée par l'audit du 17/07/2026.
 - [ ] [[L'Asile des Dragons]] ← ajouter l'étape Dibertium (dragons d'abord rapatriés là) et le mécanisme du portail.
-- [ ] Xeroniens ← créer une fiche `evenement` dédiée (une seule ligne existe aujourd'hui dans [[Timeline Master]]), intégrant le mécanisme Xeros / canal d'essence / Naphusis / mini-arbres-mondes.
+- [ ] Xeroniens ← créer une fiche `evenement` dédiée (une seule ligne existe aujourd'hui dans [[01_Lore/Timeline Master]]), intégrant le mécanisme Xeros / canal d'essence / Naphusis / mini-arbres-mondes.
 - [ ] Canal d'essence Despophys ↔ Lamia (naissance/mort) ← nouvelle fiche à part entière, session de brainstorm dédiée à programmer.

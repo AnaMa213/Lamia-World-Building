@@ -4,7 +4,7 @@ source: auteur
 type: evenement
 importance: mineur
 ere: serenale
-annee: 1500
+annee: ≈ 1500 ES
 annee_debut:
 annee_fin:
 tags:
@@ -48,6 +48,6 @@ Fait vraisemblablement connu de Vindiereis lui-même et des rares témoins divin
 
 ## Contradictions potentielles
 
-**Aucune contradiction relevée.** Cohérent avec l'entrée déjà existante dans [[Timeline Master]] (Sérénale ≈1500) et avec la fiche déjà migrée [[2026-07-12 — Proposition — Migration Vindiereis]].
+**Aucune contradiction relevée.** Cohérent avec l'entrée déjà existante dans [[01_Lore/Timeline Master]] (Sérénale ≈1500).
 
 **Événement mineur, n'affectant pas directement Lamia** — sur ta décision explicite, à la différence des autres événements de ce lot.

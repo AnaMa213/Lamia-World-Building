@@ -5,7 +5,7 @@ tags:
   - brainstorm
 sujet: Clarifier la mention d'une « réparation du Cœur de Lamia » évoquée pour la mise à jour d'Oneira — confirmer qu'il s'agit d'un chantier futur, pas d'un fait déjà acté, et le relier à l'entrée déjà existante de Timeline Master sur Alfaryus stabilisant le Cœur et créant le Voile. Contenu détaillé de la quête reporté à une session ultérieure.
 entites_liees:
-  - "[[Timeline Master]]"
+  - "[[01_Lore/Timeline Master]]"
   - "[[La Trahison des Gardiens]]"
   - "[[Alfaryus et la Fondation de Cyroldan]]"
   - "[[Les Jumeaux Divins]]"
@@ -26,7 +26,7 @@ date: 2026-07-21
 
 ## Canon existant mobilisé
 
-- [[Timeline Master]], Ère du Voile, an 0 : « Fin de la Grande Guerre divine. Alfaryus stabilise ce qui reste du cœur, enfouit ses secrets et organise l'effacement des connaissances sur les fragments : cet ensemble de protections devient le Voile. »
+- [[01_Lore/Timeline Master]], Ère du Voile, an 0 : « Fin de la Grande Guerre divine. Alfaryus stabilise ce qui reste du cœur, enfouit ses secrets et organise l'effacement des connaissances sur les fragments : cet ensemble de protections devient le Voile. »
 - [[La Trahison des Gardiens]] : Alfaryus « fondera sans le savoir Cyroldan directement au-dessus de cette prison » (celle du gardien corrompu et du fragment-Corps).
 - [[Alfaryus et la Fondation de Cyroldan]] : fiche existante sur la fondation de Cyroldan elle-même (contenu non revérifié en détail dans cette session).
 - [[Les Jumeaux Divins]] : naissance d'Alfaryus, ≈170–220 Exodiale.

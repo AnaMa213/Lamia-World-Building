@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786441846621-0u5a7uq0k",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786441846640-y47tenq",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786441846619-dhoin3q",
+      "timestamp": 1786441846619,
+      "rawDisplayText": "/traiter-chantier J'aimerai qu'on refacto complétement la fiche de Thanatia est son histoire. N'hesite pas à retravailler l'ensemble des paragraphe de l'histoire avec les infos que je vais donner: Lorsque Albaesclatia créer les Archanges, Thanatia vit le jour parmi les derniers Archanges du conseil. En ouvrant les yeux dans le Dibertium, Albaesclatia se rendit compte qu'elle avait fait une erreur dans son modelage, la rendant incapable de voir grâce à la lumière de Lumina. Elle était aveugle. Pendant le cours instant où elle ne pouvait rien voir avant que sa mère répare son erreur, Elle eut tout de même l'impression de voir. Elle voyait le lien entre elle, ses frères et sœurs, Albaesclatia, Filiama et Même Lumina. Elle en voyait l'intention pur, la joie et la mélancolie. Elle ressentait les émotions . Elle pu en un instant se faire un avis sur les Archanges. Albaesclatia lui rendit la vue mais elle eut l'impression qu'on lui enlever quelque chose. Elle demanda à Albaesclatia de lui enlever la vue. Elle lui expliqua qu'elle se sentait plus elle ainsi, qu'elle voyait plus clairement de cette manière. Pendant des siècles elle participa à la création des être divins puis arriva l'idée du projet de vie sur le Plan des Mondes. Lorsqu'ils fut mis en place, le sytème du Cycle des Âmes , demandé à ce que les âmes soit placer dans un plan tampon, les Limbes pour ensuite être rediriger vers le Dibertium et Filiama. Elle sut tous de suite que c'était ici un devoir pour elle. Elle avait ressenti les divergences de certains de ses frères et soeurs Archanges et savait que les âmes devait être proteger et diriger dans les Limbes. Elle prit son devoir à bras le coeur et devin la guide des âmes. Peu de temps après , les Limbes fut renforcé et sous son commandement les Valkys, création de Xeros lui permit de proteger et repousser des ordes de démons. Les Limbes étant un endroit très compliqué à naviguer, sa cécité et ses autres sens lui donnait un avantage certains. Encore aujourd'hui elle guide les âmes vers le Dibertium. (ajouter les parties renseigner dans la fiche d'Alketeria, Filiama, Les Limbes, La création des Limbes, Xeros ....)",
+      "canonicalText": "/traiter-chantier J'aimerai qu'on refacto complétement la fiche de Thanatia est son histoire. N'hesite pas à retravailler l'ensemble des paragraphe de l'histoire avec les infos que je vais donner: Lorsque Albaesclatia créer les Archanges, Thanatia vit le jour parmi les derniers Archanges du conseil. En ouvrant les yeux dans le Dibertium, Albaesclatia se rendit compte qu'elle avait fait une erreur dans son modelage, la rendant incapable de voir grâce à la lumière de Lumina. Elle était aveugle. Pendant le cours instant où elle ne pouvait rien voir avant que sa mère répare son erreur, Elle eut tout de même l'impression de voir. Elle voyait le lien entre elle, ses frères et sœurs, Albaesclatia, Filiama et Même Lumina. Elle en voyait l'intention pur, la joie et la mélancolie. Elle ressentait les émotions . Elle pu en un instant se faire un avis sur les Archanges. Albaesclatia lui rendit la vue mais elle eut l'impression qu'on lui enlever quelque chose. Elle demanda à Albaesclatia de lui enlever la vue. Elle lui expliqua qu'elle se sentait plus elle ainsi, qu'elle voyait plus clairement de cette manière. Pendant des siècles elle participa à la création des être divins puis arriva l'idée du projet de vie sur le Plan des Mondes. Lorsqu'ils fut mis en place, le sytème du Cycle des Âmes , demandé à ce que les âmes soit placer dans un plan tampon, les Limbes pour ensuite être rediriger vers le Dibertium et Filiama. Elle sut tous de suite que c'était ici un devoir pour elle. Elle avait ressenti les divergences de certains de ses frères et soeurs Archanges et savait que les âmes devait être proteger et diriger dans les Limbes. Elle prit son devoir à bras le coeur et devin la guide des âmes. Peu de temps après , les Limbes fut renforcé et sous son commandement les Valkys, création de Xeros lui permit de proteger et repousser des ordes de démons. Les Limbes étant un endroit très compliqué à naviguer, sa cécité et ses autres sens lui donnait un avantage certains. Encore aujourd'hui elle guide les âmes vers le Dibertium. (ajouter les parties renseigner dans la fiche d'Alketeria, Filiama, Les Limbes, La création des Limbes, Xeros ....)",
+      "context": {
+        "currentNote": {
+          "path": "04_Brouillons/Thanatia.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "2908eea61eab60d7b7f12ee11113c65266322e3037447e47fa0dfc5e2714d8b2",
+      "providerUserMessageId": "dc863e3b-8a2d-42c3-a358-e3d6a7e2a354",
+      "providerAssistantMessageId": "790fa956-8b72-4983-ac9d-b974694b4991"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786446707520-8thcybj",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786446707517-x5pu3fx",
+      "timestamp": 1786446707517,
+      "rawDisplayText": "1. Je confirme. 2. On peut le rendre dramatique où pendant elle s'est rendu aveugle pendant une bataille contre les démons, sur une planète sans visibilité, pour pouvoir y voir plus clair avec son sens magique. Elle aurait permit de sauver un grand nombre d'ange et entité divine qui aurait ensuite aidé à évacuer les Nains de Nainrak vers le Dibertium. plus d'enjeux narrative. 3. On adapte avec ce qu'on a dis. 4. oui met à jours.",
+      "canonicalText": "1. Je confirme. 2. On peut le rendre dramatique où pendant elle s'est rendu aveugle pendant une bataille contre les démons, sur une planète sans visibilité, pour pouvoir y voir plus clair avec son sens magique. Elle aurait permit de sauver un grand nombre d'ange et entité divine qui aurait ensuite aidé à évacuer les Nains de Nainrak vers le Dibertium. plus d'enjeux narrative. 3. On adapte avec ce qu'on a dis. 4. oui met à jours.",
+      "images": [],
+      "contentDigest": "09d7ed20a07d6bcca6b321d75b31def8a6c97ac03357b38608be5f6340e9d89b",
+      "providerUserMessageId": "3cc1895f-75fd-4b2d-8196-335cfc50fc51",
+      "providerAssistantMessageId": "82e6d717-88fe-4c16-9e42-bf8f4731ebd2"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786462919327-zq54rhs",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1786462919323-366c5ye",
+      "timestamp": 1786462919323,
+      "rawDisplayText": "J'ai fais une petite modification. Albaesclatia n'atténua rien de la vue de Thanatia au début. améliore ce passage.",
+      "canonicalText": "J'ai fais une petite modification. Albaesclatia n'atténua rien de la vue de Thanatia au début. améliore ce passage.",
+      "context": {
+        "editorSelection": {
+          "notePath": "04_Brouillons/Thanatia.md",
+          "mode": "selection",
+          "selectedText": "Ôter à sa fille la lumière de [[Lumina]] n'était pas un geste qu'une mère pouvait faire à la place de sa fille. Elle tenta de la rassurer, que c'était un sens essentiel pour elle. Thanatia se laissa convaincre et sa vie d'Archange continua.",
+          "lineCount": 1,
+          "startLine": 45
+        }
+      },
+      "images": [],
+      "contentDigest": "1a6b5636574bbb1c09f3e829a675ecf337f70ab6c3103154e519236ac9148af9",
+      "providerUserMessageId": "87f6614e-5645-4851-9a5d-b55118c277fd",
+      "providerAssistantMessageId": "fda4cd2f-9c1d-40a8-98b6-e79c63eced94"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786463317301-5sk0yhp",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1786463317296-n1n6l5i",
+      "timestamp": 1786463317296,
+      "rawDisplayText": "il faudrait ameliorer ce passage également",
+      "canonicalText": "il faudrait ameliorer ce passage également",
+      "context": {
+        "editorSelection": {
+          "notePath": "04_Brouillons/Thanatia.md",
+          "mode": "selection",
+          "selectedText": "Dans les [[Les Limbes|Limbes]] — alors encore un couloir calme et informe, traversé sans danger organisé — son avantage était immédiat. Sans se fier à la lumière de [[Lumina]], elle se repérait par les liens qu'elle percevait faiblement, sa vue la distraisant encore de son chemin. La direction dans laquelle tirait l'essence de [[Filiama]], la présence d'une conscience proche ou lointaine, l'intention d'une âme perdue ou en paix — tout cela lui traçait un chemin que les autres Archanges n'auraient su lire. Elle parlait aux âmes des défunts qui ne comprenaient pas encore ce qui leur arrivait, calmait leur peur, apaisait leur regret. Elle veillait à ce qu'aucune âme ne soit abandonnée dans ce passage.",
+          "lineCount": 1,
+          "startLine": 63
+        }
+      },
+      "images": [],
+      "contentDigest": "b684a6e987a5384ecb1e92cc9a04f1dad488dddbe4a8849339b0b133fb38ea2e",
+      "providerUserMessageId": "3ab13723-30f0-4284-9450-981658a734cb",
+      "providerAssistantMessageId": "260ac093-2cd9-4024-8549-dbe6d0904686"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786464052734-keax25g",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1786464052730-qg2l5z7",
+      "timestamp": 1786464052730,
+      "rawDisplayText": "Changer ça, peut être plus les premiers attaques dans les Limbes, elle du se défendre avec quelques anges, les Limbes connue pour avoir une visiblilité presque nulle, les démons animé par la haine du bruit et du vivant avait appris à se déplacer sans lumière.",
+      "canonicalText": "Changer ça, peut être plus les premiers attaques dans les Limbes, elle du se défendre avec quelques anges, les Limbes connue pour avoir une visiblilité presque nulle, les démons animé par la haine du bruit et du vivant avait appris à se déplacer sans lumière.",
+      "context": {
+        "editorSelection": {
+          "notePath": "04_Brouillons/Thanatia.md",
+          "mode": "selection",
+          "selectedText": "[[Ataraxus]] consumait les mondes. Sur l'une de ces planètes — dévorée par ses forces, sans lumière d'étoile, noyée dans les gaz et les cendres de ce qu'elle avait été —, un groupe d'anges et de créatures divines était encerclé. La visibilité était nulle. Les démons d'[[Ataraxus]] connaissaient ce terrain ; les anges, non. Thanatia était là. Et elle comprit que la vue qu'elle avait gardée depuis sa naissance — celle qu'[[Albaesclatia]] lui avait dit être une nécessité — ne servirait à rien dans cette obscurité totale. Ni à elle, ni aux autres.",
+          "lineCount": 1,
+          "startLine": 73
+        }
+      },
+      "images": [],
+      "contentDigest": "efcdf63cf5183c7ba6108e46f71fd3ec469741bbf37fedabee958770827b9eaa",
+      "providerUserMessageId": "0a92c5de-9e2d-4c81-838d-6cb1bca21913",
+      "providerAssistantMessageId": "daff265a-4609-4f1e-b6d9-8bb0210353f3"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786464877198-4c3rk34",
+      "userTurnOrdinal": 6,
+      "state": "accepted",
+      "localMessageId": "msg-1786464877193-drxzdyg",
+      "timestamp": 1786464877193,
+      "rawDisplayText": "tu peux ajouter le fait que Thanatia voyait la corruption grâce à sa cécité et sa capacité à voir les âmes, leur liens et leur émotions.",
+      "canonicalText": "tu peux ajouter le fait que Thanatia voyait la corruption grâce à sa cécité et sa capacité à voir les âmes, leur liens et leur émotions.",
+      "context": {
+        "editorSelection": {
+          "notePath": "04_Brouillons/Thanatia.md",
+          "mode": "selection",
+          "selectedText": "Elle prit une décision que son rôle lui accordait, mais qui restait douloureuse : les âmes qu'elle jugeait trop profondément corrompues pour être confiées à [[Filiama]] sans dommage, elle les laisserait errer dans les Limbes plutôt que de les remettre à [[Alketeria]]. Raisonnable, peut-être inévitable — mais ces âmes n'avaient pas choisi leur corruption : elles avaient simplement eu le malheur de mourir dans un monde que la guerre consumait. C'est cette injustice qui poussa [[Alketeria]], pour la première fois de son existence, à prendre position : elle s'adressa à [[Albaesclatia]] et demanda que soient créés des êtres capables de trouver ces âmes errantes dans les Limbes et de les purifier par la lumière de [[Lumina]] avant qu'elles ne rejoignent la Flamme. Ce furent les [[Lumars]].",
+          "lineCount": 1,
+          "startLine": 101
+        }
+      },
+      "images": [],
+      "contentDigest": "c142632775b6f0fa056c77270e1fda4347584069f046e7c05c938f70449c74a1",
+      "providerUserMessageId": "f47ef7f4-7269-48d3-b692-10ef1fb51f03",
+      "providerAssistantMessageId": "9e14a438-bbcf-4d1d-adb0-9683fa44d87c"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786464977514-8g7p0le",
+      "userTurnOrdinal": 7,
+      "state": "accepted",
+      "localMessageId": "msg-1786464977510-ssghw9q",
+      "timestamp": 1786464977510,
+      "rawDisplayText": "Adapte son Apparence pour que la representation de la déesse est souvent une femme muni d'un bandeau cachant ses yeux aveugle",
+      "canonicalText": "Adapte son Apparence pour que la representation de la déesse est souvent une femme muni d'un bandeau cachant ses yeux aveugle",
+      "images": [],
+      "contentDigest": "0a53996e5515324d355ef3d1c702f65ab0ef8e7d1c628b1abe2f3c02e128bed0",
+      "providerUserMessageId": "9ab18170-bb19-45c5-bc0c-6f10928560cb",
+      "providerAssistantMessageId": "7970a7ba-75a1-48c2-980c-6e2d508ef56c"
+    }
+  ]
+}

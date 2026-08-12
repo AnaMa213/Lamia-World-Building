@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786119411863-ds2yhi26i",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786119411895-1uziuyn",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786119411861-xkp2mnk",
+      "timestamp": 1786119411861,
+      "rawDisplayText": "/traiter-chantier Il faudrait retravailler complétement le fiche de Vindiereis. Il faudrait déjà retravailler les textes, mais également ajouter que sur Lamia, une fois pris possession de l'elfe sont but n'étaient pas juste de devenir un Tyran. Son but était de retrouver toutes les espèces de dragons et les exterminer. Pour ça , ils avaient besoin d'une armée assez puissante pour détruire les dragons primordiaux.",
+      "canonicalText": "/traiter-chantier Il faudrait retravailler complétement le fiche de Vindiereis. Il faudrait déjà retravailler les textes, mais également ajouter que sur Lamia, une fois pris possession de l'elfe sont but n'étaient pas juste de devenir un Tyran. Son but était de retrouver toutes les espèces de dragons et les exterminer. Pour ça , ils avaient besoin d'une armée assez puissante pour détruire les dragons primordiaux.",
+      "context": {
+        "currentNote": {
+          "path": "04_Brouillons/Vindiereis.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "7083b0e12451a02fcf625a19c0edc016e602512ba5ca5a82d938c3d9ca301581",
+      "providerUserMessageId": "b75ec19e-3520-4f4f-a68c-8745e0069a80",
+      "providerAssistantMessageId": "6b0a46c5-5d00-4a32-8fbf-b80d5c8a2f15"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786120511507-ptuxovd",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786120511504-aksotwl",
+      "timestamp": 1786120511504,
+      "rawDisplayText": "1. Pendant son règne, Vindiereis a affronté 2 fois Hurinathil , mais à perdu les 2 fois, perdant un grand nombre de troupes. C'est d'ailleurs ça qui l'a poussé à vouloir réduire en esclavage les restes de Lamia et de se forger une armée invincible. Il a exterminé la majorité des dragons verts issue d'Hurinathil se situant dans les régions Est d'Horiae. Pendant son deuxième affrontement il a blessé gravement Hurinathil ,ce qui l'a obligé à hiberné pour récupérer. c'est à ce moment que Quaesir a décidé d'aider Zalandria à contre attaquer et mettre fin au règne de terreur de Vindiereis. 2.Toutes les Descendances de dragons, Même après la fin de son règnes, une organisations appelé Les miroirs de l'âme, que même certains Humains ou Elfes ont rejoints et qui sont souvent allié avec Les partisans de Maurtria, continue la quête de Vindiereis , traquant les descendance draconique et le dragons pour les tuer.  3. Ils n'a jamais réussi, Vindeireis veut utiliser le nombre , les Vendards et la magie pour les battre. Mais il n'a jamais réussi. 4. Toute la fiche",
+      "canonicalText": "1. Pendant son règne, Vindiereis a affronté 2 fois Hurinathil , mais à perdu les 2 fois, perdant un grand nombre de troupes. C'est d'ailleurs ça qui l'a poussé à vouloir réduire en esclavage les restes de Lamia et de se forger une armée invincible. Il a exterminé la majorité des dragons verts issue d'Hurinathil se situant dans les régions Est d'Horiae. Pendant son deuxième affrontement il a blessé gravement Hurinathil ,ce qui l'a obligé à hiberné pour récupérer. c'est à ce moment que Quaesir a décidé d'aider Zalandria à contre attaquer et mettre fin au règne de terreur de Vindiereis. 2.Toutes les Descendances de dragons, Même après la fin de son règnes, une organisations appelé Les miroirs de l'âme, que même certains Humains ou Elfes ont rejoints et qui sont souvent allié avec Les partisans de Maurtria, continue la quête de Vindiereis , traquant les descendance draconique et le dragons pour les tuer.  3. Ils n'a jamais réussi, Vindeireis veut utiliser le nombre , les Vendards et la magie pour les battre. Mais il n'a jamais réussi. 4. Toute la fiche",
+      "images": [],
+      "contentDigest": "9228ffe6385d81ec9fe4c0eea588641f864da997f05d2b1a14ea3f1fd0109e03",
+      "providerUserMessageId": "ef882e69-efb6-4d31-aae9-6001f93e0210",
+      "providerAssistantMessageId": "5f8bbed5-3fe2-4bed-8270-87a0fca28ab6"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786121281155-k3dp5qq",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1786121281152-tci2wew",
+      "timestamp": 1786121281152,
+      "rawDisplayText": "j'aimerai que tu améliores ce petit texte",
+      "canonicalText": "j'aimerai que tu améliores ce petit texte",
+      "context": {
+        "editorSelection": {
+          "notePath": "04_Brouillons/Vindiereis.md",
+          "mode": "selection",
+          "selectedText": "Mageisys accepta de participer à ce projet, car l'idée touchait à un domaine rarement accordé aux êtres créés par Albaesclatia : la capacité du contrôle de l'âme qui habite chaque être vivant du [[Plan des Mondes]]. Normalement, à la mort, l'âme d'un être vivant quitte inconsciemment le monde matériel pour rejoindre [[Filiama]] via [[Les Limbes]]. Mageisys du réfléchir afin de trouver un contournement qui empêcherait les âmes de ces nouveaux être d'être forcé à rejoindre les Limbes.  Pour ça Mageisys créa le [[Plan Miroir]] et qui agirait comme une prison immatérielle des âmes leur permettant de se ballader dans le Plan des Mondes s'en y être réellement materialisé. Le but était d'apprendre au être que Vindiereis créerait avec Albaesclatia à rejoindre ce plan instictivement en le faisant quitter leurs âme de leur corps. ",
+          "lineCount": 1,
+          "startLine": 38
+        }
+      },
+      "images": [],
+      "contentDigest": "3dd37300c604a72de5b8305c8e1dbee204b29456bf313a9c65186ec90fb5c1f2",
+      "providerUserMessageId": "a0e93f64-eca8-4400-b176-a866429941c3",
+      "providerAssistantMessageId": "094a2d93-20f6-43c9-8abe-eaaa0c1b3284"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786121351952-34rb93p",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1786121351949-r6xoh7c",
+      "timestamp": 1786121351949,
+      "rawDisplayText": "oui",
+      "canonicalText": "oui",
+      "images": [],
+      "contentDigest": "2e3c8e50f730ba9d4b999c055db5371a1f6f882255fb1e9dca59e7bd031e004e",
+      "providerUserMessageId": "7421a85d-d501-49a9-ad7c-d55da1c3c808",
+      "providerAssistantMessageId": "6f775304-d802-4c28-983e-dc9472cf0c67"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786126066481-02d6bvg",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1786126066478-n33p6eh",
+      "timestamp": 1786126066478,
+      "rawDisplayText": "Il faudrait revoir cette partie également et integré naturellement la partie en gras dans l'ensemble.",
+      "canonicalText": "Il faudrait revoir cette partie également et integré naturellement la partie en gras dans l'ensemble.",
+      "context": {
+        "editorSelection": {
+          "notePath": "04_Brouillons/Vindiereis.md",
+          "mode": "selection",
+          "selectedText": "Vindiereis aurait pu voir dans cette survie un miracle. Il n'y vit qu'un échec. Ses créations existaient encore, mais elles n'avaient pas eu le temps de prouver leur grandeur. Son œuvre, pensée pour surpasser Akator, était devenue une population d'esprits déracinés, dispersés dans le néant.\n\nIl rejoignit alors les Batailles de la Grande guerre divine avec le cœur empli d'émotions tumultueuses. Lorsqu'il aperçut Ataraxus sur une planête qu'il detruisait, lui qu'il tenait pour responsable de la destruction de son projet, sa colère l'emporta. Aveuglé par sa rage, il se jeta sur le dieu de la destruction sans stratégie ni mesure. Ataraxus le terrassa aisément, et Vindiereis s'effondra sur le sol de la planête, répandant pour la première fois du sang divin.\n\nBlessé à mort, Vindiereis sentit sa fin approcher. C'est alors qu'il se souvint du don de Mageisys. Il ne pouvait pas reforger un corps comme un dieu primordial, mais il pouvait tenter d'extraire son âme pour survivre. Dans un dernier effort, il sépara son essence de son enveloppe mourante pour rejoindre la Plan Miroir.\n\nMais l'onde négative d'Ataraxus atteignit son âme au moment même de cette séparation. Sa rancœur, sa jalousie et sa colère furent amplifiées jusqu'à devenir une haine presque pure. Vindiereis échappa à la mort, mais ce qui survécut n'était plus l'archange blessé en quête de reconnaissance. C'était une âme corrompue, nourrie par l'échec, l'humiliation et le besoin de domination.\n\nIl erra durant des décennies dans le plan miroir, peut-être des siècles, dans les éthers immatériels. Sa rancœur fut longtemps sa seule compagne. Dans cette obscurité sans fin, il ressassa la perte de sa planète, l'échec des Vendards, l'ombre d'Akator et l'humiliation infligée par Ataraxus.\n\n**( Ajoutez qu'il erra dans l'univers mais qu'inconsciement il se dirigea vers Lamia, là où les derniers dragons exisitaient encore, ces être qu'Akator avait crée. Lui avait perri avec ces créations, mais Akator et les siennes avaient survécu. Ce fut l'ultime affront)**\n\nPuis une idée se forma dans son esprit : les Vendards, ses créations oubliées, erraient sûrement dans les mêmes ténèbres que lui. S'il les retrouvait, il pourrait transformer son échec en royaume.\n\nPlusieurs siècles après la Grande Guerre Divine, Vindiereis trouva un chemin vers [[Lamia]]. Il parvient à entrer dans le corps d'un elfe mage faible et vulnérable. Cette enveloppe limitait sa puissance, mais elle lui rendait une prise sur le monde matériel. À travers elle, il put agir, chercher, manipuler et reconstruire.",
+          "lineCount": 15,
+          "startLine": 48
+        }
+      },
+      "images": [],
+      "contentDigest": "53ef794ecf4ae02031558cbc7c78725aab8b14bec645a94794851e21d320b4d1",
+      "providerUserMessageId": "534a38c0-eb7c-4083-bb35-fe34734c115c",
+      "providerAssistantMessageId": "e413864a-95fb-47ac-a34d-1ac81bdc65f7"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786127037488-18p3l23",
+      "userTurnOrdinal": 6,
+      "state": "accepted",
+      "localMessageId": "msg-1786127037484-zgh2gfh",
+      "timestamp": 1786127037484,
+      "rawDisplayText": "Tu peux ajouter des sections sur les 2 fois où il a tenter d'attaquer les dragons dont Hurinathil , son désir de tuer les dragons et Les Miroirs de l'Âme le venerant",
+      "canonicalText": "Tu peux ajouter des sections sur les 2 fois où il a tenter d'attaquer les dragons dont Hurinathil , son désir de tuer les dragons et Les Miroirs de l'Âme le venerant",
+      "images": [],
+      "contentDigest": "7c1603b348907118604d6fe0e0564463b840c5720249a6402196502d860bcf51",
+      "providerUserMessageId": "19c4bb06-336e-4fc1-82b8-1112e8222d77",
+      "providerAssistantMessageId": "41abb348-d3cc-49bb-969f-ebb48d122f4c"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ source: auteur
 type: evenement
 importance: majeur
 ere: serenale
-annee: inconnu
+annee: ≈ 2650 ES
 annee_debut: 2625
 annee_fin: 2700
 tags:
@@ -29,7 +29,7 @@ Après l'échec cuisant de son assaut direct contre Lamia — une lune projetée
 
 ## Causes
 
-Ataraxus, cherchant à détruire directement [[Lamia]], crée une lune — **Atar** — dans sa tentative d'assaut (voir [[La Lune Manquée]], ≈2500–2600) : frustré de ne pouvoir franchir la barrière, durcie depuis déjà plus d'un millénaire (voir [[La Trahison Dévoilée]], ≈950–1000), il projette un astre contre la planète. L'astre ne la percute pas : capturé par sa gravité, il devient Atar, sa lune — échec cuisant et visible de tous. Peu après, comprenant qu'un assaut frontal ne fonctionnera jamais — ni contre Lamia, ni contre le Despophys — [[Maurtria]], déjà encline à la manipulation, lui souffle en secret une autre voie : les âmes des mortels, à leur mort, doivent nécessairement quitter leur monde pour rejoindre Filiama (voir [[Le Cycle des Âmes]]) — un passage vulnérable, jusque-là jamais pensé comme un front de guerre.
+Ataraxus, cherchant à détruire directement [[Lamia (planète)]], crée une lune — **Atar** — dans sa tentative d'assaut (voir [[La Lune Manquée]], ≈2500–2600) : frustré de ne pouvoir franchir la barrière, durcie depuis déjà plus d'un millénaire (voir [[La Trahison Dévoilée]], ≈950–1000), il projette un astre contre la planète. L'astre ne la percute pas : capturé par sa gravité, il devient Atar, sa lune — échec cuisant et visible de tous. Peu après, comprenant qu'un assaut frontal ne fonctionnera jamais — ni contre Lamia, ni contre le Despophys — [[Maurtria]], déjà encline à la manipulation, lui souffle en secret une autre voie : les âmes des mortels, à leur mort, doivent nécessairement quitter leur monde pour rejoindre Filiama (voir [[Le Cycle des Âmes]]) — un passage vulnérable, jusque-là jamais pensé comme un front de guerre.
 
 ## Déroulement
 
@@ -57,4 +57,4 @@ Vraisemblablement connu du Conseil des Archanges de l'époque et des divinités 
 
 ## Contradictions potentielles
 
-**Datation reprise directement de [[Timeline Master]] (Sérénale ≈2625–2700) — cohérente avec [[La Lune Manquée]] (≈2500–2600) qui la précède immédiatement. Aucun conflit.**
+**Datation reprise directement de [[01_Lore/Timeline Master]] (Sérénale ≈2625–2700) — cohérente avec [[La Lune Manquée]] (≈2500–2600) qui la précède immédiatement. Aucun conflit.**

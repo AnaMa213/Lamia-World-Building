@@ -1,0 +1,26 @@
+{
+  "id": "conv-1786523413286-p4se339ce",
+  "providerId": "claude",
+  "title": "Créer la fiche du lieu Intraherium",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786523413289,
+  "lastActivityAt": 1786523603847,
+  "sessionId": "76ebf292-90ce-4b0f-8160-d7309bd0ab9b",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "76ebf292-90ce-4b0f-8160-d7309bd0ab9b"
+  },
+  "currentNote": "01_Lore/Évenements/Ère Sérénale/La Naissance de l'Intraherium.md",
+  "enabledMcpServers": [
+    "obsidian-mcp"
+  ],
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 7445,
+    "cacheReadInputTokens": 72747,
+    "contextWindow": 1000000,
+    "contextTokens": 80193,
+    "percentage": 8
+  }
+}

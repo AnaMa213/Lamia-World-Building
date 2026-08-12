@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786374900134-i8x47ann7",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786374900168-n76tlzw",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786374900132-b73qq7a",
+      "timestamp": 1786374900132,
+      "rawDisplayText": "/traiter-chantier On va Traiter le chantier des contradictions potentielles de la fiche L'asile des Dragons et /creer-fiche des liens fantômes Koboldia et Montagnes de Lerium. Pour les contradictions : **Mageisys nomme et renforce les dragons — absent de la fiche Akator migrée.** : tu peux mettre à jour la fiche 'Akator la dessus. Koboldia est une fiche Lieu, la planètes des premiers dragons. Pour les Montagnes de Lerium c'est la plus grande chaines de montagnes d'Horiae se situant au nord du continent. Elles s'étendent sur des miliers de km et resulte du la Grande bataille de Cyroldan et de l'apocalypse en découlant. C'est l'environnement naturelle dans lequel les Nains et les Ghorreks ont construit leur civilisations après avoir été chassé des entraille de la terre par les démons. C'est également là que Hurinathil, au sud de la chaine de montagne que a elu domicile pour ces hibernations. La Faunes est principalement faunes montagnard, grand oiseaux (je te laisse trouver une faune crédible, sauvage préparé au conditions extrème et au climat très rudes). La Flore également.",
+      "canonicalText": "/traiter-chantier On va Traiter le chantier des contradictions potentielles de la fiche L'asile des Dragons et /creer-fiche des liens fantômes Koboldia et Montagnes de Lerium. Pour les contradictions : **Mageisys nomme et renforce les dragons — absent de la fiche Akator migrée.** : tu peux mettre à jour la fiche 'Akator la dessus. Koboldia est une fiche Lieu, la planètes des premiers dragons. Pour les Montagnes de Lerium c'est la plus grande chaines de montagnes d'Horiae se situant au nord du continent. Elles s'étendent sur des miliers de km et resulte du la Grande bataille de Cyroldan et de l'apocalypse en découlant. C'est l'environnement naturelle dans lequel les Nains et les Ghorreks ont construit leur civilisations après avoir été chassé des entraille de la terre par les démons. C'est également là que Hurinathil, au sud de la chaine de montagne que a elu domicile pour ces hibernations. La Faunes est principalement faunes montagnard, grand oiseaux (je te laisse trouver une faune crédible, sauvage préparé au conditions extrème et au climat très rudes). La Flore également.",
+      "context": {
+        "currentNote": {
+          "path": "01_Lore/Évenements/Ère Sérénale/L'Asile des Dragons.md"
+        },
+        "editorSelection": {
+          "notePath": "01_Lore/Évenements/Ère Sérénale/L'Asile des Dragons.md",
+          "mode": "selection",
+          "selectedText": "Hurinathil",
+          "lineCount": 1,
+          "startLine": 61
+        }
+      },
+      "images": [],
+      "contentDigest": "cecc719a3326a0c5f462ecd72280a955413d3f96b0fad93816624462559b8864",
+      "providerUserMessageId": "2d5414f7-9b0b-45a3-920f-f446b4d158a0",
+      "providerAssistantMessageId": "77b40d38-26a6-482a-b15b-7556ff81bd11"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786376705243-up442js",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786376705240-vtr8lhf",
+      "timestamp": 1786376705240,
+      "rawDisplayText": "Pour la Faune et la Flore je ne voulais pas de nom d'espèce précise mais plus un paragraphe rapide sur le type de faune de flore qu'on y trouve .",
+      "canonicalText": "Pour la Faune et la Flore je ne voulais pas de nom d'espèce précise mais plus un paragraphe rapide sur le type de faune de flore qu'on y trouve .",
+      "images": [],
+      "contentDigest": "f3883af8550aa7fde3f14d97364555455b50ea586c17821452d3fba8beed0a83",
+      "providerUserMessageId": "70a71f24-692b-484a-949e-9e41c60dd104",
+      "providerAssistantMessageId": "51625dbf-3771-48ae-98df-4624f21bf798"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786376801402-yuukfyg",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1786376801399-iiuyu50",
+      "timestamp": 1786376801399,
+      "rawDisplayText": "A.",
+      "canonicalText": "A.",
+      "context": {
+        "editorSelection": {
+          "notePath": "05_IA_Inbox/Fiches/Montagnes de Lerium.md",
+          "mode": "selection",
+          "selectedText": "⚠️ **Ghorreks — pas de fiche dans le vault.** Mention ici comme peuple présent dans la chaîne, mais aucune fiche existante. À créer.",
+          "lineCount": 1,
+          "startLine": 92
+        }
+      },
+      "images": [],
+      "contentDigest": "f9391a87498d8b109bd180628989e42c2ff18a2ff9a21381bddeb38cd138a930",
+      "providerUserMessageId": "6bb44864-f41c-4b25-b872-43eada57b57a",
+      "providerAssistantMessageId": "8db96c42-c84a-4034-8676-45f62573903e"
+    }
+  ]
+}

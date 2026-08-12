@@ -4,62 +4,34 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
-  "showOrphans": false,
-  "collapse-color-groups": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"01_Lore/Évenements/Temps primordiaux\"  ",
+      "query": "[\"type\":divinite]",
       "color": {
         "a": 1,
-        "rgb": 16775490
+        "rgb": 14141280
       }
     },
     {
-      "query": "path:\"01_Lore/Évenements/Ère Sérénale\"  ",
+      "query": "[\"type\":evenement]",
       "color": {
         "a": 1,
-        "rgb": 13985849
-      }
-    },
-    {
-      "query": "path:Divinites/Mineurs  ",
-      "color": {
-        "a": 1,
-        "rgb": 10914828
-      }
-    },
-    {
-      "query": "path:Divinites/Demi-dieu  ",
-      "color": {
-        "a": 1,
-        "rgb": 14923804
-      }
-    },
-    {
-      "query": "path:Peuples  ",
-      "color": {
-        "a": 1,
-        "rgb": 5049572
-      }
-    },
-    {
-      "query": "path:Lieux  ",
-      "color": {
-        "a": 1,
-        "rgb": 9441203
+        "rgb": 368171
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1.7,
-  "nodeSizeMultiplier": 1.420703125,
-  "lineSizeMultiplier": 1.12083333333333,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.32858536585366,
+  "lineSizeMultiplier": 0.318946341463415,
   "collapse-forces": false,
-  "centerStrength": 0.356770833333333,
+  "centerStrength": 0,
   "repelStrength": 20,
-  "linkStrength": 0.622395833333333,
-  "linkDistance": 500,
-  "scale": 0.258838656218159,
-  "close": false
+  "linkStrength": 0.422439024390244,
+  "linkDistance": 48,
+  "scale": 0.05932617187499997,
+  "close": true
 }

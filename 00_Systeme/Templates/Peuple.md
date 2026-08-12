@@ -1,12 +1,15 @@
 ---
-statut: brouillon
-source: 
+statut:
+source:
 type: peuple
-createur:            # wikilink vers la divinité créatrice, si applicable — sinon laisser vide et préciser en Origine
+race: "[[]]"
+categorie:
+gouvernement:
+capitale: "[[]]"
 langues: []
 tags: []
 date: <% tp.date.now("YYYY-MM-DD") %>
-portee: 
+portee:
 aliases: []
 ---
 # <% tp.file.title %>
@@ -15,29 +18,29 @@ aliases: []
 
 ## Résumé
 
-## Origine
-(créateur ou mécanisme d'apparition, quand, où — lien vers l'événement fondateur si applicable)
-
-## Apparence et traits
-(morphologie générale, longévité, variations régionales — pas de fiche par sous-groupe, voir Conventions §4)
+## Fondation
+(quand et comment ce peuple est devenu une entité distincte au sein de sa race — événement, migration, scission — lien vers la fiche événement si applicable)
 
 ## Culture et société
-(valeurs, hiérarchie, rapport à la mort/famille/guerre si pertinent — l'essentiel, pas un inventaire exhaustif)
+(valeurs, coutumes, hiérarchie propres à CE peuple — pas les traits partagés par toute la race, déjà dans la fiche `race`)
 
-## Rapport aux dieux et à la magie
-(cultes suivis, magies pratiquées ou évitées — lien vers [[Divinités MOC]] / [[MOC Magies]] si pertinent)
+## Gouvernement et territoire
+(structure politique, capitale, régions contrôlées — lien vers les fiches lieu ; pas de doublon des frontmatters `continent`/`region` déjà portés par les fiches lieu)
+
+## Rapport à la magie et aux dieux
+(pratique ou interprétation spécifique à ce peuple, en écho — ou en rupture — avec le socle commun décrit dans la fiche `race`)
 
 ## Langues
 - [[]] — 
 
-## Territoires
-(régions principales — lien vers les fiches lieu ; pas de doublon des frontmatters `continent`/`region` déjà portés par les fiches lieu)
-
 ## Histoire
-(grandes lignes à travers les ères — renvoie à [[Timeline Master]] pour le détail, ne le duplique pas)
+(événements propres à ce peuple, distincts du tronc commun de la race — renvoie à [[01_Lore/Timeline Master]] pour le détail, ne le duplique pas)
+
+## Relations avec les autres peuples
+(tensions, alliances, échanges avec d'autres peuples — de la même race ou non)
 
 ## Rôle narratif
-(fonction dramatique du peuple, risque de redondance avec un autre peuple déjà fiché — facultatif pour un peuple mineur)
+(fonction dramatique de ce peuple précis ; pour le JDR, accroches de quête ou types de PNJ typiques — facultatif pour un peuple mineur)
 
 ## Relations
 - [[]] — 

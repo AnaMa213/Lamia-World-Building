@@ -1,0 +1,26 @@
+{
+  "id": "conv-1786285714910-wqbn7p4ot",
+  "providerId": "claude",
+  "title": "Remanier la fiche de Naïnrak et des Nains",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786285714913,
+  "lastActivityAt": 1786289439313,
+  "sessionId": "ce96547d-3746-40f0-a1bf-9fc3976fd0c4",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "ce96547d-3746-40f0-a1bf-9fc3976fd0c4"
+  },
+  "currentNote": "01_Lore/Divinités/Majeur/Naïnrak.md",
+  "enabledMcpServers": [
+    "obsidian-mcp"
+  ],
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 377,
+    "cacheReadInputTokens": 170147,
+    "contextWindow": 1000000,
+    "contextTokens": 170525,
+    "percentage": 17
+  }
+}

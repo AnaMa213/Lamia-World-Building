@@ -1,7 +1,7 @@
 ---
 name: migrer-fiche
 description: Analyse une fiche de 99_Archive (ancien vault, non-canon) et produit une proposition de migration vers 01_Lore selon le protocole en 9 points, déposée dans 05_IA_Inbox. Utilise ce skill dès que l'utilisateur demande de migrer, analyser, convertir ou reprendre une fiche d'archive — "migre [nom]", "analyse cette fiche d'archive", "commence la migration de X", ou quand il nomme/colle un chemin sous 99_Archive. Ne jamais utiliser sur des fichiers hors 99_Archive.
-compatibility: Fonctionne avec le MCP obsidian-mcp-server connecté au vault Lamia (obsidian_search_notes, obsidian_get_note, obsidian_list_notes, obsidian_write_note). En Claude Code, si ce MCP est absent, bascule sur un accès disque direct (Read/Write/Glob/Grep/Bash) et git — voir "Deux modes d'accès au vault".
+compatibility: Fonctionne avec le MCP obsidian connecté au vault Lamia (vault_read, vault_write, vault_list, search_simple, search_query). En Claude Code, si ce MCP est absent, bascule sur un accès disque direct (Read/Write/Glob/Grep/Bash) et git — voir "Deux modes d'accès au vault".
 ---
 
 # Migrer une fiche — Lamia
@@ -26,9 +26,9 @@ l'occasion se présente, sans reproposer le débat à chaque migration.
 
 Ce skill dépend normalement du MCP `obsidian-mcp-server`. Deux cas de figure :
 
-- **Mode MCP (par défaut)** : les tools `obsidian_get_note`,
-  `obsidian_search_notes`, `obsidian_write_note`, `obsidian_list_notes` sont
-  disponibles → comportement décrit plus bas, inchangé.
+- **Mode MCP (par défaut)** : les tools `vault_read`, `vault_write`,
+  `vault_list`, `search_simple`, `search_query` sont disponibles →
+  comportement décrit plus bas, inchangé.
 - **Mode Fichiers/Git (Claude Code uniquement)** : si ces tools sont absents,
   ou si l'un d'eux échoue en cours de session, ET que Claude a un accès
   disque direct au vault (racine du repo git courant). Chaque étape MCP a son
@@ -41,7 +41,7 @@ la tâche interrompue — jamais improvisé.
 ## Étape 0 — Contexte (une fois par session, si pas déjà fait)
 
 Charger `00_Systeme/Conventions.md` et `00_Systeme/Index.md` s'ils ne sont
-pas déjà dans le contexte de la conversation en cours (`obsidian_get_note`,
+pas déjà dans le contexte de la conversation en cours (`vault_read`,
 **si MCP indisponible :** `Read`). Ce skill dépend fortement du contenu EXACT
 et À JOUR de Conventions §1 (statuts), §2 (types), §3 (frontmatter), §4
 (structure des fiches), §5 (datation), §6 (nommage), §7 (arborescence) —
@@ -49,21 +49,31 @@ ne jamais travailler sur un souvenir d'une version antérieure du fichier.
 
 ## Étape 1 — Identifier et lire la fiche source
 
-Si l'utilisateur nomme une fiche sans chemin précis, chercher dans
-`99_Archive` (`obsidian_search_notes`, `pathPrefix: "99_Archive"`).
+Si l'utilisateur nomme une fiche sans chemin précis, la chercher dans
+`99_Archive` : `search_query` (JsonLogic) avec `{"and": [{"regexp":
+["^99_Archive/", {"var": "path"}]}, {"regexp": ["(?i)<nom>", {"var":
+"path"}]}]}` — plus fiable que `search_simple` ici, qui n'a pas de scope par
+dossier et remonterait aussi des résultats hors archive à trier à la main.
 **Si MCP indisponible :** `Grep`/`Glob` sur `99_Archive/`.
 Si plusieurs fiches correspondent, présenter les candidats et demander
 laquelle avant de continuer.
 
-Lire la fiche cible EN ENTIER (`obsidian_get_note`, format content).
+Lire la fiche cible EN ENTIER (`vault_read`, sans `target`).
 **Si MCP indisponible :** `Read` en entier.
 Ne jamais analyser à partir d'un extrait ou d'un résumé.
 
 ## Étape 2 — Rechercher le canon existant et la chronologie
 
-Chercher ce qui existe déjà sur le même sujet/entité dans `01_Lore`
-(`obsidian_search_notes`, `pathPrefix: "01_Lore"`), puis lire réellement les
-fiches les plus pertinentes (`obsidian_get_note`).
+Chercher ce qui existe déjà sur le même sujet/entité dans `01_Lore` : même
+logique qu'à l'Étape 1, `search_query` avec `{"and": [{"regexp":
+["^01_Lore/", {"var": "path"}]}, {"regexp": ["(?i)<sujet>", {"var":
+"content"}]}]}` (chercher dans `content` plutôt que `path` ici, puisque le
+sujet peut être mentionné sans faire partie du nom de fichier) ;
+`search_simple` en complément si `search_query` remonte trop peu de bruit
+pour être sûr de ne rien rater — dans ce cas, trier manuellement les
+résultats par zone (ne retenir que ceux dont le `path` commence par
+`01_Lore/`). Puis lire réellement les fiches les plus pertinentes
+(`vault_read`).
 **Si MCP indisponible :** `Grep`/`Glob` sur `01_Lore/`, puis `Read`.
 
 Si la fiche source contient des éléments datés : charger
@@ -112,7 +122,7 @@ Construire la note reformatée :
   spécifiques au type retenu au point 1 — ex. `rang` est OBLIGATOIRE pour
   `divinite`, `importance` pour `evenement`). Si un champ obligatoire ne
   peut pas être rempli depuis la source, marquer `⚠️ à compléter` plutôt que
-  d'inventer une valeur. `statut: brouillon`, `source: ia` toujours.
+  d'inventer une valeur. `statut: brouillon`, `source: ai` toujours.
 - **Corps** : "En une phrase :" en premier (§4). Pour `divinite`/`personnage`,
   suivre l'ordre de sections de §4 (Résumé/Histoire/Apparence/Désir
   conscient/Besoin profond/Croyance fausse/Faille intime/Relations/
@@ -132,8 +142,13 @@ Construire la note reformatée :
 ## Étape 5 — Enregistrer
 
 Nom de fichier : `AAAA-MM-JJ — Proposition — Migration [Nom].md` (aligné sur
-les migrations déjà déposées dans 05_IA_Inbox). Écrire dans `05_IA_Inbox/`
-via `obsidian_write_note` (`overwrite: false`).
+les migrations déjà déposées dans 05_IA_Inbox). `vault_write` n'a aucun
+paramètre de protection — il écrase silencieusement un fichier existant :
+vérifier d'abord via `vault_list` sur `05_IA_Inbox/` qu'aucun fichier du
+même nom n'existe déjà (collision peu probable vu l'horodatage, mais pas
+impossible sur une même journée) avant d'écrire avec `vault_write`. Relire
+ensuite (`vault_read`) pour confirmer la persistance réelle du fichier —
+`vault_write` a déjà été observé retourner un succès sans persister.
 
 **Si MCP indisponible :** créer le fichier avec `Write`, même chemin, même
 contenu. Puis, seulement si le vault est un dépôt git
@@ -160,7 +175,7 @@ déplacé lui-même le contenu vers 01_Lore.
 ## Garde-fous
 
 - Jamais `canon` ou `canon-verrouillé` écrit par ce skill — toujours
-  `brouillon` + `source: ia`, quel que soit le statut recommandé au point 3.
+  `brouillon` + `source: ai`, quel que soit le statut recommandé au point 3.
 - Jamais de wikilink vers une entité non vérifiée par recherche à l'Étape 2.
 - Jamais de valeur inventée pour un champ frontmatter obligatoire — signaler
   le manque (`⚠️ à compléter`) plutôt que remplir.
@@ -173,3 +188,21 @@ déplacé lui-même le contenu vers 01_Lore.
 - Si un tool MCP échoue en cours de session, basculer en Mode Fichiers/Git
   UNIQUEMENT si un accès disque réel existe ; sinon, arrêter et signaler
   l'échec — jamais fabriquer un succès.
+- Jamais présenter l'écriture de l'Étape 5 comme réussie sur la seule foi
+  du retour de `vault_write` — toujours relire le fichier ensuite pour
+  confirmer la persistance réelle.
+
+---
+
+## Journal des modifications de ce skill
+
+- 2026-08-07 : correction du mapping d'outils, obsolète depuis un
+  renommage du serveur MCP jamais répercuté ici : `obsidian-mcp-server` →
+  `obsidian`, `obsidian_get_note` → `vault_read`, `obsidian_search_notes`
+  (+ `pathPrefix`, paramètre inexistant) → `search_query`/`search_simple`
+  (scope par `path` via `regexp` JsonLogic), `obsidian_write_note`
+  (`overwrite: false`, paramètre inexistant) → `vault_write` précédé d'une
+  vérification d'existence via `vault_list`. `source: ia` → `source: ai`
+  (alignement décidé le 2026-08-07 avec Conventions §0, creer-fiche,
+  audit-coherence et brainstorm-lore). Ajout d'une vérification de
+  persistance après l'écriture de l'Étape 5.

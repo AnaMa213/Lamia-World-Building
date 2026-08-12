@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786044280887-kh3ba66oz",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786044280917-08iqy8g",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786044280885-2o7hn7w",
+      "timestamp": 1786044280885,
+      "rawDisplayText": "Teste de charger /brainstorm-lore en utilisant le mcp obsidian-mcp local",
+      "canonicalText": "Teste de charger /brainstorm-lore en utilisant le mcp obsidian-mcp local",
+      "images": [],
+      "contentDigest": "34da2d744374c59c8f70b8c38080d00041bc48124a21f07d65eb036bf7b231db",
+      "providerUserMessageId": "01324ca7-b15c-47d6-a09f-e4d79090f115",
+      "providerAssistantMessageId": "bfd1cdfe-3641-4af1-a58c-e5bc6e77703d"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ source: auteur
 type: evenement
 importance: majeur
 ere: primordial
-annee: "- 15 000 000 AS"
+annee: -15 000 000 AS
 annee_debut:
 annee_fin:
 tags:
@@ -53,4 +53,4 @@ Albaesclatia entreprend aussitôt sa première création, l'ange Lamia (voir [[L
 
 ## Contradictions potentielles
 
-**Aucune contradiction relevée.** Cohérent avec l'entrée déjà existante dans [[Timeline Master]] (« ≈ 15 millions d'années avant Sérénale 0 »).
+**Aucune contradiction relevée.** Cohérent avec l'entrée déjà existante dans [[01_Lore/Timeline Master]] (« ≈ 15 millions d'années avant Sérénale 0 »).

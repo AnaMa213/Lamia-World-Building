@@ -15,7 +15,7 @@ alignement: Chaotique Neutre
 # Oriac
 
 > [!note] Brouillon de migration — 2026-07-12
-> Migré depuis `99_Archive/Divinites/Majeurs/Oriac.md`, reformaté selon les Conventions. Prose originale reprise telle quelle (Résumé → Tension centrale). Sections **Relations** et **Contradictions potentielles** ajoutées par l'IA. `ere: exodiale` proposé car sa transformation est explicitement ancrée à la **Grande Bataille de Cyroldan**, déjà datée Exodiale ≈1500 dans [[Timeline Master]] — `annee: inconnu` laissé par cohérence avec le reste du lot, mais 1500 pourrait raisonnablement être inscrit si tu valides cet ancrage.
+> Migré depuis `99_Archive/Divinites/Majeurs/Oriac.md`, reformaté selon les Conventions. Prose originale reprise telle quelle (Résumé → Tension centrale). Sections **Relations** et **Contradictions potentielles** ajoutées par l'IA. `ere: exodiale` proposé car sa transformation est explicitement ancrée à la **Grande Bataille de Cyroldan**, déjà datée Exodiale ≈1500 dans [[01_Lore/Timeline Master]] — `annee: inconnu` laissé par cohérence avec le reste du lot, mais 1500 pourrait raisonnablement être inscrit si tu valides cet ancrage.
 
 **En une phrase :** Oriac est le dieu majeur de la guerre et de la discipline, archange qui avait prédit la menace d'Ataraxus sans être entendu, marqué et corrompu par la malédiction du dieu de la destruction à la Grande Bataille de Cyroldan, et qui prépare désormais les orcs les plus valeureux à une bataille finale depuis Orcium.
 
@@ -29,7 +29,7 @@ Oriac fut autrefois l'un des archanges les plus droits du Conseil divin. Sa pure
 
 Là où beaucoup de ses frères et sœurs voyaient encore dans les mondes vivants des lieux de croissance, d'expérience ou de contemplation, Oriac voyait déjà la nécessité de la défense. Il plaidait pour que les mortels reçoivent les moyens de résister à des puissances comme Ataraxus. À ses yeux, créer la vie sans lui donner la capacité de se défendre revenait à la livrer nue devant la destruction.
 
-Mais son avertissement fut peu entendu. La plupart des Archanges ne partageaient pas son urgence, à l'exception notable d'[[Akator]] et [[Maurtria]], qui comprenaient mieux que les autres la valeur de la puissance ou de la violence. Aucune mesure suffisante ne fut prise pour permettre aux mortels de rivaliser avec les forces d'Ataraxus. Cette négligence nourrit chez Oriac une blessure ancienne : la conviction d'avoir vu venir la catastrophe sans parvenir à convaincre ceux qui auraient pu l'empêcher.
+Mais son avertissement fut peu entendu. La plupart des Archanges ne partageaient pas son urgence, à l'exception notable d'[[04_Brouillons/Akator]] et [[Maurtria]], qui comprenaient mieux que les autres la valeur de la puissance ou de la violence. Aucune mesure suffisante ne fut prise pour permettre aux mortels de rivaliser avec les forces d'Ataraxus. Cette négligence nourrit chez Oriac une blessure ancienne : la conviction d'avoir vu venir la catastrophe sans parvenir à convaincre ceux qui auraient pu l'empêcher.
 
 Lors de la [[Grande Guerre Divine]], Oriac se distingua à la [[Bataille de Cyroldan]], affrontement majeur entre les puissances célestes et les forces d'Ataraxus. Là, son éclat se révéla pleinement. Il fut le premier à résister à l'emprise du dieu de la destruction, défiant l'ombre qui cherchait à tout engloutir. Cet acte fit de lui une figure de résistance, mais aussi la cible d'une malédiction durable.
 
@@ -96,7 +96,7 @@ Mais son danger est de faire de cette vérité une prison. S'il a raison de refu
 ## Relations
 
 - [[Ataraxus]] — l'a marqué et corrompu à la Bataille de Cyroldan ; ennemi et source de sa malédiction.
-- [[Akator]] et [[Maurtria]] — seuls Archanges, selon cette fiche, à avoir compris tôt la valeur de la puissance/violence face à la menace. Lien non réciproque : ni la fiche Akator ni la fiche Maurtria ne mentionnent Oriac (ajouté du côté d'Akator dans ce lot).
+- [[04_Brouillons/Akator]] et [[Maurtria]] — seuls Archanges, selon cette fiche, à avoir compris tôt la valeur de la puissance/violence face à la menace. Lien non réciproque : ni la fiche Akator ni la fiche Maurtria ne mentionnent Oriac (ajouté du côté d'Akator dans ce lot).
 - [[Mageisys]] — crée [[Orcium]] à sa demande.
 - [[Orcs]] — peuple dont les plus braves peuvent tenter l'[[Épreuve d'Oriac]] pour rejoindre Orcium.
 - [[Albaesclatia]] — desseins qu'il cherchait à protéger dès sa création, en pressentant la menace d'Ataraxus.
@@ -104,10 +104,10 @@ Mais son danger est de faire de cette vérité une prison. S'il a raison de refu
 
 ## Contradictions potentielles
 
-⚠️ **« Bataille de Cyroldan » vs « Grande Bataille de Cyroldan ».** Cette fiche nomme l'épisode « la Bataille de Cyroldan », tandis que [[Timeline Master]] l'appelle « la **Grande** Bataille de Cyroldan » (Exodiale ≈1500). Même événement selon toute vraisemblance (Oriac y résiste le premier à la manifestation physique d'Ataraxus, exactement ce que décrit Timeline Master), mais le nom mériterait d'être harmonisé. Cette fiche apporte un luxe de détail que Timeline Master n'a pas (le rôle précis d'Oriac) — à intégrer à l'entrée si tu valides ce recoupement.
+⚠️ **« Bataille de Cyroldan » vs « Grande Bataille de Cyroldan ».** Cette fiche nomme l'épisode « la Bataille de Cyroldan », tandis que [[01_Lore/Timeline Master]] l'appelle « la **Grande** Bataille de Cyroldan » (Exodiale ≈1500). Même événement selon toute vraisemblance (Oriac y résiste le premier à la manifestation physique d'Ataraxus, exactement ce que décrit Timeline Master), mais le nom mériterait d'être harmonisé. Cette fiche apporte un luxe de détail que Timeline Master n'a pas (le rôle précis d'Oriac) — à intégrer à l'entrée si tu valides ce recoupement.
 
 ⚠️ **Statut face au bannissement de la présence physique divine.** Rien n'indique qu'Oriac soit aujourd'hui banni ou physiquement présent sur Lamia — il agit via son culte et [[Orcium]] (un plan distinct, pas Lamia elle-même). Pas de tension directe avec la loi de Timeline Master, mais à garder en tête si des détails futurs précisent sa localisation actuelle.
 
 **Grammaire du titre source (mineur, non lore).** Le frontmatter source donne `titres: ["La Fléau du fer"]` (accord incorrect, « fléau » étant masculin). Repris tel quel par fidélité à la source — correction orthographique simple à ta discrétion, sans enjeu de canon.
 
-**Absence de datation pour la création d'Orcium et l'institution de l'Épreuve d'Oriac.** Postérieures à la Grande Bataille de Cyroldan (donc Exodiale ≈1500 ou plus tard), non présentes dans [[Timeline Master]]. Entrées à créer, date à arbitrer.
+**Absence de datation pour la création d'Orcium et l'institution de l'Épreuve d'Oriac.** Postérieures à la Grande Bataille de Cyroldan (donc Exodiale ≈1500 ou plus tard), non présentes dans [[01_Lore/Timeline Master]]. Entrées à créer, date à arbitrer.

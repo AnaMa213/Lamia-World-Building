@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786108645210-415s6v0mg",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786108645228-u9o2z7s",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786108645208-53wtqbo",
+      "timestamp": 1786108645208,
+      "rawDisplayText": "/traiter-chantier . Maintenant nous allons revoir le fiche déjà en brouillon (tu peux travailler directement dessus) sur la divinité Alketeria. :- Retravaailler l'histoire avec ces informations : Alketeria est un Archange qui a toujours cherché à soutenir ses frères et soeurs dans leur projets sans jamais chercher à en avoir un pour elle. Elle represente souvent la générosité et le sacrifice car elle a vite compris que Filiama aussi divine et pure soit elle était la source des être vivant de l'univers. Lorsqu'un être mourrait l'âme revenant vers la Flamme pouvait parfois avoir emagnisé plusieurs émotions. Alketeria a très vite pris le fardeau et la tâche d'apaiser les âmes en peine. Cependant avec la Grande guerre divine, certaines âmes revenait corrompu par l'essence d'Ataraxus. Pendant des siecles, elle ne dit rien mais Thanatia qui guidait les âmes vers Elle et le Flamme compris vite qu'elle ne pourrait pas continuer ainsi. Thanatia prit la decision de laisser certaines âme jugeait trop corrompu érrer dans les Limbes. Mais Alketeria jugeait injuste que des âmes soit puni pour les agissement d'Ataraxus. Elle demande à Albaesclatia de créer des Anges qui aurait pour mission de trouver ses âmes et de les purifier pour ensuite les reconfier à Thanatia. Aidez par Lumina , qui en entendant la requête d'Alketeria ne pu s'empecher de prendre position, ils créèrent les Lumars, des êtres puissants qui chasses les âmes corrompus dans les Limbes pour les purifier grace à la lumière de Lumina.",
+      "canonicalText": "/traiter-chantier . Maintenant nous allons revoir le fiche déjà en brouillon (tu peux travailler directement dessus) sur la divinité Alketeria. :- Retravaailler l'histoire avec ces informations : Alketeria est un Archange qui a toujours cherché à soutenir ses frères et soeurs dans leur projets sans jamais chercher à en avoir un pour elle. Elle represente souvent la générosité et le sacrifice car elle a vite compris que Filiama aussi divine et pure soit elle était la source des être vivant de l'univers. Lorsqu'un être mourrait l'âme revenant vers la Flamme pouvait parfois avoir emagnisé plusieurs émotions. Alketeria a très vite pris le fardeau et la tâche d'apaiser les âmes en peine. Cependant avec la Grande guerre divine, certaines âmes revenait corrompu par l'essence d'Ataraxus. Pendant des siecles, elle ne dit rien mais Thanatia qui guidait les âmes vers Elle et le Flamme compris vite qu'elle ne pourrait pas continuer ainsi. Thanatia prit la decision de laisser certaines âme jugeait trop corrompu érrer dans les Limbes. Mais Alketeria jugeait injuste que des âmes soit puni pour les agissement d'Ataraxus. Elle demande à Albaesclatia de créer des Anges qui aurait pour mission de trouver ses âmes et de les purifier pour ensuite les reconfier à Thanatia. Aidez par Lumina , qui en entendant la requête d'Alketeria ne pu s'empecher de prendre position, ils créèrent les Lumars, des êtres puissants qui chasses les âmes corrompus dans les Limbes pour les purifier grace à la lumière de Lumina.",
+      "context": {
+        "currentNote": {
+          "path": "04_Brouillons/Alketeria.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "7b0f163c1199dc4a6120eb935e7bc8cbb64037ff26fd470abdb4d1ac60348305",
+      "providerUserMessageId": "e857e90a-d0c2-4f55-a400-b3de4c4471af",
+      "providerAssistantMessageId": "c86c2a71-bf5c-4e9a-8653-9b12a6edd388"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786109104783-xqmw8md",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786109104780-mfns8fg",
+      "timestamp": 1786109104780,
+      "rawDisplayText": "1. l'Option A est bien 2.  C'est une cohérence profonde mais qui reste une premier pas pour elle car elle prends la décision seul de demander ça vis à vis de son statut de purificatrice de Filiama. Pour le reste tu as le GO",
+      "canonicalText": "1. l'Option A est bien 2.  C'est une cohérence profonde mais qui reste une premier pas pour elle car elle prends la décision seul de demander ça vis à vis de son statut de purificatrice de Filiama. Pour le reste tu as le GO",
+      "images": [],
+      "contentDigest": "21c8afdccad5cbdecf04a9de99ee1e174d7e8b332f1a80903d742c08eb1c5e17",
+      "providerUserMessageId": "4e578422-f190-45df-89e2-4038f410fe28",
+      "providerAssistantMessageId": "3409125e-8a18-4c64-af08-882b12a809fc"
+    }
+  ]
+}

@@ -51,4 +51,4 @@ Fait largement connu — Humildas comme second sanctuaire de l'Ère Exodiale, au
 
 ## Contradictions potentielles
 
-**Aucune contradiction relevée.** Cohérent avec la fiche déjà migrée [[2026-07-12 — Proposition — Migration Humarios]].
+**Aucune contradiction relevée.** Cohérent avec la fiche déjà migrée [[Humarios]].

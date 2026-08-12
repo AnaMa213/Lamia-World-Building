@@ -127,4 +127,4 @@ Mais son danger est de croire que seules ces vies-là comptent vraiment. Il prot
 
 **`titres` absent de la source (non contradictoire).** Contrairement à la plupart des divinités de ce lot, la fiche source n'a pas de champ `titres`. Laissé vide dans ce brouillon plutôt que d'inventer un titre non attesté.
 
-**Datation de la préparation secrète des anges et de l'origine des Zaréh-Djora absentes de [[Timeline Master]] (à créer, dates à arbitrer).**
+**Datation de la préparation secrète des anges et de l'origine des Zaréh-Djora absentes de [[01_Lore/Timeline Master]] (à créer, dates à arbitrer).**

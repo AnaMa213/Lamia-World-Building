@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786044422794-xdlgrh9nn",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786044422875-9ogqap6",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786044422792-ggi80m3",
+      "timestamp": 1786044422792,
+      "rawDisplayText": "test de lire un fichier avec le mcp obsidian-mcp et l'outils vault_read",
+      "canonicalText": "test de lire un fichier avec le mcp obsidian-mcp et l'outils vault_read",
+      "images": [],
+      "contentDigest": "75bf8eca2172399174cf8b8bfefcf796fa667289fdee2d8650ee64c90828443a",
+      "providerUserMessageId": "025aa58e-367c-48ed-920a-193aac1aa55e",
+      "providerAssistantMessageId": "c3d702f1-5345-44c8-91ce-625298663d0b"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786044891043-3fud87s",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786044891041-dderpjw",
+      "timestamp": 1786044891041,
+      "rawDisplayText": "existe-t-il une différence de performance entre tes outils natifs e les outils du mcp de coddingtonbear ?",
+      "canonicalText": "existe-t-il une différence de performance entre tes outils natifs e les outils du mcp de coddingtonbear ?",
+      "images": [],
+      "contentDigest": "0faf843605c6e71f763354340c16adb03a2522ad15fa5761a4e74bb73c885039",
+      "providerUserMessageId": "7846151e-d047-4670-9827-6ade1a945094",
+      "providerAssistantMessageId": "9f74676b-c079-4b1a-bb0f-0c7ffb10f3ba"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786045158782-yglytij",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1786045158778-vpumrhx",
+      "timestamp": 1786045158778,
+      "rawDisplayText": "Donc si une fois le vault construit, je pause des questions complexes sur le Lore , pour faire des audit de cohérence, des brainstorming ect, les outils Natifs seront aussi peroformant et efficace que ceux de coddingtonbear ?",
+      "canonicalText": "Donc si une fois le vault construit, je pause des questions complexes sur le Lore , pour faire des audit de cohérence, des brainstorming ect, les outils Natifs seront aussi peroformant et efficace que ceux de coddingtonbear ?",
+      "images": [],
+      "contentDigest": "84b755ba21ae89aa297a793a289569de25f7ebbc365beb94e9997f8a8ca28d2b",
+      "providerUserMessageId": "cab278aa-eb94-4204-8224-38304de2f1a4",
+      "providerAssistantMessageId": "d59b1a14-f23e-40f7-acfb-62667daae053"
+    }
+  ]
+}

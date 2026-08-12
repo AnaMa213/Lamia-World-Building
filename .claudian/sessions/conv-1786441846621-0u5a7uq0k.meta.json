@@ -1,0 +1,26 @@
+{
+  "id": "conv-1786441846621-0u5a7uq0k",
+  "providerId": "claude",
+  "title": "Refactoriser la fiche de Thanatia et son histoire",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786441846621,
+  "lastActivityAt": 1786465075017,
+  "sessionId": "ecc4aaf7-559f-4428-98af-d42a01245500",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "ecc4aaf7-559f-4428-98af-d42a01245500"
+  },
+  "currentNote": "01_Lore/Divinités/Mineur/Thanatia.md",
+  "enabledMcpServers": [
+    "obsidian-mcp"
+  ],
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1464,
+    "cacheReadInputTokens": 213143,
+    "contextWindow": 1000000,
+    "contextTokens": 214608,
+    "percentage": 21
+  }
+}

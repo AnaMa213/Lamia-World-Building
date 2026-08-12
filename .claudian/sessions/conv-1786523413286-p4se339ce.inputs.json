@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786523413286-p4se339ce",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786523413318-bxlsxqg",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786523413285-6pebq6p",
+      "timestamp": 1786523413285,
+      "rawDisplayText": "/creer-fiche Il faut créer la fiche Lieu de Intraherium. base toi sur les fiches qui l'ont en lien mort pour construire la fiche. On peaufinera une fois ta version effectuer.",
+      "canonicalText": "/creer-fiche Il faut créer la fiche Lieu de Intraherium. base toi sur les fiches qui l'ont en lien mort pour construire la fiche. On peaufinera une fois ta version effectuer.",
+      "context": {
+        "currentNote": {
+          "path": "01_Lore/Évenements/Ère Sérénale/La Naissance de l'Intraherium.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "4008d6d1589b61198aaa8d4ce3fd888aa877e8517656cbac333117e804783469",
+      "providerUserMessageId": "1e1febe6-e099-4bcf-9347-5261723b9861",
+      "providerAssistantMessageId": "ea2da4fe-a225-4fec-8595-b06b01f6da9d"
+    }
+  ]
+}

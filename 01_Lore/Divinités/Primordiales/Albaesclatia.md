@@ -18,7 +18,34 @@ alignement: Loyal Bon
 date: 2026-07-11
 aliases:
   - Déesse de la Vie
-revision-date: 2026-08-01
+revision-date: 2026-08-12
+cr_type: person
+sex: female
+pronouns: elle/la
+children:
+  - "[[Lamia (ange)]]"
+  - "[[Xeros]]"
+  - "[[Maurtria]]"
+  - "[[Akator]]"
+  - "[[Vindiereis]]"
+  - "[[Armerith]]"
+  - "[[Alfaryus]]"
+  - "[[Naïnrak]]"
+  - "[[Alketeria]]"
+  - "[[Thanatia]]"
+revision:
+cr_id: mzl-858-vyw-779
+name: Albaesclatia
+born: ""
+died: ""
+father: "[[Chronoversum]]"
+mother: "[[Chronoversum]]"
+spouses: []
+group_name: divinite
+children_id:
+  - uun-538-yfb-935
+  - hhl-652-auq-293
+  - kww-526-jva-492
 ---
 
 # Albaesclatia
@@ -55,7 +82,9 @@ Lorsque Ataraxus se dressa contre les mondes vivants, Albaesclatia entra dans un
 
 Les batailles contre Ataraxus la consumèrent peu à peu. Sa puissance déclina, non seulement à cause de l'effort du combat, mais parce que son domaine même était massacré à travers l'univers. La déesse de la vie perdait des fragments d'elle-même dans chaque extinction.
 
-Pour réparer les erreurs de son frère et de certains de ses propres enfants, Albaesclatia demande à [[Armerith]] de forger [[Creperstella]] (voir [[La Forge de Creperstella]], Sérénale ≈1200), une épée imprégnée d'essence d'[[Alketeria]] et de pierre mageysienne. Cette arme n'est pas conçue pour tuer n'importe quel être : elle ne peut atteindre que ceux qui sont touchés par les maux, les corruptions ou les déviations d'[[Ataraxus]] et de [[Maurtria]]. Creperstella incarne donc une forme de violence paradoxale : une arme de vie, créée non pour dominer, mais pour trancher ce qui dévore le vivant de l'intérieur. Elle est confiée à [[Xeros]].
+Pour réparer les erreurs de son frère et de certains de ses propres enfants, Albaesclatia demande à [[Armerith]] de forger [[Creperstella]] (voir [[La Forge de Creperstella]], Sérénale ≈1200), une épée imprégnée d'essence d'[[Alketeria]] et de pierre mageysienne. Cette arme n'est pas conçue pour tuer n'importe quel être : elle ne peut atteindre que ceux qui sont touchés par les maux, les corruptions ou les déviations d'[[Ataraxus]] et plus tard de [[Maurtria]]. Creperstella incarne donc une forme de violence paradoxale : une arme de vie, créée non pour dominer, mais pour trancher ce qui dévore le vivant de l'intérieur. Elle est confiée à [[Xeros]].
+
+C'est au Concile de l'Aequadeus (voir [[Le Concile Rompu]], Sérénale ≈2700–2750), dans la foulée de l'échec de la trêve avec Ataraxus, qu'Albaesclatia comprend enfin ce que Mageisys n'avait jamais avoué : il ne s'est jamais rangé de son côté, pas plus que de celui d'Ataraxus. Contrairement à Lumina, qui ne le lui pardonne pas, Albaesclatia — épuisée par des siècles de pertes et déjà rompue à l'idée que son frère la déçoive — reconnaît dans cette froideur une logique qu'elle finit par accepter, si difficilement soit-il : Mageisys reste un allié de circonstance, avec ses propres règles, mais indispensable pour continuer à défendre le vivant qu'elle chérit. Cette acceptation prépare, bien plus tard, leur collaboration renouvelée pour la création des [[Les Jumeaux Divins|Jumeaux Divins]].
 
 Vaincue à la [[Grande Bataille de Cyroldan]] et vidée d'une grande part de son énergie, Albaesclatia constate aussi qu'elle a perdu, par la corruption, le lien qui l'unissait à nombre de ses enfants. Ce double épuisement la pousse cette fois à un retrait définitif — non plus passager comme après le Grand Déferlement — dans le [[Dibertium]] (voir [[Les Liens Rompus]]). Elle y veille avec [[Alketeria]] sur [[Filiama]], tout en observant Lamia, dernier grand vaisseau de vie, avec le peu d'influence qui lui reste. Lumina prend alors sa suite à la tête des troupes angéliques (voir [[Le Sceptre des Anges]]).
 
@@ -133,13 +162,13 @@ Cette inaction apparente pendant les guerres qui suivront ne doit cependant pas 
 - [[Maurtria]] — enfant divin dévoyé, cible avec Ataraxus de [[Creperstella]].
 - [[Alketeria]] — veille avec elle sur [[Filiama]] au [[Dibertium]] depuis [[Les Liens Rompus]] ; source d'un des matériaux de Creperstella.
 - [[Armerith]] — forge [[Creperstella]] à sa demande (voir [[La Forge de Creperstella]]).
-- [[Alfaryus]] et [[Humarios]] — guides incarnés créés avec Mageisys pendant la guerre ([[Timeline Master]], Exodiale ≈ 170–220).
+- [[Alfaryus]] et [[Humarios]] — guides incarnés créés avec Mageisys pendant la guerre ([[01_Lore/Timeline Master]], Exodiale ≈ 170–220).
 - [[Xeros]] — premier fils archange, né de Filiama ; porteur de Creperstella ; réconciliation tardive avec Mageisys lors des [[Les Jumeaux Divins|Jumeaux Divins]].
-- [[Humains]] et [[Elfes]] — premiers peuples mortels créés par elle sur Lamia, bénéficiaires (à leur insu) de la dette de [[Le Tribut de la Création|Tribut de la Création]].
+- [[Humains - old]] et [[Elfes]] — premiers peuples mortels créés par elle sur Lamia, bénéficiaires (à leur insu) de la dette de [[Le Tribut de la Création|Tribut de la Création]].
 - [[Conseil des Archanges]] — fondé autour de ses enfants ; témoin de la révélation de la trahison de Mageisys.
 - [[Les Liens Rompus]] — son retrait définitif au Dibertium après Cyroldan.
 - 🔒 [[La Trahison des Gardiens]] — elle réalise que c'est Maurtria qui a corrompu le gardien nain ; détail complet sur cette fiche.
-
+- [[Mageisys]] — sa révélation au Concile de l'Aequadeus (voir [[Le Concile Rompu]]) l'attriste profondément, en plus de la Trahison Dévoilée déjà présente entre eux ; elle seule, parmi les Archanges, en vient à l'accepter comme allié de circonstance.
 
 ## Contradictions potentielles
 
@@ -160,3 +189,15 @@ Cette inaction apparente pendant les guerres qui suivront ne doit cependant pas 
 > 4. **Retrait au Dibertium** — daté et événementialisé : nouvelle fiche [[Les Liens Rompus]] (événement majeur, Exodiale ≈1500, à la suite de Cyroldan), déposée en 05_IA_Inbox/Fiches. Double cause actée : épuisement énergétique après la défaite face à Ataraxus, et rupture du lien avec plusieurs enfants corrompus.
 
 ^rev-20260728-albaesclatia-trahison-pactes
+
+> [!ia-a-valider]- 2026-08-05 — Ajout : révélation de Mageisys au Concile de l'Aequadeus
+> **Décision** : tranchée avec l'auteur (session brainstorm [[2026-08-05 — Brainstorm — NeutraliteMageisys]]).
+> **Modifié** : Histoire (paragraphe ajouté entre la Forge de Creperstella et Cyroldan, donnant le paiement de la promesse « véritable explication » déjà annoncée plus haut dans cette même fiche) et Relations (nouvelle ligne Mageisys). Voir aussi [[Mageisys]], [[Lumina]] et [[Le Concile Rompu]] pour le même épisode.
+
+^rev-20260805-albaesclatia-concilerompu
+
+> [!ia-a-valider]- 2026-08-12 — Propriétés Charted Roots
+> **Décision** : demande explicite de l'auteur (session 2026-08-12). Aucun lore modifié.
+> **Ajouté en frontmatter** : `cr_type: person` · `sex: female` · `pronouns: elle/la` · `children` (7 liens : Lamia ange, Xeros, Maurtria, Akator, Vindiereis, Armerith, Alfaryus — tous confirmés par les fiches canon existantes) · `revision: ia-a-valider`
+
+^rev-20260812-charted-roots-albaesclatia

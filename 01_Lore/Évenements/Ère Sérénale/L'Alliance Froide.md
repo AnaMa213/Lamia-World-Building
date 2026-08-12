@@ -4,7 +4,7 @@ source: auteur
 type: evenement
 importance: majeur
 ere: serenale
-annee: inconnu
+annee: ≈ 2600 ES
 annee_debut: 2600
 annee_fin: 2700
 tags:
@@ -14,9 +14,12 @@ tags:
   - conseil-des-archanges
 date: 2026-07-12
 portee:
-aliases: ["La Réconciliation Silencieuse"]
+aliases:
+  - La Réconciliation Silencieuse
+revision-date: 2026-08-05
 ---
 # L'Alliance Froide
+
 
 **En une phrase :** Lumina tire Albaesclatia de son effondrement et la convainc de se réunir avec Mageisys — non par pardon, mais par nécessité stratégique face à la menace d'Ataraxus.
 
@@ -32,6 +35,8 @@ Depuis [[Le Grand Déferlement]], Albaesclatia demeure effondrée dans le Despop
 
 [[Lumina]] lui rappelle qu'aucun deuil et aucune trahison ne l'autorisent à laisser [[Ataraxus]] engloutir le peu qu'il reste. [[Albaesclatia]] consent à se réunir avec [[Mageisys]], **mais sans un mot de pardon**. Le silence glacial qui règne entre eux n'efface pas la nécessité : il faut trouver un moyen de raisonner Ataraxus, ou se préparer à une guerre qu'aucun d'eux ne peut gagner seul.
 
+Ce que ni Albaesclatia ni Lumina ne savent encore : [[Mageisys]], présent à cette réunion, pourrait à lui seul mettre fin à la guerre en détruisant [[Hésychirium]], le plan-refuge d'Ataraxus où sont fabriquées les légions démoniaques. Il n'en dit rien, et personne ne le lui demande. Cette réticence tue ne sera révélée que des décennies plus tard, au Concile de l'Aequadeus (voir [[Le Concile Rompu]]).
+
 ## Conséquences
 
 Reprise en main collective face à la menace d'Ataraxus, sans réconciliation véritable entre Albaesclatia et Mageisys — cette blessure reste ouverte et continuera de fragiliser le Conseil des Archanges (voir [[La Trahison Dévoilée]]). Cette alliance froide précède directement la tentative de trêve auprès d'Ataraxus (voir [[Le Concile Rompu]]).
@@ -46,6 +51,7 @@ Vraisemblablement connu du Conseil des Archanges de l'époque comme un moment de
 - [[Albaesclatia]] / [[Mageisys]] — réunion froide, sans pardon.
 - [[La Trahison Dévoilée]] — origine de la brouille non résolue ici.
 - [[Le Concile Rompu]] — suite directe.
+- [[Hésychirium]] — plan qu'il pourrait détruire pour mettre fin au conflit, mais qu'il ne détruira jamais ; position exposée plus tard au [[Le Concile Rompu|Concile Rompu]].
 
 ## Contradictions potentielles
 

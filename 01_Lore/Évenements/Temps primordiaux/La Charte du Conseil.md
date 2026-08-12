@@ -4,7 +4,7 @@ source: auteur
 type: evenement
 importance: majeur
 ere: primordial
-annee: inconnu
+annee: -500 000 AS
 annee_debut:
 annee_fin:
 tags:
@@ -48,6 +48,4 @@ Fait fondateur largement connu, sans indication de secret ou de controverse.
 
 ## Contradictions potentielles
 
-**Aucune contradiction relevée.** Cohérent avec l'entrée déjà existante dans [[Timeline Master]] (« 500 milles ans avant Sérénale 0 »).
-
-**Le Conseil des Archanges n'a pas encore de note dédiée** malgré son rôle transversal évident (mentionné dans la quasi-totalité des 28 fiches divinités migrées) — à prioriser lors d'une prochaine session (type `faction` ou `concept`, à ta discrétion).
+**Aucune contradiction relevée.** Cohérent avec l'entrée déjà existante dans [[01_Lore/Timeline Master]] (« 500 milles ans avant Sérénale 0 »).

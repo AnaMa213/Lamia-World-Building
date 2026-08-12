@@ -14,7 +14,7 @@ aliases: ["Les récits du Voile"]
 > [!note] Brouillon de migration — 2026-07-12
 > Extrait et reformaté depuis `99_Archive/Evenements/Genèse de l'univers de Lamia.md` (brouillon, non validé), section « La légende substituée ». Prose reprise telle quelle. **Contradictions potentielles** ajoutées par l'IA.
 > ⚠️ **Aucun template `Légende.md` n'existe actuellement dans `00_Systeme/Templates/`.** J'ai construit cette fiche à partir des seules indications des Conventions §2 (« indiquer part vraie / part fausse / origine du récit »). Si tu valides ce type de fiche, il serait utile de formaliser un template dédié — je peux le proposer si tu le souhaites.
-> Fiche-sœur de l'événement 🔒 [[2026-07-12 — Proposition — Événement Le Voile]], qu'elle est destinée, in-univers, à masquer.
+> Fiche-sœur de l'événement 🔒 [[Le Voile]], qu'elle est destinée, in-univers, à masquer.
 
 **En une phrase :** Pour éviter qu'un silence total n'éveille les soupçons, plusieurs récits incomplets et contradictoires sur la nature du Voile circulent parmi les peuples de Lamia — chacun contenant une part de vérité, aucun ne révélant le centre du mystère.
 
@@ -24,7 +24,7 @@ Le Voile n'est pas resté un pur silence : un silence absolu aurait attiré l'at
 
 ## Origine du récit
 
-Ceux qui connaissaient la nature véritable du Cœur de Lamia (voir [[2026-07-12 — Proposition — Événement Le Voile]]) ont jugé qu'un silence total sur un événement aussi central aurait éveillé les soupçons. Il fallait donc laisser au monde une légende assez forte pour occuper la place de la vérité, assez vaste pour absorber les contradictions, assez sacrée pour décourager ceux qui auraient voulu creuser davantage.
+Ceux qui connaissaient la nature véritable du Cœur de Lamia (voir [[Le Voile]]) ont jugé qu'un silence total sur un événement aussi central aurait éveillé les soupçons. Il fallait donc laisser au monde une légende assez forte pour occuper la place de la vérité, assez vaste pour absorber les contradictions, assez sacrée pour décourager ceux qui auraient voulu creuser davantage.
 
 ## Versions en circulation
 
@@ -45,11 +45,11 @@ Un événement majeur et volontaire de dissimulation a bien eu lieu à la fin de
 
 ## Qui la raconte
 
-Vraisemblablement transmise différemment selon les cultures et les cultes (voir Conséquences de [[2026-07-12 — Proposition — Événement Le Voile]]) — prêtres de Lumina, traditions elfiques de Cyroldan, doctrines humaines de l'Empire, etc. Aucune source précise n'est nommée dans le document d'origine ; à développer lors des migrations Peuples/Factions/Lieux si tu souhaites ancrer chaque version dans une culture particulière.
+Vraisemblablement transmise différemment selon les cultures et les cultes (voir Conséquences de [[Le Voile]]) — prêtres de Lumina, traditions elfiques de Cyroldan, doctrines humaines de l'Empire, etc. Aucune source précise n'est nommée dans le document d'origine ; à développer lors des migrations Peuples/Factions/Lieux si tu souhaites ancrer chaque version dans une culture particulière.
 
 ## Relations
 
-- [[2026-07-12 — Proposition — Événement Le Voile]] — vérité que cette légende est destinée à masquer.
+- [[Le Voile]] — vérité que cette légende est destinée à masquer.
 - [[Alfaryus]] — absent des trois versions en circulation, alors qu'il est l'acteur réel de l'événement caché.
 - [[Ère du Voile]] — période dont cette légende constitue le récit d'origine officieux.
 

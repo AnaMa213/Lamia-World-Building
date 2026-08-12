@@ -105,6 +105,6 @@ Les Tumeurs de Rhamal prolongent cette faille dans le monde matériel. Elles ne 
 
 **Absence de Tension centrale (non contradictoire).** Conforme aux Conventions §4 ; non complété par l'IA.
 
-**Datation de son combat contre Oriac absente de [[Timeline Master]] (à créer, vraisemblablement peu après la Bataille de Cyroldan, Exodiale ≈1500).**
+**Datation de son combat contre Oriac absente de [[01_Lore/Timeline Master]] (à créer, vraisemblablement peu après la Bataille de Cyroldan, Exodiale ≈1500).**
 
 **Rôle transversal confirmé.** Les [[Tumeurs de Rhamal]] apparaissent déjà dans les fiches [[Quaesir]] et [[Vindiereis]] (Majeurs et Mineurs) comme obstacle traversé lors de la guerre contre le Roi Sombre — cohérence confirmée entre plusieurs fiches indépendantes, à noter positivement dans le tableau de fin de lot.

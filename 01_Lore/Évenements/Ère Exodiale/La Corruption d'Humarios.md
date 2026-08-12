@@ -53,4 +53,4 @@ Fait probablement connu d'Alfaryus et de quelques rares témoins ; l'ampleur exa
 
 ⚠️ **Articulation avec la Grande Bataille de Cyroldan non tranchée — volontairement laissée ouverte.** Timeline Master lie déjà « Humarios fragilise un fragment » à la Grande Bataille de Cyroldan (barrière qui cède, manifestation physique d'Ataraxus). Le lien précis entre cette corruption personnelle et cette bataille reste à développer lors de l'écriture de ton roman sur l'Ère Exodiale — non inventé ici.
 
-**Cohérent avec la fiche déjà migrée [[2026-07-12 — Proposition — Migration Humarios]]**, qui détaille déjà ce même épisode.
+**Cohérent avec la fiche déjà migrée [[Humarios]]**, qui détaille déjà ce même épisode.

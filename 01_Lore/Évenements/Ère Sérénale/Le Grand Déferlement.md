@@ -4,7 +4,7 @@ source: auteur
 type: evenement
 importance: majeur
 ere: serenale
-annee: inconnu
+annee: ≈ 1000 ES
 annee_debut: 1000
 annee_fin: 1100
 tags:
@@ -16,10 +16,9 @@ date: 2026-07-12
 portee:
 aliases:
   - Les Larmes des Mondes
+revision-date: 2026-08-05
 ---
 # Le Grand Déferlement
-
-> ⚠️ Détail à noter pour la fiche [[2026-07-12 — Proposition — Migration Xeros]] (grosse révision différée) : Xeros prend ici le commandement des troupes angéliques pour la première fois — voir Contradictions potentielles.
 
 **En une phrase :** Ayant compris qu'exterminer seul ne suffisait pas, Ataraxus se forge une armée de démons et la lance simultanément sur des milliers de planètes ; Albaesclatia, frappée du double poids de ce déferlement et de la trahison qu'elle vient de découvrir, s'effondre dans le Despophys, laissant Xeros prendre le commandement des anges — tandis que la guerre, loin de s'achever, ne fait que commencer à s'étendre à l'échelle de l'univers.
 
@@ -35,6 +34,8 @@ Ataraxus, marqué par le plaisir pris lors du massacre de sa première planète 
 
 S'inspirant des créations d'Albaesclatia, il façonne des êtres dépourvus de libre arbitre, uniquement conçus pour tuer : les **[[Démons]]**. Il les fabrique par millions.
 
+Durant cette fabrication même, avant que les légions ne soient lancées, [[Lumina]] retire son soleil du plan-refuge où elles sont forgées (voir [[Hésychirium]]) : ce retrait soudain détruit une grande partie de l'armée tout juste construite. Contraint de remodeler ses créations pour qu'elles puissent « vivre » sans cette lumière, Ataraxus en tire des démons capables de survivre dans l'obscurité — mais qui, depuis, restent intrinsèquement vulnérables à la lumière (voir [[Démons]]).
+
 Il les libère **simultanément sur des milliers de planètes**. Ce n'est pas la fin de la vie dans l'univers, mais le début d'une guerre tentaculaire, planète après planète, qui ne connaîtra jamais de front unique ni de véritable fin — le Conseil des Archanges devra désormais disperser ses forces sur d'innombrables mondes à la fois, ce qui l'empêchera durablement de concentrer sa puissance sur un seul foyer, aussi précieux soit-il.
 
 [[Albaesclatia]], sentant les âmes de ses innombrables enfants s'éteindre prématurément, est prise d'une douleur indicible. À la perte de ses enfants s'ajoute le poids de la révélation récente (voir [[La Trahison Dévoilée]]) : Lamia, l'un des foyers de vie qu'elle chérit le plus, est bâtie sur le corps de sa première fille. Doublement anéantie, **elle s'effondre dans le Despophys**, incapable de riposter.
@@ -45,9 +46,11 @@ Il les libère **simultanément sur des milliers de planètes**. Ce n'est pas la
 
 Naissance des légions démoniaques d'Ataraxus, dont le nombre rendra la guerre pratiquement impossible à conclure. Premier commandement de Xeros, qui préfigure son rôle de protecteur ultérieur. Albaesclatia hors d'état d'agir jusqu'au [[L'Alliance Froide|Conseil des Trois]], bien plus tard. Cette dispersion des forces divines sur d'innombrables fronts explique pourquoi Lamia, plus tard, ne recevra jamais la pleine attention du Conseil malgré son importance grandissante (voir [[L'Asile des Dragons]]).
 
+Bien que [[Mageisys]] — architecte du plan-refuge où ces légions sont fabriquées (voir [[Hésychirium]]) — ait la capacité de le détruire à tout moment, il ne le fait jamais : un choix délibéré, resté tu jusqu'au Concile de l'Aequadeus, des siècles plus tard (voir [[Le Concile Rompu]]).
+
 ## Qui en garde mémoire
 
-Fait largement connu — l'ampleur du désastre est documentée dans [[Timeline Master]]. Le lien précis entre l'effondrement d'Albaesclatia et sa double blessure (deuil universel + trahison) est en revanche plus intime, probablement connu seulement du Conseil des Archanges de l'époque.
+Fait largement connu — l'ampleur du désastre est documentée dans [[01_Lore/Timeline Master]]. Le lien précis entre l'effondrement d'Albaesclatia et sa double blessure (deuil universel + trahison) est en revanche plus intime, probablement connu seulement du Conseil des Archanges de l'époque.
 
 ## Relations
 
@@ -56,13 +59,11 @@ Fait largement connu — l'ampleur du désastre est documentée dans [[Timeline 
 - [[Xeros]] — prend le commandement pour la première fois.
 - [[L'Éveil du Fléau]] — événement antérieur directement lié.
 - [[L'Alliance Froide]] — moment où Albaesclatia sort finalement de son effondrement.
+- [[Mageisys]] — architecte du plan-refuge (Hésychion) où ces légions sont fabriquées ; ne le détruit jamais malgré sa capacité à le faire (voir Contradictions potentielles).
+- [[Lumina]] — retire son soleil d'Hésychion durant la fabrication des légions, en détruisant une grande partie.
 
 ## Contradictions potentielles
 
-⚠️ **Premier commandement de Xeros — absent de sa fiche migrée.** Élément à intégrer lors de la grande révision différée de sa fiche personnelle, pas maintenant (sur ta décision).
+**Datation ≈1000–1100**, cohérente avec [[01_Lore/Timeline Master]] (« Début de la Grande Guerre divine » ≈1000, « Ataraxus crée les démons » ≈1000–1100).
 
-**Contradiction possible avec Mageisys — laissée ouverte.** Pourquoi Mageisys ne supprime-t-il pas simplement le plan-refuge d'Ataraxus dans lequel il crée ses démons ? Piste avancée : un plan déjà établi ne peut être supprimé, et l'y suivre serait perçu par Ataraxus comme un affront risquant de déclencher une attaque directe — à réfléchir, non tranché.
-
-**Datation ≈1000–1100**, cohérente avec [[Timeline Master]] (« Début de la Grande Guerre divine » ≈1000, « Ataraxus crée les démons » ≈1000–1100).
-
-**Harmonisation de la borne de fin de l'entrée « ≈1000–2950 » de [[Timeline Master]].** Sur ta décision, la Genèse fait foi : aucune mention de « 3500 » n'y figure. Harmonisée sur ≈1000–2950 (bornée par la fin de l'Ère Sérénale) dans `Update - Timeline Master`.
+**Harmonisation de la borne de fin de l'entrée « ≈1000–2950 » de [[01_Lore/Timeline Master]].** Sur ta décision, la Genèse fait foi : aucune mention de « 3500 » n'y figure. Harmonisée sur ≈1000–2950 (bornée par la fin de l'Ère Sérénale) dans `Update - Timeline Master`.

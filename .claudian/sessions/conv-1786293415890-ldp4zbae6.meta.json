@@ -1,0 +1,25 @@
+{
+  "id": "conv-1786293415890-ldp4zbae6",
+  "providerId": "claude",
+  "title": "Créer la fiche des Nains",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786293415891,
+  "lastActivityAt": 1786366213106,
+  "sessionId": "bf876220-6e02-4d70-a139-992a6a032c87",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "bf876220-6e02-4d70-a139-992a6a032c87"
+  },
+  "enabledMcpServers": [
+    "obsidian-mcp"
+  ],
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1263,
+    "cacheReadInputTokens": 168030,
+    "contextWindow": 1000000,
+    "contextTokens": 169294,
+    "percentage": 17
+  }
+}

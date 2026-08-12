@@ -4,7 +4,7 @@ source: auteur
 type: evenement
 importance: majeur
 ere: primordial
-annee: inconnu
+annee: -5000 AS
 annee_debut:
 annee_fin:
 tags:
@@ -49,4 +49,4 @@ Fait fondateur largement connu — c'est l'origine conceptuelle de toute vie mor
 
 ## Contradictions potentielles
 
-**Aucune contradiction relevée.** Cohérent avec l'entrée déjà existante dans [[Timeline Master]] (« ≈ 5000 ans avant Sérénale 0 »).
+**Aucune contradiction relevée.** Cohérent avec l'entrée déjà existante dans [[01_Lore/Timeline Master]] (« ≈ 5000 ans avant Sérénale 0 »).

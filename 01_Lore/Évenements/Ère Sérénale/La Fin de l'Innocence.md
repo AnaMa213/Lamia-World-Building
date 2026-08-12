@@ -4,7 +4,7 @@ source: auteur
 type: evenement
 importance: majeur
 ere: serenale
-annee: inconnu
+annee: ≈ 2550 ES
 annee_debut: 2550
 annee_fin: 2650
 tags:
@@ -18,8 +18,6 @@ aliases:
 ---
 # La Fin de l'Innocence
 
-> [!note] Rédigé le 2026-07-12 d'après `99_Archive/Evenements/Genèse de l'univers de Lamia.md`, section « L'éveil des Lamiens ».
-
 **En une phrase :** Le message des Gnomes brise l'innocence de Lamia — pour la première fois, les Lamiens apprennent des sorts offensifs, transformant leur magie contemplative en arme et fascinant Mageisys, qui découvre que la peur peut stimuler la créativité autant que la paix.
 
 ## Résumé
@@ -28,7 +26,7 @@ Le message des Gnomes brise l'innocence de Lamia. Pour la première fois, les pe
 
 ## Causes
 
-Le message porté par [[Le Don du Chagrin|les Gnomes]] révèle aux Lamiens l'existence de la menace universelle qui pèse sur eux.
+Le message porté par les [[Gnomes]] révèle aux Lamiens l'existence de la menace universelle qui pèse sur eux.
 
 ## Déroulement
 

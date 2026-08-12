@@ -18,9 +18,6 @@ plan: limbes
 
 # Les Limbes
 
-> [!note] Proposition — 2026-07-20
-> Issue de la session de brainstorm sur [[Le Dernier Serment des Gardiens]]. Repose sur plusieurs fiches divinités encore `brouillon` (Xeros, Thanatia, Aion, Pilanir, Rhamal) — non migrées.
-
 **En une phrase :** Les Limbes sont le plan-tampon entre les mondes vivants et le Despophys, fortifié par Xeros avec l'aide de Mageisys durant la Grande Guerre Divine pour protéger le passage des âmes mortelles qu'Ataraxus avait entrepris d'intercepter — depuis, anges et démons s'y livrent un combat perpétuel.
 
 ## Résumé

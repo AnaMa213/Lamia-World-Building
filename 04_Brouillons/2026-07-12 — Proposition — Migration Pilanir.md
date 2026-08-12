@@ -81,7 +81,7 @@ Cette opposition entre le sourire sadique et le vide du regard caractérise son 
 
 **Absence de sections psychologiques après Apparence (non contradictoire).** La fiche source ne comporte ni Désir conscient, ni Besoin profond, ni Croyance fausse, ni Faille intime, ni Tension centrale — conforme aux Conventions §4 pour une entité mineure ; non complété par l'IA.
 
-**Peuple détruit de Pilanir non nommé ni daté (à créer si développé).** Aucun nom, aucune date, aucun lien vers [[Timeline Master]].
+**Peuple détruit de Pilanir non nommé ni daté (à créer si développé).** Aucun nom, aucune date, aucun lien vers [[01_Lore/Timeline Master]].
 
 **Trio des archanges déchus (voir aussi [[Laxius]] et [[Rhamal]]) — motif transversal, à regrouper dans le tableau de fin de lot plutôt que de le répéter fiche par fiche.**
 

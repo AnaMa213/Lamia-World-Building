@@ -20,7 +20,20 @@ suivants:
   - Agriculteurs
   - Repentis du mal
 alignement: Loyal Bon
-revision-date: 2026-07-28
+revision-date: 2026-08-12
+cr_type: person
+sex: female
+pronouns: elle/la
+revision:
+cr_id: bwu-119-nwq-933
+name: Lumina
+born: ""
+died: ""
+father: "[[Chronoversum]]"
+mother: "[[Chronoversum]]"
+spouses: []
+children: []
+group_name: divinite
 ---
 
 # Lumina
@@ -42,6 +55,8 @@ Lumina est la déesse de la Lumière, de la Justice, de la Droiture. Connue sous
 Lumina défend une idée exigeante du bien. Pour elle, la justice ne doit pas être une simple punition, mais une correction du déséquilibre. La compassion ne doit pas excuser toutes les fautes, mais ouvrir une voie de rédemption à ceux qui peuvent encore être sauvés. Elle croit profondément que tout être sincèrement engagé sur le chemin du repentir mérite une chance de revenir vers la lumière.
 
 Mais cette vertu porte une faille. Derrière son apparence bienveillante, Lumina est aussi une déesse de pouvoir. Elle ne veut pas seulement éclairer : elle veut orienter. Elle ne veut pas seulement proposer la justice : elle veut faire triompher sa définition de la justice. Elle se persuade que son influence repose sur le libre choix de chacun, mais son désir de sauver, corriger et guider peut facilement devenir une volonté d'imposer sa vision du bien.
+
+Pendant la Grande Guerre divine, c'est elle qui, au Concile de l'Aequadeus, confronte [[Mageisys]] sur son inaction face à [[Hésychirium]] — et découvre, avec le reste du Conseil, qu'il n'a jamais été de leur côté (voir [[Le Concile Rompu]]). Contrairement à Albaesclatia, Lumina ne lui pardonne jamais : sa certitude morale, déjà au cœur de sa faille, ne tolère aucune neutralité face à ce qu'elle perçoit comme un choix — fût-il rationnel — de laisser le mal prospérer.
 
 À la [[Grande Bataille de Cyroldan]] (Exodiale ≈1500), après des âges de pertes cumulées, Albaesclatia se retire définitivement du commandement pour veiller sur Filiama avec Alketeria (voir [[Le Sceptre des Anges]]). Lumina prend alors la tête des troupes angéliques contre Ataraxus dans le Plan des Mondes, devenant la nouvelle régente des anges — non seulement parce que sa puissance avait grandi, mais parce qu'elle offrait une direction claire à un ordre divin déjà brisé par la guerre, la trahison et la chute de plusieurs de ses membres.
 
@@ -108,25 +123,20 @@ Mais son danger est de croire que sa lumière est la seule forme légitime du bi
 ## Relations
 
 - [[Chronoversum]] — éveillée à l'aube de sa seconde émanation (voir [[La Seconde Émanation]]).
-- [[Mageisys]] — propose à Ataraxus le plan-refuge et intervient avec elle et Albaesclatia pour stopper le premier massacre d'Ataraxus (voir [[L'Éveil du Fléau]]).
+- [[Mageisys]] — propose à Ataraxus le plan-refuge et est un allié de circonstance bien que Lumina le hait pour son inaction chronique (voir [[L'Éveil du Fléau]]).
 - [[Albaesclatia]] — sœur d'intention et co-conceptrice du projet de vie ; Lumina lui succède comme régente des anges à la [[Grande Bataille de Cyroldan]] (voir [[Le Sceptre des Anges]]).
 - [[Naphusis]] — quatrième pilier du projet de vie, ancrage de ce que Lumina illumine.
 - [[Ataraxus]] — adversaire absolu : il veut le silence, elle veut la clarté totale ; elle dirige les troupes angéliques contre lui après sa régence.
 - [[Soleil]] — fragment direct de son essence sur Lamia, distinct des astres ordinaires de Mageisys.
 - [[L'Impossible Retour à l'Unité]] — sa gouvernance stricte du Conseil des Archanges y contribue directement.
 - [[Empire de Luminorn]] — royaume de l'Ère du Voile portant vraisemblablement son nom (lien à confirmer lors de la migration du lieu).
+- [[Mageisys]] — sa révélation au Concile de l'Aequadeus (voir [[Le Concile Rompu]]) fait naître chez elle une haine jamais résolue depuis : elle ne lui pardonne pas d'avoir toujours refusé de choisir un camp.
 
 ## Contradictions potentielles
 
 La fiche **[[Le Sceptre des Anges]]** est encore en brouillon.
 
 [[Grande Bataille de Cyroldan]] non crée.
-
-> [!ia-a-valider]- 2026-07-27 — Terminologie : « ère » → « émanation »
-> **Décision** : terminologie retenue avec l'auteur (session Chronoversum, 2026-07-27) — voir [[Chronoversum|Chronoversum]].
-> **Modifié** : Histoire et Relations — « deuxième ère (cosmique) » remplacé par « seconde émanation ». `source: ia` ajouté (manquant). « Ère du Voile » en Relations non touché (ère lamienne, usage correct).
-
-^rev-20260727-lumina-terminologie
 
 > [!ia-a-valider]- 2026-07-28 — Arbitrages de session : régence datée, rupture du Conseil, Soleil
 > **Décision** : trois points traités avec l'auteur (session du 2026-07-28).
@@ -137,3 +147,15 @@ La fiche **[[Le Sceptre des Anges]]** est encore en brouillon.
 > 3. **Soleil lié mais inexistant** — créé : nouvelle fiche [[Soleil]] (Objet Divin, 05_IA_Inbox/Fiches, à valider), fragment direct de l'essence de Lumina sur Lamia, distinct des astres ordinaires façonnés par Mageisys.
 
 ^rev-20260728-lumina-regence-soleil
+
+> [!ia-a-valider]- 2026-08-05 — Ajout : révélation de Mageisys au Concile de l'Aequadeus
+> **Décision** : tranchée avec l'auteur (session brainstorm [[2026-08-05 — Brainstorm — NeutraliteMageisys]]).
+> **Modifié** : Histoire (paragraphe ajouté sur la confrontation de Mageisys au Concile Rompu, cohérent avec sa Faille intime déjà écrite) et Relations (nouvelle ligne Mageisys). Voir aussi [[Mageisys]], [[Albaesclatia]] et [[Le Concile Rompu]] pour le même épisode.
+
+^rev-20260805-lumina-concilerompu
+
+> [!ia-a-valider]- 2026-08-12 — Propriétés Charted Roots
+> **Décision** : demande explicite de l'auteur (session 2026-08-12). Aucun lore modifié.
+> **Ajouté en frontmatter** : `cr_type: person` · `sex: female` · `pronouns: elle/la` · `revision: ia-a-valider`
+
+^rev-20260812-charted-roots-lumina

@@ -7,8 +7,7 @@ date: 2026-07-11
 aliases:
   - Chronologie
   - Timeline
-revision-date: 2026-08-02
-revision: ia-a-valider
+revision-date: 2026-08-07
 ---
 # Timeline Master
 
@@ -40,6 +39,7 @@ revision: ia-a-valider
 - **≈ 50 milles ans avant Sérénale 0** · [MAJEUR] · [[Les Prémices de la Discorde]] — Des visions divergentes s'installent parmi les Archanges ; Albaesclatia leur ouvre la voie de projets individuels.
 - **≈ 5000 ans avant Sérénale 0** · [MAJEUR] · [[Le Dessein des Mortels]] — Albaesclatia conçoit le projet d'êtres mortels et incomplets ; Lumina et Mageisys s'associent pour peupler de nouvelles terres.
 - **≈ 3000 ans avant Sérénale 0** · [MAJEUR] · [[L'Enracinement Primordial]] — Face à l'échec de peupler les nouvelles planètes, Chronoversum engendre Naphusis.
+- **≈ 1 500–2 000 ans avant Sérénale 0** · [MAJEUR] · [[L'Éveil des Profondeurs]] — Naïnrak crée les Nains sur leur planète natale, dans les entrailles mêmes de la terre, en lien avec l'Arbre-Monde de [[Naphusis]]. Chaque union produit une paire (Naine + Ghorrek) issue d'une même âme divisée depuis [[Filiama]], pour qu'aucun Nain ne connaisse jamais la solitude.
 - **peu avant Sérénale 0** · [MAJEUR] · 🔒 · [[La Semence Cachée]] — Albaesclatia crée la planète Lamia sur le site même de la mort de son premier enfant ; Mageisys y implante en secret l'essence de celui-ci ; le Cœur de Lamia et une barrière ténue s'y forment.
 
 ---
@@ -57,8 +57,9 @@ revision: ia-a-valider
 - **≈ 1000** · [MAJEUR] — Début de la **Grande Guerre divine** dans le Chronoversum.
 - **≈ 1000–1100** · [MAJEUR] · [[Le Grand Déferlement]] — Ataraxus, comprenant qu'exterminer seul ne suffit pas, se forge une armée de démons et la lance simultanément sur des milliers de planètes ; effondrement d'Albaesclatia, doublement frappée par le deuil et la trahison ; Xeros prend le commandement des anges.
 - **≈ 1200** · [MINEUR] · (brouillon) · [[La Forge de Creperstella]] — Albaesclatia fait forger par Armerith, dans sa forge divine du Dibertium, l'épée Creperstella — alliage d'essence d'Alketeria et de pierre mageysienne ne frappant que les âmes corrompues — aussitôt confiée à Xeros.
+-  **≈ 1 000–1 300** · [MAJEUR] · [[La Résistance des Entrailles]] — Les démons d'[[Ataraxus]], lancés par le Grand Déferlement, pénètrent dans les profondeurs de la planète natale des Nains. Le peuple résiste des générations grâce à son labyrinthe infini ; l'Arbre-Monde de [[Naphusis]] y est détruit. Une partie du peuple périt ; l'autre est évacuée par les Archanges.
 - **≈ 1500** · [MINEUR] · [[La Perte du Monde des Vendards]] — Les démons détruisent le monde des Vendards ; beaucoup errent sous forme désincarnée ; l'archange Vindiereis, leur créateur, survit. Événement mineur, sans effet direct sur Lamia.
-- **≈ 1700–2000** · [MAJEUR] · [[La Garde du Cœur]] — Frappé par la révélation du Cœur, Naïnrak crée les Nains pour le protéger. ⚠️ *(à recouper avec l'effondrement d'Albaesclatia ci-dessus — voir Contradictions potentielles)*
+- **≈ 1700–2000** · [MAJEUR] · [[La Garde du Cœur]] — Frappé par la révélation du Cœur, Naïnrak implante les Nains sur Lamia pour le protéger. 
 - **≈ 2500** · [MAJEUR] · [[L'Asile des Dragons]] — Lamia devient l'un des grands foyers de vie encore debout et la cible prioritaire d'Ataraxus ; les quatre derniers dragons de Koboldia y trouvent refuge, renforcés et postés par Mageisys.
 - **≈ 2500–2600** · [MAJEUR] · [[Le Refus d'Albaesclatia]] — Mageisys et Akator ayant installé les dragons sans son aval, Albaesclatia doit imposer un refus catégorique à toute nouvelle création destinée à Lamia, face à d'autres archanges tentés de suivre l'exemple.
 - **≈ 2500–2600** · [MAJEUR] · [[La Lune Manquée]] — Frustré de ne pouvoir franchir la barrière, Ataraxus projette un astre contre Lamia : il échoue à la percuter et devient Atar, sa lune.
@@ -66,6 +67,8 @@ revision: ia-a-valider
 - **≈ 2500–2600** · [MAJEUR] · [[Le Don du Chagrin]] — Le chagrin de Naphusis, dont presque tous les arbres-mondes ont été détruits, fait naître les Gnomes, chargés d'alerter les Lamiens du danger.
 - **≈ 2550–2650** · [MAJEUR] · [[La Fin de l'Innocence]] — Le message des Gnomes brise l'innocence de Lamia ; naissance de la magie offensive.
 - **≈ 2600–2700** · [MAJEUR] · [[L'Alliance Froide]] — Lumina tire Albaesclatia de son effondrement ; réunion froide et sans pardon avec Mageisys face à la menace d'Ataraxus.
+- **≈ 2700** · [MAJEUR] · [[L'Incarnation Draconique d'Akator]] — Hanté par la chute de Koboldia, Akator se fait muter en dragon colossal au Dibertium par Xeros — seul Archange capable, avec Albaesclatia, d'une telle transformation sans risque fatal pour un être déjà vivant ; son nouveau corps, trop imposant pour le Dibertium, contraint Mageisys à créer l'Intraherium.
+- **≈ 2700** · [MAJEUR] · [[La Naissance de l'Intraherium]] — Mageisys crée pour Akator un plan-désert infini peuplé de créatures sans conscience ; à la demande de Xeros, un volet d'accès mortel y est intégré (puissance accumulée des mortels rejoint Akator à leur mort).
 - **≈ 2700–2750** · [MAJEUR] · [[Le Concile Rompu]] — Échec de la trêve avec Ataraxus à l'Aequadeus ; le Conseil des Archanges se fissure durablement en visions divergentes.
 - **≈ 2750** · [MAJEUR] · [[La Trahison des Gardiens]] — Maurtria corrompt un gardien nain du cœur par les rêves ; le cœur est fracturé en trois, une brèche s'ouvre dans la barrière.
 - **≈ 2750 → Exodiale ≈280** · [MAJEUR] · [[La Guerre des Profondeurs]] — Les démons envahissent les profondeurs par la brèche ; chute de la civilisation naine, exil des survivants vers les montagnes du nord.
@@ -83,6 +86,7 @@ revision: ia-a-valider
 - **≈ 220–400** · [MAJEUR] · [[Humarios et la Fondation d'Humildas]] — Humarios mène son peuple vers une île isolée, hors de portée des démons, et y fonde Humildas.
 - **≈ 600–1450** · [MAJEUR] · [[La Dernière Menace]] — Maurtria, indépendante d'Ataraxus qu'elle méprise autant que le Conseil, sème la discorde parmi les mortels pour que la violence ne s'éteigne jamais.
 - **≈ 900** · [MAJEUR] · [[La Transmission de la Magie Arcanique]] — Alfaryus transmet l'essence mageysienne aux mortels : naissance de la magie arcanique, arme contre les démons sans dépendre des dieux.
+- **≈ 1100** · [MINEUR] · [[La Sublimation des Treize]] — Pendant la Grande Guerre Divine, **Armerith** identifie treize chefs-d'œuvre mortels de l'Ère Sérénale et Exodiale, y infuse une partie de son essence divine et les envoie aux Humains et Elfes de Lamia.
 - **≈ 1450–1500** · [MAJEUR] · [[Le Scellement du Cœur]] — Face à la menace portée à son comble, le Cœur de Lamia est rescéllé au prix d'un sacrifice que même les survivants ne surent pas tous nommer.
 - **≈ 1500** · [MINEUR] · [[La Corruption d'Humarios]] — Humarios expérimente sur un fragment du Cœur pour accroître sa puissance ; Alfaryus l'affronte et l'emprisonne, espérant le sauver un jour.
 - **≈ 1500** · [MAJEUR] — **Grande Bataille de Cyroldan** : [[Humarios]] fragilise un fragment, la barrière cède assez pour qu'[[Ataraxus]] se manifeste physiquement. L'intervention directe des dieux fracture l'ancien continent → **Horiae**, le continent central (ancienne Cyroldan), **Eliyae** et des îles. Les démons sont repoussés, Ataraxus défait. Nouvelle loi : les êtres trop imprégnés d'essence divine sont **bannis** de la présence physique sur Lamia. *(Déroulement précis en suspens — à développer lors de l'écriture du roman sur l'Ère Exodiale.)*
@@ -93,7 +97,6 @@ revision: ia-a-valider
 - **≈ 1550–1600** · [MAJEUR] · [[Le Dernier Bastion Disputé]] — Lamia devient le dernier lieu de l'univers encore à l'abri de la guerre divine, enjeu disputé entre les visions divergentes des dieux désormais indépendants.
 
 ## Ère du Voile (0 = Exodiale ≈ 1600 → présent : 1448 È.V.)
-
 *Reconstruction des civilisations, libérées des démons et de l'intervention physique des dieux.*
 
 - **0** · [MAJEUR] — Fin de la Grande Guerre divine. [[Alfaryus]] stabilise ce qui reste du cœur, enfouit ses secrets et organise l'effacement des connaissances sur les fragments : cet ensemble de protections devient le **Voile**.
@@ -102,18 +105,10 @@ revision: ia-a-valider
 - **≈ 200–1000** · [MAJEUR] — Formation des nouveaux royaumes : **Luminorn**, **Mercatia**, **Rivenhelm**, **Magelia**, **[[Perservorn]]**.
 - **≈ 1150–1250** · [MAJEUR] — [[Vindiereis]] achève sa transformation en **Roi Sombre** et tente de règner sur Horiae, avant d'être vaincu par l'empire de **Zalandria** et **Quaesir**. 
 - **≈ 1000–1350** · [MAJEUR] — Les fidèles de [[Maurtria]] s'organisent en **Disciples de Maurtria** ; théocratie de la magie du sang au nord de Luminorn.
+- **1332** · [MINEUR] · La [[République d'Ildienae]] découvre une île flottante mystique, réputée être la demeure d'[[Alfaryus]] ; île inaccessible (courants magiques, aucun sort ne permet de la franchir), objet de légendes chez les empires humains voisins qui y voient le demi-dieu de la magie arcanique. *(voir [[Alfaryus]], section Histoire)*
 - **≈ 1350–1448 · [MINEUR] ·  — **Aldania**, maurtrienne immortelle, Grande Prêtresse Sanglante, dirige la théocratie depuis 100 ans. 
 
-
-
-
 ---
-
-
-
-> [!ia-a-valider]- 2026-08-02 — Ajout de Le Refus d'Albaesclatia
-> **Décision** : tranchée avec l'auteur (session Le Fil / Le Refus d'Albaesclatia, 2026-08-02).
-> **Modifié** : ajout de la ligne [[Le Refus d'Albaesclatia]] (≈2500–2600 Sérénale, brouillon) dans la section Ère Sérénale, juste après [[L'Asile des Dragons]]. Note ⚠️ ajoutée sur la ligne [[La Garde du Cœur]] : sa datation (≈1700–2000, Albaesclatia consciente et consentante) tombe dans la fenêtre où [[Le Grand Déferlement]] la dit « hors d'état d'agir jusqu'au Conseil des Trois » (≈2600–2700, voir [[L'Alliance Froide]]) — tension à arbitrer, pas résolue ici.
 
 ## Notes d'événements détaillées (auto — Dataview)
 
@@ -124,6 +119,7 @@ FROM "01_Lore"
 WHERE type = "evenement" AND ere = "primordial"
 SORT annee ASC
 ```
+
 
 ### Ère Sérénale
 ```dataview

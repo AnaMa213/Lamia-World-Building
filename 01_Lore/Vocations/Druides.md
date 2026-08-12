@@ -5,6 +5,7 @@ type: vocation
 peuples_concernes:
   - "[[Elfes]]"
   - "[[Humains]]"
+  - "[[Gnomes]]"
 lien_divin: "[[Naphusis]]"
 tags:
   - druides
@@ -28,7 +29,7 @@ Absente des notes du vault : aucune fondation ni datation précise n'est documen
 
 ## Pratique et pouvoirs
 
-À la différence des anges à portefeuille d'Albaesclatia (voir [[Anges]]), c'est le Druide qui va vers la divinité, pas l'inverse. La communication est directe, sans délégation. En échange de faveurs locales — accélérer une pousse, apaiser un animal, hâter la guérison d'une terre blessée — le Druide prête sa propre essence à Naphusis, étendant ponctuellement sa portée au-delà de son rayon naturel autour de l'[[Arbre-Monde]]. Cette pratique hérite directement des limites de Naphusis elle-même : jamais de création ex nihilo, seulement l'accélération ou l'orientation de ce qui existe déjà.
+À la différence des anges à portefeuille d'Albaesclatia (voir [[Anges]]), c'est le Druide qui va vers la divinité, pas l'inverse. La communication est directe, sans délégation. En échange de faveurs locales — accélérer une pousse, apaiser un animal, hâter la guérison d'une terre blessée — le Druide prête sa propre essence à Naphusis, étendant ponctuellement sa portée au-delà de son rayon naturel autour de l'[[Naphusis|Arbre-Monde]]. Cette pratique hérite directement des limites de Naphusis elle-même : jamais de création ex nihilo, seulement l'accélération ou l'orientation de ce qui existe déjà.
 
 ## Qui l'emprunte
 
@@ -42,13 +43,11 @@ Absent des sources — rien à ce jour sur d'éventuels rites d'entrée, marques
 
 - [[Naphusis]] — seule divinité à utiliser ce canal ; n'emprunte jamais le Fil.
 - [[Elfes]] — peuple principal associé à cette vocation.
-- [[Humains]] — peuple secondaire, mentionné en session.
+- [[01_Lore/Races/Mortels/Humains]] — peuple secondaire, mentionné en session.
 - [[Le Fil]] — mécanisme distinct, à ne pas confondre.
 
 ## Contradictions potentielles
 
-⚠️ **Naphelia n'a pas de fiche** — déjà signalé comme zone floue dans la fiche Naphusis elle-même, pas une nouvelle incohérence introduite ici.
-
-⚠️ **Aucune origine/datation précise** — voir section Origine ; à trancher si un roman ou scénario JDR en a besoin.
+**Absente des notes du vault origine**
 
 **Aucune contradiction relevée** par ailleurs avec le canon existant.

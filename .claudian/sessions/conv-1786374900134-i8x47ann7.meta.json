@@ -1,0 +1,26 @@
+{
+  "id": "conv-1786374900134-i8x47ann7",
+  "providerId": "claude",
+  "title": "Traiter contradictions et créer fiches Koboldia...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786374900135,
+  "lastActivityAt": 1786377034997,
+  "sessionId": "38a089a2-251d-435e-84af-23e627a20b6a",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "38a089a2-251d-435e-84af-23e627a20b6a"
+  },
+  "currentNote": "01_Lore/Évenements/Ère Sérénale/L'Asile des Dragons.md",
+  "enabledMcpServers": [
+    "obsidian-mcp"
+  ],
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 11537,
+    "cacheReadInputTokens": 113084,
+    "contextWindow": 1000000,
+    "contextTokens": 124624,
+    "percentage": 12
+  }
+}

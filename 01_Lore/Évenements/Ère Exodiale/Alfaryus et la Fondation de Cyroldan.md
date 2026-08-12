@@ -57,6 +57,6 @@ Cyroldan devient le premier grand sanctuaire de l'Ère Exodiale, foyer d'accueil
 
 ## Contradictions potentielles
 
-**Aucune contradiction relevée.** Cohérent avec la fiche déjà migrée [[2026-07-12 — Proposition — Migration Alfaryus]].
+**Aucune contradiction relevée.** Cohérent avec la fiche déjà migrée [[Alfaryus]].
 
-⚠️ **Datation à recouper avec une entrée de [[Timeline Master]] en Ère du Voile (« ≈10-200 — Alfaryus fonde Cyroldan »).** Sur ta décision (Q4), cette entrée est erronée et sera retirée manuellement par toi — la fondation appartient bien à l'Ère Exodiale, pas au Voile.
+⚠️ **Datation à recouper avec une entrée de [[01_Lore/Timeline Master]] en Ère du Voile (« ≈10-200 — Alfaryus fonde Cyroldan »).** Sur ta décision (Q4), cette entrée est erronée et sera retirée manuellement par toi — la fondation appartient bien à l'Ère Exodiale, pas au Voile.

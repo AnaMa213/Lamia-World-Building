@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786528648581-wy8cgbq22",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786528648647-dfc7vul",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786528648579-iib8u3k",
+      "timestamp": 1786528648579,
+      "rawDisplayText": "/traiter-chantier Il faudrait mettre à jour la fiche des Jumeaux Divins. Le conseil n'est pas resoudé par ces événements mais sait qu'il doit agir et notamement Albaesclatia. C'est Mageysis qui vient la voir. Elle est rescitente à même ecouter sa proposition mais son idée l'a convaint. D'autant plus qu'elle commençe à comprendre que si son frère implémente des êtres qu'il aurait lui même conscu, c'est qu'il cherche à s'investir également sur Lamia au moins. Elle comprends que Mageysis est un allié de circonstante et que lui refusé ces caprices pourrait plus la décervir qu'autre choses.",
+      "canonicalText": "/traiter-chantier Il faudrait mettre à jour la fiche des Jumeaux Divins. Le conseil n'est pas resoudé par ces événements mais sait qu'il doit agir et notamement Albaesclatia. C'est Mageysis qui vient la voir. Elle est rescitente à même ecouter sa proposition mais son idée l'a convaint. D'autant plus qu'elle commençe à comprendre que si son frère implémente des êtres qu'il aurait lui même conscu, c'est qu'il cherche à s'investir également sur Lamia au moins. Elle comprends que Mageysis est un allié de circonstante et que lui refusé ces caprices pourrait plus la décervir qu'autre choses.",
+      "context": {
+        "currentNote": {
+          "path": "01_Lore/Évenements/Ère Exodiale/Les Jumeaux Divins.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "a5b9c578f3427692fe754abcc7bf92bff07407bfd64a56cdfa628d5eb1c39890",
+      "providerUserMessageId": "759db774-fc04-4d59-a263-bdc4af65a5dd",
+      "providerAssistantMessageId": "a46e96bd-b609-47b0-8c6c-8afe0b6268fc"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786529087513-wouzhdm",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786529087510-czbgkb7",
+      "timestamp": 1786529087510,
+      "rawDisplayText": "Question 1 : fait la modifications  Question 2 : c'est la La perception d'Albaesclatia car c'est elle qui les crééer mais avec le modelage de Mageysis. C'est leur création à eux deux.",
+      "canonicalText": "Question 1 : fait la modifications  Question 2 : c'est la La perception d'Albaesclatia car c'est elle qui les crééer mais avec le modelage de Mageysis. C'est leur création à eux deux.",
+      "images": [],
+      "contentDigest": "0ab37b23da7a71243222c38a00bca9c31f34643afaed737a28f920ab92d04e9a",
+      "providerUserMessageId": "75d57836-8a5d-4004-acdf-69da4329e88c",
+      "providerAssistantMessageId": "2635e0d6-5e79-48e9-a5c5-808212e22780"
+    }
+  ]
+}

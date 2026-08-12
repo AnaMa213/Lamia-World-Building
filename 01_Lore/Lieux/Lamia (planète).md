@@ -34,7 +34,7 @@ Planète autrefois stérile du Plan des Mondes, Lamia est le lieu où s'éteigni
 Planète stérile où s'éteint l'ange [[Lamia (ange)|Lamia]] (voir [[La Flamme Éteinte]]). Choisie et nommée en sa mémoire par [[Albaesclatia]] pour y faire naître la vie mortelle (voir [[La Semence Cachée]]). [[Naphusis]] s'y implante sous la forme de l'Arbre-Monde. Le Cœur de Lamia se forme ; une barrière ténue naît avec lui.
 
 ### Ère Sérénale
-Paix originelle entre [[Humains]] et [[Elfes]], les deux premiers peuples créés par Albaesclatia. Durcissement de la barrière face à la menace d'Ataraxus (≈950–1000, voir [[La Trahison Dévoilée]]) : premières tensions sociales. Arrivée ultérieure des Nains par portail planaire depuis le Despophys (voir brainstorm [[2026-07-18 — Brainstorm — PeuplementLamia]], datation non encore fixée). Fracture du Cœur (≈2750, voir [[La Trahison des Gardiens]]) et dispersion de ses fragments (voir [[Le Dernier Serment des Gardiens]], Exodiale ≈0–30).
+Paix originelle entre [[Humains - old]] et [[Elfes]], les deux premiers peuples créés par Albaesclatia. Durcissement de la barrière face à la menace d'Ataraxus (≈950–1000, voir [[La Trahison Dévoilée]]) : premières tensions sociales. Arrivée ultérieure des Nains par portail planaire depuis le Despophys (voir brainstorm [[2026-07-18 — Brainstorm — PeuplementLamia]], datation non encore fixée). Fracture du Cœur (≈2750, voir [[La Trahison des Gardiens]]) et dispersion de ses fragments (voir [[Le Dernier Serment des Gardiens]], Exodiale ≈0–30).
 
 ### Ère Exodiale
 Barrière affaiblie par la fracture du Cœur : les démons pénètrent Lamia pour la première fois ([[La Chute de l'Âge d'Or]], an 0), plus de 90 % de la population éradiquée en quelques années.
@@ -50,7 +50,7 @@ Lamia n'est pas un astre inerte : elle porte en son cœur l'essence de l'ange d�
 
 ## Habitants et forces en présence
 
-- [[Humains]] — premier peuple créé par Albaesclatia.
+- [[Humains - old]] — premier peuple créé par Albaesclatia.
 - [[Elfes]] — second peuple créé, "exemple" pour les Humains.
 - Nains — arrivés plus tard par portail planaire (aucune fiche peuple dédiée à ce jour, gap déjà identifié séparément).
 - Démons — présents depuis [[La Chute de l'Âge d'Or]].

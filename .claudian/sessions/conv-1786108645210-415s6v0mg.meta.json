@@ -1,0 +1,25 @@
+{
+  "id": "conv-1786108645210-415s6v0mg",
+  "providerId": "claude",
+  "title": "Réviser la fiche de la divinité Alketeria",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786108645210,
+  "lastActivityAt": 1786109514726,
+  "sessionId": "63ce4088-953d-4002-9ede-16f3fbc7c971",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "63ce4088-953d-4002-9ede-16f3fbc7c971"
+  },
+  "enabledMcpServers": [
+    "obsidian-mcp"
+  ],
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1499,
+    "cacheReadInputTokens": 111099,
+    "contextWindow": 1000000,
+    "contextTokens": 112599,
+    "percentage": 11
+  }
+}

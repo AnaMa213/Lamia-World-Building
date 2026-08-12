@@ -4,25 +4,22 @@ source: auteur
 type: evenement
 importance: majeur
 ere: serenale
-annee: 2500
-annee_debut: null
-annee_fin: null
+annee: ≈ 2500 ES
+annee_debut:
+annee_fin:
 tags:
   - lamia
   - dragons
   - akator
   - mageisys
 date: 2026-07-12
-portee: null
+portee:
 aliases:
   - L'Arrivée des Quatre
 revision: ia-a-valider
-revision-date: 2026-08-02
+revision-date: 2026-08-10
 ---
 # L'Asile des Dragons
-
-> [!note] 
-> ⚠️ Détail à noter pour la fiche [[2026-07-12 — Proposition — Migration Akator]] (grosse révision différée) : Mageisys nomme et renforce lui-même les quatre dragons à leur arrivée — voir Contradictions potentielles.
 
 **En une phrase :** Protégée par sa barrière, Lamia devient l'un des grands foyers de vie encore intacts et la cible prioritaire d'Ataraxus ; les quatre derniers dragons de Koboldia y trouvent asile, et Mageisys les élève au rang de protecteurs de la planète, juste en dessous de la puissance d'un Archange.
 
@@ -31,7 +28,7 @@ Lamia, protégée par sa propre barrière, reste l'un des grands foyers de vie e
 
 ## Causes
 
-Après [[Le Grand Déferlement]], d'innombrables civilisations se sont effondrées à travers l'univers. [[Lamia]], protégée par sa propre barrière, reste intouchée — ce qui en fait, aux yeux d'Ataraxus, une cible d'autant plus obsédante qu'elle lui échappe.
+Après [[Le Grand Déferlement]], d'innombrables civilisations se sont effondrées à travers l'univers. [[Lamia (planète)]], protégée par sa propre barrière, reste intouchée — ce qui en fait, aux yeux d'Ataraxus, une cible d'autant plus obsédante qu'elle lui échappe.
 
 ## Déroulement
 **Les quatre derniers dragons de [[Koboldia]]**, seuls survivants de leur monde anéanti par les démons, sont d'abord rapatriés au [[Dibertium]] — la barrière de Lamia, durcie depuis [[La Trahison Dévoilée]], ne laissant plus passer aucune présence physique directement depuis l'extérieur.
@@ -40,7 +37,7 @@ Après [[Le Grand Déferlement]], d'innombrables civilisations se sont effondré
 
 - **[[Raekialar]]**, dragon de feu, s'installe sur une île isolée au sud du continent principal ;
 - **[[Daenithor]]**, dragon d'eau, prend possession des mers du Nord ;
-- **[[Hurinathil]]**, dragon de vent, se poste dans les **[[Montagnes de Lerium]]** ;
+- **[[Hurinathil]]**, dragon de vent, se poste au sud des **[[Montagnes de Lerium]]** ;
 - **[[Thariathor]]**, dragon de terre, s'enfonça dans les chaînes rocheuses du continent.
 
 Akator, malgré la disparition de la quasi-totalité de ses créations à travers l'univers, éprouve en cet instant une fierté profonde.
@@ -73,16 +70,10 @@ Fait largement connu, célébré dans les traditions lamiennes liées aux dragon
 
 ⚠️ **Mageisys nomme et renforce les dragons — absent de la fiche Akator migrée.** Sa fiche décrit sa propre création des dragons et son rôle dans leur exil, mais ne mentionne pas cette intervention spécifique de Mageisys à leur arrivée sur Lamia, ni les noms des quatre survivants. À intégrer lors de la grande révision différée de sa fiche (sur ta décision, pas maintenant).
 
-✅ **Recadrage « dernier bastion de l'univers » corrigé en conversation.** Lamia n'est plus présentée comme le dernier lieu de vie de tout l'univers (incohérent à l'échelle de temps impliquée), mais comme l'un des grands foyers encore debout et la cible prioritaire d'Ataraxus — cohérent avec le fait que la guerre continue ailleurs, potentiellement encore aujourd'hui.
+> [!ia-a-valider]- 2026-08-10 — Contradiction Akator résolue
+> **Décision** : la fiche [[01_Lore/Divinités/Majeur/Akator|Akator]] a été mise à jour (session 2026-08-10) — entrée Relations de Mageisys complétée pour inclure son rôle dans [[L'Asile des Dragons]] (Sérénale ≈2500). La contradiction ⚠️ ci-dessus est résolue et peut être retirée après validation du marqueur sur Akator.
+> **Modifié** : callout d'annotation ajouté ; le texte de la contradiction reste jusqu'à suppression du marqueur.
+
+^rev-20260810-contradiction-akator
 
 **Datation ≈2500 inchangée**, confirmée par [[Timeline Master]].
-
-**Quatre nouvelles entités et un lieu sans note dédiée** (Raekialar, Daenithor, Hurinathil, Thariathor, Montagnes de Lerium) — à créer lors d'une future migration Créatures/Lieux.
-
-✅ **Mécanisme d'arrivée des dragons résolu (22/07/2026).** L'ancienne formulation (« survivants guidés par les anges trouvent refuge ») impliquait un passage direct à travers la barrière, pourtant déjà durcie depuis [[La Trahison Dévoilée]] (≈1500-2000 ans plus tôt à cette date). Voir Déroulement : les dragons sont désormais rapatriés au [[Dibertium]] puis transportés par portail planaire — décision du brainstorm [[2026-07-18 — Brainstorm — PeuplementLamia]].
-
-⚠️ **Zone floue ouverte par cette révision.** Le mécanisme d'arrivée des *autres* réfugiés « des mondes voisins » évoqués dans l'ancienne version n'est plus documenté ici — retiré plutôt que laissé en contradiction non résolue. Si ce point doit être développé, il faudra soit lui appliquer le même mécanisme (Dibertium + portail), soit en définir un autre.
-
-> [!ia-a-valider]- 2026-08-02 — Absence de consultation d'Albaesclatia et suite au Refus
-> **Décision** : tranchée avec l'auteur (session Le Fil / Le Refus d'Albaesclatia, 2026-08-02).
-> **Modifié** : précision en Déroulement qu'Akator et Mageisys n'ont pas sollicité l'accord préalable d'Albaesclatia (contrairement à Naïnrak pour les Nains) et lui ont présenté l'installation des dragons après coup ; ajout en Conséquences et Relations du lien vers [[Le Refus d'Albaesclatia]], l'épisode qui en découle.

@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786465850905-k7lan9egw",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786465850926-5ffa97f",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786465850904-hncag8l",
+      "timestamp": 1786465850904,
+      "rawDisplayText": "/creer-fiche Valkys entité Race de type ange. Base toi sur les fiches Xeros, Thanatia, La création des Limbes, et toutes les fiches où tu vois Valkys pour faire une proposition qu'on retravaillera ensemble",
+      "canonicalText": "/creer-fiche Valkys entité Race de type ange. Base toi sur les fiches Xeros, Thanatia, La création des Limbes, et toutes les fiches où tu vois Valkys pour faire une proposition qu'on retravaillera ensemble",
+      "context": {
+        "currentNote": {
+          "path": "01_Lore/Évenements/Ère Sérénale/La Création des Limbes.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "c93e7a50ce73337690722a58087329c5df9a8403eca05fe984644e574df52272",
+      "providerUserMessageId": "bad30c30-36e5-4784-95c2-fa1c1ab0218f",
+      "providerAssistantMessageId": "4b1f6a96-d0dc-4a97-9aaf-cb9152ca9b7d"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786466336287-er051ax",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786466336284-mxmb659",
+      "timestamp": 1786466336284,
+      "rawDisplayText": "1. Anges est de type races dans Anges.md 2. création ex nihilo par Xeros dans le modelage et le plans -> Albaesclatia termine la création car seulement elle à cette capacité de créer une race divine ou mortels. 3. ressemblance dans la façon qu'ils ont de s'adapter à leur environnement très rapidement. 4. entité fonctionnelle, mais peut être leur comportement sachant que c'est une race d'anges qui passent leur vie à proteger et combattre dans les Limbes. (je te laisse imaginer la \"culture\" qu'ils ont pu se créer vis à vis de cette vie qu'ils ont).",
+      "canonicalText": "1. Anges est de type races dans Anges.md 2. création ex nihilo par Xeros dans le modelage et le plans -> Albaesclatia termine la création car seulement elle à cette capacité de créer une race divine ou mortels. 3. ressemblance dans la façon qu'ils ont de s'adapter à leur environnement très rapidement. 4. entité fonctionnelle, mais peut être leur comportement sachant que c'est une race d'anges qui passent leur vie à proteger et combattre dans les Limbes. (je te laisse imaginer la \"culture\" qu'ils ont pu se créer vis à vis de cette vie qu'ils ont).",
+      "images": [],
+      "contentDigest": "aaa84cfb0f56a32a2343eed0d4cbc0aeecd1f471b0b33a4742c55a93ac9002b8",
+      "providerUserMessageId": "041f816b-1b6b-4a59-bcbe-d0741c133bb4",
+      "providerAssistantMessageId": "d71d5df6-1293-4ea2-ac3d-a1f85713fadb"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786467450725-d3lycp3",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1786467450721-2y0bip7",
+      "timestamp": 1786467450721,
+      "rawDisplayText": "Met à jours la fiche Xeros.md",
+      "canonicalText": "Met à jours la fiche Xeros.md",
+      "images": [],
+      "contentDigest": "3f7a145ad5d1c57c715ac12fb639c3670370b542404e7c547aeeaed9277086fb",
+      "providerUserMessageId": "3b5cd78e-4d02-4688-8c1c-308c03cda5ca",
+      "providerAssistantMessageId": "2a3f82a0-ef4e-4adb-b7ca-fb77edee8f6e"
+    }
+  ]
+}

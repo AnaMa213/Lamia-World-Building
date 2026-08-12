@@ -18,7 +18,31 @@ titres:
 suivants:
   - Fous
 alignement: Neutre Pur
-revision-date: 2026-07-27
+revision-date: 2026-08-12
+cr_type: person
+sex: unknown
+revision:
+cr_id: lbb-649-nvf-167
+name: Chronoversum
+born: ""
+died: ""
+father: ""
+mother: ""
+spouses: []
+children:
+  - "[[Ataraxus]]"
+  - "[[Mageisys]]"
+  - "[[Albaesclatia]]"
+  - "[[Lumina]]"
+  - "[[Naphusis]]"
+group_name: divinite
+children_id:
+  - wmz-642-cwt-213
+  - ybj-043-twy-933
+  - mzl-858-vyw-779
+  - bwu-119-nwq-933
+  - var-181-rfb-104
+root_person: true
 ---
 
 # Chronoversum
@@ -63,7 +87,7 @@ Chronoversum n'est donc pas représenté comme un dieu à visage humain, ni comm
 - [[Lumina]] et [[Albaesclatia]] — consciences éveillées lors de sa seconde émanation (voir [[La Seconde Émanation]]).
 - [[Les Songes]] — émergent dans le même mouvement que Mageisys ; substrat inconscient commun, non maîtrisé par lui (voir [[Les Songes]]).
 - [[Naphusis]] — engendrée par Chronoversum (voir [[L'Enracinement Primordial]]), à la fois par le désarroi ressenti du projet des trois dieux créateurs et par sa propre envie inconsciente de nouveauté (voir Contradictions potentielles).
-- [[Timeline Master]] — sa naissance ouvre les Temps primordiaux (« ≈ 2 milliards d'années avant Sérénale 0 »).
+- [[01_Lore/Timeline Master]] — sa naissance ouvre les Temps primordiaux (« ≈ 2 milliards d'années avant Sérénale 0 »).
 
 ## Contradictions potentielles
 
@@ -71,7 +95,7 @@ Chronoversum n'est donc pas représenté comme un dieu à visage humain, ni comm
 > **Décision** : quatre zones floues tranchées avec l'auteur (session du 2026-07-27).
 > **Modifié** : précisions ajoutées ci-dessous, sous chaque contradiction d'origine — rien supprimé.
 >
-> 1. **Origine de Naphusis** — Chronoversum confirmé géniteur direct, cohérent avec [[L'Enracinement Primordial]] et [[Timeline Master]] (déjà canon). Le brouillon [[Naphusis|Naphusis]] devra être corrigé en conséquence lors de son propre traitement (il affirme actuellement une « convergence de projet » sans mentionner Chronoversum).
+> 1. **Origine de Naphusis** — Chronoversum confirmé géniteur direct, cohérent avec [[L'Enracinement Primordial]] et [[01_Lore/Timeline Master]] (déjà canon). Le brouillon [[Naphusis|Naphusis]] devra être corrigé en conséquence lors de son propre traitement (il affirme actuellement une « convergence de projet » sans mentionner Chronoversum).
 > 2. **Origine d'Ataraxus/Mageisys** — émanations inconscientes confirmées, non délibérées. Précision : l'inconscient de Chronoversum, substrat commun avec [[Les Songes]], matérialise ses deux premières consciences. Mageisys et Les Songes naissent simultanément, juste après Ataraxus — Mageisys n'a donc jamais « créé » Les Songes au sens propre, il en émerge, ce qui explique qu'il n'en maîtrise jamais entièrement les règles. Mise à jour correspondante faite dans [[Les Songes]] et [[La Première Émanation]] (fiches canon).
 > 3. **Terminologie « ère » vs « émanation »** — « émanation » retenu pour les cycles de Chronoversum, cohérent avec les titres déjà existants ([[La Première Émanation]]/[[La Seconde Émanation]]). La prose interne de ces deux fiches emploie encore « première/deuxième ère » — sweep terminologique **non fait ici**, à traiter séparément (hors périmètre de cette session).
 > 4. **Nature panthéiste de Chronoversum** — confirmée : intangible, il *est* les dieux, les mortels, les plans — un concept-totalité plus qu'une divinité agissante, lien très faible avec les Lamiens. Cohérent avec le reste de la fiche ; reformulation du Résumé/Histoire **non faite ici** (additif uniquement) — à faire si l'auteur le souhaite.
@@ -88,3 +112,9 @@ Chronoversum n'est donc pas représenté comme un dieu à visage humain, ni comm
 > - **Origine de Naphusis** : Relations mise à jour — les deux causes (convergence du projet des trois dieux + envie inconsciente de nouveauté propre à Chronoversum) sont désormais présentées comme conjointes, non concurrentes. Détail dans [[Naphusis|Naphusis]] et [[L'Enracinement Primordial]] (mise à jour séparée).
 
 ^rev-20260727-chronoversum-arbitrages-2
+
+> [!ia-a-valider]- 2026-08-12 — Propriétés Charted Roots
+> **Décision** : demande explicite de l'auteur (session 2026-08-12). Aucun lore modifié.
+> **Ajouté en frontmatter** : `cr_type: person` · `sex: unknown` · `revision: ia-a-valider` — entité au-delà du sexe et du genre, pas de `pronouns`.
+
+^rev-20260812-charted-roots-chronoversum

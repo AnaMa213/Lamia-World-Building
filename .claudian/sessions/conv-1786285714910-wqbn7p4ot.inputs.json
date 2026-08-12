@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786285714910-wqbn7p4ot",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786285714944-a4vhlna",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786285714908-t1lzj7j",
+      "timestamp": 1786285714908,
+      "rawDisplayText": "/traiter-chantier On va se retravailler la fiche de Naïnrak. Il faudrait changer certaines choses. Déjà Les Nains, être crée par Nainrak sur la planête des Nains, étaient un peuple qui vivait en centre de la terre même. Nainrak voulait créer une proximité entre ces créations et le planête qu'il l'habitait pour créer un lien plus puissant entre-elle, Naphusis et les Nains. de l'union des Nains emergeait tous le temps deux être, une nain et Ghorrek issu de la même âme crée par Filiama. Il voulait que ces créations est toujours quelqu'un et ne ressente pas la solitude. Ce choix de les faire vivrent dans la terre même, les protegea longtemps des attaques d'Ataraxus. Même si il parvenait à faire passer ses démons dans les entrailles de la planête des Nains, les milliers de tunnels et le labyrinthes infinie leur permirent de tenir assez longtemps pour qu'une partie du peuple soit sauver par les Archanges et envoyé en refuge dans le Dibertium. (il faudrait adapter l'histoire de Nainrak avec cette nouvelle réalité des fais.",
+      "canonicalText": "/traiter-chantier On va se retravailler la fiche de Naïnrak. Il faudrait changer certaines choses. Déjà Les Nains, être crée par Nainrak sur la planête des Nains, étaient un peuple qui vivait en centre de la terre même. Nainrak voulait créer une proximité entre ces créations et le planête qu'il l'habitait pour créer un lien plus puissant entre-elle, Naphusis et les Nains. de l'union des Nains emergeait tous le temps deux être, une nain et Ghorrek issu de la même âme crée par Filiama. Il voulait que ces créations est toujours quelqu'un et ne ressente pas la solitude. Ce choix de les faire vivrent dans la terre même, les protegea longtemps des attaques d'Ataraxus. Même si il parvenait à faire passer ses démons dans les entrailles de la planête des Nains, les milliers de tunnels et le labyrinthes infinie leur permirent de tenir assez longtemps pour qu'une partie du peuple soit sauver par les Archanges et envoyé en refuge dans le Dibertium. (il faudrait adapter l'histoire de Nainrak avec cette nouvelle réalité des fais.",
+      "context": {
+        "currentNote": {
+          "path": "04_Brouillons/Naïnrak.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "df4cc88bb9adabb0a91689421fc4220cf6aed9b122a8e192d8104d33139eee72",
+      "providerUserMessageId": "6e31acb9-5709-4f87-9716-be1135411ebf",
+      "providerAssistantMessageId": "a8c0a152-6d19-4d4d-b1de-e54b9be934b3"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786287112865-zq3eo8s",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786287112862-iesc18t",
+      "timestamp": 1786287112862,
+      "rawDisplayText": "Point 1 : Lecture B. Point 2 : oui c'est bien ça, le peuple Nain réfugié sur le Dibertium a été implanté sur Lamia. Point 3 : Oui je confirme. ça ameliore peux être le choix de Nainrak qui aurait choisi lui-même les Nain qui deviendrait Gardien car il aurait pu les connaitre directement.",
+      "canonicalText": "Point 1 : Lecture B. Point 2 : oui c'est bien ça, le peuple Nain réfugié sur le Dibertium a été implanté sur Lamia. Point 3 : Oui je confirme. ça ameliore peux être le choix de Nainrak qui aurait choisi lui-même les Nain qui deviendrait Gardien car il aurait pu les connaitre directement.",
+      "images": [],
+      "contentDigest": "ab88341285b1efdd84dfce29200dd760f899dacd444c6d943f1f7b6e4e7dd2bd",
+      "providerUserMessageId": "a1e96c45-f581-4224-adb5-11d9418fb264",
+      "providerAssistantMessageId": "ecc0cf9e-9393-4f70-9fd4-b01055b83ef2"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786288466369-8mqqa17",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1786288466366-7f91d8j",
+      "timestamp": 1786288466366,
+      "rawDisplayText": "On peut traiter les chantiers crée : 1. pas de nom necessaire pour l'instant. 2. L'âme du premier rejoint l'âme du deuxième. (peut rendre plus puissant spirituellement un nain mais peut le casser mentalement). 3. Propose moi la datation des événements et fais mois des propositions des 3 événements",
+      "canonicalText": "On peut traiter les chantiers crée : 1. pas de nom necessaire pour l'instant. 2. L'âme du premier rejoint l'âme du deuxième. (peut rendre plus puissant spirituellement un nain mais peut le casser mentalement). 3. Propose moi la datation des événements et fais mois des propositions des 3 événements",
+      "images": [],
+      "contentDigest": "5a99b241880e025ef05f21fb6a9632f17ef85fdab651bc3c5c131ab4c598cb29",
+      "providerUserMessageId": "a2b1b219-5f09-4aab-b81a-809eb7c761b6",
+      "providerAssistantMessageId": "edd3b925-c0c1-4c30-a4a2-5810adde0eac"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786289279126-yvqh0ye",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1786289279122-2vs1h84",
+      "timestamp": 1786289279122,
+      "rawDisplayText": "L'évènements 2-3 peuvent être fusionné en un seul. J'ai mis à jour la timeline master. je garde uniquement  La Résistance des Entrailles. tu peux créer les fiches",
+      "canonicalText": "L'évènements 2-3 peuvent être fusionné en un seul. J'ai mis à jour la timeline master. je garde uniquement  La Résistance des Entrailles. tu peux créer les fiches",
+      "images": [],
+      "contentDigest": "95464b7725d79d8f7e6b7e2981300598f82375645ed45b1b21be892d567a4783",
+      "providerUserMessageId": "9d6ebe21-6b17-4ab1-89d1-8214fc4b7bca",
+      "providerAssistantMessageId": "94a42c60-5731-45b9-981f-750246d9f31e"
+    }
+  ]
+}

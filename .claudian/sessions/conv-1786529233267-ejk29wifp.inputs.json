@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786529233267-ejk29wifp",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786529233299-8y46cvh",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786529233266-8orzzuo",
+      "timestamp": 1786529233266,
+      "rawDisplayText": "J'ai installer Charted Roots comme plugin Obsidian, et j'aimerai ajouter toutes les properties essentiels au Divinités dans 01_Lore/Divinités pour les rendre compatible avec Charted Roots, tu peux faire ça ?",
+      "canonicalText": "J'ai installer Charted Roots comme plugin Obsidian, et j'aimerai ajouter toutes les properties essentiels au Divinités dans 01_Lore/Divinités pour les rendre compatible avec Charted Roots, tu peux faire ça ?",
+      "images": [],
+      "contentDigest": "2b331eb7003042effc8ea8b8b3a2862e666dda7e0874c2a7d51e45c76697dae8",
+      "providerUserMessageId": "d7f5c4d9-eea7-49eb-a55d-e13c655d1528"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786530212942-za4592d",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786530212938-wshhcy9",
+      "timestamp": 1786530212938,
+      "rawDisplayText": "il faudrait leur placer à chacun le group_name : divinite, tous les Archanges on comme proprieté mother et father: Albaesclatia, les dieux primordiaux on comme father et mother : Chronoversum. Il faudra également dans children référencer les enfants de Chronoversum et de Albaesclatia.",
+      "canonicalText": "il faudrait leur placer à chacun le group_name : divinite, tous les Archanges on comme proprieté mother et father: Albaesclatia, les dieux primordiaux on comme father et mother : Chronoversum. Il faudra également dans children référencer les enfants de Chronoversum et de Albaesclatia.",
+      "images": [],
+      "contentDigest": "067b65d927168297e6fa9e0e72674db9c1b5bad295e80052d1460e5bfd7ee010",
+      "providerUserMessageId": "2204d8d2-d251-4bb2-8fcc-76fb321439af",
+      "providerAssistantMessageId": "c90e1e05-297c-42f7-b5c2-758ba8b5737c"
+    }
+  ]
+}

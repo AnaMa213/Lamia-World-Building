@@ -4,7 +4,7 @@ source: auteur
 type: evenement
 importance: majeur
 ere: primordial
-annee: inconnu
+annee: -50 000 AS
 annee_debut:
 annee_fin:
 tags:
@@ -47,6 +47,6 @@ Fait probablement connu en interne du Conseil de l'époque ; sans indication de 
 
 ## Contradictions potentielles
 
-**Aucune contradiction relevée.** Cohérent avec l'entrée déjà existante dans [[Timeline Master]] (« ≈ 50 milles ans avant Sérénale 0 »).
+**Aucune contradiction relevée.** Cohérent avec l'entrée déjà existante dans [[01_Lore/Timeline Master]] (« ≈ 50 milles ans avant Sérénale 0 »).
 
 **Nature exacte des divergences non précisée.** Le texte source ne détaille pas quelles visions s'opposent précisément — zone floue mineure, à développer si tu veux enrichir cette période.

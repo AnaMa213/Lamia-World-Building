@@ -12,7 +12,7 @@ entites_liees:
   - "[[La Semence Cachée]]"
   - "[[Le Larcin de Mageisys]]"
   - "[[Les Songes]]"
-  - "[[2026-07-12 — Proposition — Migration Naïnrak|Naïnrak]]"
+  - "[[Naïnrak|Naïnrak]]"
   - "[[Oneira|Oneira]]"
   - "[[Maurtria|Maurtria]]"
   - "[[Mageisys|Mageisys]]"
@@ -40,7 +40,7 @@ Vérifier / retravailler la cohérence des trois mécanismes de dissimulation de
 - [[La Semence Cachée]] / [[Le Larcin de Mageisys]] : précédent déjà établi qu'une part de l'essence de l'ange Lamia a pu résister à la dissolution normale d'une âme, préservée intacte par Mageisys avant même la formation de Lamia.
 - [[Le Cycle des Âmes]] : mécanisme normal de naissance/mort des âmes lamiennes via les Limbes jusqu'à Filiama ; Alketeria filtre la noirceur à l'arrivée, pas la densité d'une essence étrangère ; Aion peut intercepter des âmes exceptionnelles.
 - Archive non-canon (`Genèse de l'univers de Lamia`, section « Les deux premières consciences ») : Mageisys aurait créé un « plan immatériel » dès l'aube des temps pour y laisser vagabonder son esprit — jamais nommé ni relié à Oneira ailleurs avant cette session.
-- Brouillons divinités mobilisés (non migrés) : [[2026-07-12 — Proposition — Migration Naïnrak|Naïnrak]], [[Oneira|Oneira]], [[Maurtria|Maurtria]], [[Mageisys|Mageisys]].
+- Brouillons divinités mobilisés (non migrés) : [[Naïnrak|Naïnrak]], [[Oneira|Oneira]], [[Maurtria|Maurtria]], [[Mageisys|Mageisys]].
 
 ## Pistes explorées
 

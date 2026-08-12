@@ -4,7 +4,7 @@ source: auteur
 type: evenement
 importance: mineur
 ere: serenale
-annee: 1200
+annee: ≈ 1200 ES
 annee_debut:
 annee_fin:
 tags:

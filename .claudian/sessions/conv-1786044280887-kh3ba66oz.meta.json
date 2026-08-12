@@ -1,0 +1,15 @@
+{
+  "id": "conv-1786044280887-kh3ba66oz",
+  "providerId": "claude",
+  "title": "Charger /brainstorm-lore via MCP Obsidian local",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786044280889,
+  "lastActivityAt": 1786044280889,
+  "sessionId": "9022c360-f18c-4a28-9ca9-6da6b8222c21",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "9022c360-f18c-4a28-9ca9-6da6b8222c21"
+  },
+  "isPinned": false,
+  "isArchived": true
+}

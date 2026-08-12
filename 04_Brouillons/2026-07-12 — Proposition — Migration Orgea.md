@@ -27,7 +27,7 @@ Orgea, déesse de l'amour et de la sexualité, se distinguait des autres archang
 
 Orgea est la déesse de l'amour, de la sexualité, du désir et de la connexion des corps. Parmi les Archanges du Conseil, elle se distinguait par un lien particulièrement puissant avec les émotions, les plaisirs charnels et les aspects les plus physiques du [[Plan des Mondes]]. Là où certains de ses frères et sœurs regardaient les mortels à travers la guerre, le savoir, la loi ou le destin, Orgea percevait d'abord l'intensité des liens : l'attirance, la tendresse, l'étreinte, la filiation, la passion et le besoin d'être reconnu par un autre.
 
-Au début de l'Ère Sérénale, les premiers habitants de [[Lamia]] ne comprenaient pas encore toute l'importance de la reproduction. Les races mortelles façonnées par [[Albaesclatia]] étaient parmi les premières créatures de l'univers capables de perpétuer la vie par elles-mêmes, sans intervention divine directe. Pourtant, cette capacité demeurait incomplètement comprise par les [[Humains]] et les [[Elfes]].
+Au début de l'Ère Sérénale, les premiers habitants de [[Lamia]] ne comprenaient pas encore toute l'importance de la reproduction. Les races mortelles façonnées par [[Albaesclatia]] étaient parmi les premières créatures de l'univers capables de perpétuer la vie par elles-mêmes, sans intervention divine directe. Pourtant, cette capacité demeurait incomplètement comprise par les [[Humains - old]] et les [[Elfes]].
 
 Ces premiers peuples, bons et curieux, avaient été créés sans distinction sexuée comparable à celle qui existerait plus tard. Leur rapport à la continuité de l'espèce restait abstrait. Ils pouvaient vivre, apprendre, aimer et bâtir, mais ils ne saisissaient pas encore que l'union entre deux individus pouvait donner naissance à une descendance. Cette ignorance, mêlée à une absence d'élan vers la reproduction, menaçait à terme la survie de leurs peuples.
 
@@ -112,12 +112,12 @@ Orgea n'est pas aveugle à cette déviation, mais elle peut avoir du mal à la c
 - [[Albaesclatia]] — sa famille divine ; introduit la différenciation sexuée chez les peuples qu'Albaesclatia a créés.
 - [[Lumina]] — alliée dans la tentative de réconcilier le Conseil, malgré des visions différentes (justice/lumière vs lien/désir).
 - [[Laxius]] — se sert de la corruption du désir qu'elle a offert pour manipuler des êtres faibles.
-- [[Humains]] / [[Elfes]] — peuples chez qui elle introduit la différenciation sexuée et le plaisir lié à la reproduction.
+- [[Humains - old]] / [[Elfes]] — peuples chez qui elle introduit la différenciation sexuée et le plaisir lié à la reproduction.
 
 ## Contradictions potentielles
 
-⚠️ **Introduction de la différenciation sexuée : à recouper avec la fiche [[Albaesclatia]] (déjà migrée).** Cette fiche attribue à Orgea, et non à Albaesclatia, la division des premiers peuples lamiens en mâles et femelles — un acte de création fondamental qui n'est pas mentionné dans la fiche d'Albaesclatia (qui parle d'êtres « capables de procréer, de transmettre leurs traits » sans préciser ce mécanisme). Les deux récits sont conciliables (Albaesclatia donne la capacité générale à la vie de se perpétuer ; Orgea ajoute la différenciation sexuée et le plaisir partagé), mais cette articulation n'est explicitée nulle part. À clarifier, notamment pour toute future fiche sur les [[Humains]] ou les [[Elfes]].
+⚠️ **Introduction de la différenciation sexuée : à recouper avec la fiche [[Albaesclatia]] (déjà migrée).** Cette fiche attribue à Orgea, et non à Albaesclatia, la division des premiers peuples lamiens en mâles et femelles — un acte de création fondamental qui n'est pas mentionné dans la fiche d'Albaesclatia (qui parle d'êtres « capables de procréer, de transmettre leurs traits » sans préciser ce mécanisme). Les deux récits sont conciliables (Albaesclatia donne la capacité générale à la vie de se perpétuer ; Orgea ajoute la différenciation sexuée et le plaisir partagé), mais cette articulation n'est explicitée nulle part. À clarifier, notamment pour toute future fiche sur les [[Humains - old]] ou les [[Elfes]].
 
 **`titres` absent de la source (non contradictoire).** Reconstruit directement à partir du texte plutôt que d'inventer un titre non attesté ; `suivants` laissé vide, faute de base textuelle.
 
-**Datation absente pour l'introduction de la différenciation sexuée.** Située « au début de l'Ère Sérénale » — cohérent mais non chiffré ; à vérifier/créer dans [[Timeline Master]].
+**Datation absente pour l'introduction de la différenciation sexuée.** Située « au début de l'Ère Sérénale » — cohérent mais non chiffré ; à vérifier/créer dans [[01_Lore/Timeline Master]].

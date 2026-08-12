@@ -1,0 +1,215 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786293415890-ldp4zbae6",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786293415904-96xsr5w",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786293415888-4pvujis",
+      "timestamp": 1786293415888,
+      "rawDisplayText": "/creer-fiche Créeons ensemble la fiche des Nains.",
+      "canonicalText": "/creer-fiche Créeons ensemble la fiche des Nains.",
+      "context": {
+        "currentNote": {
+          "path": "01_Lore/Évenements/Ère Sérénale/La Garde du Cœur.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "402176e1f48c92daab8c9d269af3886741d555e110454dcda676dcc125748f27",
+      "providerUserMessageId": "3b9fcca3-ad6e-4fab-964a-13027399bbb9",
+      "providerAssistantMessageId": "b969a165-8b1b-44e2-8711-c1445c8bd404"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786300399120-97jk42w",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786300399117-g32wlbs",
+      "timestamp": 1786300399117,
+      "rawDisplayText": "1. Il s'agit d'une race 2. Fiche séparée Race également.",
+      "canonicalText": "1. Il s'agit d'une race 2. Fiche séparée Race également.",
+      "images": [],
+      "contentDigest": "84429b5019ed7b4b55363d3e97e0531ee6010a41c4ba87f8962aff6f84d78c44",
+      "providerUserMessageId": "70c1d34e-e125-4224-9794-d536f827ddd5",
+      "providerAssistantMessageId": "aab37f19-b011-464a-9229-f6985c4f8bf7"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786300814652-03xk025",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1786300814649-fy5p4j9",
+      "timestamp": 1786300814649,
+      "rawDisplayText": "Pas mal oui, du point de vue des Nains , c'est de l'intérieur mais c'est effectivement à cause de Maurtria dans l'ombre. Les Nains pendant l'ère du Voile est une peuple qui vivent dans les montagnes (en leur seins) et la surface mais assez peu. Ils vivent très longtemps mais se reproduisent beaucoup moins que les Humains/Elfes (ils n'ont pas eu le même modèle de reproduction que les animaux ou les Humains, et ne se la reproduction est moins naturel et lié au plaisir pour eux. Cette natalité faible est composé par leur longue longévité de plus de 3 siècles. (graçe à ça ils ont une croissance presque similaire au humains si on regarde le nombre d'être vivant encore en vie sur 1 ou 2 siècle).",
+      "canonicalText": "Pas mal oui, du point de vue des Nains , c'est de l'intérieur mais c'est effectivement à cause de Maurtria dans l'ombre. Les Nains pendant l'ère du Voile est une peuple qui vivent dans les montagnes (en leur seins) et la surface mais assez peu. Ils vivent très longtemps mais se reproduisent beaucoup moins que les Humains/Elfes (ils n'ont pas eu le même modèle de reproduction que les animaux ou les Humains, et ne se la reproduction est moins naturel et lié au plaisir pour eux. Cette natalité faible est composé par leur longue longévité de plus de 3 siècles. (graçe à ça ils ont une croissance presque similaire au humains si on regarde le nombre d'être vivant encore en vie sur 1 ou 2 siècle).",
+      "images": [],
+      "contentDigest": "415bd5ddf5aa69a512b65b4b7cd0e4ee6c059aa9e2b891812c89f6a83b23a6f4",
+      "providerUserMessageId": "97b56af0-97c8-40a5-a34a-6c6bfece5bb5",
+      "providerAssistantMessageId": "7552e0e5-1e06-46e9-92c4-d45372995c12"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786304710759-g9d1ouc",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1786304710753-h6ff49m",
+      "timestamp": 1786304710753,
+      "rawDisplayText": "Voici une exemple de descritpion d'un nain : L’humanoïde présente une anatomie très nettement hominine : station bipède, cage thoracique humaine, bassin apparemment adapté à la marche verticale, mains préhensiles à cinq doigts, membres articulés selon un plan humain et tête portée verticalement au-dessus du tronc. Il ne s’agit pas d’un hybride homme-taupe au sens anatomique. Malgré son environnement souterrain et son association avec l’animal fouisseur, son corps reste fondamentalement celui d’un primate bipède intelligent.\n\nSa silhouette est extrêmement compacte. Le thorax est profond, large dans sa partie supérieure et relativement long par rapport aux jambes. Les épaules sont puissantes sans atteindre des proportions aberrantes ; elles prolongent un cou court et épais qui donne l’impression que la tête est presque enchâssée dans la ceinture scapulaire. Le bassin et la taille paraissent également larges. L’ensemble produit un centre de gravité bas, particulièrement avantageux pour conserver son équilibre sur des éboulis, dans des galeries inclinées ou lorsqu’il doit exercer une force importante contre une paroi.\n\nLa stature exacte est impossible à établir faute d'objet de dimensions connues. Les proportions suggèrent néanmoins un humanoïde sensiblement plus petit et plus trapu qu’un humain moyen. Ce raccourcissement semble surtout concerner les membres inférieurs : les cuisses et les jambes sont relativement courtes par rapport au tronc. Les bras sont proportionnellement plus longs et particulièrement robustes. Ce n'est donc pas simplement un humain miniaturisé : les proportions générales semblent favoriser la stabilité, la traction et la manipulation de charges.\n\nLa musculature est massive mais crédible. Les muscles les plus développés semblent être ceux des épaules, des bras, des avant-bras, du dos et des cuisses. Cette distribution serait cohérente avec un individu grimpant fréquemment, déplaçant des charges, travaillant à proximité du sol ou se stabilisant contre des parois irrégulières. Rien dans l'image ne suggère les adaptations extrêmes d'un mammifère véritablement fouisseur : il n'a ni humérus hypertrophiés comme certaines taupes, ni membres antérieurs transformés en véritables pelles. Sa morphologie paraît plutôt adaptée au déplacement dans les souterrains qu'au creusement direct de tunnels.\n\nLes mains constituent l'un de ses caractères les plus intéressants. Elles sont très larges, avec une paume épaisse et des doigts relativement courts et puissants. Les articulations interphalangiennes sont volumineuses et les phalanges paraissent robustes. Cette architecture favoriserait une forte prise de puissance : agripper des arêtes rocheuses, maintenir un outil lourd ou retenir son corps sur un terrain instable. Les doigts restent cependant suffisamment individualisés pour permettre une manipulation précise, indispensable à une espèce technologiquement développée. Les ongles paraissent épais mais restent des ongles plutôt que des griffes.\n\nSes membres inférieurs sont courts et très solides. Les genoux semblent volumineux et profondément intégrés à une musculature dense. Les pieds sont presque entièrement masqués par l'équipement, mais leur position suggère une base d'appui large. Biologiquement, une telle morphologie demanderait probablement des articulations de cheville et de genou très résistantes aux charges répétées et aux mouvements effectués en flexion. L'individu adopte d'ailleurs naturellement une posture semi-fléchie plutôt qu'une extension complète des jambes.\n\nLa tête reste profondément humaine mais possède plusieurs caractéristiques accentuées. Le crâne semble large, avec une face relativement grande par rapport à la boîte crânienne visible. Les arcades sourcilières sont marquées et les yeux sont profondément enchâssés dans les orbites. Cette disposition protège mécaniquement les globes oculaires, même s'il serait excessif d'affirmer qu'elle constitue spécifiquement une adaptation souterraine.\n\nLe nez est particulièrement développé, long, large à sa base et projeté vers l'avant. Une cavité nasale importante pourrait, dans une reconstruction biologique de cette espèce, permettre une muqueuse nasale étendue. Celle-ci pourrait contribuer au réchauffement, à l'humidification et au filtrage de l'air chargé de poussières. En revanche, l'illustration ne permet évidemment pas de vérifier la structure interne du nez ni les capacités olfactives de l'individu.\n\nLes yeux sont relativement petits par rapport au visage mais ne montrent aucune régression. C'est un point important : cette créature n'a pas l'apparence d'une espèce ayant vécu pendant des millions d'années dans une obscurité absolue. Les yeux sont fonctionnels, orientés vers l'avant et paraissent capables d'une vision précise. Si son environnement souterrain possède des sources lumineuses régulières — feu, lave, organismes lumineux ou éclairage artificiel — le maintien d'un système visuel développé est parfaitement cohérent. On pourrait imaginer de grandes pupilles, une forte sensibilité rétinienne ou une bonne adaptation aux faibles éclairements, mais ces caractéristiques ne sont pas déterminables sur l'image.\n\nLes oreilles sont relativement grandes et légèrement projetées latéralement. Leur partie supérieure paraît quelque peu allongée, mais leur architecture générale reste celle d'un pavillon auriculaire humain. Une audition performante serait biologiquement pertinente dans un environnement où les sons, vibrations et échos transportent énormément d'informations, mais l'image ne permet pas d'établir que son oreille interne diffère de celle d'un humain.\n\nLa peau est sombre, brun grisâtre, extrêmement texturée et épaisse en apparence. Elle présente des rides profondes, notamment autour du front, des yeux, du nez et des mains. Elle semble également sèche et relativement peu grasse. Il faut toutefois être prudent : une partie importante de cet aspect peut provenir de l'âge du personnage, de la poussière, de la suie et de la direction de l'éclairage. Une peau sombre n'est d'ailleurs pas ce que l'on attendrait automatiquement d'une population vivant dans l'obscurité complète ; dans cet univers, sa pigmentation pourrait avoir d'autres fonctions, être héritée de populations ancestrales ou simplement ne plus subir une forte sélection liée aux ultraviolets.\n\nLa pilosité est extrêmement développée sur le visage. Une barbe très dense couvre les joues, le menton et une grande partie du cou. Les cheveux sont également épais et abondants. On ne peut cependant pas déterminer si cette pilosité est caractéristique de toute l'espèce, du sexe de cet individu, de son âge ou simplement d'un choix culturel. Elle pourrait éventuellement jouer un rôle mineur de protection contre la poussière ou le froid, mais il serait biologiquement abusif de lui attribuer cette fonction à partir de l'image seule.\n\nSon visage montre également des signes compatibles avec un individu adulte relativement âgé : plis nasogéniens profonds, rides frontales, relâchement léger de certaines régions faciales et texture cutanée irrégulière. Il ne paraît toutefois pas sénescent. La musculature et la posture indiquent encore une excellente capacité physique. Chez cette espèce, cela pourrait correspondre à un adulte mature plutôt qu'à un individu véritablement vieux.\n\nLe système musculo-squelettique implicite serait probablement remarquable. Pour qu'un corps aussi compact supporte cette quantité de masse musculaire tout en se déplaçant efficacement sur un terrain rocheux, il faudrait un squelette relativement robuste : os longs épais, articulations larges, insertions musculaires importantes et colonne vertébrale capable d'encaisser des forces de compression élevées. Cela ne signifie pas nécessairement des os beaucoup plus denses que ceux des humains ; une augmentation du diamètre des os suffit déjà à accroître fortement leur résistance mécanique.\n\nSa cage thoracique volumineuse pourrait également laisser davantage d'espace aux poumons et au cœur. Dans une interprétation biologique spéculative, ce serait intéressant pour une population effectuant beaucoup d'efforts physiques dans des galeries où la qualité de l'air peut être variable. Mais il faut souligner qu'un grand thorax ne prouve pas automatiquement une capacité pulmonaire supérieure : la musculature, la graisse et la forme du squelette contribuent également au volume apparent.\n\nUn autre élément frappant est l'absence de caractéristiques « cavernicoles » extrêmes. Il n'est ni aveugle, ni dépigmenté, ni gracile, ni doté de membres tactiles hypertrophiés. Cela donne l'image d'une espèce qui n'a probablement pas évolué dans une obscurité totale et stable, mais plutôt dans un milieu souterrain complexe où la lumière, les déplacements sur roche, les outils et les interactions sociales sont restés importants. Biologiquement, c'est beaucoup plus proche d'un hominine spécialisé dans la vie cavernicole que d'un véritable mammifère troglobie.\n\nEnfin, son comportement corporel révèle quelque chose de son adaptation. Il est agenouillé ou accroupi sur un terrain extrêmement irrégulier sans paraître déséquilibré. Une main repose fermement sur la roche tandis que l'autre est posée sur l'animal. Il combine donc facilement stabilité quadripodale occasionnelle et posture bipède. Pour une espèce évoluant dans des réseaux de cavernes, cette capacité à utiliser les mains comme points d'appui sans abandonner durablement la bipédie serait particulièrement efficace.\n\nEn synthèse, je décrirais biologiquement cette créature comme un petit hominine cavernicole extrêmement robuste : tronc profond, membres inférieurs raccourcis, membres supérieurs puissants, grandes mains préhensiles, centre de gravité bas, musculature dense, visage robuste et sens probablement encore fortement dominés par la vision, l'audition et le toucher. Le point le plus crédible de son design est justement qu'il ne cherche pas à transformer l'humanoïde en « taupe humaine » : la taupe semble occuper la niche du véritable excavateur, tandis que l'humanoïde conserve les spécialisations qui font la force d'un organisme intelligent — locomotion polyvalente, mains précises, endurance, perception et utilisation d'outils.",
+      "canonicalText": "Voici une exemple de descritpion d'un nain : L’humanoïde présente une anatomie très nettement hominine : station bipède, cage thoracique humaine, bassin apparemment adapté à la marche verticale, mains préhensiles à cinq doigts, membres articulés selon un plan humain et tête portée verticalement au-dessus du tronc. Il ne s’agit pas d’un hybride homme-taupe au sens anatomique. Malgré son environnement souterrain et son association avec l’animal fouisseur, son corps reste fondamentalement celui d’un primate bipède intelligent.\n\nSa silhouette est extrêmement compacte. Le thorax est profond, large dans sa partie supérieure et relativement long par rapport aux jambes. Les épaules sont puissantes sans atteindre des proportions aberrantes ; elles prolongent un cou court et épais qui donne l’impression que la tête est presque enchâssée dans la ceinture scapulaire. Le bassin et la taille paraissent également larges. L’ensemble produit un centre de gravité bas, particulièrement avantageux pour conserver son équilibre sur des éboulis, dans des galeries inclinées ou lorsqu’il doit exercer une force importante contre une paroi.\n\nLa stature exacte est impossible à établir faute d'objet de dimensions connues. Les proportions suggèrent néanmoins un humanoïde sensiblement plus petit et plus trapu qu’un humain moyen. Ce raccourcissement semble surtout concerner les membres inférieurs : les cuisses et les jambes sont relativement courtes par rapport au tronc. Les bras sont proportionnellement plus longs et particulièrement robustes. Ce n'est donc pas simplement un humain miniaturisé : les proportions générales semblent favoriser la stabilité, la traction et la manipulation de charges.\n\nLa musculature est massive mais crédible. Les muscles les plus développés semblent être ceux des épaules, des bras, des avant-bras, du dos et des cuisses. Cette distribution serait cohérente avec un individu grimpant fréquemment, déplaçant des charges, travaillant à proximité du sol ou se stabilisant contre des parois irrégulières. Rien dans l'image ne suggère les adaptations extrêmes d'un mammifère véritablement fouisseur : il n'a ni humérus hypertrophiés comme certaines taupes, ni membres antérieurs transformés en véritables pelles. Sa morphologie paraît plutôt adaptée au déplacement dans les souterrains qu'au creusement direct de tunnels.\n\nLes mains constituent l'un de ses caractères les plus intéressants. Elles sont très larges, avec une paume épaisse et des doigts relativement courts et puissants. Les articulations interphalangiennes sont volumineuses et les phalanges paraissent robustes. Cette architecture favoriserait une forte prise de puissance : agripper des arêtes rocheuses, maintenir un outil lourd ou retenir son corps sur un terrain instable. Les doigts restent cependant suffisamment individualisés pour permettre une manipulation précise, indispensable à une espèce technologiquement développée. Les ongles paraissent épais mais restent des ongles plutôt que des griffes.\n\nSes membres inférieurs sont courts et très solides. Les genoux semblent volumineux et profondément intégrés à une musculature dense. Les pieds sont presque entièrement masqués par l'équipement, mais leur position suggère une base d'appui large. Biologiquement, une telle morphologie demanderait probablement des articulations de cheville et de genou très résistantes aux charges répétées et aux mouvements effectués en flexion. L'individu adopte d'ailleurs naturellement une posture semi-fléchie plutôt qu'une extension complète des jambes.\n\nLa tête reste profondément humaine mais possède plusieurs caractéristiques accentuées. Le crâne semble large, avec une face relativement grande par rapport à la boîte crânienne visible. Les arcades sourcilières sont marquées et les yeux sont profondément enchâssés dans les orbites. Cette disposition protège mécaniquement les globes oculaires, même s'il serait excessif d'affirmer qu'elle constitue spécifiquement une adaptation souterraine.\n\nLe nez est particulièrement développé, long, large à sa base et projeté vers l'avant. Une cavité nasale importante pourrait, dans une reconstruction biologique de cette espèce, permettre une muqueuse nasale étendue. Celle-ci pourrait contribuer au réchauffement, à l'humidification et au filtrage de l'air chargé de poussières. En revanche, l'illustration ne permet évidemment pas de vérifier la structure interne du nez ni les capacités olfactives de l'individu.\n\nLes yeux sont relativement petits par rapport au visage mais ne montrent aucune régression. C'est un point important : cette créature n'a pas l'apparence d'une espèce ayant vécu pendant des millions d'années dans une obscurité absolue. Les yeux sont fonctionnels, orientés vers l'avant et paraissent capables d'une vision précise. Si son environnement souterrain possède des sources lumineuses régulières — feu, lave, organismes lumineux ou éclairage artificiel — le maintien d'un système visuel développé est parfaitement cohérent. On pourrait imaginer de grandes pupilles, une forte sensibilité rétinienne ou une bonne adaptation aux faibles éclairements, mais ces caractéristiques ne sont pas déterminables sur l'image.\n\nLes oreilles sont relativement grandes et légèrement projetées latéralement. Leur partie supérieure paraît quelque peu allongée, mais leur architecture générale reste celle d'un pavillon auriculaire humain. Une audition performante serait biologiquement pertinente dans un environnement où les sons, vibrations et échos transportent énormément d'informations, mais l'image ne permet pas d'établir que son oreille interne diffère de celle d'un humain.\n\nLa peau est sombre, brun grisâtre, extrêmement texturée et épaisse en apparence. Elle présente des rides profondes, notamment autour du front, des yeux, du nez et des mains. Elle semble également sèche et relativement peu grasse. Il faut toutefois être prudent : une partie importante de cet aspect peut provenir de l'âge du personnage, de la poussière, de la suie et de la direction de l'éclairage. Une peau sombre n'est d'ailleurs pas ce que l'on attendrait automatiquement d'une population vivant dans l'obscurité complète ; dans cet univers, sa pigmentation pourrait avoir d'autres fonctions, être héritée de populations ancestrales ou simplement ne plus subir une forte sélection liée aux ultraviolets.\n\nLa pilosité est extrêmement développée sur le visage. Une barbe très dense couvre les joues, le menton et une grande partie du cou. Les cheveux sont également épais et abondants. On ne peut cependant pas déterminer si cette pilosité est caractéristique de toute l'espèce, du sexe de cet individu, de son âge ou simplement d'un choix culturel. Elle pourrait éventuellement jouer un rôle mineur de protection contre la poussière ou le froid, mais il serait biologiquement abusif de lui attribuer cette fonction à partir de l'image seule.\n\nSon visage montre également des signes compatibles avec un individu adulte relativement âgé : plis nasogéniens profonds, rides frontales, relâchement léger de certaines régions faciales et texture cutanée irrégulière. Il ne paraît toutefois pas sénescent. La musculature et la posture indiquent encore une excellente capacité physique. Chez cette espèce, cela pourrait correspondre à un adulte mature plutôt qu'à un individu véritablement vieux.\n\nLe système musculo-squelettique implicite serait probablement remarquable. Pour qu'un corps aussi compact supporte cette quantité de masse musculaire tout en se déplaçant efficacement sur un terrain rocheux, il faudrait un squelette relativement robuste : os longs épais, articulations larges, insertions musculaires importantes et colonne vertébrale capable d'encaisser des forces de compression élevées. Cela ne signifie pas nécessairement des os beaucoup plus denses que ceux des humains ; une augmentation du diamètre des os suffit déjà à accroître fortement leur résistance mécanique.\n\nSa cage thoracique volumineuse pourrait également laisser davantage d'espace aux poumons et au cœur. Dans une interprétation biologique spéculative, ce serait intéressant pour une population effectuant beaucoup d'efforts physiques dans des galeries où la qualité de l'air peut être variable. Mais il faut souligner qu'un grand thorax ne prouve pas automatiquement une capacité pulmonaire supérieure : la musculature, la graisse et la forme du squelette contribuent également au volume apparent.\n\nUn autre élément frappant est l'absence de caractéristiques « cavernicoles » extrêmes. Il n'est ni aveugle, ni dépigmenté, ni gracile, ni doté de membres tactiles hypertrophiés. Cela donne l'image d'une espèce qui n'a probablement pas évolué dans une obscurité totale et stable, mais plutôt dans un milieu souterrain complexe où la lumière, les déplacements sur roche, les outils et les interactions sociales sont restés importants. Biologiquement, c'est beaucoup plus proche d'un hominine spécialisé dans la vie cavernicole que d'un véritable mammifère troglobie.\n\nEnfin, son comportement corporel révèle quelque chose de son adaptation. Il est agenouillé ou accroupi sur un terrain extrêmement irrégulier sans paraître déséquilibré. Une main repose fermement sur la roche tandis que l'autre est posée sur l'animal. Il combine donc facilement stabilité quadripodale occasionnelle et posture bipède. Pour une espèce évoluant dans des réseaux de cavernes, cette capacité à utiliser les mains comme points d'appui sans abandonner durablement la bipédie serait particulièrement efficace.\n\nEn synthèse, je décrirais biologiquement cette créature comme un petit hominine cavernicole extrêmement robuste : tronc profond, membres inférieurs raccourcis, membres supérieurs puissants, grandes mains préhensiles, centre de gravité bas, musculature dense, visage robuste et sens probablement encore fortement dominés par la vision, l'audition et le toucher. Le point le plus crédible de son design est justement qu'il ne cherche pas à transformer l'humanoïde en « taupe humaine » : la taupe semble occuper la niche du véritable excavateur, tandis que l'humanoïde conserve les spécialisations qui font la force d'un organisme intelligent — locomotion polyvalente, mains précises, endurance, perception et utilisation d'outils.",
+      "context": {
+        "editorSelection": {
+          "notePath": "01_Lore/Timeline Master.md",
+          "mode": "selection",
+          "selectedText": "\n*Naissance et développement des peuples lamiens. La Grande Guerre divine éclate vers ≈ 1000 mais épargne longtemps Lamia — sans pour autant s'arrêter là : elle continue de faire rage sur d'innombrables autres mondes, dispersant durablement les forces du Conseil.*\n\n- **0** · [MAJEUR] — Apparition ou création des premiers peuples lamiens.\n- **≈ 100–500** · [MAJEUR] — Premières cités elfes et humaines, en lien direct avec ",
+          "lineCount": 5,
+          "startLine": 47
+        }
+      },
+      "images": [],
+      "contentDigest": "c78745365a68870cc4070e2d0346f17cf223b6de640d61784cb26a38c0b4515e",
+      "providerUserMessageId": "8a724018-724e-464c-8370-54bc6ca8ad45",
+      "providerAssistantMessageId": "41fb3ec7-b910-4b6c-ab18-416ab6b806b6"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786307794548-iof7ilw",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1786307794543-uu2x8o2",
+      "timestamp": 1786307794543,
+      "rawDisplayText": "B - Les Nains ne peuvent pas pratiquer la magie mageysienne ou élémentaire mais on une affinité avec le Fil et Nainrak et leur capacité physique leur permettent de compenser ce manque.",
+      "canonicalText": "B - Les Nains ne peuvent pas pratiquer la magie mageysienne ou élémentaire mais on une affinité avec le Fil et Nainrak et leur capacité physique leur permettent de compenser ce manque.",
+      "context": {
+        "editorSelection": {
+          "notePath": "01_Lore/Timeline Master.md",
+          "mode": "selection",
+          "selectedText": "\n*Naissance et développement des peuples lamiens. La Grande Guerre divine éclate vers ≈ 1000 mais épargne longtemps Lamia — sans pour autant s'arrêter là : elle continue de faire rage sur d'innombrables autres mondes, dispersant durablement les forces du Conseil.*\n\n- **0** · [MAJEUR] — Apparition ou création des premiers peuples lamiens.\n- **≈ 100–500** · [MAJEUR] — Premières cités elfes et humaines, en lien direct avec ",
+          "lineCount": 5,
+          "startLine": 47
+        }
+      },
+      "images": [],
+      "contentDigest": "ca09d934304c705122f0b27785f9951f8351de5c0c59c1c366ee60650dc6744b",
+      "providerUserMessageId": "5e600550-df6f-4bc9-8389-8c7734552914",
+      "providerAssistantMessageId": "1a188554-8e52-4877-95cc-26367d9646c8"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786307967856-oqonm2o",
+      "userTurnOrdinal": 6,
+      "state": "accepted",
+      "localMessageId": "msg-1786307967852-ghmg2sa",
+      "timestamp": 1786307967852,
+      "rawDisplayText": "Ajoute, qu'ils ont développé une capacité de fusion avec leur Ghorrek avec de l'entrainement qui les rends très puissants pendant un court ibnstant où il fussionne",
+      "canonicalText": "Ajoute, qu'ils ont développé une capacité de fusion avec leur Ghorrek avec de l'entrainement qui les rends très puissants pendant un court ibnstant où il fussionne",
+      "context": {
+        "editorSelection": {
+          "notePath": "01_Lore/Timeline Master.md",
+          "mode": "selection",
+          "selectedText": "\n*Naissance et développement des peuples lamiens. La Grande Guerre divine éclate vers ≈ 1000 mais épargne longtemps Lamia — sans pour autant s'arrêter là : elle continue de faire rage sur d'innombrables autres mondes, dispersant durablement les forces du Conseil.*\n\n- **0** · [MAJEUR] — Apparition ou création des premiers peuples lamiens.\n- **≈ 100–500** · [MAJEUR] — Premières cités elfes et humaines, en lien direct avec ",
+          "lineCount": 5,
+          "startLine": 47
+        }
+      },
+      "images": [],
+      "contentDigest": "21db4d930a294d1750c31cab99f18dec844e45faa22166929666b940e37fc620",
+      "providerUserMessageId": "ef232d07-e654-4176-9664-ae35335f492f",
+      "providerAssistantMessageId": "74f353a2-b388-4e00-aa9a-067926e0b82d"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786311200566-8i71ylb",
+      "userTurnOrdinal": 7,
+      "state": "accepted",
+      "localMessageId": "msg-1786311200561-bqjpsqp",
+      "timestamp": 1786311200561,
+      "rawDisplayText": "1. La fusion donne un espect animale au nain entre le ghorrek et le nain justement. Donc un Humanoïde bipede mais presque à quatre pattes avec des traits de Ghorrek, (Les Ghorrek ressemble à de grand primates melangé avec une taupes sans pour autant ressembler au animaux de Naphusis. 2. Le cout d'une fusion est beaucoup de fatigue couplé à une courte durée de fusion. C'est donc risqué de l'utiliser. 3. Peu de nain arrive à maitriser la Fusion Ghorrek et l'entrainement à effectuer et très intense. Seul une poignée y parvienne. Mais la plupart peuvent créer un lien si proche avec le Ghorrek qu'il peuvent partager des pensée, des sens ou autres.",
+      "canonicalText": "1. La fusion donne un espect animale au nain entre le ghorrek et le nain justement. Donc un Humanoïde bipede mais presque à quatre pattes avec des traits de Ghorrek, (Les Ghorrek ressemble à de grand primates melangé avec une taupes sans pour autant ressembler au animaux de Naphusis. 2. Le cout d'une fusion est beaucoup de fatigue couplé à une courte durée de fusion. C'est donc risqué de l'utiliser. 3. Peu de nain arrive à maitriser la Fusion Ghorrek et l'entrainement à effectuer et très intense. Seul une poignée y parvienne. Mais la plupart peuvent créer un lien si proche avec le Ghorrek qu'il peuvent partager des pensée, des sens ou autres.",
+      "images": [],
+      "contentDigest": "15ab9fec55621451ca8fe520ac90c01920ce6cae5dcd22043be2d49e098b88af",
+      "providerUserMessageId": "bc631d88-15e0-4ad0-885b-73afbd4e6677",
+      "providerAssistantMessageId": "7efde4af-920e-42f2-9e97-35773d7d1176"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786311401827-c69i5bs",
+      "userTurnOrdinal": 8,
+      "state": "accepted",
+      "localMessageId": "msg-1786311401823-pcjckaw",
+      "timestamp": 1786311401823,
+      "rawDisplayText": "Je te laisse créer les fiches ont retravaillera à partir de ce que tu as fais",
+      "canonicalText": "Je te laisse créer les fiches ont retravaillera à partir de ce que tu as fais",
+      "images": [],
+      "contentDigest": "bc7398178a29f03baf9acfd0bbe50b5d569ace08a6b779e95bc62adf5f2734ff",
+      "providerUserMessageId": "4e86bcb0-1b70-475f-8e1c-8a1845c6f873",
+      "providerAssistantMessageId": "08db945e-1407-46c3-bf70-ebfa76c8b005"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786356474334-g78rqdf",
+      "userTurnOrdinal": 9,
+      "state": "accepted",
+      "localMessageId": "msg-1786356474316-wjwlgle",
+      "timestamp": 1786356474316,
+      "rawDisplayText": "Créons la Fiche du Ghorreks en tant que créatures.",
+      "canonicalText": "Créons la Fiche du Ghorreks en tant que créatures.",
+      "images": [],
+      "contentDigest": "327d812618225d3b74119c31715c45cb5e984130fad6597be25bad7722851f66",
+      "providerUserMessageId": "ba444336-03fd-4d10-a3b1-0e1aaa5b627c",
+      "providerAssistantMessageId": "1a5f4024-08ff-4697-b01a-9d5748101aaa"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786357410826-5ki1bdh",
+      "userTurnOrdinal": 10,
+      "state": "accepted",
+      "localMessageId": "msg-1786357410818-5g6h0r4",
+      "timestamp": 1786357410818,
+      "rawDisplayText": "1. Effectivement plus une intelligence intuitive/instinctive proche des grands primates. Nainrak voulait leur permettre de se comprendre non pas avec des mots mais pleinement via leur émotions internes et leur instincts emotionnelle. 2. Ils communiquent entre eux via leur émotions, mais un nain et un ghorrek autre que le sien ne peuvent communiquer. il communique comme un homme communique avec un animal. 3. les deux corps se mêlent-ils physiquement, Au reveil les 2 êtres sont souvent desenrioté et pris de tristesse.",
+      "canonicalText": "1. Effectivement plus une intelligence intuitive/instinctive proche des grands primates. Nainrak voulait leur permettre de se comprendre non pas avec des mots mais pleinement via leur émotions internes et leur instincts emotionnelle. 2. Ils communiquent entre eux via leur émotions, mais un nain et un ghorrek autre que le sien ne peuvent communiquer. il communique comme un homme communique avec un animal. 3. les deux corps se mêlent-ils physiquement, Au reveil les 2 êtres sont souvent desenrioté et pris de tristesse.",
+      "images": [],
+      "contentDigest": "d919219921f4b00c52cd4b1cac3d91e6f0b98f9a608b4ce924583bfdc11e65a8",
+      "providerUserMessageId": "1820be1d-2503-4e8c-b958-209fa184c1ea",
+      "providerAssistantMessageId": "3ffcc758-9e4e-4677-abf8-aedf578e8ea5"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786365741224-if13hpi",
+      "userTurnOrdinal": 11,
+      "state": "accepted",
+      "localMessageId": "msg-1786365741218-akym3ht",
+      "timestamp": 1786365741218,
+      "rawDisplayText": "Dans la section origine des Ghorreks, ils faudraient ajouter que les nains procréer d'une façon très singulières. Deux individues (Il n'y a pas de sexe chez les nains) se place dans un cocons de roche et après 24 heures à hiberner, ils ressortent avec un œuf de roche qui laissera grandir et éclore un nouveau nain et un Ghorrek. Il faudrait également ajouter ce phénomène dans la fiche des nains qui a été placer dans 01_Lore/Races",
+      "canonicalText": "Dans la section origine des Ghorreks, ils faudraient ajouter que les nains procréer d'une façon très singulières. Deux individues (Il n'y a pas de sexe chez les nains) se place dans un cocons de roche et après 24 heures à hiberner, ils ressortent avec un œuf de roche qui laissera grandir et éclore un nouveau nain et un Ghorrek. Il faudrait également ajouter ce phénomène dans la fiche des nains qui a été placer dans 01_Lore/Races",
+      "images": [],
+      "contentDigest": "7adc11c56016880df0aff8005ba03ad91294ea7be9a74e16292360c1b62b34f4",
+      "providerUserMessageId": "8698265a-641c-4286-b392-f83f8d5b8e4a",
+      "providerAssistantMessageId": "c7e884ac-46b0-4a4b-adf4-4de1563b8bcd"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786366179395-psp8i7o",
+      "userTurnOrdinal": 12,
+      "state": "accepted",
+      "localMessageId": "msg-1786366179388-yehb5y5",
+      "timestamp": 1786366179388,
+      "rawDisplayText": "Ils ont la même longévité que les Nains",
+      "canonicalText": "Ils ont la même longévité que les Nains",
+      "context": {
+        "editorSelection": {
+          "notePath": "05_IA_Inbox/Fiches/Ghorreks.md",
+          "mode": "selection",
+          "selectedText": "La longévité des Ghorreks n'est pas définie à ce stade — suit-elle celle de leur pair nain (300+ ans) ou en diffère-t-elle ? (voir Contradictions potentielles)",
+          "lineCount": 1,
+          "startLine": 44
+        }
+      },
+      "images": [],
+      "contentDigest": "d6b6cafbc447603a8f6c06c2ad9271704307c5fa02c4c72a453362bd68b8c5c0",
+      "providerUserMessageId": "cbafe549-8653-4c23-8163-e900a58eff69",
+      "providerAssistantMessageId": "ab4fc7c1-2fac-4fda-8c1f-6406b3cb3c2e"
+    }
+  ]
+}

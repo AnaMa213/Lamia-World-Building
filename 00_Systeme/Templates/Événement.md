@@ -36,4 +36,4 @@ déformées, traditions contradictoires, savoir effacé par le Voile...)
 ## Contradictions potentielles
 - 
 
-> ⚠️ Rappel : toute note événement DOIT figurer dans [[Timeline Master]].
+> ⚠️ Rappel : toute note événement DOIT figurer dans [[01_Lore/Timeline Master]].

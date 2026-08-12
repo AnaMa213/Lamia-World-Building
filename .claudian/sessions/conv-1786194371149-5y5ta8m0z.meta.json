@@ -1,0 +1,26 @@
+{
+  "id": "conv-1786194371149-5y5ta8m0z",
+  "providerId": "claude",
+  "title": "Créer fiche Vendards à partir de sources exista...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786194371150,
+  "lastActivityAt": 1786194917606,
+  "sessionId": "d85244db-0923-4ec4-8df6-2eb05d062df3",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "d85244db-0923-4ec4-8df6-2eb05d062df3"
+  },
+  "currentNote": "01_Lore/Évenements/Ère Sérénale/La Perte du Monde des Vendards.md",
+  "enabledMcpServers": [
+    "obsidian-mcp"
+  ],
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 11380,
+    "cacheReadInputTokens": 68729,
+    "contextWindow": 1000000,
+    "contextTokens": 80110,
+    "percentage": 8
+  }
+}

@@ -4,7 +4,7 @@ source: auteur
 type: evenement
 importance: majeur
 ere: serenale
-annee: 2750
+annee: ≈ 2750 ES
 annee_debut:
 annee_fin:
 tags:
@@ -46,7 +46,7 @@ Mais le mal est fait : en brisant le cœur en fragments, le gardien corrompu ava
 
 ## Conséquences
 
-Fracture définitive du Cœur de Lamia en trois fragments. Ouverture d'une brèche vers Lamia (préfigurant l'invasion). Début de la première guerre souterraine et de la chute de la civilisation naine (voir [[La Guerre des Profondeurs]]). Le lieu de la prison de pierre deviendra, sans que quiconque le sache encore, le socle sur lequel [[Alfaryus]] fondera [[Cyroldan]] (voir sa fiche déjà migrée).
+Fracture définitive du Cœur de Lamia en trois fragments. Ouverture d'une brèche vers Lamia (préfigurant l'invasion). Début de la première guerre souterraine et de la chute de la civilisation naine (voir [[La Guerre des Profondeurs]]). Le lieu de la prison de pierre deviendra, sans que quiconque le sache encore, le socle sur lequel [[Alfaryus]] fondera [[Cyroldan]].
 
 Les deux gardiens survivants entament une recherche pour trouver le moyen de reconstituer le cœur et sauver leur frère — recherche que la guerre à venir leur laissera trop peu de temps pour mener à bien (voir [[Le Dernier Serment des Gardiens]]).
 
@@ -64,8 +64,8 @@ Le fait brut (« le cœur de Lamia fut fracturé ») semble avoir traversé jusq
 - [[Alfaryus]] — fondera sans le savoir Cyroldan directement au-dessus de cette prison.
 - [[Le Dernier Serment des Gardiens]] — suite directe : la quête, finalement vaine, des deux gardiens survivants pour reconstituer le cœur.
 - [[La Lune Manquée]] — crise matérielle compostant le doute existentiel des Nains, terreau exploité par Maurtria.
-- [[Maurtria]] / [[2026-07-12 — Proposition — Migration Naïnrak]] — fiches déjà migrées, dont la divergence est résolue par cet événement (voir ci-dessous).
+- [[Maurtria]] / [[Naïnrak]] — fiches déjà migrées, dont la divergence est résolue par cet événement (voir ci-dessous).
 
 ## Contradictions potentielles
 
-**Datation reprise telle quelle de [[Timeline Master]] (Sérénale ≈2750) — cohérente, aucun conflit.**
+**Datation reprise telle quelle de [[01_Lore/Timeline Master]] (Sérénale ≈2750) — cohérente, aucun conflit.**

@@ -4,7 +4,7 @@ source: auteur
 type: evenement
 importance: majeur
 ere: primordial
-annee: inconnu
+annee: -500 000 AS
 annee_debut:
 annee_fin:
 tags:
@@ -64,9 +64,5 @@ La fondation du Despophys et du Dibertium est vraisemblablement connue de tout l
 - [[Le Larcin de Mageisys]] — événement antérieur directement lié (500 000 ans plus tôt).
 
 ## Contradictions potentielles
-
-✅ **Origine de Xeros — résolu suite à tes réponses en conversation.** Xeros est bien le premier enfant archange d'Albaesclatia, né très tôt (avant le Conseil des vingt) — cohérent avec [[2026-07-12 — Proposition — Migration Diablio]] (« deuxième archange... après Xeros »). Il **reste un Archange**, pas un dieu à sa naissance : ce sont les mortels de Lamia qui, bien plus tard, l'élèveront — lui comme les autres Archanges — au rang de divinité à travers leur culte. Cela résout la tension avec sa fiche déjà migrée (« élevé au rang de dieu après la Grande Guerre Divine ») : cette élévation est bien réelle, mais elle vient du culte mortel, pas d'un acte divin de promotion. **Cette clarification concerne vraisemblablement l'ensemble des Archanges devenus « dieux Majeurs/Mineurs » après la guerre — pas seulement Xeros.**
-
-✅ **Nature de la conscience de Xeros — résolue.** Il possède un véritable libre arbitre, mais ses valeurs et désirs premiers ont été ancrés en lui par Albaesclatia plutôt que choisis librement — nuance importante à intégrer dans sa fiche personnelle (à faire lors de la révision des fiches divinités).
 
 **Datation relative confirmée : ≈ 500 000 ans avant Sérénale 0**, soit 500 000 ans après [[Le Larcin de Mageisys]].

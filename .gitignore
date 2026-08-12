@@ -16,3 +16,8 @@ Thumbs.db
 desktop.ini
 memo_git
 data.json
+
+
+
+# Ignore Smart Environment folder
+.smart-env

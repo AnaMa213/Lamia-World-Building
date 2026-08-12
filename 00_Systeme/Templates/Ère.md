@@ -21,7 +21,7 @@ aliases: []
 (divinités, peuples, puissances — liens [[...]])
 
 ## Événements majeurs
-(chaque événement daté doit figurer dans [[Timeline Master]])
+(chaque événement daté doit figurer dans [[01_Lore/Timeline Master]])
 - 
 
 ## Comment l'ère s'achève

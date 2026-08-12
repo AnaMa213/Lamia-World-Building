@@ -1,86 +1,71 @@
-# Modes de repli — Claude Code uniquement
+# Modes de repli — brainstorm-lore
 
-À lire au moment de basculer, quand le MCP `obsidian` est absent ou tombe en
-cours de session. Ces replis n'existent QUE là où un accès réel au vault est
-possible (Claude Code sur la machine du vault). Dans claude.ai : échec MCP =
-arrêt + signalement à l'utilisateur, jamais d'improvisation.
+À lire uniquement AU MOMENT de basculer hors Mode MCP, en Claude Code avec
+accès réel au vault. Dans claude.ai : pas de repli possible — un échec MCP
+s'annonce à l'utilisateur et la tâche s'arrête.
 
-Hiérarchie : **MCP → CLI Obsidian → Fichiers/Git.** Tester dans cet ordre et
-annoncer à l'utilisateur le mode utilisé.
+Les garde-fous du SKILL.md s'appliquent à l'identique dans tous les modes :
+jamais de canon promu, jamais d'écriture dans `00_Systeme` ni `99_Archive`,
+jamais de chemin construit de mémoire, jamais de wikilink non vérifié.
 
-## Repli 1 — CLI Obsidian (application Obsidian ouverte)
+## Mode CLI Obsidian (application Obsidian ouverte)
 
-La CLI `obsidian` pilote l'instance Obsidian EN COURS D'EXÉCUTION : elle
-exige que l'application soit ouverte. Vérifier la disponibilité avec
-`obsidian help` ; si la commande échoue ou ne répond pas, passer au Repli 2.
-Si plusieurs vaults sont ouverts, préfixer chaque commande de
-`vault="<nom du vault Lamia>"`.
+Vérifier d'abord que `obsidian help` répond. Sinon → Mode Fichiers/Git.
+Syntaxe et commandes : `/mnt/skills/user/obsidian-cli/SKILL.md` fait foi.
 
-Équivalences avec le flux MCP du SKILL.md :
-
-| Flux MCP | CLI |
+| Opération (Mode MCP) | Équivalent CLI |
 |---|---|
-| `vault_read` | `obsidian read path="01_Lore/… .md"` |
+| `vault_read` d'une fiche | `obsidian read file="Nom"` — résout comme un wikilink (nom seul, sans chemin ni extension), ce qui contourne les divergences d'accents |
+| chemin exact d'une fiche | `obsidian search query="Nom"` |
 | `search_simple` | `obsidian search query="…" limit=10` |
-| liens entrants (`backlinks`) | `obsidian backlinks file="Nom de la fiche"` |
-| `vault_list` | `ls` du dossier (la CLI cible des fichiers, pas des dossiers) |
-| `tags` du vault | `obsidian tags sort=count counts` |
+| `search_query` (JsonLogic) | pas d'équivalent CLI — lire les fiches candidates en entier (`read`) et filtrer à la main, ou `Grep` sur le dossier du vault |
+| `active_file_get_path` (Mode A, "fiche active") | pas d'équivalent CLI connu — demander à l'utilisateur le nom de la fiche ouverte plutôt que deviner |
+| `backlinks` (champ de `vault_read`) | `obsidian backlinks file="Nom"` |
+| `vault_list` | `ls` / `Glob` sur le disque |
+| `vault_get_document_map`, champ `links` | pas d'équivalent CLI — lire la fiche en entier (`read`) |
 
-Notes d'usage :
-- `path=` prend un chemin exact depuis la racine du vault ; `file=` résout
-  comme un wikilink (nom seul). Sans l'un ni l'autre, la CLI cible le
-  fichier actif — pratique pour "la fiche ouverte", risqué partout ailleurs :
-  toujours expliciter la cible.
-- Il n'y a pas d'équivalent CLI de `search_query` (JsonLogic) : combiner
-  `obsidian search` avec un triage manuel par zone des résultats, ou `Grep`
-  sur disque pour un ciblage par chemin.
+**Écriture de la fiche brainstorm ou de la capture Mode C** : préférer
+l'écriture disque (`Write`) même en mode CLI — le contenu multiligne passe
+mal en paramètre CLI (`\n` littéraux). Créer `05_IA_Inbox/Brainstorm/` (ou
+`04_Brouillons/` pour le Mode C) au préalable si absent (`mkdir -p`).
+`Brainstorms.base` : copie disque du fichier `assets/Brainstorms.base` si
+absente, jamais réécrite si présente.
 
-**Écriture.** Deux cas :
-- Capture express (Mode C, une ligne de contenu) : la CLI convient —
-  `obsidian create path="04_Brouillons/AAAA-MM-JJ HHhMM.md" content="---\nstatut: brouillon\n…" silent`.
-  Toujours `silent` (sinon la note s'ouvre à l'écran), JAMAIS le flag
-  `overwrite` : son absence est la protection contre l'écrasement.
-- Fiche brainstorm complète : le contenu multiligne échappé (`\n`) dans un
-  argument shell est fragile et illisible. Écrire plutôt le fichier
-  directement sur disque (`Write`, comme au Repli 2) — Obsidian ouvert
-  détecte le nouveau fichier tout seul — et réserver la CLI aux lectures et
-  recherches. Puis appliquer le protocole git ci-dessous.
+**Ajout dans une fiche brainstorm existante** (fusion, "Assembler et
+enregistrer" étape 3) : pas d'équivalent CLI pour un ciblage de section —
+utiliser `Edit` après avoir relu le fichier en entier.
 
-## Repli 2 — Fichiers/Git (application fermée)
+## Mode Fichiers/Git (application fermée)
 
-Accès disque direct. Le vault est généralement la racine du repo git courant
-en Claude Code — vérifier avec `ls` (présence de `00_Systeme/`, `01_Lore/`…)
-avant toute écriture.
+- Lecture : `Read` (fiches EN ENTIER), recherche : `Grep`/`Glob` sur le
+  vault.
+- Backlinks approximés par `Grep` sur `[[Nom` — attention aux alias
+  (`[[Nom|Affiché]]`) et aux liens vers headings (`[[Nom#Section]]`) : le
+  motif de recherche doit rester le début du wikilink, pas sa forme exacte.
+- "Fiche active" (Mode A) : pas d'équivalent fichier — demander le nom à
+  l'utilisateur.
+- Chemins réels : `Glob` sur le nom de fichier, jamais un chemin déduit de
+  la doc (divergences d'accents constatées entre Conventions et dossiers
+  réels, ex. `01_Lore/Évenements/` à un seul accent).
+- Écriture : `Write` de la fiche (et de `Brainstorms.base` si absente) dans
+  `05_IA_Inbox/Brainstorm/`, ou de la capture dans `04_Brouillons/` (Mode
+  C), `mkdir -p` au besoin. Pour une fusion dans une fiche existante :
+  `Read` intégral puis `Edit` ciblé, jamais une réécriture qui perdrait du
+  contenu non relu.
 
-Équivalences :
-- `vault_read` → `Read` (chemin relatif à la racine du vault). Timeline
-  Master : toujours en entier, même en mode fichiers.
-- `search_simple` / `search_query` → `Grep` (mots-clés, restreint au dossier
-  voulu : `01_Lore/`, `05_IA_Inbox/Brainstorm/`…) et `Glob`
-  (`01_Lore/**/*<terme>*.md`) pour repérer les candidats, puis `Read`.
-  Le triage par zone du SKILL.md s'applique à l'identique.
-- `vault_list` → `ls` / `Glob` sur le dossier (vérification de collision
-  avant toute écriture, comme en MCP).
-- `vault_write` → `Write` au même chemin, même contenu assemblé, mêmes
-  règles (jamais écraser un fichier existant sans l'avoir lu et fusionné).
-  Créer le dossier au besoin (`mkdir -p "05_IA_Inbox/Brainstorm"`).
+## Git (modes locaux uniquement)
 
-## Protocole git (Replis 1 et 2, dès qu'un fichier est écrit sur disque)
-
-Seulement si le vault est un dépôt git — vérifier d'abord avec
-`git rev-parse --is-inside-work-tree`. Sinon, ignorer cette étape et le
-mentionner dans la confirmation.
+Seulement si le vault est un dépôt git
+(`git rev-parse --is-inside-work-tree`) :
 
 ```bash
-git add "05_IA_Inbox/Brainstorm/<nom du fichier>.md"
-git commit -m "[brouillon IA] Brainstorm — <Sujet-en-un-mot>" -- "05_IA_Inbox/Brainstorm/<nom du fichier>.md"
+git add "05_IA_Inbox/Brainstorm/<fichier>.md"
+git commit -m "[brouillon IA] Brainstorm — <Sujet>" -- "05_IA_Inbox/Brainstorm/<fichier>.md"
 ```
 
-Pour une capture express : même schéma sur `04_Brouillons/<fichier>.md`,
-message `[brouillon IA] Capture rapide`.
-
-Le préfixe `[brouillon IA]` garde l'historique git honnête : ce commit ne
-vaut pas validation de l'auteur. Ne JAMAIS utiliser `git add -A`,
-`git add .` ou `git commit -a` : stager et commiter uniquement le fichier
-créé, jamais le reste de l'arbre de travail (qui peut contenir des
-changements de l'utilisateur sans rapport).
+Pour une capture Mode C : même logique sur `04_Brouillons/<fichier>.md`,
+message `"[brouillon IA] Capture — <horodatage>"`. Si `Brainstorms.base`
+vient d'être créée dans la même session, l'ajouter aux deux commandes
+(fichier par fichier). Ne JAMAIS `git add -A` / `git add .` /
+`git commit -a` : uniquement les fichiers réellement créés par cette
+session.

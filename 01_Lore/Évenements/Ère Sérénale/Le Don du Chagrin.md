@@ -4,7 +4,7 @@ source: auteur
 type: evenement
 importance: majeur
 ere: serenale
-annee: inconnu
+annee: ≈ 2500 ES
 annee_debut: 2500
 annee_fin: 2600
 tags:

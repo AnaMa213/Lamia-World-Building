@@ -1,0 +1,25 @@
+{
+  "id": "conv-1786465850905-k7lan9egw",
+  "providerId": "claude",
+  "title": "Créer fiche Valkys entité ange dans l'univers",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786465850906,
+  "lastActivityAt": 1786467889010,
+  "sessionId": "012052a0-e097-4a29-902a-91cb63a8f521",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "012052a0-e097-4a29-902a-91cb63a8f521"
+  },
+  "enabledMcpServers": [
+    "obsidian-mcp"
+  ],
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 4873,
+    "cacheReadInputTokens": 111593,
+    "contextWindow": 1000000,
+    "contextTokens": 116467,
+    "percentage": 12
+  }
+}

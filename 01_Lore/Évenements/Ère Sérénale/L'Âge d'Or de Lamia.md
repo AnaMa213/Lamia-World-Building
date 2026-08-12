@@ -4,7 +4,7 @@ source: auteur
 type: evenement
 importance: majeur
 ere: serenale
-annee: inconnu
+annee: ≈ 500 ES
 annee_debut: 500
 annee_fin: 950
 tags:
@@ -51,6 +51,6 @@ Fait largement célébré dans les traditions et légendes lamiennes postérieur
 
 ## Contradictions potentielles
 
-**Aucune contradiction relevée.** Vient enrichir, sans les contredire, les entrées génériques déjà existantes dans [[Timeline Master]].
+**Aucune contradiction relevée.** Vient enrichir, sans les contredire, les entrées génériques déjà existantes dans [[01_Lore/Timeline Master]].
 
 **Datation ≈500–950**, entre les premières cités (≈100-500) et le début de la Grande Guerre Divine (≈1000).

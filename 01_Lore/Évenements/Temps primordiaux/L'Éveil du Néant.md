@@ -4,7 +4,7 @@ source: auteur
 type: evenement
 importance: majeur
 ere: primordial
-annee: " - 2 000 000 000 AS"
+annee: " -2 000 000 000 AS"
 annee_debut:
 annee_fin:
 tags:
@@ -46,4 +46,4 @@ L'existence de Chronoversum est relatée dans un texte in-univers cité par la s
 
 ## Contradictions potentielles
 
-**Aucune contradiction relevée.** Cohérent avec l'entrée déjà existante dans [[Timeline Master]] (« ≈ 2 milliards d'années avant Sérénale 0 »).
+**Aucune contradiction relevée.** Cohérent avec l'entrée déjà existante dans [[01_Lore/Timeline Master]] (« ≈ 2 milliards d'années avant Sérénale 0 »).

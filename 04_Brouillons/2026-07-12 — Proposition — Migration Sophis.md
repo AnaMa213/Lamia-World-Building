@@ -32,7 +32,7 @@ Avant la chute d'Ataraxus, Sophis entretenait avec lui une proximité particuli�
 
 Pendant l'Ère Sérénale, Sophis observa avec passion et bienveillance l'évolution de la civilisation sur [[Lamia]]. Elle se fondait presque naturellement dans le tissu du monde vivant, en harmonie avec la flore, la faune et les rythmes tranquilles de la planète. Contempler une civilisation capable de se développer sans perdre entièrement sa quiétude était pour elle une joie profonde, teintée de nostalgie pour l'ancien calme de l'univers.
 
-Aux côtés d'[[Albaesclatia]], elle contribua de manière subtile au bonheur des [[Humains]] et des [[Elfes]]. Son influence ne se manifestait pas par de grands miracles spectaculaires, mais par des états d'apaisement, de confiance et de douceur collective : des communautés moins enclines à la violence, des conflits qui s'éteignaient avant de devenir des guerres, des êtres capables de ressentir la paix comme une richesse plutôt que comme une absence d'action.
+Aux côtés d'[[Albaesclatia]], elle contribua de manière subtile au bonheur des [[Humains - old]] et des [[Elfes]]. Son influence ne se manifestait pas par de grands miracles spectaculaires, mais par des états d'apaisement, de confiance et de douceur collective : des communautés moins enclines à la violence, des conflits qui s'éteignaient avant de devenir des guerres, des êtres capables de ressentir la paix comme une richesse plutôt que comme une absence d'action.
 
 Lorsque la menace d'Ataraxus devint réelle, la vie de Sophis bascula. Elle peinait déjà à comprendre certains de ses pairs, en particulier [[Maurtria]], dont l'attirance pour la violence lui paraissait presque incompréhensible. Lorsque Maurtria fut appelée à participer à l'apprentissage de la guerre par les Lamiens, Sophis en fut bouleversée. Elle craignait que sa sœur ne souille l'innocence encore présente chez les peuples de Lamia.
 
@@ -137,6 +137,6 @@ Mais son danger est de croire que toute violence peut être désarmée par la pu
 
 **Élément précieux pour le chantier transversal sur le bannissement (à valider, non tranché).** Cette fiche explicite un mécanisme jusqu'ici implicite : Lamia elle-même « choisit » quelles essences divines tolérer sur son sol — pleinement pour [[Naphusis]], localement et à la limite pour Sophis (une île seulement), et refuse tout le reste, y compris une tentative de protection totale par [[Mageisys]]. Cette hiérarchie pourrait structurer utilement le chantier regroupant Naphusis/Akator/Xeros (lot précédent) et Diablio/Quaesir (ce lot) — proposé comme piste de lecture, à valider par toi.
 
-**Origine des [[Sopharax]] à dater et à créer dans [[Timeline Master]]**, vraisemblablement juste avant la Bataille de Cyroldan (Exodiale ≈1500).
+**Origine des [[Sopharax]] à dater et à créer dans [[01_Lore/Timeline Master]]**, vraisemblablement juste avant la Bataille de Cyroldan (Exodiale ≈1500).
 
 **`suivants` absent de la source (non contradictoire).** Laissé vide faute de base textuelle.

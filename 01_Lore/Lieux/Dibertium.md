@@ -14,12 +14,10 @@ date: 2026-07-20
 portee:
 aliases: []
 plan: despophys
+revision-date: 2026-08-07
 ---
 
 # Dibertium
-
-> [!note] Proposition — 2026-07-20
-> ✅ Structure confirmée par Key, corrigeant une première hypothèse erronée de cette session (qui assimilait Dibertium à "la montagne" elle-même) : Dibertium est une **planète-plateforme** construite par Mageisys à l'intérieur du plan du Despophys, sur laquelle il érige une **cathédrale de la taille de dix montagnes** abritant Filiama en son cœur.
 
 **En une phrase :** Dibertium est la planète-plateforme que Mageisys construit au sein du Despophys pour Albaesclatia, portant en son sein une cathédrale de la taille de dix montagnes où repose Filiama — devenue depuis la demeure des dieux et du Conseil des Archanges, à l'exception d'Ataraxus.
 
@@ -35,7 +33,7 @@ Au sein du plan du Despophys, bâti par Mageisys pour permettre à Albaesclatia 
 ## À travers les ères
 
 ### Temps primordiaux
-Mageisys construit Dibertium au sein du Despophys : une planète-plateforme portant une cathédrale de la taille de dix montagnes. Albaesclatia y insère son essence sous forme de flamme en son cœur — Filiama naît. Elle y engendre ses premiers enfants archanges, à commencer par Xeros.
+Mageisys construit Dibertium au sein du Despophys : une planète-plateforme portant une cathédrale de la taille de dix montagnes. [[Armerith]], archange du Conseil, en façonne la cathédrale elle-même et tout son intérieur — ornements, voûtes, mobilier divin, instruments et objets sacrés. Albaesclatia y insère son essence sous forme de flamme en son cœur — Filiama naît. Elle y engendre ses premiers enfants archanges, à commencer par Xeros.
 
 ### Ère Sérénale
 Siège du Conseil des Archanges et de la vie divine. Aion y crée anges et créatures divines. Oneira y demeure durant la Grande Guerre Divine, observant depuis le palais divin les violences qui ravagent l'univers.
@@ -56,14 +54,13 @@ Demeure de l'ensemble des dieux et du Conseil des Archanges, à l'exception d'At
 ## Relations
 
 - [[Despophys]] — plan parent, bâti par Mageisys.
-- [[Mageisys]] — architecte de Dibertium et de sa cathédrale.
+- [[Mageisys]] — architecte de Dibertium : conçoit et bâtit la planète-plateforme et ses fondations divines.
+- [[Armerith]] — façonna la cathédrale du Dibertium et son intérieur lors des Temps primordiaux (ornements, voûtes, mobilier divin, instruments et objets sacrés).
 - [[Filiama]] — née au cœur de la cathédrale de Dibertium.
 - [[Albaesclatia]] — y insère son essence, y engendre ses enfants, s'y retire.
 - [[Ataraxus]] — seul membre du Conseil banni de Dibertium.
 - [[Le Cycle des Âmes]] — Dibertium est la destination finale des âmes mortelles guidées à travers les Limbes.
 
 ## Contradictions potentielles
-
-**Pas de fiche `lieu` pour Despophys lui-même** — seul l'événement de sa fondation (Les Accords du Despophys) existe. Gap à signaler séparément si tu veux le développer comme lieu à part entière.
 
 **État présent (Ère du Voile, 1448 È.V.) limité à une généralité** ("demeure des dieux sauf Ataraxus") — non détaillé plus avant dans les sources.

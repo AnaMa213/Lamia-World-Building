@@ -20,7 +20,19 @@ suivants:
   - Paysans
   - "[[Gnomes]]"
 alignement: Loyal Neutre
-revision-date: 2026-08-01
+revision-date: 2026-08-12
+cr_type: person
+pronouns: elle/la
+revision:
+cr_id: var-181-rfb-104
+name: Naphusis
+born: ""
+died: ""
+father: "[[Chronoversum]]"
+mother: "[[Chronoversum]]"
+spouses: []
+children: []
+group_name: divinite
 ---
 
 # Naphusis
@@ -116,7 +128,7 @@ Mais son danger est de regarder les êtres conscients comme des éléments d'un 
 - [[Chronoversum]] — géniteur direct confirmé (résolu, voir [[L'Enracinement Primordial]] et Contradictions potentielles).
 - [[Ataraxus]] — antithèse idéologique absolue.
 - [[Maurtria]] — sa corruption vise directement les forêts de Naphusis, utilisées comme bases de résistance (voir [[La Dernière Menace]]).
-- [[Lamia]] — porte son dernier Arbre-Monde survivant ; [[Timeline Master]] : « Naphusis s'enracine dans Lamia et devient l'Arbre-Monde » (Temps primordiaux).
+- [[Lamia]] — porte son dernier Arbre-Monde survivant ; [[01_Lore/Timeline Master]] : « Naphusis s'enracine dans Lamia et devient l'Arbre-Monde » (Temps primordiaux).
 - [[Le Cœur de Lamia]] — son implantation écologique en est l'une des deux origines.
 - [[La Barrière de Lamia]] — sa présence physique continue est traitée en analogie avec l'exemption déjà écrite pour le Cycle des Âmes (voir Contradictions potentielles).
 - [[La Dernière Menace]] — ses forêts servent de bases de résistance contre la corruption de Maurtria (Exodiale ≈600–1450).
@@ -124,7 +136,7 @@ Mais son danger est de regarder les êtres conscients comme des éléments d'un 
 - [[La Forêt de Naphusis]] — forêt entourant l'Arbre-Monde, créée en 05_IA_Inbox/Fiches (à valider).
 - [[Naphusis (lieu)]] — lieu/cité elfique bâtie plus tard autour de l'Arbre-Monde, homonyme de la divinité, créée en 05_IA_Inbox/Fiches (à valider).
 - [[Gnomes]] — nés de ses bourgeons, canal vivant entre elle et les Lamiens ; naissance désormais datée (voir [[Le Don du Chagrin]], Sérénale ≈2500–2600).
-- [[Xeros]] — appuyé par elle pour la création des peuples adaptés après la guerre ([[Timeline Master]], Voile ≈ 80–500).
+- [[Xeros]] — appuyé par elle pour la création des peuples adaptés après la guerre ([[01_Lore/Timeline Master]], Voile ≈ 80–500).
 - [[Humarios]] et [[Mageisys]] — leur combat est la source des dérèglements climatiques qu'on lui attribue à tort.
 - Héraut de Naphusis — créature hybride animal/végétal, personnification de la fureur (sans note, à créer).
 
@@ -137,26 +149,8 @@ Mais son danger est de regarder les êtres conscients comme des éléments d'un 
 
 **Pas de mention, ni de lien avec la Flore ou la Faune**. Fiches à créer, et à parler dans l'histoire de la déesse. Placer en chantier Majeur. 
 
+> [!ia-a-valider]- 2026-08-12 — Propriétés Charted Roots
+> **Décision** : demande explicite de l'auteur (session 2026-08-12). Aucun lore modifié.
+> **Ajouté en frontmatter** : `cr_type: person` · `sex: female` · `pronouns: elle/la` · `revision: ia-a-valider`
 
-> [!ia-a-valider]- 2026-07-27 — Origine de Naphusis : les deux récits sont conjoints, pas concurrents
-> **Décision** : tranchée avec l'auteur (session Chronoversum, 2026-07-27).
-> **Modifié** : résolution de la contradiction ci-dessus.
->
-> Chronoversum est bien le géniteur direct (confirmé, cohérent avec [[L'Enracinement Primordial]] et [[Timeline Master]], déjà canon), mais la « convergence d'un projet » des trois dieux créateurs n'est pas invalidée pour autant : les deux causes sont vraies simultanément. Le désarroi collectif d'[[Albaesclatia]], [[Lumina]] et [[Mageisys]] face à l'échec de peupler les nouveaux mondes atteint Chronoversum lui-même — cohérent avec sa nature panthéiste (il *est* les dieux, il ressent ce qu'ils ressentent) — et se conjugue à sa propre envie inconsciente de nouveauté, déjà le moteur de chacune de ses émanations précédentes. Naphusis naît de cette double poussée : le projet des trois dieux lui donne sa forme et sa fonction (protéger le vivant), l'inconscient de Chronoversum lui donne l'impulsion qui la fait exister. Relations ci-dessus non réécrites (additif uniquement) — à ajuster par l'auteur si souhaité.
-
-^rev-20260727-naphusis-origine
-
-> [!ia-a-valider]- 2026-07-28 — Arbitrages de session : présence physique, Gnomes, emplacement de l'Arbre-Monde
-> **Décision** : trois points traités avec l'auteur (session du 2026-07-28).
->
-> **1. Présence physique vs bannissement — hypothèse proposée, à confirmer.** [[La Barrière de Lamia]] (canon) traite déjà un cas analogue dans ses « Limites et exceptions » : le Cycle des Âmes et l'implantation écologique de Naphusis y sont exemptés du durcissement de la barrière car « antérieurs et extérieurs à la notion de lien avec un autre monde » que ce mécanisme cible. Je propose d'étendre ce même raisonnement à la loi de bannissement de [[Grande Bataille de Cyroldan|Cyroldan]] (Exodiale ≈1500) : l'Arbre-Monde s'enracine ≈3000 ans avant Sérénale 0 — bien avant la barrière (≈950-1000 Sérénale) et *a fortiori* avant la loi de bannissement, qui vise une **manifestation active** de dieux mobiles (Ataraxus, Mageisys se présentant physiquement à un instant donné), pas une **présence structurelle statique**, déjà intégrée au monde depuis son origine, à la manière d'une montagne ou d'un fleuve. Cohérent avec le caractère non-interventionniste déjà établi de Naphusis. **Hypothèse, pas un fait tranché ailleurs — à valider.**
-> **2. Date de naissance des Gnomes — résolu.** [[Le Don du Chagrin]] existe et date bien l'événement (Sérénale ≈2500–2600). La mention ci-dessus (« aucune entrée dans Timeline Master ») est désormais obsolète.
-> **3. Emplacement de l'Arbre-Monde — précisé par l'auteur, avec une hypothèse de ma part à confirmer.** L'Arbre-Monde se dresse au centre du continent principal (non nommé à cette époque, bien avant la fondation de la cité de Cyroldan sur ce même sol), entouré de [[La Forêt de Naphusis]] ; plus tard, une cité elfique reprend son nom : [[Naphusis (lieu)]]. **Hypothèse non confirmée par l'auteur** : puisque ce continent est probablement celui qui deviendra l'Ancienne Cyroldan, et que Cyroldan occupe la position centrale conservée après la fracture (devenant Horiae), l'Arbre-Monde se trouverait aujourd'hui à l'intérieur d'Horiae — ce qui répondrait aussi à la question ouverte de sa survie à la fracture. Deux fiches créées en 05_IA_Inbox/Fiches : [[La Forêt de Naphusis]] et [[Naphusis (lieu)]].
-
-^rev-20260728-naphusis-presence-lieu
-
-> [!ia-a-valider]- 2026-08-01 — Validation de l'hypothèse du 28/07 (point 1 : régime de présence à part)
-> **Décision** : tranchée avec l'auteur (session du 2026-08-01).
-> **Modifié** : statut de l'hypothèse ci-dessus — le point 1 du callout du 2026-07-28 (« Présence physique vs bannissement ») passe d'hypothèse non tranchée à confirmé. Naphusis n'utilise pas le lien mortel-dieu et n'est donc pas concernée par la loi de bannissement, qui vise une manifestation active des dieux mobiles, pas une présence structurelle statique comme la sienne.
-
-^rev-20260801-naphusis-hypothese-validee
+^rev-20260812-charted-roots-naphusis

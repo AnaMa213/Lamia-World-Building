@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786378221342-3vwrd6b4n",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786378221370-5uxr2cr",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786378221340-ty2wwo0",
+      "timestamp": 1786378221340,
+      "rawDisplayText": "/traiter-chantier nous allons retravailler ensemble la fiche de Maurtria. J'aimerai dans son histoire qu'on parle plus de l'avant Lamia, où grace à ses envie de violence, elle fut la première Archange à entrainer les troupes d'Anges au combats et à créer les premiers art martiaux et les premières armes meurtrières. Elle prétextait enseigner et créer ses outils pour le salut des mortels et des êtres divin face à Ataraxus et elle parvint à convaincre tous le monde, jusqu'à Armerith qui conçu même des armes sanguinaire pour les anges et entité divines. C'est lorsqu'elle sacrifia son peuple face au démons d'Ataraxus alors qu'elle avait le choix de les faire se réfugier dans le Dibertium que les autres Archanges comprirent sa véritable nature mais il était trop tard, elle était déjà rentrer dans l'esprit de nombreux mortels et autres être corruptible par la violence. Ce fut un des grand premier chox d'Albaesclatia qui decoulera à son break down plus tard. Lumina avait demandé son banissement du Despophys mais Albaesclatia refusa. C'est lorsque Lumina prit les rênes que le bannissement pu être effectué définitivement. Mageisys lui créa donc un plan à elle dans lequel elle se vit encore aujourd'hui. Elle demande régulièrement à Ataraxus d'envoyer des démons dans son plan pour les voir s'entre-tuer et en échange de quoi elle accepte de lui offrir des informations ou des faveurs sur le plan des Mondes , Les Limbes ou même sur Lamia via le Fil.",
+      "canonicalText": "/traiter-chantier nous allons retravailler ensemble la fiche de Maurtria. J'aimerai dans son histoire qu'on parle plus de l'avant Lamia, où grace à ses envie de violence, elle fut la première Archange à entrainer les troupes d'Anges au combats et à créer les premiers art martiaux et les premières armes meurtrières. Elle prétextait enseigner et créer ses outils pour le salut des mortels et des êtres divin face à Ataraxus et elle parvint à convaincre tous le monde, jusqu'à Armerith qui conçu même des armes sanguinaire pour les anges et entité divines. C'est lorsqu'elle sacrifia son peuple face au démons d'Ataraxus alors qu'elle avait le choix de les faire se réfugier dans le Dibertium que les autres Archanges comprirent sa véritable nature mais il était trop tard, elle était déjà rentrer dans l'esprit de nombreux mortels et autres être corruptible par la violence. Ce fut un des grand premier chox d'Albaesclatia qui decoulera à son break down plus tard. Lumina avait demandé son banissement du Despophys mais Albaesclatia refusa. C'est lorsque Lumina prit les rênes que le bannissement pu être effectué définitivement. Mageisys lui créa donc un plan à elle dans lequel elle se vit encore aujourd'hui. Elle demande régulièrement à Ataraxus d'envoyer des démons dans son plan pour les voir s'entre-tuer et en échange de quoi elle accepte de lui offrir des informations ou des faveurs sur le plan des Mondes , Les Limbes ou même sur Lamia via le Fil.",
+      "context": {
+        "currentNote": {
+          "path": "04_Brouillons/Maurtria.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "32c43209b0ea49bb5618f7ef413d1c8bf873c56f469ae2a1a3471437f2238e40",
+      "providerUserMessageId": "4cf70c53-003c-4846-b954-b5685b7d5f00",
+      "providerAssistantMessageId": "a3883fc7-4ec1-487e-bf47-d0a406d81fa7"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786385255749-rdjn4zh",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786385255744-ksmcwr0",
+      "timestamp": 1786385255744,
+      "rawDisplayText": "- Challenge 1 : Oui effectivement, On peut inclure que par gentillesse pour sa sœur il conçût une dague rien que pour elle dans laquelle il lui a laissé la chance d'insuffler son essence, crée la Dague de Maurtria , Nexa. Cette dague fut lancer par Maurtria sur Lamia pendant la Bataille de Cyroldan et retrouvé des millénaire après au près d'Aldania qui lui permit de devenir un être immortel tant grâce au sein que la lame absorbe. L'arme en elle-même, était juste une artefact d'Armerith , une lame magnifique et parfaite, c'est l'essence de Maurtria qui lui a donné son pouvoir sanguilonant. (Fiche à créer pour Aldania et Nexa). - Challenge 2 : Tu as raison. On peut se dire qu'Albaesclatia ne lui jamais donner l'autorisation de créer un peuple qui serait baser sur le meurtre de chacun dans des arènes. Pendant longtemps elle a du garder sa frustration et refouler ses désirs ce qui la rendu folle car elle ne comprenait d'abors pas pourquoi elle ressentait ces envies et ses besoins de sangs. Cette restriction que sa mère lui a imposé l'a rendu comme elle est aujourd'hui. Lorsque la guerre a éclaté, elle a enfin pu se délivré de ce qui la rongé de l'intérieur. Ils ont créer les Makhoma , des Anges de Morts qu'elle a pu entrainer -> Pendant les batailles qui suivirent, elle en dirigeait le commandement et les laisser mourir en jouissant de voir leur sang durant les batailles. C'est ça qui alerta le conseil et que Lumina commença à vouloir la bannir. Ce rejet l'a détruit un peu plus. Et elle a fini par se laisser penser qu'elle n'avait pas besoin du conseil ou de n'importe qui et qu'elle vivrait comme ce qu'elle est, une déesse et commença à manipuler, semer le chaos pour son simple bonheur. - Challenge 3  : oui très bien, 1. création des Makhoma + entrainement 2. Sacrifices des anges sous les yeux emerveillés de Maurtria. → révélation de sa nature → Lumina exige le bannissementAlbaesclatia refuse (déni maternel)\n3. Maurtria continue → Trahison des Gardiens (≈2750) → 4. Albaesclatia ne peut plus ignorer\n5. Exodiale ≈1500 : Lumina prend les rênes → exécute le bannissement\n6. Mageisys crée le plan - Challenge 4 : Très bien ça Elle observe Lamia via le Fil de ses Disciples et en transmet les fruits à Ataraxus\" — sans dire que le Fil lui-même relie les deux. Précision : Maurtria a la capacité bien que beaucoup moins développé de se rendre dans les Songes comme Oneira.",
+      "canonicalText": "- Challenge 1 : Oui effectivement, On peut inclure que par gentillesse pour sa sœur il conçût une dague rien que pour elle dans laquelle il lui a laissé la chance d'insuffler son essence, crée la Dague de Maurtria , Nexa. Cette dague fut lancer par Maurtria sur Lamia pendant la Bataille de Cyroldan et retrouvé des millénaire après au près d'Aldania qui lui permit de devenir un être immortel tant grâce au sein que la lame absorbe. L'arme en elle-même, était juste une artefact d'Armerith , une lame magnifique et parfaite, c'est l'essence de Maurtria qui lui a donné son pouvoir sanguilonant. (Fiche à créer pour Aldania et Nexa). - Challenge 2 : Tu as raison. On peut se dire qu'Albaesclatia ne lui jamais donner l'autorisation de créer un peuple qui serait baser sur le meurtre de chacun dans des arènes. Pendant longtemps elle a du garder sa frustration et refouler ses désirs ce qui la rendu folle car elle ne comprenait d'abors pas pourquoi elle ressentait ces envies et ses besoins de sangs. Cette restriction que sa mère lui a imposé l'a rendu comme elle est aujourd'hui. Lorsque la guerre a éclaté, elle a enfin pu se délivré de ce qui la rongé de l'intérieur. Ils ont créer les Makhoma , des Anges de Morts qu'elle a pu entrainer -> Pendant les batailles qui suivirent, elle en dirigeait le commandement et les laisser mourir en jouissant de voir leur sang durant les batailles. C'est ça qui alerta le conseil et que Lumina commença à vouloir la bannir. Ce rejet l'a détruit un peu plus. Et elle a fini par se laisser penser qu'elle n'avait pas besoin du conseil ou de n'importe qui et qu'elle vivrait comme ce qu'elle est, une déesse et commença à manipuler, semer le chaos pour son simple bonheur. - Challenge 3  : oui très bien, 1. création des Makhoma + entrainement 2. Sacrifices des anges sous les yeux emerveillés de Maurtria. → révélation de sa nature → Lumina exige le bannissementAlbaesclatia refuse (déni maternel)\n3. Maurtria continue → Trahison des Gardiens (≈2750) → 4. Albaesclatia ne peut plus ignorer\n5. Exodiale ≈1500 : Lumina prend les rênes → exécute le bannissement\n6. Mageisys crée le plan - Challenge 4 : Très bien ça Elle observe Lamia via le Fil de ses Disciples et en transmet les fruits à Ataraxus\" — sans dire que le Fil lui-même relie les deux. Précision : Maurtria a la capacité bien que beaucoup moins développé de se rendre dans les Songes comme Oneira.",
+      "images": [],
+      "contentDigest": "a2b645add9c3f6ecd923100ae339d073c86dfa1afc7daf6986e2a00772cd8e58",
+      "providerUserMessageId": "418ee164-b91e-437b-907a-11d1467e4d83",
+      "providerAssistantMessageId": "9a054ffa-52eb-4348-bced-2932ec67a4ea"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786386122738-578kha4",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1786386122734-59bvli1",
+      "timestamp": 1786386122734,
+      "rawDisplayText": "1. Je confirme 2. Le plan s'appelerai le Caedarium. . Tu peux créer les fiches",
+      "canonicalText": "1. Je confirme 2. Le plan s'appelerai le Caedarium. . Tu peux créer les fiches",
+      "images": [],
+      "contentDigest": "4b5b6138f5f941f9c02c9347ab8fe5353cb59c42facc7a136bbf7303f796a4a1",
+      "providerUserMessageId": "a6d09be9-d70c-4303-b9e9-3f1808a93531",
+      "providerAssistantMessageId": "d7f593ae-2431-4edd-8359-ff962a5a5b44"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786388506652-l5h2juf",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1786388506647-a8lev56",
+      "timestamp": 1786388506647,
+      "rawDisplayText": "il faudrait relier ces paragraphes à l'événements de la corruption des nains et se baser sur cette événements pour le réécrire.",
+      "canonicalText": "il faudrait relier ces paragraphes à l'événements de la corruption des nains et se baser sur cette événements pour le réécrire.",
+      "context": {
+        "editorSelection": {
+          "notePath": "04_Brouillons/Maurtria.md",
+          "mode": "selection",
+          "selectedText": "Maurtria s'intéressa alors à cette garde secrète. Elle ne pouvait pas entrer librement dans Lamia : la barrière issue du cœur repoussait les essences divines. Mais elle pouvait encore influencer, suggérer, tenter. Patiemment, elle s'insinua dans les rêves des trois gardiens nains, distillant dans leurs esprits des idées qui n'étaient pas les leurs.\n\nElle ne leur parla pas d'abord de meurtre, ni de trahison. Elle leur parla de salut. Elle leur souffla que la souffrance de Lamia, celle des peuples et celle de l'univers, venait peut-être du cœur lui-même. Que si ce cœur était la source de tant de conflits divins, alors le détruire pourrait mettre fin à la douleur. Cette logique était délirante, mais Maurtria sut la rendre presque compatissante.\n\nL'un des gardiens finit par céder. Une nuit, il se tourna contre le cœur de Lamia et le frappa. Il ne parvint pas à le détruire, mais le coup suffit à le fracturer en trois fragments. En tentant de remonter vers la surface avec l'un d'eux, le gardien corrompu ouvrit aussi une faiblesse dans les entrailles du monde : un point de passage par lequel les démons d'Ataraxus purent s'insinuer.\n\nAinsi naquit le premier grand cataclysme intérieur de Lamia. Les nains furent les premiers à en payer le prix. Dans les profondeurs, leurs cités se fissurèrent, leurs forges s'éteignirent par endroits, et une guerre souterraine éclata loin du regard des humains et des elfes. Les démons avancèrent dans les tunnels, les halls et les forteresses que les nains avaient juré de protéger. La civilisation souterraine, créée pour garder le cœur du monde, fut brisée par la corruption même qui avait atteint ses gardiens.",
+          "lineCount": 7,
+          "startLine": 70
+        }
+      },
+      "images": [],
+      "contentDigest": "c12d3f9ee0ae1564f6211d301bacf5e88dc6ff70e36808f5c423ba3daa2ddbe9",
+      "providerUserMessageId": "2f812e44-97ee-4808-ad13-cdcd1953f90d",
+      "providerAssistantMessageId": "b0769d13-63c8-457c-926f-b2f573af9534"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786389384181-i904o2r",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1786389384175-lairv90",
+      "timestamp": 1786389384175,
+      "rawDisplayText": "Ce paragraphe doit être changer, Xeros tenta d'ouvrir les yeux d'Albaesclatia sur le comportement de Maurtria. Il l'enfermèrent dans une salle du Dibertium où Laxius devait la surveiller. Mais elle parvint à ce jouer de lui et le corrompre. Ainsi elle put manipuler via le Fil et les Songes, les Mortels de Lamia pour créer plus de violences et de Chaos.",
+      "canonicalText": "Ce paragraphe doit être changer, Xeros tenta d'ouvrir les yeux d'Albaesclatia sur le comportement de Maurtria. Il l'enfermèrent dans une salle du Dibertium où Laxius devait la surveiller. Mais elle parvint à ce jouer de lui et le corrompre. Ainsi elle put manipuler via le Fil et les Songes, les Mortels de Lamia pour créer plus de violences et de Chaos.",
+      "context": {
+        "editorSelection": {
+          "notePath": "04_Brouillons/Maurtria.md",
+          "mode": "selection",
+          "selectedText": "Pendant toute cette période, Maurtria joua sur les deux tableaux. Aux yeux d'Albaesclatia et d'une partie du Conseil, elle pouvait encore prétendre servir la survie de Lamia en préparant les mortels à la violence nécessaire. Aux yeux d'Ataraxus, elle se révélait comme une alliée potentielle, capable d'ouvrir des failles, de corrompre les esprits et de transformer la peur en meurtre.",
+          "lineCount": 1,
+          "startLine": 84
+        }
+      },
+      "images": [],
+      "contentDigest": "2ecb25cac90faaf0c5f93ba9e5af38d53ff8fb04b3917f04423d721123795ba7",
+      "providerUserMessageId": "aa2a31f2-3526-484f-b17c-861a993db8f6",
+      "providerAssistantMessageId": "dc5bc652-c187-489b-88d1-aad34bac392e"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786389902356-ha8vrba",
+      "userTurnOrdinal": 6,
+      "state": "accepted",
+      "localMessageId": "msg-1786389902351-3qy91rn",
+      "timestamp": 1786389902351,
+      "rawDisplayText": "La Timeline Master fait foi. corrige pour respecter le timeline master pour cette contradiction",
+      "canonicalText": "La Timeline Master fait foi. corrige pour respecter le timeline master pour cette contradiction",
+      "context": {
+        "editorSelection": {
+          "notePath": "04_Brouillons/Maurtria.md",
+          "mode": "selection",
+          "selectedText": "⚠️ **Écart de calendrier avec [[01_Lore/Timeline Master]].** Timeline Master date la fracture du cœur à Sérénale ≈2750, et le franchissement de la barrière par les premiers démons à Exodiale 0 (= Sérénale ≈2950) — soit un intervalle de ≈200 ans. Cette fiche (et celle de Naïnrak) racontent un enchaînement qui semble immédiat (« l'invasion déferla » aussitôt après la fracture). Non nécessairement contradictoire (200 ans peuvent s'être écoulés entre la brèche initiale et l'invasion massive), mais le rythme narratif mériterait d'être harmonisé avec la Timeline lors d'une relecture d'ensemble. **La Timeline Master fait foi.**",
+          "lineCount": 1,
+          "startLine": 181
+        }
+      },
+      "images": [],
+      "contentDigest": "8a8c36f77bf811ebb87cef6e30949f4d9c6f9dbcd6f93ee70eb78df49a040310",
+      "providerUserMessageId": "e5f37e2f-1b0a-442c-a70e-b0391fe38e8a",
+      "providerAssistantMessageId": "e8c95f0f-1fc4-401a-8b5a-eeb294b16eed"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786436968360-esmjn0f",
+      "userTurnOrdinal": 7,
+      "state": "accepted",
+      "localMessageId": "msg-1786436968341-fqtcvng",
+      "timestamp": 1786436968341,
+      "rawDisplayText": "Mettre à jour ce paragraphe pour ajouter que Maurtria a également commençé à donner des inofs à Ataraxus notament son idée d'attaquer les âmes directement dans les Limbes. (voir Création des Limbes)",
+      "canonicalText": "Mettre à jour ce paragraphe pour ajouter que Maurtria a également commençé à donner des inofs à Ataraxus notament son idée d'attaquer les âmes directement dans les Limbes. (voir Création des Limbes)",
+      "context": {
+        "editorSelection": {
+          "notePath": "01_Lore/Divinités/Majeur/Maurtria.md",
+          "mode": "selection",
+          "selectedText": "Au cœur de l'Ère Sérénale, Maurtria commença ses corruptions d'abords avec ces frères et soeurs, semant la discorde entre l'entente fraternelle. Puis en manipulant les mortels présent dans le [[Plan des Mondes]].",
+          "lineCount": 1,
+          "startLine": 66
+        }
+      },
+      "images": [],
+      "contentDigest": "e8f42f5c48572eb8c054cf8f625251e90e6c2dba7ac1fda74b252f41c48c0394",
+      "providerUserMessageId": "72c93038-b88a-43e6-8905-20dff713f1ac",
+      "providerAssistantMessageId": "5d5e91cc-a9e0-49bc-bcbf-f0c8bdbb8c9d"
+    }
+  ]
+}

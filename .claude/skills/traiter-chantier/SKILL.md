@@ -1,17 +1,36 @@
 ---
 name: traiter-chantier
-description: "Reprend et exécute avec l'utilisateur une tâche déjà listée dans la sous-section « Ouverts » des « Chantiers en cours » de Index (souvent issue d'un brainstorm ou d'un audit) — décision tranchée ensemble, puis écrite directement sur les fiches concernées (double marqueur ia-a-valider en frontmatter revision + callout, additif) via le MCP obsidian-lamia, ou en Mode Local (CLI Obsidian / Fichiers-Git) en repli. Déclenche dès que l'utilisateur veut avancer, traiter, trancher ou clore un chantier ouvert, demande ce qu'il reste à trancher ou d'ouvert, ou cite le libellé d'une ligne de chantier — « on traite le chantier sur X », « attaquons les chantiers », « reprenons la tâche sur Y », « il reste quoi à trancher » — même sans dire « chantier ». Si le sujet correspond à une ligne déjà ouverte des Chantiers, ce skill prime sur brainstorm-lore (réflexion neuve, brouillon en Inbox) ; distinct d'audit-coherence (constate sans modifier) — seul ce skill écrit dans des fiches existantes de 01_Lore."
-compatibility: "Mode par défaut : MCP obsidian-lamia (obsidian_get_note, obsidian_search_notes, obsidian_list_notes, obsidian_manage_frontmatter, obsidian_patch_note, obsidian_append_to_note, obsidian_replace_in_note, obsidian_write_note). En Claude Code sans MCP : CLI Obsidian (`obsidian`, app ouverte) si disponible, sinon accès disque direct (Read/Edit/Glob/Grep/Bash) + git — voir « Voies d'accès au vault »."
+description: "Écrit directement sur une fiche déjà existante de 01_Lore : soit un chantier listé dans \"Chantiers en cours > Ouverts\" de Index, soit une édition ponctuelle demandée dans l'échange sans passer par Index (\"corrige X sur Y\", \"ajoute ce paragraphe à Y\"). Même protocole dans les deux cas : double marqueur ia-a-valider + cérémonie complète (backlinks, Timeline Master, Base, Journal) via MCP obsidian ou Mode Local en repli. Déclenche dès que l'utilisateur veut avancer, traiter, trancher ou clore un chantier, demande ce qui reste ouvert, cite une ligne de Chantiers, OU demande explicitement de corriger, compléter ou modifier une fiche existante précise, même sans lien avec Index. Ne déclenche PAS sur une simple discussion ou lecture sans demande d'écriture. Prime sur brainstorm-lore si le sujet est déjà un chantier ouvert ; distinct de creer-fiche (fiche neuve) et d'audit-coherence (constate sans modifier) : seul skill à écrire dans des fiches existantes de 01_Lore."
+compatibility: "Mode par défaut : MCP obsidian (vault_read, vault_write, vault_patch, vault_append, vault_list, vault_get_document_map, search_simple, search_query, tag_list, active_file_get_path). En Claude Code sans MCP : CLI Obsidian (`obsidian`, app ouverte) si disponible, sinon accès disque direct (Read/Edit/Glob/Grep/Bash) + git — voir « Voies d'accès au vault »."
 ---
 
 # Traiter un chantier — Lamia
 
-Ce skill reprend une tâche déjà actée comme "en attente" dans Index (section
-"Chantiers en cours > Ouverts"), la tranche en collaboration avec
-l'utilisateur, puis inscrit la décision directement sur la ou les fiches
-concernées — c'est le seul skill du vault à exercer le protocole d'écriture
+Ce skill écrit directement sur une ou des fiches déjà EXISTANTES de
+`01_Lore` — c'est le seul skill du vault à exercer le protocole d'écriture
 directe de `Regles_IA_Lore.md` plutôt que de déposer un brouillon dans
-`05_IA_Inbox`.
+`05_IA_Inbox`. Deux origines possibles, toujours traitées par la MÊME
+procédure complète (Étapes 0 à 6, sans raccourci ni palier allégé — la
+légèreté apparente d'une demande n'est pas un critère fiable pour sauter une
+étape) :
+
+- **Chantier tracké** : une tâche déjà actée comme "en attente" dans Index
+  (section "Chantiers en cours > Ouverts"), tranchée en collaboration avec
+  l'utilisateur puis inscrite sur la ou les fiches concernées.
+- **Édition ad hoc** : une demande de modification d'une fiche précise,
+  formulée directement dans l'échange, sans être passée par Index au
+  préalable (ex. "corrige la date de naissance sur la fiche Kael", "ajoute
+  ce paragraphe à l'Histoire de Naphusis"). Décision actée le 2026-08-07 :
+  pas de palier allégé séparé pour ces éditions — même rigueur que pour un
+  chantier tracké (backlinks, cas Timeline Master, Base, Journal). Seule
+  différence de traitement : voir Étape 1 (identification) et Étape 6
+  (absence de ligne "Ouverts" à cocher).
+
+Ce qui ne relève PAS de ce skill : une simple discussion ou lecture d'une
+fiche sans demande d'écriture explicite (aucun skill à déclencher, ou
+`brainstorm-lore` si l'utilisateur veut explorer) ; la création d'une fiche
+qui n'existe pas encore (`creer-fiche`) ; un constat sans modification
+(`audit-coherence`).
 
 ## Syntaxe Obsidian — sources d'autorité
 
@@ -37,8 +56,9 @@ type Date.
 
 ## Voies d'accès au vault
 
-1. **Mode MCP (par défaut, partout)** : les tools `obsidian_*` listés en
-   compatibility sont disponibles → comportement décrit plus bas.
+1. **Mode MCP (par défaut, partout)** : les tools `vault_*`/`search_*`
+   listés en `compatibility` sont disponibles → comportement décrit plus
+   bas.
 2. **Mode Local (Claude Code uniquement)** : si les tools MCP sont absents,
    ou si l'un d'eux échoue en cours de session, ET que Claude a un accès
    disque direct au vault (racine du repo git courant). Dans ce mode :
@@ -65,7 +85,7 @@ la tâche interrompue — jamais improvisé, jamais présenté comme réussi.
 
 Charger, s'ils ne sont pas déjà dans le contexte de la conversation en
 cours : `00_Systeme/Conventions.md`, `00_Systeme/Index.md`, et
-`00_Systeme/Regles_IA_Lore.md` (`obsidian_get_note`, **si MCP indisponible :**
+`00_Systeme/Regles_IA_Lore.md` (`vault_read`, **si MCP indisponible :**
 `obsidian read file=…` ou `Read`). Ce dernier fichier définit le protocole
 d'écriture directe dont ce skill dépend entièrement — contrairement aux
 autres skills du vault, qui n'écrivent jamais hors de `05_IA_Inbox`. En cas
@@ -76,59 +96,89 @@ Si le chantier touche une chronologie ou des dates : charger
 `01_Lore/Timeline Master.md` EN ENTIER avant de discuter — jamais de mémoire.
 **Si MCP indisponible :** lire ce même fichier en entier (CLI ou `Read`).
 
-## Étape 1 — Identifier le ou les chantiers à traiter
+## Étape 1 — Identifier ce qui doit être traité
 
-- Si l'utilisateur nomme un chantier précis (mot-clé qui matche une ligne de
-  "Ouverts"), aller directement dessus.
+D'abord déterminer l'origine, puis suivre la branche correspondante :
+
+**Cas A — Chantier tracké.** L'utilisateur nomme un chantier précis (mot-clé
+qui matche une ligne de "Ouverts"), ou demande "qu'est-ce qu'il reste à
+trancher" sans préciser une fiche.
+
+- Si un chantier précis est nommé, aller directement dessus.
 - Sinon, lire `Index.md` section `Chantiers en cours::Ouverts`
-  (`obsidian_get_note`, `format: "section"`, `section: {type: "heading",
-  target: "Chantiers en cours::Ouverts"}`). **Si MCP indisponible :** lire
-  `00_Systeme/Index.md` et repérer la même section. Lister les items ouverts,
-  demander lequel traiter en premier.
-- Un seul chantier traité à la fois par défaut. N'enchaîner sur un autre que
-  si l'utilisateur le demande explicitement en cours de session.
-- Si le chantier couvre un grand nombre de fiches (ex. "recalibrer le rang
-  des ~20 divinités"), signaler l'ampleur et proposer un découpage (par lot)
+  (`vault_read` avec `targetType: "heading"`, `target: "Chantiers en
+  cours::Ouverts"`). **Si MCP indisponible :** lire `00_Systeme/Index.md` et
+  repérer la même section. Lister les items ouverts, demander lequel traiter
+  en premier.
+
+**Cas B — Édition ad hoc.** L'utilisateur nomme directement une fiche
+existante de `01_Lore` et une modification précise, sans référence à une
+ligne de "Chantiers en cours" (ex. "corrige X sur la fiche Y", "ajoute ce
+paragraphe à Y"). Ne pas chercher de correspondance dans Index — la demande
+EST le mandat. Vérifier seulement que la fiche visée existe bien et vit dans
+`01_Lore` (sinon : `creer-fiche` si elle n'existe pas encore, ou signaler
+l'emplacement réel si elle est ailleurs, ex. `04_Brouillons`). En cas de
+doute sur si la demande est vraiment une édition à écrire tout de suite ou
+plutôt une question/exploration, demander avant d'engager la Cérémonie —
+ne jamais déclencher ce skill sur une simple lecture ou discussion.
+
+Dans les deux cas, la suite (Étapes 2 à 6) est identique — la seule
+différence de traitement apparaît à l'Étape 6 (pas de ligne "Ouverts" à
+cocher pour le Cas B).
+
+Règles communes aux deux cas :
+
+- Un seul chantier ou une seule édition ad hoc traité(e) à la fois par
+  défaut. N'enchaîner sur un(e) autre que si l'utilisateur le demande
+  explicitement en cours de session.
+- Si le sujet couvre un grand nombre de fiches (ex. "recalibrer le rang des
+  ~20 divinités"), signaler l'ampleur et proposer un découpage (par lot)
   avant de tout traiter d'un coup sans confirmation — même logique que
   audit-coherence sur "tout le vault".
 
-## Étape 2 — Rassembler le contexte du chantier choisi
+## Étape 2 — Rassembler le contexte
 
-1. Identifier la ou les fiches concernées (wikilinks présents dans la ligne
-   du chantier, ou déduites du sujet). Si le chantier référence une fiche
+1. Identifier la ou les fiches concernées : Cas A → wikilinks présents dans
+   la ligne du chantier, ou déduites du sujet ; Cas B → la fiche nommée
+   directement par l'utilisateur. Si un chantier référence une fiche
    brainstorm ou un journal d'audit ("voir [[...]]"), la lire EN ENTIER —
    c'est la matière de départ de la décision.
 2. Résoudre chaque wikilink en chemin réel AVANT toute lecture ou
    écriture : un `[[Nom]]` ne porte pas de chemin, et les tools MCP exigent
-   un chemin exact. Passer par `obsidian_search_notes` (mode `text` sur le
-   nom) ou `obsidian_list_notes` — jamais par un chemin construit de
-   mémoire ou depuis la doc : des divergences d'accents existent entre
-   Conventions et les dossiers réels (ex. `01_Lore/Évenements/`, deuxième
-   e sans accent), et un chemin faux échoue silencieusement.
+   un chemin exact. Passer par `search_simple` (sur le nom) ou `vault_list`
+   sur le dossier probable — jamais par un chemin construit de mémoire ou
+   depuis la doc : des divergences d'accents existent entre Conventions et
+   les dossiers réels (ex. `01_Lore/Évenements/`, deuxième e sans accent),
+   et un chemin faux échoue silencieusement.
    **Si MCP indisponible :** CLI `obsidian read file="Nom"` (résolution
    native façon wikilink) pour lire ; pour un chemin exact (édition disque,
    git), `obsidian search query="Nom"` ou `Glob` sur le nom de fichier.
-3. Lire les fiches concernées EN ENTIER (`obsidian_get_note`, format
-   `content` ou `full`). **Si MCP indisponible :** CLI `read` ou `Read`.
-   Ne jamais trancher à partir d'un extrait ou d'un souvenir.
+3. Lire les fiches concernées EN ENTIER (`vault_read`, sans `target` pour
+   avoir le contenu complet + `frontmatter` + `links` + `backlinks`).
+   **Si MCP indisponible :** CLI `read` ou `Read`. Ne jamais trancher à
+   partir d'un extrait ou d'un souvenir.
 4. **Obligatoire — pas seulement "si utile"** : avant de réécrire
    l'Histoire, le Résumé ou les Relations d'une fiche existante, vérifier
-   ses `backlinks` (déjà renvoyés par `obsidian_get_note` à l'Étape 2.3) ET
-   lancer une recherche texte sur son nom (`obsidian_search_notes`, mode
-   `text`) pour repérer les mentions non liées. Lire EN ENTIER toute fiche
-   de type `evenement` ou `objet` qui en ressort et qui n'a pas encore été
-   lue cette session, même si elle ne semble pas centrale au premier coup
-   d'œil. Les Relations déjà présentes sur la fiche ne suffisent pas :
-   elles reflètent ce qui était su au moment de leur rédaction, pas le
-   canon qui a pu s'y ajouter depuis. Un oubli ici crée une incohérence
-   silencieuse, découverte seulement si l'utilisateur la remarque
-   lui-même — expérience vécue (fiche Naphusis, 2026-07-28 : deux
-   événements canon déjà établis, passés inaperçus jusqu'à ce que
+   ses `backlinks` (déjà renvoyés par `vault_read` à l'Étape 2.3) ET
+   lancer une recherche texte sur son nom (`search_simple`) pour repérer
+   les mentions non liées ; `search_query` (JsonLogic) est complémentaire
+   pour cibler par `type`/`statut` si `search_simple` remonte trop de bruit.
+   Lire EN ENTIER toute fiche de type `evenement` ou `objet` qui en ressort
+   et qui n'a pas encore été lue cette session, même si elle ne semble pas
+   centrale au premier coup d'œil. Les Relations déjà présentes sur la
+   fiche ne suffisent pas : elles reflètent ce qui était su au moment de
+   leur rédaction, pas le canon qui a pu s'y ajouter depuis. Un oubli ici
+   crée une incohérence silencieuse, découverte seulement si l'utilisateur
+   la remarque lui-même — expérience vécue (fiche Naphusis, 2026-07-28 :
+   deux événements canon déjà établis, passés inaperçus jusqu'à ce que
    l'utilisateur signale leur absence de l'Histoire).
-   Ne pas se limiter à la première page de résultats : `pathPrefix` est un
-   POST-filtre appliqué après la recherche, pas un scope — une page peut
-   revenir vide alors que des hits existent aux pages suivantes ; paginer
-   via `nextCursor` avant de conclure à l'absence.
+   ⚠️ Le mapping d'outils ci-dessus (`search_simple`/`search_query`) a été
+   corrigé le 2026-08-07 contre le serveur MCP réel — l'ancienne version
+   référençait `obsidian_search_notes` avec une pagination (`pathPrefix`,
+   `nextCursor`) qui n'existe pas dans les outils actuels. Si une session
+   future constate que `search_simple` ne remonte pas tous les résultats
+   sur un vault volumineux, le signaler : ce point n'a pas été vérifié à
+   l'échelle, seul le mapping de noms l'a été.
    **Si MCP indisponible :** CLI `obsidian backlinks file="Nom"` et
    `obsidian search query="Nom"`, ou `Grep`/`Glob` sur `01_Lore/`.
 
@@ -141,15 +191,19 @@ une piste qui semble bonne. **"Retenu" = validé explicitement par
 l'utilisateur dans l'échange** — jamais tranché seul par Claude, jamais par
 défaut ni par enthousiasme.
 
-Si le chantier n'est qu'une confirmation simple déjà bien cadrée, aller plus
-vite — mais ne jamais sauter la validation explicite avant d'écrire quoi que
-ce soit.
+Si le chantier (ou l'édition ad hoc — ex. une correction ponctuelle déjà
+sans ambiguïté) n'est qu'une confirmation simple déjà bien cadrée, aller
+plus vite — mais ne jamais sauter la validation explicite avant d'écrire
+quoi que ce soit. Aller vite ne veut jamais dire sauter une étape de la
+Cérémonie (Étapes 0, 2.4, 4bis, 5) : décision actée le 2026-08-07, voir
+intro.
 
-À l'inverse, si le chantier s'avère être une question encore largement
-ouverte (plusieurs pistes lourdes, beaucoup de non-tranché après discussion),
+À l'inverse, si le sujet s'avère être une question encore largement ouverte
+(plusieurs pistes lourdes, beaucoup de non-tranché après discussion),
 proposer de basculer vers une vraie session `brainstorm-lore` — fiche
-déposée en Inbox, chantier laissé ouvert — plutôt que de forcer une décision
-pour pouvoir cocher la case. Un chantier qui reste ouvert honnêtement vaut
+déposée en Inbox, chantier laissé ouvert (ou, pour une édition ad hoc,
+simplement non traitée pour l'instant) — plutôt que de forcer une décision
+pour pouvoir cocher la case. Un sujet qui reste ouvert honnêtement vaut
 mieux qu'une décision arrachée.
 
 ## Étape 4 — Écrire la décision (protocole d'écriture directe)
@@ -205,45 +259,69 @@ forme :
 Pour chaque fiche concernée, **hors Timeline Master et hors 00_Systeme**
 (jamais touchés à cette étape — voir Étape 4bis et Garde-fous) :
 
-1. Vérifier le `statut` actuel (`obsidian_manage_frontmatter`, `get`). S'il
-   est `canon` ou `canon-verrouillé`, le signaler explicitement avant
-   d'écrire (Conventions §1 : modifiable, mais vérifier les notes liées
-   avant) — et vérifier concrètement les notes liées : **Si MCP
-   indisponible :** CLI `obsidian backlinks file="Nom"` donne la liste
-   exacte des fiches entrantes ; en Mode MCP, approximer par
-   `obsidian_search_notes` (mode `text`) sur le nom de la fiche pour
-   repérer qui la cite. Ne jamais s'arrêter d'écrire pour autant si
-   l'utilisateur a validé la décision, juste rendre visible ce qui
-   dépend de la fiche.
-2. Vérifier si un marqueur `revision:` existe déjà. S'il porte une valeur
-   différente de `ia-a-valider` (ou si sa présence suggère une révision
-   antérieure pas encore validée), le signaler à l'utilisateur avant
-   d'écraser plutôt que de l'effacer silencieusement.
+1. Vérifier le `statut` actuel — déjà connu depuis la lecture complète de
+   l'Étape 2.3 (`vault_read` renvoie `frontmatter.statut` directement, pas
+   besoin d'un second appel). S'il est `canon` ou `canon-verrouillé`, le
+   signaler explicitement avant d'écrire (Conventions §1 : modifiable, mais
+   vérifier les notes liées avant) — notes liées déjà rassemblées à l'Étape
+   2, point 4 (`backlinks` + `search_simple`). Ne jamais s'arrêter d'écrire
+   pour autant si l'utilisateur a validé la décision, juste rendre visible
+   ce qui dépend de la fiche.
+2. Vérifier si un marqueur `revision:` existe déjà (`frontmatter.revision`,
+   même lecture). S'il porte une valeur différente de `ia-a-valider` (ou si
+   sa présence suggère une révision antérieure pas encore validée), le
+   signaler à l'utilisateur avant d'écraser plutôt que de l'effacer
+   silencieusement.
 3. Poser le double marqueur :
-   - Frontmatter : `obsidian_manage_frontmatter` (`operation: "set"`,
-     `key: "revision"`, `value: "ia-a-valider"`), puis idem pour
-     `revision-date`. **Si MCP indisponible :** CLI
-     `obsidian property:set` (deux appels), sinon édition YAML via `Edit`.
+   - Frontmatter : `vault_patch` avec `targetType: "frontmatter"`,
+     `target: "revision"`, `operation: "replace"`, `content:
+     "ia-a-valider"`, `createTargetIfMissing: true` — puis un second appel
+     identique pour `target: "revision-date"`, `content: "AAAA-MM-JJ"`
+     (date du jour). **Si MCP indisponible :** CLI `obsidian
+     property:set` (deux appels), sinon édition YAML via `Edit`.
    - Callout + contenu + block ID dans le MÊME appel : un seul
-     `obsidian_patch_note` (section concernée, `operation: "append"`) —
-     ou `obsidian_append_to_note` si aucune section précise ne convient —
-     dont le contenu est le bloc complet de la « Forme du marqueur »
-     ci-dessus. Jamais d'appels séparés pour le callout, le texte et le
-     block ID : disjoints, ils se retrouveraient éparpillés dans la
-     fiche. **Si MCP indisponible :** un seul `Edit` insérant le bloc
-     complet au bon endroit (le CLI `append` ne cible pas une section —
-     ne l'utiliser que si l'ajout va légitimement en fin de fiche).
-   - Cibler la section par sa syntaxe exacte : `obsidian_get_note` en
-     `format: "document-map"` donne le catalogue des headings et la forme
-     `Parent::Child` à utiliser — ne pas deviner le nom d'une section.
-   - Retries : `patch_note` rejette par défaut un contenu déjà présent
-     dans la cible (`applyIfContentPreexists: false`). Un échec de ce
-     type après une coupure signifie que l'écriture a probablement déjà
-     réussi — relire la fiche avant de forcer.
+     `vault_patch` (`targetType: "heading"`, `target:` la section
+     concernée en syntaxe `Parent::Child`, `operation: "append"`) — ou
+     `vault_append` si aucune section précise ne convient (ajout en fin de
+     fichier uniquement) — dont le contenu est le bloc complet de la
+     « Forme du marqueur » ci-dessus. Jamais d'appels séparés pour le
+     callout, le texte et le block ID : disjoints, ils se retrouveraient
+     éparpillés dans la fiche. **Si MCP indisponible :** un seul `Edit`
+     insérant le bloc complet au bon endroit (le CLI `append` ne cible pas
+     une section — ne l'utiliser que si l'ajout va légitimement en fin de
+     fiche).
+   - Cibler la section par sa syntaxe exacte : `vault_get_document_map`
+     donne le catalogue des headings, block IDs et clés frontmatter réels
+     et la forme `Parent::Child` à utiliser — ne pas deviner le nom d'une
+     section ; un heading bare sans le chemin imbriqué complet échoue
+     silencieusement.
+   - Retries — **poser explicitement `rejectIfContentPreexists: true`** sur
+     l'appel `vault_patch` du callout : contrairement à ce qu'un ancien
+     texte de ce skill supposait, ce paramètre défaut à `false` (donc à
+     AUCUNE protection anti-duplication tant qu'il n'est pas posé
+     explicitement). Un échec avec `rejectIfContentPreexists: true` après
+     une coupure signifie que l'écriture a probablement déjà réussi —
+     relire la fiche avant de forcer un nouvel essai, jamais retenter sans
+     ce paramètre.
+   - Si le callout cible une section contenant des références de block ID
+     existantes, ou si la fiche a déjà reçu plusieurs révisions le même
+     jour : préférer une reconstruction complète (`vault_write`, contenu
+     entier relu puis fusionné) à un `append`/`replace` partiel — un
+     `vault_patch` sur une section porteuse de block IDs peut supprimer du
+     contenu existant sans le signaler.
+   - **Vérification post-écriture, systématique, chaque appel** : `vault_write`
+     a déjà été observé retourner un succès sans persister réellement le
+     contenu. Après CHAQUE écriture (frontmatter, callout, ou fusion
+     complète), relire la fiche (`vault_read`) et confirmer que le
+     contenu attendu y figure avant de passer à la fiche suivante ou de
+     déclarer l'Étape 4 terminée pour cette fiche — ne jamais présenter une
+     écriture comme réussie sur la seule foi du retour de l'appel.
 4. Écriture **additive par défaut** : ajouter sans réécrire ni supprimer la
    prose existante, sauf demande explicite de l'utilisateur dans la
-   conversation en cours. Ne jamais utiliser `obsidian_write_note` en pleine
-   page (`overwrite: true`) sur une fiche existante à cette étape.
+   conversation en cours. Ne jamais utiliser `vault_write` en pleine page
+   sur une fiche existante à cette étape, sauf dans le cas de
+   reconstruction complète prévu au point 3 ci-dessus (et alors seulement
+   après avoir relu et fusionné explicitement le contenu existant).
 5. Ne jamais poser `statut: canon` ou `canon-verrouillé` — geste exclusif de
    l'utilisateur, quelle que soit la décision prise ensemble.
 
@@ -261,11 +339,14 @@ réellement modifiés à cette étape.
 Décision actée : Timeline Master n'est **jamais modifié directement**, même
 si la décision est validée, même s'il vit dans `01_Lore`.
 
-1. Chercher `05_IA_Inbox/Update - Timeline Master.md`.
+1. Chercher `05_IA_Inbox/Update - Timeline Master.md` (`vault_list` sur
+   `05_IA_Inbox/` — confirmer l'existence ou l'absence AVANT toute écriture :
+   `vault_write` n'a pas de paramètre de protection, il écrase sans
+   avertissement que le fichier existe déjà ou non).
 2. **S'il n'existe pas** : le créer comme copie conforme intégrale de
-   `Timeline Master` (lire l'original en entier, puis
-   `obsidian_write_note` avec ce contenu sur le nouveau fichier,
-   `overwrite: false`).
+   `Timeline Master` (lire l'original en entier, puis `vault_write` avec ce
+   contenu sur le nouveau fichier). Relire ensuite (`vault_read`) pour
+   confirmer la persistance avant de continuer.
 3. **S'il existe déjà** (chantier précédent pas encore reporté) : lire la
    copie EN ENTIER, relire l'original EN ENTIER, et comparer AVANT
    d'écrire. Si l'original a évolué depuis la création de la copie
@@ -296,11 +377,12 @@ session ne sont retrouvables qu'en rouvrant chaque fiche une à une. Deux
 outils complémentaires, tous deux optionnels et proposés à l'utilisateur :
 
 **a) Base « Revisions en attente » (recommandé — vue vivante).** Vérifier
-si une Base filtrant les révisions existe déjà (`obsidian_search_notes` sur
-`revision` dans les `.base`, ou demander à l'utilisateur — c'est plus
-fiable). Si non, proposer de déposer dans `05_IA_Inbox` une copie du
-fichier fourni avec ce skill, `assets/Revisions en attente.base`
-(`obsidian_write_note` avec son contenu, `overwrite: false` ; **si MCP
+si une Base filtrant les révisions existe déjà (`search_simple` sur
+`revision`, ou demander à l'utilisateur — c'est plus fiable). Si non,
+proposer de déposer dans `05_IA_Inbox` une copie du fichier fourni avec ce
+skill, `assets/Revisions en attente.base` — vérifier d'abord via
+`vault_list` que rien n'existe déjà à ce chemin (`vault_write` écrase sans
+avertissement), puis `vault_write` avec son contenu (**si MCP
 indisponible :** copie disque). L'utilisateur la déplacera où il veut —
 une Base filtre tout le vault quel que soit son emplacement. Elle liste en
 continu toutes les fiches portant `revision: ia-a-valider`, triables par
@@ -328,17 +410,43 @@ fermé en écriture à l'IA) :
   et le block ID de chaque révision (`[[Fiche#^rev-…]]`).
 - Le commit git s'il a eu lieu (Mode Local).
 - Pour Timeline Master : rappel explicite que l'original n'a pas bougé.
-- Le texte exact à coller soi-même dans Index :
-  - la ligne "Ouverts" concernée, à cocher ;
-  - la ligne à ajouter sous "Tranchés" :
-    `- [x] <résumé de la décision> (<fiche(s) concernée(s)>, <date>)` — ce
-    format exact fait foi ; les entrées historiques de "Tranchés" sont
-    hétérogènes, ne pas les imiter.
 - Rappel explicite : rien n'est validé tant que `ia-a-valider` reste posé —
   la validation de l'utilisateur = suppression du marqueur (frontmatter
   `revision` ET `revision-date` ET callout) + commit (`Regles_IA_Lore`).
   Si la Base est en place, la fiche disparaît de « Revisions en attente »
   dès que `revision` est retiré — c'est le témoin de validation.
+
+Le texte à coller soi-même dans Index dépend de l'origine (Étape 1) :
+
+**Cas A — Chantier tracké** : donner les deux lignes, comme avant.
+- La ligne "Ouverts" concernée, à cocher.
+- La ligne à ajouter sous "Tranchés" :
+  `- [x] <résumé de la décision> (<fiche(s) concernée(s)>, <date>)` — ce
+  format exact fait foi ; les entrées historiques de "Tranchés" sont
+  hétérogènes, ne pas les imiter.
+
+**Cas B — Édition ad hoc** : pas de ligne "Ouverts" (il n'y en avait pas).
+Pour la ligne "Tranchés", décision actée le 2026-08-07 : la fournir
+**seulement si la modification est significative**. Heuristique proposée
+(à affiner à l'usage — signaler tout cas limite plutôt que trancher seul) :
+
+- **Significatif** → fournir la ligne Tranchés : la modification change ce
+  que le canon affirme — fait nouveau, changement de Relations, arbitrage
+  d'une contradiction, tout contenu qui pourrait plus tard être cité comme
+  "le canon dit que...".
+- **Mineur** → pas de ligne Tranchés : correction cosmétique ou formelle
+  qui ne change pas le sens — typo, syntaxe d'un wikilink, reformulation
+  sans changement de fond, ajout d'un lien vers une entité déjà établie
+  ailleurs sur la fiche.
+- **Cas limite** → proposer la ligne quand même et laisser l'utilisateur
+  décider de la garder, plutôt que trancher silencieusement dans un sens ou
+  l'autre — cohérent avec le "jamais yes-man" du skill : une omission
+  injustifiée est aussi une décision prise à la place de l'utilisateur
+  qu'un ajout superflu.
+
+Dans les deux cas, le double marqueur (`ia-a-valider` + callout + block ID)
+est posé de façon identique — la distinction Cas A/B ne joue que sur le
+texte à reporter dans Index, jamais sur la rigueur de l'écriture elle-même.
 
 ## Garde-fous
 
@@ -382,3 +490,43 @@ fermé en écriture à l'IA) :
 - Si un tool MCP échoue en cours de session alors qu'il semblait disponible,
   basculer en Mode Local UNIQUEMENT si un accès disque réel existe ;
   sinon, arrêter et signaler l'échec — jamais fabriquer un succès.
+- Jamais déclencher ce skill sur une simple lecture, discussion ou question
+  au sujet d'une fiche existante — seulement sur une demande explicite de
+  modification (Cas B, Étape 1). Une hésitation sur l'intention se
+  clarifie en la demandant, jamais en présumant l'intention d'écrire.
+- Jamais sauter une étape de la Cérémonie (backlinks, cas Timeline Master,
+  Base, Journal) pour une édition ad hoc au motif qu'elle "semble" mineure
+  — décision actée le 2026-08-07 : même rigueur quelle que soit l'origine.
+  Seule la ligne "Tranchés" de l'Étape 6 varie selon significativité.
+- Jamais présenter une écriture comme réussie sur la seule foi du retour
+  d'un appel `vault_write`/`vault_patch` — toujours relire la fiche
+  ensuite pour confirmer la persistance réelle (Étape 4, point 3).
+- Jamais poser `rejectIfContentPreexists` implicite : ce paramètre défaut
+  à `false` (aucune protection) — le poser explicitement à `true` sur tout
+  `vault_patch` de callout, ne jamais compter sur un comportement par
+  défaut supposé.
+
+---
+
+## Journal des modifications de ce skill
+
+- 2026-08-07 : extension du périmètre — le skill couvre désormais aussi
+  l'édition ad hoc d'une fiche existante hors chantier tracké (Cas B,
+  Étape 1 et 6), toujours via la Cérémonie complète, sans palier allégé
+  (décision explicite : pas de skill séparé pour ce cas). Correction du
+  mapping d'outils, obsolète depuis un renommage du serveur MCP non
+  répercuté ici : `obsidian_get_note` → `vault_read`, `obsidian_search_notes`
+  → `search_simple`/`search_query`, `obsidian_list_notes` → `vault_list`,
+  `obsidian_manage_frontmatter` → `vault_patch` (`targetType: frontmatter`),
+  `obsidian_patch_note` → `vault_patch`, `obsidian_append_to_note` →
+  `vault_append`, `obsidian_write_note` → `vault_write`,
+  `obsidian_get_note format: document-map` → `vault_get_document_map`.
+  Correction du paramètre anti-duplication supposé par défaut
+  (`applyIfContentPreexists`, inexistant) vers le vrai paramètre
+  (`rejectIfContentPreexists`, défaut `false` — à poser explicitement).
+  Ajout d'une vérification de persistance obligatoire après chaque écriture
+  (`vault_write` a déjà été observé retourner un succès sans persister).
+  Le mapping a été vérifié contre les tools réellement exposés en session ;
+  la mécanique de pagination de recherche décrite dans l'ancienne version
+  (`pathPrefix`/`nextCursor`) n'a pas d'équivalent connu dans les tools
+  actuels et n'a pas pu être vérifiée à l'échelle — à surveiller.

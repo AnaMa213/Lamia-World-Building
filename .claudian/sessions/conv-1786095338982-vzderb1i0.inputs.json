@@ -1,0 +1,146 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786095338982-vzderb1i0",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786095339018-2j3deve",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786095338976-fwqqe8n",
+      "timestamp": 1786095338976,
+      "rawDisplayText": "/traiter-chantier . J'aimerai qu'on retravaille ensemble la fiche d'Armerith. voici les points à traiter : - [ ] Remanier la fiche pour ajouter ces informations : Armerith est un Archange du conseil crée par Albaesclatia. Pendant les temps primordiaux, il aimait perfectionner des être angeliques d'une perfection toute particulière mais il n'adhérait pas au libre arbritre qu'il devait donner à ses créations. Il est en était satisfait pendant en temps, mais il comprit rapidement qu'il lui manquait quelque chose pour être pleinement satisfait. Il devrait créer quelque chose de non seulement parfait dans sa finalité mais qui pouvait également sublimé d'autre création ou être. C'est ainsi qu'il demanda à Mageisys de lui en apprendre plus sur les différent materiau, et la logique de regles physique du plan des Mondes. Mageisys, qui ne recule jamais devant une âme avide d'apprentissage, lui appris une partie de son savoir. Ce savoir lui permit de créer d'inombrable artefacts d'une utilité determinantes, parmi lesquelles, le miroir de Lumina permettant de voir n'importe où sur le plan des mondes où la lumière de Lumina eclaire. Lors de l'arrivée des mortels sur le plan des Mondes, Armerith demanda à Albaesclatia de donner cette envie et cette curiosité de la création au mortels ce qu'elle accepta. Pendnat la Grande guerre divine, Armerith créa ces treize chefs-d'oeuvres, outils et armes qu'ils envoya au Humains et Elfes de Lamia. Ces Artefacts étaient d'une puissance phenoménale et fut très utile pour aider les populations même si certains furent utilisé pour des fins sombres. Après la Bataille de Cyroldan, la majorité des artefacts d'Armerith disparurent dans la nature. \n\n- [ ] Corrections à faire : \"Durant l'Ère Sérénale, Armerith devint l'un des grands protecteurs symboliques de la civilisation lamienne. Il voyait dans les créations des Humains et des Elfes la preuve que la vie ne se contente pas de survivre : elle transforme, invente, façonne et transmet. Là où d'autres dieux cherchaient la puissance, la loi ou la domination, Armerith cherchait la trace laissée par le geste créateur.\" C'est lui qui demande de donner au Hommes/Elfes l'envie de créer.",
+      "canonicalText": "/traiter-chantier . J'aimerai qu'on retravaille ensemble la fiche d'Armerith. voici les points à traiter : - [ ] Remanier la fiche pour ajouter ces informations : Armerith est un Archange du conseil crée par Albaesclatia. Pendant les temps primordiaux, il aimait perfectionner des être angeliques d'une perfection toute particulière mais il n'adhérait pas au libre arbritre qu'il devait donner à ses créations. Il est en était satisfait pendant en temps, mais il comprit rapidement qu'il lui manquait quelque chose pour être pleinement satisfait. Il devrait créer quelque chose de non seulement parfait dans sa finalité mais qui pouvait également sublimé d'autre création ou être. C'est ainsi qu'il demanda à Mageisys de lui en apprendre plus sur les différent materiau, et la logique de regles physique du plan des Mondes. Mageisys, qui ne recule jamais devant une âme avide d'apprentissage, lui appris une partie de son savoir. Ce savoir lui permit de créer d'inombrable artefacts d'une utilité determinantes, parmi lesquelles, le miroir de Lumina permettant de voir n'importe où sur le plan des mondes où la lumière de Lumina eclaire. Lors de l'arrivée des mortels sur le plan des Mondes, Armerith demanda à Albaesclatia de donner cette envie et cette curiosité de la création au mortels ce qu'elle accepta. Pendnat la Grande guerre divine, Armerith créa ces treize chefs-d'oeuvres, outils et armes qu'ils envoya au Humains et Elfes de Lamia. Ces Artefacts étaient d'une puissance phenoménale et fut très utile pour aider les populations même si certains furent utilisé pour des fins sombres. Après la Bataille de Cyroldan, la majorité des artefacts d'Armerith disparurent dans la nature. \n\n- [ ] Corrections à faire : \"Durant l'Ère Sérénale, Armerith devint l'un des grands protecteurs symboliques de la civilisation lamienne. Il voyait dans les créations des Humains et des Elfes la preuve que la vie ne se contente pas de survivre : elle transforme, invente, façonne et transmet. Là où d'autres dieux cherchaient la puissance, la loi ou la domination, Armerith cherchait la trace laissée par le geste créateur.\" C'est lui qui demande de donner au Hommes/Elfes l'envie de créer.",
+      "context": {
+        "currentNote": {
+          "path": "04_Brouillons/Armerith.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "31217a802a9d38b80e53f40d59adee07d845618602a0820c7b6bcb4534aa8ddc",
+      "providerUserMessageId": "66f2d8f8-0cbd-4011-85dd-e1bd3421fbbe",
+      "providerAssistantMessageId": "f8c7f4f7-e4b0-443c-9ce2-d18ba3ef7352"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786095771641-dtxbp7k",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786095771638-s956pm0",
+      "timestamp": 1786095771638,
+      "rawDisplayText": "1. Oui je te confirme qu'on travaille sur le brouillon 2. Options A mais avec une subtilité. Il est le créateur de ces œuvres (donc y a insulffler une partie de son essence) mais ils les a donné au Lamien pendans l'ère Exodiale pour les aider à combattre et survivre face au démons. On pourrait même faire /creer-fiche pour y créer un nouvelle événement dans un second temps après avoir retravailler cette fiche.",
+      "canonicalText": "1. Oui je te confirme qu'on travaille sur le brouillon 2. Options A mais avec une subtilité. Il est le créateur de ces œuvres (donc y a insulffler une partie de son essence) mais ils les a donné au Lamien pendans l'ère Exodiale pour les aider à combattre et survivre face au démons. On pourrait même faire /creer-fiche pour y créer un nouvelle événement dans un second temps après avoir retravailler cette fiche.",
+      "images": [],
+      "contentDigest": "18fdc700d2d59c597b464afe6e1fe60c76effc3c4263ecfabd37822b2a918044",
+      "providerUserMessageId": "0dec177f-91e3-444c-9365-d94325798bfa",
+      "providerAssistantMessageId": "70ce7882-5cee-4832-b948-b6b4c5506cd6"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786096142531-a5o35e5",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1786096142527-4cpepib",
+      "timestamp": 1786096142527,
+      "rawDisplayText": "1. Tu as raisons au final les 12 Chefs-d'oeuvre ne peuvent pas être ses créations directes; Au final je pars plutôt sur des créations mortels qu'il considère comme chef-d'oeuvre et qu'il va sublimer de son essence. Donc on peut garder et revenir sur des créations mortels divinement sublimé. 2. c'est un évenemnt mineur de l'ère exodiale. (les créateurs des artefacts avant la sublimation d'Armerith sont différents).",
+      "canonicalText": "1. Tu as raisons au final les 12 Chefs-d'oeuvre ne peuvent pas être ses créations directes; Au final je pars plutôt sur des créations mortels qu'il considère comme chef-d'oeuvre et qu'il va sublimer de son essence. Donc on peut garder et revenir sur des créations mortels divinement sublimé. 2. c'est un évenemnt mineur de l'ère exodiale. (les créateurs des artefacts avant la sublimation d'Armerith sont différents).",
+      "images": [],
+      "contentDigest": "3dcadde5f1726f6b94b9a4d7d86c0720655fa905c056ba0c729ed0fb700fda7c",
+      "providerUserMessageId": "947dd36d-0ac2-41ce-8f91-666977846b6d",
+      "providerAssistantMessageId": "473231f5-1890-448c-97eb-3f7892b86b44"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786096320820-n6mkame",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1786096320817-5orx36v",
+      "timestamp": 1786096320817,
+      "rawDisplayText": "13 et tu as le go",
+      "canonicalText": "13 et tu as le go",
+      "images": [],
+      "contentDigest": "21936ee1afe892bd9e147b1af71c250dcc808a4513fa78edebc4f27847b24725",
+      "providerUserMessageId": "095a7881-f309-4044-993c-b5a92a618bc5",
+      "providerAssistantMessageId": "96c0192e-c30a-46ec-a535-3fd3f7b28743"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786096870093-oaxayfv",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1786096870089-9as4boo",
+      "timestamp": 1786096870089,
+      "rawDisplayText": "Go pour la création des 2 fiche, tu peux directement les créer dans Fiches.",
+      "canonicalText": "Go pour la création des 2 fiche, tu peux directement les créer dans Fiches.",
+      "images": [],
+      "contentDigest": "248a1a404483049434a7fdc1732c7ce0bd87a7de6e47da4e59f47bae3f5bb142",
+      "providerUserMessageId": "5e70203d-040c-4733-b0b2-1a85a5d05a0a",
+      "providerAssistantMessageId": "d0b6db57-2583-42c8-8136-8effa0528a16"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786099395199-1c3hrty",
+      "userTurnOrdinal": 6,
+      "state": "accepted",
+      "localMessageId": "msg-1786099395193-iapzjv9",
+      "timestamp": 1786099395193,
+      "rawDisplayText": "Pour Armerith, on pourrait également ajouter qu'il a participer à la grandeur des Grandes batisse divine du Dibertium et de tous ce qui s'y trouve.",
+      "canonicalText": "Pour Armerith, on pourrait également ajouter qu'il a participer à la grandeur des Grandes batisse divine du Dibertium et de tous ce qui s'y trouve.",
+      "images": [],
+      "contentDigest": "210f58f75773199fd3e5d6790294597ed95b3cd7d0d3e4e4dae80224056f8ea7",
+      "providerUserMessageId": "b4e5234a-94e2-47d1-8d23-1b0de2160a03",
+      "providerAssistantMessageId": "a953ddc6-5a46-4a72-828f-b90018b753b0"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786099767296-3bixryz",
+      "userTurnOrdinal": 7,
+      "state": "accepted",
+      "localMessageId": "msg-1786099767291-akxeeh6",
+      "timestamp": 1786099767291,
+      "rawDisplayText": "A. Il a construit la grande Cathédrale divine et l'intérieur. Mageisys s'est occupé du plan et montagne ect",
+      "canonicalText": "A. Il a construit la grande Cathédrale divine et l'intérieur. Mageisys s'est occupé du plan et montagne ect",
+      "images": [],
+      "contentDigest": "5607b56070391140ebcb80a7ce0cdfebdd047c16d9dae1b1ec67240166f933a8",
+      "providerUserMessageId": "11cc6d89-949c-42ec-a145-5f4977843436",
+      "providerAssistantMessageId": "8e91a438-6a17-4aa2-bc66-c68c57c5d4eb"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786100012563-wd4aip6",
+      "userTurnOrdinal": 8,
+      "state": "accepted",
+      "localMessageId": "msg-1786100012557-fddyp3k",
+      "timestamp": 1786100012557,
+      "rawDisplayText": "Met à jour la fiche Dibertium également",
+      "canonicalText": "Met à jour la fiche Dibertium également",
+      "images": [],
+      "contentDigest": "31ea1f9953018d7c289fcfe1c8a0c6112aaea0b29c2f316c80c3555fee225050",
+      "providerUserMessageId": "6e7ffbe2-5f6c-4a45-a212-54ee1f64b60d",
+      "providerAssistantMessageId": "f4e9075e-ea6d-4283-a2f3-981885130b5a"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786107080558-aeaj803",
+      "userTurnOrdinal": 9,
+      "state": "accepted",
+      "localMessageId": "msg-1786107080552-vxjwylk",
+      "timestamp": 1786107080552,
+      "rawDisplayText": "Pour répondre au 3 questions : 1. Les artisans en possession des artefact comprennent très bien que leur oeuvres ont été béni par Armerith. Le Cercle d'Armerith crée pendant l'ère du Voile recherche activement les 13 Chef d'oeuvres (c'est un des but de l'organisation). Oui de nombreuses Légendes existe",
+      "canonicalText": "Pour répondre au 3 questions : 1. Les artisans en possession des artefact comprennent très bien que leur oeuvres ont été béni par Armerith. Le Cercle d'Armerith crée pendant l'ère du Voile recherche activement les 13 Chef d'oeuvres (c'est un des but de l'organisation). Oui de nombreuses Légendes existe",
+      "context": {
+        "editorSelection": {
+          "notePath": "05_IA_Inbox/Fiches/La Sublimation des Treize.md",
+          "mode": "selection",
+          "selectedText": " Les artisans d'origine savaient-ils que leurs œuvres allaient être sublimées, ou cela s'est-il fait à leur insu ?\n- Le [[Cercle d'Armerith]] conserve-t-il une tradition sur les treize ?\n- Des légendes ou des quêtes autour des artefacts perdus circulent-elles encore à l'Ère du Voile ?",
+          "lineCount": 3,
+          "startLine": 43
+        }
+      },
+      "images": [],
+      "contentDigest": "0019955790049707fdab1c2db8dcb2e238d9fe7aed301e96194f8e1af2c45b3b",
+      "providerUserMessageId": "164c2f21-405f-4938-b32c-3fda0d900d6a",
+      "providerAssistantMessageId": "1779e0b8-b8da-4a14-b995-e4e1c1be0801"
+    }
+  ]
+}

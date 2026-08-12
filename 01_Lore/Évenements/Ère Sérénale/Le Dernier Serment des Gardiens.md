@@ -4,7 +4,7 @@ source: auteur
 type: evenement
 importance: majeur
 ere: exodiale
-annee: inconnu
+annee: ≈ 0 EE
 annee_debut: 0
 annee_fin: 30
 tags:
@@ -67,4 +67,4 @@ Les deux gardiens ne renoncent pas par résignation pure : chacun scelle son fra
 
 **Identité du gardien-Âme non nommée.** Ni son nom, ni la lignée mortelle dans laquelle il aurait pu renaître ne sont précisés — fil narratif volontairement ouvert, possible accroche de campagne si tu souhaites le développer.
 
-**Datation reprise directement de [[Timeline Master]] (Exodiale ≈0–30) — cohérente, aucun conflit.**
+**Datation reprise directement de [[01_Lore/Timeline Master]] (Exodiale ≈0–30) — cohérente, aucun conflit.**

@@ -1,0 +1,25 @@
+{
+  "id": "conv-1786095338982-vzderb1i0",
+  "providerId": "claude",
+  "title": "Retravailler la fiche du personnage Armerith",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786095338985,
+  "lastActivityAt": 1786107159378,
+  "sessionId": "c7e1faa7-c0e3-4520-96ea-9c3093977c1e",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "c7e1faa7-c0e3-4520-96ea-9c3093977c1e"
+  },
+  "enabledMcpServers": [
+    "obsidian-mcp"
+  ],
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 571,
+    "cacheReadInputTokens": 169521,
+    "contextWindow": 1000000,
+    "contextTokens": 170093,
+    "percentage": 17
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "conv-1786133630804-3fieqfb9t",
+  "providerId": "claude",
+  "title": "Réécrire et peaufiner la fiche d'Akator",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786133630807,
+  "lastActivityAt": 1786179795616,
+  "sessionId": "2590f619-5ccd-4ac6-b7ab-5d79aa75e38f",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "2590f619-5ccd-4ac6-b7ab-5d79aa75e38f"
+  },
+  "enabledMcpServers": [
+    "obsidian-mcp"
+  ],
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 392,
+    "cacheReadInputTokens": 215933,
+    "contextWindow": 1000000,
+    "contextTokens": 216326,
+    "percentage": 22
+  }
+}

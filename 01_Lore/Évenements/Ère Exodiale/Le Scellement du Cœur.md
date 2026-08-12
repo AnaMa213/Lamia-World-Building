@@ -52,7 +52,7 @@ Par nature, cet événement est déjà une zone d'incertitude collective — mê
 
 - [[La Dernière Menace]] — événement antérieur directement lié.
 - [[Cœur de Lamia]] — objet rescellé, jamais guéri.
-- Grande Bataille de Cyroldan (déjà dans [[Timeline Master]]) — lien précis non tranché, à développer ultérieurement.
+- Grande Bataille de Cyroldan (déjà dans [[01_Lore/Timeline Master]]) — lien précis non tranché, à développer ultérieurement.
 
 ## Contradictions potentielles
 

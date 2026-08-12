@@ -38,4 +38,4 @@ date: <% tp.date.now("YYYY-MM-DD") %>
 ## À reporter dans le canon
 (le pont vers 01_Lore : chaque décision retenue = une action fléchée cochable)
 - [ ] [[Fiche cible]] ← [décision]
-- [ ] [[Timeline Master]] ← [élément daté éventuel]
+- [ ] [[01_Lore/Timeline Master]] ← [élément daté éventuel]

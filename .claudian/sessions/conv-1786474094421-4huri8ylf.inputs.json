@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786474094421-4huri8ylf",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786474094450-kfs9s9x",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786474094419-jm9embv",
+      "timestamp": 1786474094419,
+      "rawDisplayText": "/creer-fiche  il faudrait créer une fiche Race pour les Gnomes. Tu peux t'aiders des lien avec Gnomes, les fiches Naphusis et certains événements.",
+      "canonicalText": "/creer-fiche  il faudrait créer une fiche Race pour les Gnomes. Tu peux t'aiders des lien avec Gnomes, les fiches Naphusis et certains événements.",
+      "context": {
+        "currentNote": {
+          "path": "01_Lore/Évenements/Ère Sérénale/Le Don du Chagrin.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "316668dae7375d9d6e17fc8c91e984a396dd2fb12102edb77f2a21d384257918",
+      "providerUserMessageId": "f7a64e27-3323-4912-8e4f-dbac44c90a95",
+      "providerAssistantMessageId": "e33eb901-9e37-4c18-886a-b5caa8d6baf9"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786475757449-fjmnez1",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786475757445-swfhg6i",
+      "timestamp": 1786475757445,
+      "rawDisplayText": "Pour la description, voici la description d'un gnome : Ce Gnome semble avoir poussé dans la forêt plutôt qu’y être né. Petit et massif, il possède un corps trapu dont les contours disparaissent presque sous une accumulation de mousse, de lianes, de racines fines et de feuillages vivants. Sa peau épaisse, verdâtre et profondément plissée rappelle autant l’écorce détrempée que la chair d’un vieux tubercule arraché à la terre. Ses bras courts se terminent par d’énormes mains noueuses, aux doigts larges et puissants, tandis que ses pieds aplatis semblent faits pour s’ancrer dans l’humus. De jeunes fougères et de petites plantes poussent jusque sur son crâne et ses épaules, comme si son organisme portait son propre fragment de sous-bois. Même la longue masse fibreuse qui pend sous son visage tient davantage d’un entrelacs de radicelles et de mousses que d’une véritable barbe.\n\nSon visage conserve quelque chose d’étrangement animal. Deux oreilles immenses, minces et membraneuses, s’étirent horizontalement comme celles d’une créature nocturne attentive au moindre bruissement des feuilles. Au centre de cette tête large se trouve un museau court dominé par un nez charnu aux narines ouvertes, presque celui d’un petit mammifère fouisseur. Mais ce sont surtout ses grands yeux verts, ronds et brillants, presque entièrement occupés par leurs iris, qui donnent au Gnome son expression singulière : un mélange de prudence, de curiosité et de mélancolie silencieuse. Immobile parmi les fougères, couvert de terre et de végétation, il pourrait aisément passer pour une vieille souche jusqu’au moment où ses oreilles frémissent et où son regard se tourne vers l’intrus.",
+      "canonicalText": "Pour la description, voici la description d'un gnome : Ce Gnome semble avoir poussé dans la forêt plutôt qu’y être né. Petit et massif, il possède un corps trapu dont les contours disparaissent presque sous une accumulation de mousse, de lianes, de racines fines et de feuillages vivants. Sa peau épaisse, verdâtre et profondément plissée rappelle autant l’écorce détrempée que la chair d’un vieux tubercule arraché à la terre. Ses bras courts se terminent par d’énormes mains noueuses, aux doigts larges et puissants, tandis que ses pieds aplatis semblent faits pour s’ancrer dans l’humus. De jeunes fougères et de petites plantes poussent jusque sur son crâne et ses épaules, comme si son organisme portait son propre fragment de sous-bois. Même la longue masse fibreuse qui pend sous son visage tient davantage d’un entrelacs de radicelles et de mousses que d’une véritable barbe.\n\nSon visage conserve quelque chose d’étrangement animal. Deux oreilles immenses, minces et membraneuses, s’étirent horizontalement comme celles d’une créature nocturne attentive au moindre bruissement des feuilles. Au centre de cette tête large se trouve un museau court dominé par un nez charnu aux narines ouvertes, presque celui d’un petit mammifère fouisseur. Mais ce sont surtout ses grands yeux verts, ronds et brillants, presque entièrement occupés par leurs iris, qui donnent au Gnome son expression singulière : un mélange de prudence, de curiosité et de mélancolie silencieuse. Immobile parmi les fougères, couvert de terre et de végétation, il pourrait aisément passer pour une vieille souche jusqu’au moment où ses oreilles frémissent et où son regard se tourne vers l’intrus.",
+      "images": [],
+      "contentDigest": "c82cd4be7a4d3d496caf27bb83dde08b996bea36e8321e12a5c5477cab2debdc",
+      "providerUserMessageId": "cc5fbda4-48ed-4108-b55f-3496d2694c06",
+      "providerAssistantMessageId": "b0dc2f3c-0b70-4fc1-92a1-497e7c64044c"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786476553792-lwqhyv4",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1786476553788-rkiiss3",
+      "timestamp": 1786476553788,
+      "rawDisplayText": "1. un gnome vit environ 40 ans. 2.  Ils peuvent Controller localement la flore, parler à la Faune de Naphusis et connaissance énormément sur la Faune et la Flore (voir presque tout) et ils peuvent maitriser le Fil. 3. Toujours présent, ils sont devenu plus indépendant et Naphusis leur a même permit de devenir une race à part entière pouvant procréer sans revenir à Naphusis. De base les Gnomes originel pendant l'ère Sérénale et Exodiale était issu directement de l'arbre-monde dans des fruits de congestion qui une fois au sol se briser et laisser éclore les Gnomes. En gagnant leur indépendant et la possibilité de procréer pendant l'ère du Voile les Gnome ont perdu le lien de la connaissance universel qu'il se partageait. De plus certains clan de gnome indépendant ont été corrompu par Ataraxus et sont devenu des Gobelins.",
+      "canonicalText": "1. un gnome vit environ 40 ans. 2.  Ils peuvent Controller localement la flore, parler à la Faune de Naphusis et connaissance énormément sur la Faune et la Flore (voir presque tout) et ils peuvent maitriser le Fil. 3. Toujours présent, ils sont devenu plus indépendant et Naphusis leur a même permit de devenir une race à part entière pouvant procréer sans revenir à Naphusis. De base les Gnomes originel pendant l'ère Sérénale et Exodiale était issu directement de l'arbre-monde dans des fruits de congestion qui une fois au sol se briser et laisser éclore les Gnomes. En gagnant leur indépendant et la possibilité de procréer pendant l'ère du Voile les Gnome ont perdu le lien de la connaissance universel qu'il se partageait. De plus certains clan de gnome indépendant ont été corrompu par Ataraxus et sont devenu des Gobelins.",
+      "images": [],
+      "contentDigest": "b4124a79c2e05aeb0049977bba1e86c895b5190ae8573c766bffb7eb99191f48",
+      "providerUserMessageId": "255f6cea-1d37-4b89-8a5d-1a098d5649f9",
+      "providerAssistantMessageId": "6594049a-4650-47b2-97a9-ff03fa56cbd6"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786476964293-bhgj57u",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1786476964289-vkxw4us",
+      "timestamp": 1786476964289,
+      "rawDisplayText": "Nature du Fil gnome : Pardon c'est pas le Fil, Naphusis n'y a pas accès, c'est juste qu'étant issu de Naphusis il a une partie de son essence pour faire du druidisme.  Fruits de congestion à l'Ère du Voile : Oui les 2 type existent. Mémoire des Gnomes libres : de zeros Gobelins : fiche à créer en tant que race.",
+      "canonicalText": "Nature du Fil gnome : Pardon c'est pas le Fil, Naphusis n'y a pas accès, c'est juste qu'étant issu de Naphusis il a une partie de son essence pour faire du druidisme.  Fruits de congestion à l'Ère du Voile : Oui les 2 type existent. Mémoire des Gnomes libres : de zeros Gobelins : fiche à créer en tant que race.",
+      "images": [],
+      "contentDigest": "519d623e468bc1c6b7ca816d67cde555a96951bb942e59ad3ce7f7c447d9d197",
+      "providerUserMessageId": "17e9f523-0710-4ff4-bc2c-3a5675991460",
+      "providerAssistantMessageId": "e416703e-363f-458e-b75b-56ca543ce96c"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786477329278-y91t4en",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1786477329273-nr5pfrc",
+      "timestamp": 1786477329273,
+      "rawDisplayText": "Oui , Tu peux également faire la suite",
+      "canonicalText": "Oui , Tu peux également faire la suite",
+      "images": [],
+      "contentDigest": "bd4f4fbfd1ff1bd98ba9e8ba633f6997f4975024bcdbcb245aece557da8b6f53",
+      "providerUserMessageId": "085fe6b8-8c9b-432f-80a4-d88ebbf6fc6f",
+      "providerAssistantMessageId": "d019e239-0121-4781-bb1a-929edc3e93fb"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786478321275-nx3ox10",
+      "userTurnOrdinal": 6,
+      "state": "accepted",
+      "localMessageId": "msg-1786478321270-zzktpdq",
+      "timestamp": 1786478321270,
+      "rawDisplayText": "Pour l'apparence : Ce Gobelin semble avoir été arraché à une forêt malade plutôt que véritablement engendré. Petit mais extraordinairement massif pour sa taille, il possède un corps trapu, voûté vers l’avant, dont la musculature épaisse disparaît sous une peau grisâtre, pâle et parcheminée, striée de crevasses sombres et de plaques évoquant autant de la chair nécrosée que de l’écorce en décomposition. Une végétation desséchée prolifère directement sur son organisme : mousses mortes, radicelles noirâtres, ronces, brindilles et tiges fanées s’enchevêtrent sur son dos, son crâne et autour de son visage jusqu’à former une sorte de pelage végétal pendant. Deux immenses oreilles triangulaires jaillissent horizontalement de sa tête, membraneuses et déchirées comme des feuilles mortes. Sous un front noueux, ses yeux globuleux d’un vert jaunâtre brillent avec une intensité presque fiévreuse ; profondément cernés et asymétriques, ils donnent à son expression une vigilance agressive permanente. Son nez court et charnu domine une bouche large aux lèvres rétractées, laissant apparaître une dentition irrégulière faite de petites dents pointues et jaunies.\nSes membres accentuent encore son aspect brutal. Les bras, démesurément longs et épais par rapport aux jambes, descendent presque jusqu’au sol et se terminent par d’énormes mains à quatre doigts, noueuses et puissantes, dont les extrémités durcies ressemblent à des griffes noires. Les jambes sont courtes, lourdes et légèrement fléchies, donnant au Gobelin une démarche proche de celle d’un primate terrestre prêt à bondir ou à se jeter à quatre pattes. Partout, son corps paraît soumis à une lente dégénérescence : excroissances ligneuses, épines, racines incrustées dans la peau, plaies anciennes et tissus assombris s’entremêlent sans frontière nette entre chair et végétation. Il ne donne ainsi pas l’impression d’un humanoïde simplement couvert de plantes, mais d’un organisme dans lequel la flore elle-même s’est flétrie et corrompue avec son hôte, transformant toute sa silhouette en une masse vivante, hostile et maladivement enracinée. Comportement et intelligence : comme les Orc qui sont des elfes ou des humains corrompu jusqu'à mutations, ils restent intelligent, mais les gnomes sont rarement très intelligent. Ils ont surtout des excès de violance incontrôlé et sont chassé par les civilisations humaines ou elfique. Naphusis ne les reconnait plus comme ses enfants. Capacités : plus de capacité druidique, plus barbarique, la corruptions, les rends plus puissants, même si ils reste des petits être, mais ils agissent souvent en groupe. Ils peuvent procréer comme des orcs le peuvent. Les premiers Gobelins qui était issue des Gnomes originel n'ont pas pu se reproduire et se sont éteint, mais certains Gnomes independant ont été corrompu après coup ce qui les a transformé en Gobelins.",
+      "canonicalText": "Pour l'apparence : Ce Gobelin semble avoir été arraché à une forêt malade plutôt que véritablement engendré. Petit mais extraordinairement massif pour sa taille, il possède un corps trapu, voûté vers l’avant, dont la musculature épaisse disparaît sous une peau grisâtre, pâle et parcheminée, striée de crevasses sombres et de plaques évoquant autant de la chair nécrosée que de l’écorce en décomposition. Une végétation desséchée prolifère directement sur son organisme : mousses mortes, radicelles noirâtres, ronces, brindilles et tiges fanées s’enchevêtrent sur son dos, son crâne et autour de son visage jusqu’à former une sorte de pelage végétal pendant. Deux immenses oreilles triangulaires jaillissent horizontalement de sa tête, membraneuses et déchirées comme des feuilles mortes. Sous un front noueux, ses yeux globuleux d’un vert jaunâtre brillent avec une intensité presque fiévreuse ; profondément cernés et asymétriques, ils donnent à son expression une vigilance agressive permanente. Son nez court et charnu domine une bouche large aux lèvres rétractées, laissant apparaître une dentition irrégulière faite de petites dents pointues et jaunies.\nSes membres accentuent encore son aspect brutal. Les bras, démesurément longs et épais par rapport aux jambes, descendent presque jusqu’au sol et se terminent par d’énormes mains à quatre doigts, noueuses et puissantes, dont les extrémités durcies ressemblent à des griffes noires. Les jambes sont courtes, lourdes et légèrement fléchies, donnant au Gobelin une démarche proche de celle d’un primate terrestre prêt à bondir ou à se jeter à quatre pattes. Partout, son corps paraît soumis à une lente dégénérescence : excroissances ligneuses, épines, racines incrustées dans la peau, plaies anciennes et tissus assombris s’entremêlent sans frontière nette entre chair et végétation. Il ne donne ainsi pas l’impression d’un humanoïde simplement couvert de plantes, mais d’un organisme dans lequel la flore elle-même s’est flétrie et corrompue avec son hôte, transformant toute sa silhouette en une masse vivante, hostile et maladivement enracinée. Comportement et intelligence : comme les Orc qui sont des elfes ou des humains corrompu jusqu'à mutations, ils restent intelligent, mais les gnomes sont rarement très intelligent. Ils ont surtout des excès de violance incontrôlé et sont chassé par les civilisations humaines ou elfique. Naphusis ne les reconnait plus comme ses enfants. Capacités : plus de capacité druidique, plus barbarique, la corruptions, les rends plus puissants, même si ils reste des petits être, mais ils agissent souvent en groupe. Ils peuvent procréer comme des orcs le peuvent. Les premiers Gobelins qui était issue des Gnomes originel n'ont pas pu se reproduire et se sont éteint, mais certains Gnomes independant ont été corrompu après coup ce qui les a transformé en Gobelins.",
+      "images": [],
+      "contentDigest": "1374bb15ef83e8b176fae73f7422a12f83c6dadbfc8f222dc2506d1883a03f28",
+      "providerUserMessageId": "47cffa47-bb06-4af4-b4c2-5cc227cc11bf",
+      "providerAssistantMessageId": "622cabf7-94e7-4269-b238-da2df50dd797"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786522544657-q0cvaup",
+      "userTurnOrdinal": 7,
+      "state": "accepted",
+      "localMessageId": "msg-1786522544635-0kcs83n",
+      "timestamp": 1786522544635,
+      "rawDisplayText": "écris moi un chantier à coller directement dans index",
+      "canonicalText": "écris moi un chantier à coller directement dans index",
+      "images": [],
+      "contentDigest": "fd1fe5bf37c89206ac308cad8663a088281e4cc89001575b06188409f46bdc20",
+      "providerUserMessageId": "5e9c4167-5ecc-43c3-be88-4844182f747f",
+      "providerAssistantMessageId": "13ea6e1d-480b-4e55-be25-76bd39ecc836"
+    }
+  ]
+}

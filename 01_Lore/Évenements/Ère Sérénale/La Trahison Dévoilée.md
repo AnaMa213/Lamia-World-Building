@@ -4,7 +4,7 @@ source: auteur
 type: evenement
 importance: majeur
 ere: serenale
-annee: inconnu
+annee: ≈ 950 ES
 annee_debut: 950
 annee_fin: 1000
 tags:
@@ -49,7 +49,7 @@ Cette rupture marque aussi, en germe, le début de l'éloignement idéologique d
 
 ## Qui en garde mémoire
 
-🔒 Le Conseil des Archanges au complet apprend la vérité au moment de la révélation. Il est vraisemblable que cette connaissance ait ensuite été délibérément recouverte par le Voile pour les Lamiens (voir [[2026-07-12 — Proposition — Événement Le Voile]]), au même titre que le reste des secrets liés au Cœur.
+🔒 Le Conseil des Archanges au complet apprend la vérité au moment de la révélation. Il est vraisemblable que cette connaissance ait ensuite été délibérément recouverte par le Voile pour les Lamiens (voir [[Le Voile]]), au même titre que le reste des secrets liés au Cœur.
 
 ## Relations
 
@@ -60,9 +60,5 @@ Cette rupture marque aussi, en germe, le début de l'éloignement idéologique d
 - [[La Semence Cachée]] — événement antérieur directement lié : origine ténue de cette même barrière.
 
 ## Contradictions potentielles
-
-🔒 ⚠️ **C'est le « point 1 » déjà identifié pour la fiche Albaesclatia.** Sa fiche déjà migrée décrit une collaboration fraternelle sans ombre avec Mageisys. Si cet événement est validé, l'Histoire d'Albaesclatia devra être révisée pour intégrer la découverte de cette trahison.
-
-✅ **Datation de la barrière — résolue par ta décision (Q1).** La barrière existe bien depuis les Temps primordiaux, comme le veut [[Timeline Master]] ; cet événement n'en est que l'intensification tardive, cohérente avec les deux sources à la fois.
 
 **Origine des tensions sociales entre Lamiens — élément nouveau.** Aucune fiche déjà migrée n'attribue les premiers conflits entre peuples à la coupure du lien divin. Cohérent avec le reste du récit mais à noter comme nouvel élément de canon potentiel.

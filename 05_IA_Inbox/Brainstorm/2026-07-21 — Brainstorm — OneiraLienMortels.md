@@ -8,7 +8,7 @@ entites_liees:
   - "[[Oneira|Oneira]]"
   - "[[Les Songes]]"
   - "[[Le Dernier Serment des Gardiens]]"
-  - "[[Timeline Master]]"
+  - "[[01_Lore/Timeline Master]]"
   - "[[2026-07-21 — Brainstorm — ReparationDuCoeur]]"
 date: 2026-07-21
 ---
@@ -28,7 +28,7 @@ Retravailler l'intégralité de la fiche brouillon d'Oneira : reformuler l'origi
 
 - [[Les Songes]] : Oneira y développe un lien par son imagination, au point de le maîtriser mieux que Mageisys lui-même (déjà établi, brainstorm FragmentsCoeur).
 - [[Le Dernier Serment des Gardiens]] : dissimulation du fragment-Conscience dans Les Songes, Exodiale ≈0–30.
-- [[Timeline Master]], Ère du Voile, an 0 : stabilisation du Cœur par Alfaryus (voir [[2026-07-21 — Brainstorm — ReparationDuCoeur]] — confirmé comme un colmatage, pas une réunification des trois fragments).
+- [[01_Lore/Timeline Master]], Ère du Voile, an 0 : stabilisation du Cœur par Alfaryus (voir [[2026-07-21 — Brainstorm — ReparationDuCoeur]] — confirmé comme un colmatage, pas une réunification des trois fragments).
 - Fiche Oneira existante : Archange, fille d'Albaesclatia (implicite par le patronage général), déesse des rêves, lien déjà établi avec les âmes mortelles pendant leur sommeil (approche psychique, pas physique).
 
 ## Pistes explorées

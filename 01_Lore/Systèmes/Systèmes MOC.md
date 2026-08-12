@@ -20,4 +20,4 @@ aliases:
 ## Contradictions potentielles
 
 - Type `moc` hors de la liste fermée de Conventions §2 — même remarque que pour Divinités MOC.
-- [[Timeline Master]] porte aussi `type: systeme` en frontmatter (précédent déjà existant dans le vault), mais n'est pas listé ci-dessus : c'est un document de référence chronologique transversal, pas un mécanisme in-univers comme les deux ci-dessus. À toi de juger si cette distinction te convient ou si tu préfères l'y inclure.
+- [[01_Lore/Timeline Master]] porte aussi `type: systeme` en frontmatter (précédent déjà existant dans le vault), mais n'est pas listé ci-dessus : c'est un document de référence chronologique transversal, pas un mécanisme in-univers comme les deux ci-dessus. À toi de juger si cette distinction te convient ou si tu préfères l'y inclure.

@@ -1,0 +1,7 @@
+filters:
+  and:
+    - type == "race"
+    - file.path.startsWith("01_Lore")
+views:
+  - type: table
+    name: Tableau

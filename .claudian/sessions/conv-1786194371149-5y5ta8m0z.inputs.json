@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786194371149-5y5ta8m0z",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786194371174-pwfa1pz",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786194371148-u3yhql1",
+      "timestamp": 1786194371148,
+      "rawDisplayText": "/creer-fiche Sur les Vendards avec les informations de la fiche Vindiereis et La Perte du Monde des Vendards",
+      "canonicalText": "/creer-fiche Sur les Vendards avec les informations de la fiche Vindiereis et La Perte du Monde des Vendards",
+      "context": {
+        "currentNote": {
+          "path": "01_Lore/Évenements/Ère Sérénale/La Perte du Monde des Vendards.md"
+        },
+        "editorSelection": {
+          "notePath": "01_Lore/Évenements/Ère Sérénale/La Perte du Monde des Vendards.md",
+          "mode": "selection",
+          "selectedText": "La Perte du Monde des Vendards",
+          "lineCount": 1,
+          "startLine": 18
+        }
+      },
+      "images": [],
+      "contentDigest": "4a2f15c597da5fb151ee3b5391984c5c533d10d0976ddd20ef0b4280034adc78",
+      "providerUserMessageId": "80152fe5-ea1d-4ef8-bdf0-84b24f9f5aec",
+      "providerAssistantMessageId": "575cb4ad-ad0c-4127-b2bf-9844513723ae"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786194694717-057ebh9",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786194694715-r1e9ikb",
+      "timestamp": 1786194694715,
+      "rawDisplayText": "on utilise le type race effectivement, tu peux écrire la fiche entière et on retravaillera dessus partie par partie avec ta première version. Pour l'apparence, tu peux inventer l'apparence d'humanoïde faite pour être agile rapide et qui fait penser à qu'il parviennent de se retirer de leur corps. Les deux sont le plan Miroir, le plan miroir étant une dimension immatérielle du Plan des Mondes",
+      "canonicalText": "on utilise le type race effectivement, tu peux écrire la fiche entière et on retravaillera dessus partie par partie avec ta première version. Pour l'apparence, tu peux inventer l'apparence d'humanoïde faite pour être agile rapide et qui fait penser à qu'il parviennent de se retirer de leur corps. Les deux sont le plan Miroir, le plan miroir étant une dimension immatérielle du Plan des Mondes",
+      "images": [],
+      "contentDigest": "9166e7e524bf4681e66a161d4573cdb6221ea1d7ec1b3745a4c03c978310dc13",
+      "providerUserMessageId": "1f82f5e4-3c7e-4e8a-9bbf-f7b4a87a266d",
+      "providerAssistantMessageId": "76e8cdb1-8361-469c-b5dd-b33b705dc6d7"
+    }
+  ]
+}

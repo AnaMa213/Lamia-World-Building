@@ -12,8 +12,8 @@ entites_liees:
   - "[[Ataraxus]]"
   - "[[Naphusis]]"
   - "[[Maurtria|Maurtria]]"
-  - "[[2026-07-12 — Proposition — Migration Xeros|Xeros]]"
-  - "[[2026-07-12 — Proposition — Migration Naïnrak|Naïnrak]]"
+  - "[[Xeros|Xeros]]"
+  - "[[Naïnrak|Naïnrak]]"
   - "[[Oneira|Oneira]]"
   - "[[La Barrière de Lamia]]"
   - "[[La Trahison Dévoilée]]"
@@ -45,8 +45,8 @@ Partant d'une inquiétude initiale (« un seul dieu créateur limite-t-il mes l�
 - [[Ataraxus]] (statut: canon) — antagoniste cosmique-existentiel ; exclu de la convergence créatrice.
 - [[Naphusis]] (statut: brouillon) — mécanisme fondateur de la vie sur Lamia, antérieur et extérieur à la notion de lien avec un autre monde (base de son exemption dans La Barrière de Lamia).
 - [[Maurtria|Maurtria]] (statut: brouillon) — antagoniste idéologique-cultuel ; corrompt par les rêves sur la durée (précédent direct du mécanisme de lien retenu ici).
-- [[2026-07-12 — Proposition — Migration Xeros|Xeros]] (statut: brouillon) — transforme des espèces existantes en nouveaux peuples ; voie de genèse de créatures distincte du portail planaire.
-- [[2026-07-12 — Proposition — Migration Naïnrak|Naïnrak]] (statut: brouillon) — crée les Nains au Dibertium, transportés ensuite par portail (mécanisme post-Durcissement déjà généralisé dans sa propre fiche source).
+- [[Xeros|Xeros]] (statut: brouillon) — transforme des espèces existantes en nouveaux peuples ; voie de genèse de créatures distincte du portail planaire.
+- [[Naïnrak|Naïnrak]] (statut: brouillon) — crée les Nains au Dibertium, transportés ensuite par portail (mécanisme post-Durcissement déjà généralisé dans sa propre fiche source).
 - [[Oneira|Oneira]] (statut: brouillon) — précédent déjà existant d'un usage bienveillant du lien par les rêves (distinct de Maurtria) ; voir aussi le brainstorm dédié ci-dessous.
 - [[La Barrière de Lamia]] (statut: brouillon) — durcissement ≈950–1000 Sérénale ; coupe « tout lien direct avec le reste de l'univers — y compris la présence divine discrète mais réelle dont bénéficiaient les autres planètes » ; exemptions déjà actées : Cycle des Âmes/implantation de Naphusis, et transport physique via portail planaire ; modèle de filtrage (quantitatif vs qualitatif) explicitement laissé ouvert par la fiche elle-même.
 - [[La Trahison Dévoilée]] (statut: canon, 🔒 secret) — date précisément le Durcissement (Sérénale ≈950–1000), déclenché par la menace d'Ataraxus ; révèle aussi (secret, ne jamais exposer en contenu lecteur/joueur) que Mageisys avait implanté l'essence de la première Lamia dans la planète.

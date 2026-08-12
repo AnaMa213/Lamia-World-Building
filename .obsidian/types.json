@@ -7,6 +7,8 @@
     "importance": "multitext",
     "royaumes_associes": "multitext",
     "panthéon": "multitext",
-    "langues": "multitext"
+    "langues": "multitext",
+    "habitat": "multitext",
+    "annee": "text"
   }
 }

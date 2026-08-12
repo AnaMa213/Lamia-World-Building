@@ -4,7 +4,7 @@ source: auteur
 type: evenement
 importance: majeur
 ere: primordial
-annee: "- 1 500 000 000 AS"
+annee: -1 500 000 000 AS
 annee_debut:
 annee_fin:
 tags:
@@ -56,7 +56,7 @@ Le Plan des Mondes et le plan immatériel existent désormais. L'univers dispose
 
 ## Contradictions potentielles
 
-**Aucune contradiction relevée.** Cohérent avec l'entrée déjà existante dans [[Timeline Master]] (« ≈ 1,5 milliards d'années avant Sérénale 0 »).
+**Aucune contradiction relevée.** Cohérent avec l'entrée déjà existante dans [[01_Lore/Timeline Master]] (« ≈ 1,5 milliards d'années avant Sérénale 0 »).
 
 
 > [!ia-a-valider]- 2026-07-27 — Mageisys et Les Songes naissent simultanément

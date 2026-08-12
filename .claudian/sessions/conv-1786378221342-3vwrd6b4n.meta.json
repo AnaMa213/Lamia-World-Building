@@ -1,0 +1,26 @@
+{
+  "id": "conv-1786378221342-3vwrd6b4n",
+  "providerId": "claude",
+  "title": "Développer l'histoire de Maurtria avant Lamia",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786378221344,
+  "lastActivityAt": 1786437106456,
+  "sessionId": "6a2e1973-483a-44ef-9472-2579fc34a9ec",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "6a2e1973-483a-44ef-9472-2579fc34a9ec"
+  },
+  "currentNote": "01_Lore/Divinités/Majeur/Maurtria.md",
+  "enabledMcpServers": [
+    "obsidian-mcp"
+  ],
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 722,
+    "cacheReadInputTokens": 250294,
+    "contextWindow": 1000000,
+    "contextTokens": 251017,
+    "percentage": 25
+  }
+}

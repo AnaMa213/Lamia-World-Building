@@ -1,0 +1,26 @@
+{
+  "id": "conv-1786524519002-oyxn6nbhw",
+  "providerId": "claude",
+  "title": "Créer une fiche de lieu pour Cyroldan",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786524519004,
+  "lastActivityAt": 1786527038733,
+  "sessionId": "b88ae503-6ec4-4c21-a910-bc1c39fdc477",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "b88ae503-6ec4-4c21-a910-bc1c39fdc477"
+  },
+  "currentNote": "01_Lore/Évenements/Ère Sérénale/La Trahison des Gardiens.md",
+  "enabledMcpServers": [
+    "obsidian-mcp"
+  ],
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 3169,
+    "cacheReadInputTokens": 94866,
+    "contextWindow": 1000000,
+    "contextTokens": 98036,
+    "percentage": 10
+  }
+}

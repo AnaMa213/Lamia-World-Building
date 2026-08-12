@@ -19,7 +19,22 @@ suivants:
   - "[[Chercheurs]]"
   - "[[Alchimistes]]"
 alignement: Chaotique Neutre
-revision-date: 2026-07-28
+revision-date: 2026-08-12
+cr_type: person
+sex: male
+pronouns: il/lui
+children:
+  - "[[Alfaryus]]"
+  - "[[Humarios]]"
+revision:
+cr_id: ybj-043-twy-933
+name: Mageisys
+born: ""
+died: ""
+father: "[[Chronoversum]]"
+mother: "[[Chronoversum]]"
+spouses: []
+group_name: divinite
 ---
 
 # Mageisys
@@ -32,7 +47,7 @@ Mageisys est le dieu de la Magie Élémentaire et du Savoir, représentant l'his
 
 ## Histoire
 
-Mageisys est le dieu de la Magie Élémentaire et du Savoir, représentant l'histoire de l'univers et possédant toutes les connaissances sur la manipulation des forces qui dirigent les mondes non-divins. Sa naissance divine se situe lors de la première émanation, peu après celle d'Ataraxus. Il créa les astres sinistres et froids qui peuplent une grande partie de l'univers.
+Mageisys est le dieu de la Magie Élémentaire et du Savoir, représentant l'histoire de l'univers et possédant toutes les connaissances sur la manipulation des forces qui dirigent les mondes physiques. Sa naissance divine se situe lors de la première émanation, peu après celle d'Ataraxus. Il créa les astres sinistres et froids qui peuplent une grande partie de l'univers.
 
 Sa naissance remonte à la première émanation, peu après celle d'[[Ataraxus]]. Là où Ataraxus incarnait le calme absolu et la stabilité du vide, [[Mageisys]] portait une autre impulsion : comprendre, structurer, organiser et complexifier. Il ne cherchait pas encore à créer la vie, mais à donner au réel des règles, des couches, des interactions et des lois capables de produire un univers cohérent.
 
@@ -52,7 +67,13 @@ C'est alors que l'apparition de [[Naphusis]] changea tout. Sur plusieurs planèt
 
 Grâce à cette illumination, Mageisys comprit comment permettre à Albaesclatia et Lumina de créer la vie dans le Plan des Mondes sans démanteler l'architecture du réel. Les Arbres-Mondes de Naphusis devinrent des médiateurs entre la complexité cosmique et la fragilité du vivant : des points d'ancrage où la nature, la magie, les éléments et les cycles pouvaient s'organiser assez finement pour soutenir des êtres mortels.
 
-C'est dans ce cadre que la vie put réellement s'établir sur [[Lamia]]. Avec l'appui de Mageisys, l'élan vital d'Albaesclatia, la lumière de Lumina et l'ancrage de Naphusis, les premiers peuples mortels purent voir le jour, notamment les [[Humains]] et les [[Elfes]]. La magie et la physique de Lamia ne furent donc pas ajoutées après coup à un monde vivant : elles furent les conditions mêmes qui rendirent possible l'apparition d'une vie durable dans un plan trop complexe pour elle.
+C'est dans ce cadre que la vie put réellement s'établir sur [[Lamia]]. Avec l'appui de Mageisys, l'élan vital d'Albaesclatia, la lumière de Lumina et l'ancrage de Naphusis, les premiers peuples mortels purent voir le jour, notamment les [[01_Lore/Races/Mortels/Humains]] et les [[Elfes]]. La magie et la physique de Lamia ne furent donc pas ajoutées après coup à un monde vivant : elles furent les conditions mêmes qui rendirent possible l'apparition d'une vie durable dans un plan trop complexe pour elle.
+
+Lorsque la Grande Guerre divine éclate, Mageisys n'y prend jamais vraiment parti. Il aide neutralement à plusieurs reprises Albaesclatia,  Lumina et le Conseil des Archanges — pour repousser le premier massacre d'Ataraxus (voir [[L'Éveil du Fléau]]), pour se réunir stratégiquement avec elles face à la menace grandissante (voir [[L'Alliance Froide]]), ou pour concevoir l'[[Aequadeus]], un plan neutre pensé pour limiter les affrontements directs entre divinités (voir [[Le Concile Rompu]]) — mais chacune de ces interventions reste réactive, jamais offensive : il ne prend jamais l'initiative d'attaquer Ataraxus sur son propre terrain, [[Hésychirium|Hésychion]], le plan-refuge qu'il lui a lui-même bâti (voir [[La Retraite du Calme]]), alors même qu'il aurait la capacité de le détruire à volonté — de la même manière qu'il pourrait, s'il le voulait, réduire à néant le [[Plan des Mondes]] ou le [[Despophys]] tout entiers.
+
+C'est précisément lors du Concile de l'Aequadeus, après l'échec de la trêve tentée auprès d'Ataraxus, que cette position éclate au grand jour. Confronté par Lumina sur son inaction face au [[Hésychirium]], Mageisys expose sans détour sa véritable philosophie : le désir de paix d'Ataraxus lui semble tout aussi légitime que celui de voir la vie prospérer porté par les Archanges ; il refuse de trancher entre les deux, estimant qu'il n'existe dans l'univers ni camp juste ni camp injuste, ni morale à faire triompher — seulement des opportunités à saisir ou à laisser passer. Le Conseil comprend alors ce que ni Albaesclatia ni Lumina n'avaient voulu voir jusque-là : Mageisys n'a jamais été de leur côté. Il n'a jamais été que du sien.
+
+Cette révélation fracture durablement sa relation avec Lumina, qui ne le lui pardonne pas, et attriste profondément Albaesclatia — sans pour autant rompre leur collaboration : elle seule, parmi les Archanges, comprend et accepte au fond d'elle-même la logique de Mageisys, le traitant depuis comme un allié de circonstance, avec ses propres règles, mais indispensable pour défendre les Lamiens qu'elle chérit. C'est dans ce contexte, porté par une fascination grandissante pour la manière dont les mortels affrontent l'adversité, que Mageisys propose lui-même, bien plus tard, la solution qui deviendra les [[Les Jumeaux Divins|Jumeaux Divins]].
 
 Malgré son génie, Mageisys fut souvent mal apprécié par les autres dieux. Son arrogance, sa froideur et sa tendance à considérer les êtres comme des expériences ou des variables le rendirent difficile à aimer. Pourtant, même ses détracteurs reconnaissaient son savoir-faire. Sans lui, le monde vivant aurait peut-être existé, mais il n'aurait pas possédé la même profondeur de lois, de magie et de possibilités.
 
@@ -90,6 +111,8 @@ En créant le [[Plan des Mondes]], puis le [[Despophys]], Mageisys cherche à b�
 
 Après la chute d'[[Humarios]], ce désir devient plus obsessionnel. Mageisys veut comprendre comment sa propre création a pu lui échapper, comment son fils a pu lui voler une part de son essence, et comment les lois de Lamia ont pu être déstabilisées à ce point.
 
+Ce désir n'a rien de partisan : dans la Grande Guerre divine comme ailleurs, Mageisys ne voit ni camp juste ni camp à sauver, seulement des systèmes à observer et des opportunités à saisir — une neutralité qui n'est pas de l'indifférence, mais le prolongement direct de sa quête de compréhension.
+
 ## Besoin profond
 
 Mageisys doit comprendre que tout ce qui existe ne peut pas être réduit à une loi, une expérience ou une structure.
@@ -114,6 +137,8 @@ Cette faille le rend dangereux même lorsqu'il agit avec une intention construct
 
 Son drame n'est pas de manquer d'intelligence. C'est l'inverse : il possède assez de savoir pour croire qu'il devrait toujours pouvoir corriger ce qu'il a provoqué.
 
+Cette même arrogance le pousse, au Concile de l'Aequadeus, à exposer sans détour une vérité qui blessera durablement Lumina et attristera Albaesclatia — non par cruauté, mais parce qu'il ne voit pas la nécessité de la farder.
+
 ## Tension centrale
 
 Mageisys incarne une vérité essentielle : sans lois, sans structure et sans savoir, la vie ne peut pas durablement exister dans le Plan des Mondes.
@@ -133,23 +158,16 @@ Mais son danger est de croire que la structure suffit. La vie a besoin de lois, 
 - [[Grande Bataille de Cyroldan]] — épisode où Mageisys se serait manifesté physiquement sur Lamia ; chantier en cours, non développé ici.
 - [[Vindiereis]] — parmi les rares esprits capables d'atteindre sa strate immatérielle.
 - [[Lamia]] — monde où, avec Albaesclatia, Lumina et Naphusis, la vie mortelle put s'établir.
+- [[Hésychirium]] — plan-refuge qu'il a lui-même bâti pour Ataraxus (voir [[La Retraite du Calme]]) et qu'il pourrait détruire à volonté, comme il pourrait détruire le [[Plan des Mondes]] ou le [[Despophys]] — sans jamais le faire, pour aucun camp ; Ataraxus le sait, et ne teste jamais cette limite.
+- [[Le Concile Rompu]] — lieu et moment où sa véritable position dans la Grande Guerre divine est révélée au Conseil des Archanges.
+- [[L'Alliance Froide]] — s'y réunit stratégiquement avec Albaesclatia et Lumina face à Ataraxus, sans jamais s'y engager pleinement.
+- [[Lumina]] — sa révélation au Concile de l'Aequadeus fait naître chez elle une haine jamais résolue depuis.
+- [[Akator]] — crée à sa demande l'[[Intraherium]] (Sérénale ≈2700), un plan adapté à sa nouvelle forme draconique colossale, fonctionnant comme un désert infini peuplé de créatures sans conscience ; acte réalisé sans consultation préalable d'[[Albaesclatia]], dans la continuité de leur accord sur l'installation des dragons (voir [[L'Asile des Dragons]]).
 
 ## Contradictions potentielles
 
+> [!ia-a-valider]- 2026-08-12 — Propriétés Charted Roots
+> **Décision** : demande explicite de l'auteur (session 2026-08-12). Aucun lore modifié.
+> **Ajouté en frontmatter** : `cr_type: person` · `sex: male` · `pronouns: il/lui` · `children` (Alfaryus, Humarios — tous deux mentionnés comme fils dans ses Relations) · `revision-date` mis à jour
 
-> [!ia-a-valider]- 2026-07-27 — Terminologie : « ère » → « émanation »
-> **Décision** : terminologie retenue avec l'auteur (session Chronoversum, 2026-07-27) — voir [[Chronoversum|Chronoversum]].
-> **Modifié** : Résumé et Histoire — « première ère » remplacé par « première émanation » (2 occurrences). « Avec le passage des ères » en Apparence non touché : il s'agit là des ères lamiennes (évolution des représentations artistiques dans le temps), pas des émanations de Chronoversum. Champ `source: ia` ajouté (manquant).
-
-^rev-20260727-mageisys-terminologie
-
-> [!ia-a-valider]- 2026-07-28 — Arbitrages de session : chute d'Humarios, secret de l'essence de Lamia, Despophys, datation
-> **Décision** : quatre points traités avec l'auteur (session du 2026-07-28).
-> **Modifié** : Histoire (paragraphes Despophys et Alfaryus/Humarios réécrits et enrichis) et Relations (liens ajoutés) — détail ci-dessous.
->
-> 1. **Mécanisme de la chute d'Humarios** — **non figé, piste de travail seulement** (précisé comme tel dans le texte). Synthèse retenue pour l'instant : Humarios se corrompt seul sur un fragment du Cœur ([[La Corruption d'Humarios]], canon), ce qui fragilise la barrière et permet la [[Grande Bataille de Cyroldan]] ; Mageisys s'y manifeste alors physiquement aux côtés d'Alfaryus pour l'arrêter, sous-estime sa puissance, et une grande part de son essence lui est arrachée — déferlant en cataclysme élémentaire. Unifie les trois versions en conflit sans les trancher définitivement.
-> 2. **Secret non intégré (essence de la première Lamia)** — intégré, basé sur les fiches canon [[La Flamme Éteinte]] et [[Le Larcin de Mageisys]] (🔒, pas l'archive) : mort de l'ange Lamia, deuil d'Albaesclatia, récupération secrète du corps par Mageisys sous prétexte d'un repos éternel, essence en grande partie gardée puis implantée dans la planète.
-> 3. **Backstory du Despophys** — enrichie à partir de [[Les Accords du Despophys]] (canon) : condition d'âme et de libre arbitre, naissance de Xeros comme transgression du pacte, second pacte plus contraignant, dette envers Mageisys.
-> 4. **Datation d'Alfaryus et Humarios** — indiquée : Exodiale ≈170–220 (voir [[Les Jumeaux Divins]]), cohérent avec [[Timeline Master]].
-
-^rev-20260728-mageisys-cyroldan-despophys
+^rev-20260812-charted-roots-mageisys

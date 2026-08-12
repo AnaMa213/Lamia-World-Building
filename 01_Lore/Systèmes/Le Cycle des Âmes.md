@@ -15,6 +15,8 @@ portee:
 aliases:
   - Le Flux de Filiama
   - Le Cycle des Naissances et des Morts
+revision: ia-a-valider
+revision-date: 2026-08-09
 ---
 
 # Le Cycle des Âmes
@@ -32,6 +34,16 @@ Aucune âme mortelle ne naît ni ne meurt directement sur son monde d'origine. C
 **Flux entrant (mort) :** à la mort d'un mortel, l'âme quitte le corps et traverse les Limbes — escortée par Thanatia et, depuis leur création durant la Grande Guerre Divine, par les Valkys — jusqu'au Despophys. Elle y est accueillie par Alketeria, qui filtre la noirceur (haine, trauma, corruption) avant que l'âme ne se fonde dans l'océan de Filiama. Cette fusion dissout l'individualité : "abandon de la solitude individuelle dans une chaleur commune" (fiche Alketeria).
 
 **Exception au flux normal :** Aion peut intercepter une âme jugée exceptionnelle dans les Limbes avant sa fusion, pour lui offrir un nouveau corps ou la lier à un objet conscient (base de la magie ancestrale des Zaréh-Djora).
+
+> [!ia-a-valider]- 2026-08-09 — Exception spécifique aux Nains et Ghorreks : âme du premier vers le survivant
+> **Décision** : validée par l'auteur (session du 2026-08-09). Exception inscrite ici en cohérence avec la mécanique des paires (voir [[Naïnrak]], Contradictions potentielles).
+> **Modifié** : ajout d'une exception au flux normal ; ajout du marqueur de révision en frontmatter.
+>
+> **Exception Nains / Ghorreks :** chaque Nain et chaque Ghorrek naissent en paire, issus d'une même âme divisée en deux corps par conception de [[Naïnrak]]. À la mort du premier des deux, son âme ne traverse pas les Limbes vers Filiama : elle s'unit directement à l'âme de son pair survivant. Ce dernier porte dès lors une double essence — renforcement spirituel notable, mais risque de fracture mentale sous le poids de deux vies fusionnées. Ce n'est qu'à la mort du survivant que l'âme (désormais fusionnée) rejoint le flux normal vers Filiama. Le rôle précis de Thanatia dans cette redirection (interception active dans les Limbes ou mécanisme automatique inscrit à la création de l'âme) n'est pas encore tranché.
+>
+> **Question ouverte (non tranchée)** : à la mort du survivant portant la double âme, une ou deux âmes se fondent dans Filiama ? La dissolution dans l'océan commun s'applique-t-elle différemment à une essence fusionnée ?
+
+^rev-20260809-cycleames-nains-exception
 
 **Distinction avec le transport physique :** ce cycle ne concerne que l'essence/l'âme. Le transport de corps/matière vivante déjà formée (ex. l'arrivée des Nains sur Lamia) suit une autre voie, le portail planaire depuis le Despophys.
 
@@ -56,6 +68,7 @@ Instauré par Mageisys "pour le bon fonctionnement de la vie", afin qu'aucune â
 - [[Le Dernier Serment des Gardiens]] — cas d'exception documenté au flux normal.
 - [[La Semence Cachée]] — précédent historique de résistance à la dissolution.
 - [[La Barrière de Lamia]] — rapport encore hypothétique, non tranché.
+- [[Naïnrak]] — conception des paires naines (Nain + Ghorrek), source de l'exception décrite ci-dessus.
 
 ## Contradictions potentielles
 
@@ -66,3 +79,5 @@ Instauré par Mageisys "pour le bon fonctionnement de la vie", afin qu'aucune â
 **Datation absente de Timeline Master** — l'instauration du cycle par Mageisys n'a jamais été datée nulle part.
 
 **Filiama n'a pas de fiche dédiée** — mentionnée dans plusieurs fiches (Les Accords du Despophys, Alketeria, Xeros) mais jamais créée en tant qu'entité propre. Gap à combler séparément.
+
+**Mécanisme de redirection Nain/Ghorrek non tranché** — rôle actif de Thanatia ou mécanique inscrite à la création de l'âme ? Et que se passe-t-il à la mort du survivant portant la double âme (une ou deux âmes fusionnées vers Filiama) ? Voir callout ci-dessus.

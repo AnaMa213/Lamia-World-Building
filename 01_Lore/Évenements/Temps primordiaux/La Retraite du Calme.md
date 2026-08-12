@@ -50,4 +50,4 @@ Fait connu du Conseil des Archanges de l'époque ; rien n'indique de secret part
 
 ## Contradictions potentielles
 
-**Aucune contradiction relevée.** Cohérent avec l'entrée déjà existante dans [[Timeline Master]] (« ≈ 500 milles ans avant Sérénale 0 »).
+**Aucune contradiction relevée.** Cohérent avec l'entrée déjà existante dans [[01_Lore/Timeline Master]] (« ≈ 500 milles ans avant Sérénale 0 »).

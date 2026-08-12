@@ -28,7 +28,7 @@ Persemis, le dieu de la persévérance, du dépassement de soi et de la force ac
 
 Persemis fut longtemps considéré comme l'un des Archanges les moins puissants du [[Conseil des Archanges]]. Contrairement à certains de ses frères et sœurs, il ne naquit pas avec une grandeur évidente, ni avec un domaine immédiatement écrasant. Pourtant, cette faiblesse initiale ne devint pas chez lui une source d'amertume. Elle devint une raison de se dépasser.
 
-Son principal modèle fut [[Akator]], dieu des dragons et de la puissance. Persemis admirait chez lui non seulement la force brute, mais surtout la détermination constante à repousser ses propres limites. Inspiré par son frère, il entreprit d'entretenir son corps, d'affermir son esprit et de renforcer sa puissance par tous les moyens dont il disposait.
+Son principal modèle fut [[04_Brouillons/Akator]], dieu des dragons et de la puissance. Persemis admirait chez lui non seulement la force brute, mais surtout la détermination constante à repousser ses propres limites. Inspiré par son frère, il entreprit d'entretenir son corps, d'affermir son esprit et de renforcer sa puissance par tous les moyens dont il disposait.
 
 Ce chemin ne fit pas de lui un simple imitateur d'Akator. Là où Akator cherchait la grandeur et la puissance absolue, Persemis développa une force plus morale : la volonté de devenir meilleur pour protéger les autres. Sa progression fut lente, exigeante, presque ascétique. Avec le temps, sa détermination inébranlable, son sens moral et son désir d'aider son prochain firent de lui un Archange bien plus puissant qu'on ne l'avait d'abord imaginé.
 
@@ -58,7 +58,7 @@ Persemis demeure ainsi le dieu de la détermination, du dépassement et de la fo
 
 Persemis se présente comme un archange imposant, doté d'une silhouette à la fois élancée et puissante. Son corps porte les traces d'une discipline constante : une musculature impressionnante, forgée par d'innombrables entraînements, qui témoigne moins d'une force innée que d'une puissance patiemment construite.
 
-Sa présence n'a rien de brutal. Là où [[Akator]] incarne une puissance écrasante, Persemis dégage une force plus calme, plus maîtrisée, presque rassurante. Il ne semble pas chercher à dominer l'espace autour de lui ; il l'habite avec assurance, comme un rempart qui n'a pas besoin de menacer pour être respecté.
+Sa présence n'a rien de brutal. Là où [[04_Brouillons/Akator]] incarne une puissance écrasante, Persemis dégage une force plus calme, plus maîtrisée, presque rassurante. Il ne semble pas chercher à dominer l'espace autour de lui ; il l'habite avec assurance, comme un rempart qui n'a pas besoin de menacer pour être respecté.
 
 Son visage est empreint de noblesse et de bienveillance. Ses traits expriment la détermination, mais sans dureté excessive. On y lit la volonté d'un être qui a connu l'effort, le doute et la faiblesse initiale, puis les a transformés en discipline. Ses cheveux d'un blond lumineux encadrent son visage et semblent onduler doucement dans le sillage de ses mouvements, comme portés par une énergie intérieure constante.
 
@@ -70,7 +70,7 @@ Dans les représentations lamiennes, son apparence cherche donc à unir deux id�
 
 Persemis veut prouver qu'aucune faiblesse initiale n'est une condamnation.
 
-Son désir n'est pas seulement de devenir fort. Cela le rapprocherait trop d'[[Akator]]. Persemis veut montrer qu'un être peut partir de peu, manquer de puissance, être sous-estimé, tomber, échouer, puis se construire par l'effort, la constance et la volonté.
+Son désir n'est pas seulement de devenir fort. Cela le rapprocherait trop d'[[04_Brouillons/Akator]]. Persemis veut montrer qu'un être peut partir de peu, manquer de puissance, être sous-estimé, tomber, échouer, puis se construire par l'effort, la constance et la volonté.
 
 Il veut transmettre cette certitude aux Lamiens : même les faibles peuvent devenir des remparts s'ils refusent d'abandonner. Sa force n'est pas celle du conquérant, mais celle du protecteur qui s'est forgé pour tenir quand les autres n'en peuvent plus.
 
@@ -108,7 +108,7 @@ Mais son danger est de croire que toute limite peut et doit être dépassée. Ce
 
 ## Relations
 
-- [[Akator]] — modèle et frère ; s'entraîne encore parfois dans son plan (l'Intraherium, cf. fiche Akator, lot précédent).
+- [[04_Brouillons/Akator]] — modèle et frère ; s'entraîne encore parfois dans son plan (l'Intraherium, cf. fiche Akator, lot précédent).
 - [[Oriac]] — comparaison explicite dans le texte source : deux formes distinctes de résistance (morale face à la corruption vs progression depuis la faiblesse).
 - [[Ataraxus]] — ennemi combattu pendant la Grande Guerre Divine et, aujourd'hui encore, dans les Limbes.
 - [[Albaesclatia]] — dont les puissances, avec celles d'Ataraxus, frôlent le continent lors de la Bataille de Cyroldan (voir Contradictions potentielles).
@@ -116,7 +116,7 @@ Mais son danger est de croire que toute limite peut et doit être dépassée. Ce
 
 ## Contradictions potentielles
 
-⚠️ **Manifestation physique d'Albaesclatia à la Bataille de Cyroldan — élément nouveau, absent des autres récits.** Cette fiche affirme que « le sol du continent fut frôlé par les puissances d'Albaesclatia et d'Ataraxus », alors que [[Timeline Master]] et toutes les autres fiches migrées jusqu'ici (Oriac, Xeros, Sophis, Rhamal...) ne mentionnent que la manifestation physique d'Ataraxus à cette bataille. Si Albaesclatia s'est aussi manifestée physiquement à ce moment, cela viendrait nuancer son `etat: voilée` proposé dans sa fiche déjà migrée (retrait supposé antérieur ou consécutif à cette bataille). **À arbitrer** — possible imprécision de style (« puissances » au sens large plutôt que manifestation physique littérale) plutôt qu'un fait nouveau.
+⚠️ **Manifestation physique d'Albaesclatia à la Bataille de Cyroldan — élément nouveau, absent des autres récits.** Cette fiche affirme que « le sol du continent fut frôlé par les puissances d'Albaesclatia et d'Ataraxus », alors que [[01_Lore/Timeline Master]] et toutes les autres fiches migrées jusqu'ici (Oriac, Xeros, Sophis, Rhamal...) ne mentionnent que la manifestation physique d'Ataraxus à cette bataille. Si Albaesclatia s'est aussi manifestée physiquement à ce moment, cela viendrait nuancer son `etat: voilée` proposé dans sa fiche déjà migrée (retrait supposé antérieur ou consécutif à cette bataille). **À arbitrer** — possible imprécision de style (« puissances » au sens large plutôt que manifestation physique littérale) plutôt qu'un fait nouveau.
 
 ⚠️ **Échelle du rang face à l'exploit décrit.** Remodeler un continent (soulever une chaîne de montagnes) est un acte d'ampleur comparable à ceux de plusieurs Majeurs déjà migrés. Signalé pour le chantier de recalibrage des rangs, aux côtés de [[Sophis]] (même lot).
 

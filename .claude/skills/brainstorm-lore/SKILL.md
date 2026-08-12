@@ -211,7 +211,10 @@ court, volontairement) :
    via `vault_write` (le filet : on a lu avant d'écraser, et rien de
    l'existant n'est perdu). Pour n'ajouter des éléments qu'à une seule
    section, `vault_append` ou `vault_patch` (ciblage par heading) sont des
-   alternatives plus chirurgicales. Ne jamais écraser à l'aveugle.
+   alternatives plus chirurgicales — avec `vault_patch`, poser explicitement
+   `rejectIfContentPreexists: true` (ce paramètre défaut à `false`, donc à
+   aucune protection anti-duplication tant qu'il n'est pas posé). Ne jamais
+   écraser à l'aveugle.
    Dans ce même listing, si `Brainstorms.base` est absent : le créer sans
    demander (copier le contenu d'`assets/Brainstorms.base` vers
    `05_IA_Inbox/Brainstorm/Brainstorms.base` via `vault_write`) — c'est la
@@ -307,3 +310,19 @@ silencieuse l'effacerait.
   ou à structurer l'idée en sections, c'est le signal que ce n'est plus une
   capture express mais une session Mode A, à proposer explicitement plutôt
   qu'à faire glisser silencieusement.
+
+---
+
+## Journal des modifications de ce skill
+
+- 2026-08-07 : création de `references/modes-repli.md` et
+  `assets/Brainstorms.base` — les deux étaient référencés par ce fichier
+  (Mode Local, Étape "Assembler et enregistrer") mais absents du disque
+  depuis un moment indéterminé ; toute session ayant tenté de basculer en
+  Mode Local ou de déposer une première fiche aurait buté dessus. Correction
+  de l'incohérence `source: ia` (dans `assets/template.md`, utilisé par les
+  Modes A/B) vs `source: ai` (dans ce SKILL.md, Mode C et Garde-fous) —
+  alignement sur `ai` (décision du 2026-08-07, cohérente avec Conventions
+  §0, creer-fiche, audit-coherence et migrer-fiche). Ajout du rappel
+  `rejectIfContentPreexists: true` sur la mention de `vault_patch`
+  ("Assembler et enregistrer", étape 3).

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786528648581-wy8cgbq22",
+  "providerId": "claude",
+  "title": "Mettre à jour la fiche des Jumeaux Divins",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786528648583,
+  "lastActivityAt": 1786529264346,
+  "sessionId": "2f8c9aab-031e-46d8-9391-f8d13c40a870",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "2f8c9aab-031e-46d8-9391-f8d13c40a870"
+  },
+  "currentNote": "01_Lore/Évenements/Ère Exodiale/Les Jumeaux Divins.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 978,
+    "cacheReadInputTokens": 80616,
+    "contextWindow": 1000000,
+    "contextTokens": 81595,
+    "percentage": 8
+  }
+}

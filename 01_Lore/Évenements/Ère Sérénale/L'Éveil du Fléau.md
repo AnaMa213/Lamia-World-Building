@@ -4,7 +4,7 @@ source: auteur
 type: evenement
 importance: majeur
 ere: serenale
-annee: inconnu
+annee: ≈ 900 ES
 annee_debut: 900
 annee_fin: 1000
 tags:
@@ -33,7 +33,7 @@ Consumé par la rage, sa forme physique devient instable, jusqu'à imploser. La 
 
 Il choisit une première planète au hasard. Il observe brièvement l'œuvre des dieux — il ne peut nier leur maîtrise — puis se présente à un village. Les habitants, croyant voir un dieu bienfaiteur, viennent à sa rencontre. Il les massacre. Les océans se soulèvent, la terre tremble, les cieux s'embrasent. **L'arbre-monde de la planète meurt**, et avec lui toute vie qu'elle abritait.
 
-[[Albaesclatia]], [[Lumina]] et [[Mageisys]] descendent en hâte. Devant la coalition divine, Ataraxus comprend qu'il ne peut vaincre seul et bat en retraite vers son plan — mais le plaisir qu'il a trouvé dans la destruction l'a définitivement marqué. Ses membres difformes s'étirent tels des serres noircies par la rancœur, ses ailes déchirées dégouttant d'une obscurité malveillante.
+[[Albaesclatia]], [[Lumina]] descendent en hâte avec les Archanges. Devant la coalition divine, Ataraxus comprend qu'il ne peut vaincre seul et bat en retraite vers son plan — mais le plaisir qu'il a trouvé dans la destruction l'a définitivement marqué. Ses membres difformes s'étirent tels des serres noircies par la rancœur, ses ailes déchirées dégouttant d'une obscurité malveillante.
 
 ## Conséquences
 
@@ -41,17 +41,17 @@ Naissance du « dieu de la destruction » tel qu'il est connu aujourd'hui. Cet �
 
 ## Qui en garde mémoire
 
-Fait largement connu et non contesté à l'époque présente : la nature d'Ataraxus comme ancien dieu du calme devenu destructeur est un élément déjà documenté dans [[Timeline Master]] et dans la fiche déjà migrée [[Ataraxus]]. Pas de secret ici.
+Fait largement connu et non contesté à l'époque présente : la nature d'Ataraxus comme ancien dieu du calme devenu destructeur est un élément déjà documenté dans [[01_Lore/Timeline Master]] et dans la fiche déjà migrée [[Ataraxus]]. Pas de secret ici.
 
 ## Relations
 
 - [[La Retraite du Calme]] — événement antérieur directement lié.
-- [[Albaesclatia]] / [[Lumina]] / [[Mageisys]] — interviennent avec la coalition divine contre ce premier massacre.
+- [[Albaesclatia]] / [[Lumina]] / [[Conseil des Archanges]] — interviennent avec la coalition divine contre ce premier massacre.
 - [[Le Grand Déferlement]] — conséquence directe et bien plus vaste.
 - [[Ataraxus]] — fiche déjà migrée, à harmoniser lors de la grande révision différée.
 
 ## Contradictions potentielles
 
-**Aucune contradiction relevée.** Cohérent avec [[Timeline Master]] (« avant ≈1000 — les désordres du Chronoversum nourrissent la colère d'Ataraxus »).
+**Aucune contradiction relevée.** Cohérent avec [[01_Lore/Timeline Master]] (« avant ≈1000 — les désordres du Chronoversum nourrissent la colère d'Ataraxus »).
 
-**Datation ≈900–1000**, juste avant le « Début de la Grande Guerre divine » (≈1000) déjà daté dans [[Timeline Master]] — cet épisode en est vraisemblablement le déclencheur direct plutôt qu'un événement séparé.
+**Datation ≈900–1000**, juste avant le « Début de la Grande Guerre divine » (≈1000) déjà daté dans [[01_Lore/Timeline Master]] — cet épisode en est vraisemblablement le déclencheur direct plutôt qu'un événement séparé.

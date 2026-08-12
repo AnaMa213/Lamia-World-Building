@@ -4,7 +4,7 @@ source: auteur
 type: evenement
 importance: majeur
 ere: exodiale
-annee: 0
+annee: 0 EE
 annee_debut:
 annee_fin: 300
 tags:
@@ -18,11 +18,11 @@ aliases:
 ---
 # La Chute de l'Âge d'Or
 
-**En une phrase :** La barrière de Lamia, affaiblie par la fracture du Cœur, laisse enfin passer les démons ; en quelques années, plus de 90 % de la population de Lamia est éradiquée, mettant fin à l'âge d'or et ouvrant l'Ère Exodiale.
+**En une phrase :** La barrière de Lamia, affaiblie par la fracture du Cœur, laisse enfin passer les démons ; en quelques siecles, plus de 90 % de la population de Lamia est éradiquée, mettant fin à l'âge d'or et ouvrant l'Ère Exodiale.
 
 ## Résumé
 
-La fracture du cœur affaiblit la barrière de Lamia : les dieux marqués par Ataraxus restent incapables d'y entrer, mais les démons y trouvent désormais un passage. Une vague déferle sur Lamia. En quelques années, plus de 90 % de la population est éradiquée. Les survivants se dispersent, nomades, cachés, traqués. L'âge d'or de Lamia meurt.
+La fracture du cœur affaiblit la barrière de Lamia : les dieux marqués par [[Ataraxus]] restent incapables d'y entrer, mais les démons y trouvent désormais un passage. Une vague déferle sur Lamia. En quelques années, plus de 90 % de la population est éradiquée. Les survivants se dispersent, nomades, cachés, traqués. L'âge d'or de Lamia meurt.
 
 ## Causes
 
@@ -36,7 +36,7 @@ En quelques années, **plus de 90 % de la population de Lamia est éradiquée**.
 
 ## Conséquences
 
-Fin de l'Ère Sérénale, début de l'Ère Exodiale. Effondrement des civilisations lamiennes (voir [[Timeline Master]], Exodiale « 0-300 »). Ce cataclysme conditionne toute la suite : la naissance des Jumeaux divins Alfaryus et Humarios, la fondation de Cyroldan et d'Humildas 
+Fin de l'Ère Sérénale, début de l'Ère Exodiale. Effondrement des civilisations lamiennes (voir [[01_Lore/Timeline Master]], Exodiale « 0-300 »). Ce cataclysme conditionne toute la suite : la naissance des Jumeaux divins Alfaryus et Humarios, la fondation de Cyroldan et d'Humildas 
 
 ## Qui en garde mémoire
 
@@ -51,4 +51,4 @@ Fait fondateur et largement connu — la fin de l'âge d'or et l'ampleur de la d
 
 ## Contradictions potentielles
 
-**Aucune contradiction relevée.** Cohérent avec [[Timeline Master]] (Exodiale « 0 » et « 0-300 »).
+**Aucune contradiction relevée.** Cohérent avec [[01_Lore/Timeline Master]] (Exodiale « 0 » et « 0-300 »).
