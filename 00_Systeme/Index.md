@@ -31,6 +31,13 @@ Géographie · Peuples et Factions · Personnages · Créatures · Événements 
 
 ### Ouverts
 
+#### Session 2026-08-12 — Fiche Lieu Humildas
+
+- [ ] **[DÉPLACER]** `05_IA_Inbox/Fiches/Humildas.md` → `01_Lore/Lieux/Humildas.md` + ajouter à [[Lieux MOC]] + passer `source: auteur` après relecture
+- [ ] **[CHANTIER — [[Raekialar]]]** Distinguer descendance saine (Exodiale ≈220–1500, compagnons des soldats d'Humildas) et dragons rouges corrompus (depuis ≈1500) — la fiche actuelle présente les dragons rouges comme n'apparaissant qu'après la corruption
+- [ ] **[CHANTIER — [[Raekialar]]]** Mécanisme de corruption résolu en session : c'est Humarios qui a corrompu Raekialar via son expérimentation sur le Cœur de Lamia (≈1500 Exodiale) — clôt le ⚠️ "Nature exacte de la corruption non détaillée"
+- [ ] **[CHANTIER — [[Raekialar]]]** "Rapport aux peuples" à nuancer : "N'interagit pas avec les Lamiens" vrai en 1448 È.V., inexact pour l'Exodiale ≈220–1500 (protection active d'Humildas, lignée draconique parmi les soldats)
+- [ ] **[CHANTIER — [[La Corruption d'Humarios]]]** Ajouter que la corruption d'Humarios a causé directement celle de Raekialar — deux corruptions simultanées et causalement liées (≈1500 Exodiale, sur l'île d'Humildas)
 #### Session 2026-08-11 — Fiches Race Gnomes & Gobelins
 
 - [x] **[DÉPLACER]** `05_IA_Inbox/Fiches/Gnomes.md` → `01_Lore/Races/Gnomes.md` + ajouter à la MOC Races + passer `source: auteur` après relecture

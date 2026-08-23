@@ -29,7 +29,7 @@ Pendant la [[Grande Guerre Divine]], [[Armerith]] choisit treize créations mort
 
 ## Déroulement
 
-Armerith identifie treize chefs-d'œuvre parmi les créations mortelles de l'Ère Sérénale — des œuvres dont les auteurs sont différents, issues de l'artisanat le plus élevé de leur époque. Il y infuse une partie de son essence divine, les transformant en artefacts d'une puissance phénoménale, puis les envoie aux [[01_Lore/Races/Mortels/Humains]] et aux [[Elfes]] de Lamia pour les aider à combattre et à survivre.
+Armerith identifie treize chefs-d'œuvre parmi les créations mortelles de l'Ère Sérénale — des œuvres dont les auteurs sont différents, issues de l'artisanat le plus élevé de leur époque. Il y infuse une partie de son essence divine, les transformant en artefacts d'une puissance phénoménale, puis les envoie aux [[Humains]] et aux [[Elfes]] de Lamia pour les aider à combattre et à survivre.
 
 ## Conséquences
 
@@ -48,7 +48,7 @@ De nombreuses légendes circulent dans Lamia autour des treize artefacts perdus,
 ## Relations
 
 - [[Armerith]] — auteur de la sublimation divine
-- [[01_Lore/Races/Mortels/Humains]] et [[Elfes]] — destinataires des artefacts
+- [[Humains]] et [[Elfes]] — destinataires des artefacts
 - [[Ataraxus]] — ennemi contre lequel les artefacts sont mobilisés
 - [[Grande Bataille de Cyroldan]] — événement qui marque la dispersion des artefacts
 - [[Mageisys]] — son enseignement (Temps primordiaux) rend la sublimation possible indirectement

@@ -1,0 +1,20 @@
+{
+  "id": "conv-1787417875378-mvt3rjd6l",
+  "providerId": "claude",
+  "title": "Concevoir les vêtements des prêtres nomades",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787417875381,
+  "lastActivityAt": 1787418206817,
+  "sessionId": null,
+  "selectedModel": "sonnet",
+  "currentNote": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapter 1.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 3795,
+    "cacheReadInputTokens": 34932,
+    "contextWindow": 1000000,
+    "contextTokens": 38730,
+    "percentage": 4
+  }
+}

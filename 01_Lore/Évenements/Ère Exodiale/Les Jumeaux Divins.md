@@ -4,9 +4,9 @@ source: auteur
 type: evenement
 importance: majeur
 ere: exodiale
-annee: inconnu
+annee: ≈ 170 EE
 annee_debut: 170
-annee_fin: 220
+annee_fin:
 tags:
   - alfaryus
   - humarios
@@ -16,7 +16,6 @@ date: 2026-07-12
 portee:
 aliases:
   - La Naissance des Guides Incarnés
-revision: ia-a-valider
 revision-date: 2026-08-12
 ---
 # Les Jumeaux Divins

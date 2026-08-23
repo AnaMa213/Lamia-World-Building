@@ -1,0 +1,26 @@
+{
+  "id": "conv-1786564260689-irfaaa9ud",
+  "providerId": "claude",
+  "title": "Créer une fiche Lieu pour Humildas",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786564260690,
+  "lastActivityAt": 1786567953990,
+  "sessionId": "cfc35dcf-1ce3-4849-a2e9-59a21acd77b0",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "cfc35dcf-1ce3-4849-a2e9-59a21acd77b0"
+  },
+  "currentNote": "01_Lore/Évenements/Ère Exodiale/Humarios et la Fondation d'Humildas.md",
+  "enabledMcpServers": [
+    "obsidian-mcp"
+  ],
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 3662,
+    "cacheReadInputTokens": 95780,
+    "contextWindow": 1000000,
+    "contextTokens": 99443,
+    "percentage": 10
+  }
+}

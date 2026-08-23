@@ -1,0 +1,1296 @@
+{
+  "fiches_scannees": 141,
+  "occurrences_wikilinks_total": 4551,
+  "cibles_mortes_distinctes": 104,
+  "entites_absentes": [
+    {
+      "cible": "Grande Bataille de Cyroldan",
+      "occurrences": 63,
+      "nb_fiches_sources": 30,
+      "sources": [
+        "01_Lore/Créatures/Daenithor.md",
+        "01_Lore/Créatures/Raekialar.md",
+        "01_Lore/Divinités/Anges/Persemis.md",
+        "01_Lore/Divinités/Majeur/Akator.md",
+        "01_Lore/Divinités/Majeur/Fastiae.md",
+        "01_Lore/Divinités/Majeur/Maurtria.md",
+        "01_Lore/Divinités/Majeur/Oriac.md",
+        "01_Lore/Divinités/Majeur/Xeros.md",
+        "01_Lore/Divinités/Mineur/Alketeria.md",
+        "01_Lore/Divinités/Mineur/Armerith.md",
+        "01_Lore/Divinités/Mineur/Diablio.md",
+        "01_Lore/Divinités/Mineur/Laxius.md",
+        "01_Lore/Divinités/Mineur/Orgea.md",
+        "01_Lore/Divinités/Mineur/Rhamal.md",
+        "01_Lore/Divinités/Primordiales/Albaesclatia.md",
+        "01_Lore/Divinités/Primordiales/Ataraxus.md",
+        "01_Lore/Divinités/Primordiales/Lumina.md",
+        "01_Lore/Divinités/Primordiales/Mageisys.md",
+        "01_Lore/Essences/Ichor du Néant.md",
+        "01_Lore/Factions/Cercle d'Armerith.md",
+        "01_Lore/Factions/Conseil des Archanges.md",
+        "01_Lore/Lieux/Eliyae.md",
+        "01_Lore/Lieux/Horiae.md",
+        "01_Lore/Lieux/Intraherium.md",
+        "01_Lore/Lieux/Montagnes de Lerium.md",
+        "01_Lore/Races/Mortels/Orcs.md",
+        "01_Lore/Évenements/Ère Exodiale/La Sublimation des Treize.md",
+        "01_Lore/Évenements/Ère Exodiale/Les Liens Rompus.md",
+        "01_Lore/Évenements/Ère Sérénale/L'Exil d'Oriac.md",
+        "01_Lore/Évenements/Ère Sérénale/L'Incarnation Draconique d'Akator.md"
+      ],
+      "deja_tracke_index": false,
+      "variantes_probables": [
+        {
+          "cible": "Bataille de Cyroldan",
+          "occurrences": 1,
+          "sources": [
+            "01_Lore/Divinités/Mineur/Sophis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "cible": "Grande Guerre Divine",
+      "occurrences": 37,
+      "nb_fiches_sources": 22,
+      "sources": [
+        "01_Lore/Créatures/Dragons.md",
+        "01_Lore/Divinités/Anges/Persemis.md",
+        "01_Lore/Divinités/Demi-dieu/Alfaryus.md",
+        "01_Lore/Divinités/Majeur/Akator.md",
+        "01_Lore/Divinités/Majeur/Oriac.md",
+        "01_Lore/Divinités/Majeur/Xeros.md",
+        "01_Lore/Divinités/Mineur/Aion.md",
+        "01_Lore/Divinités/Mineur/Armerith.md",
+        "01_Lore/Divinités/Mineur/Diablio.md",
+        "01_Lore/Divinités/Mineur/Oneira.md",
+        "01_Lore/Divinités/Mineur/Orgea.md",
+        "01_Lore/Divinités/Mineur/Quaesir.md",
+        "01_Lore/Divinités/Mineur/Rhamal.md",
+        "01_Lore/Divinités/Mineur/Vindiereis.md",
+        "01_Lore/Divinités/Primordiales/Albaesclatia.md",
+        "01_Lore/Divinités/Primordiales/Naphusis.md",
+        "01_Lore/Factions/Cercle d'Armerith.md",
+        "01_Lore/Lieux/Koboldia.md",
+        "01_Lore/Objets/Divin/Fastiandre.md",
+        "01_Lore/Races/Mortels/Vendards.md",
+        "01_Lore/Évenements/Ère Exodiale/La Sublimation des Treize.md",
+        "01_Lore/Évenements/Ère Sérénale/L'Exil d'Oriac.md"
+      ],
+      "deja_tracke_index": true
+    },
+    {
+      "cible": "Havre Éthéré",
+      "occurrences": 25,
+      "nb_fiches_sources": 4,
+      "sources": [
+        "01_Lore/Divinités/Majeur/Fastiae.md",
+        "01_Lore/Divinités/Mineur/Diablio.md",
+        "01_Lore/Divinités/Mineur/Orgea.md",
+        "01_Lore/Divinités/Primordiales/Mageisys.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Lumars",
+      "occurrences": 17,
+      "nb_fiches_sources": 4,
+      "sources": [
+        "01_Lore/Divinités/Mineur/Aion.md",
+        "01_Lore/Divinités/Mineur/Alketeria.md",
+        "01_Lore/Divinités/Mineur/Thanatia.md",
+        "01_Lore/Races/Divins/Valkys.md"
+      ],
+      "deja_tracke_index": true
+    },
+    {
+      "cible": "Empire de Zalandria",
+      "occurrences": 15,
+      "nb_fiches_sources": 6,
+      "sources": [
+        "01_Lore/Divinités/Mineur/Quaesir.md",
+        "01_Lore/Divinités/Mineur/Vindiereis.md",
+        "01_Lore/Lieux/Cyroldan.md",
+        "01_Lore/Lieux/Horiae.md",
+        "01_Lore/Peuples/Naphelians.md",
+        "01_Lore/Races/Mortels/Elfes.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Zaréh-Djora",
+      "occurrences": 15,
+      "nb_fiches_sources": 3,
+      "sources": [
+        "01_Lore/Divinités/Mineur/Aion.md",
+        "01_Lore/Lieux/Eliyae.md",
+        "01_Lore/Races/Mortels/Elfes.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Orcium",
+      "occurrences": 15,
+      "nb_fiches_sources": 5,
+      "sources": [
+        "01_Lore/Divinités/Majeur/Oriac.md",
+        "01_Lore/Divinités/Majeur/Xeros.md",
+        "01_Lore/Races/Mortels/Orcs.md",
+        "01_Lore/Timeline Master.md",
+        "01_Lore/Évenements/Ère Sérénale/L'Exil d'Oriac.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Plan des Fasties",
+      "occurrences": 14,
+      "nb_fiches_sources": 4,
+      "sources": [
+        "01_Lore/Divinités/Majeur/Fastiae.md",
+        "01_Lore/Divinités/Mineur/Diablio.md",
+        "01_Lore/Divinités/Primordiales/Albaesclatia.md",
+        "01_Lore/Divinités/Primordiales/Mageisys.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Archipel Blanc",
+      "occurrences": 11,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Divinités/Mineur/Sophis.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Archipel de Marelion",
+      "occurrences": 11,
+      "nb_fiches_sources": 3,
+      "sources": [
+        "01_Lore/Divinités/Majeur/Xeros.md",
+        "01_Lore/Lieux/Cyroldan.md",
+        "01_Lore/Lieux/Eliyae.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Plan Miroir",
+      "occurrences": 9,
+      "nb_fiches_sources": 2,
+      "sources": [
+        "01_Lore/Divinités/Mineur/Vindiereis.md",
+        "01_Lore/Races/Mortels/Vendards.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Sopharax",
+      "occurrences": 9,
+      "nb_fiches_sources": 2,
+      "sources": [
+        "01_Lore/Divinités/Mineur/Sophis.md",
+        "01_Lore/Races/Divins/Démons.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Tribus Gobelins du Nords",
+      "occurrences": 9,
+      "nb_fiches_sources": 3,
+      "sources": [
+        "01_Lore/Lieux/Royaume de Naphelia.md",
+        "01_Lore/Peuples/Naphelians.md",
+        "01_Lore/Races/Mortels/Gobelins.md"
+      ],
+      "deja_tracke_index": false,
+      "variantes_probables": [
+        {
+          "cible": "Tribus Gobelins du Nord",
+          "occurrences": 1,
+          "sources": [
+            "01_Lore/Lieux/Horiae.md"
+          ]
+        }
+      ]
+    },
+    {
+      "cible": "Royaume de Perservorn",
+      "occurrences": 8,
+      "nb_fiches_sources": 4,
+      "sources": [
+        "01_Lore/Divinités/Mineur/Armerith.md",
+        "01_Lore/Factions/Cercle d'Armerith.md",
+        "01_Lore/Races/Mortels/Elfes.md",
+        "01_Lore/Races/Mortels/Humains.md"
+      ],
+      "deja_tracke_index": false,
+      "variantes_probables": [
+        {
+          "cible": "Temples-Forge de Perservorn",
+          "occurrences": 1,
+          "sources": [
+            "01_Lore/Factions/Cercle d'Armerith.md"
+          ]
+        },
+        {
+          "cible": "Royaume de Persevorn",
+          "occurrences": 1,
+          "sources": [
+            "01_Lore/Lieux/Horiae.md"
+          ]
+        },
+        {
+          "cible": "Perservorn",
+          "occurrences": 1,
+          "sources": [
+            "01_Lore/Timeline Master.md"
+          ]
+        }
+      ]
+    },
+    {
+      "cible": "Théocratie de Maurtria",
+      "occurrences": 7,
+      "nb_fiches_sources": 3,
+      "sources": [
+        "01_Lore/Divinités/Majeur/Maurtria.md",
+        "01_Lore/Factions/Culte d'Ataraxus.md",
+        "01_Lore/Lieux/Caedarium.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Royaume de Rak'Maik",
+      "occurrences": 7,
+      "nb_fiches_sources": 2,
+      "sources": [
+        "01_Lore/Lieux/Royaume de Naphelia.md",
+        "01_Lore/Peuples/Naphelians.md"
+      ],
+      "deja_tracke_index": false,
+      "variantes_probables": [
+        {
+          "cible": "Rak'Maik",
+          "occurrences": 1,
+          "sources": [
+            "01_Lore/Lieux/Horiae.md"
+          ]
+        }
+      ]
+    },
+    {
+      "cible": "Pierre de Sophis",
+      "occurrences": 6,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Divinités/Mineur/Sophis.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Calendrier Commun de Lamia",
+      "occurrences": 6,
+      "nb_fiches_sources": 6,
+      "sources": [
+        "01_Lore/Divinités/Majeur/Fastiae.md",
+        "01_Lore/Divinités/Mineur/Aion.md",
+        "01_Lore/Divinités/Mineur/Diablio.md",
+        "01_Lore/Divinités/Mineur/Orgea.md",
+        "01_Lore/Divinités/Mineur/Quaesir.md",
+        "01_Lore/Divinités/Mineur/Sophis.md"
+      ],
+      "deja_tracke_index": true
+    },
+    {
+      "cible": "Rhamélar",
+      "occurrences": 6,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Divinités/Mineur/Rhamal.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Guilde des Aventuriers",
+      "occurrences": 6,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Divinités/Mineur/Quaesir.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Principauté de Diablio",
+      "occurrences": 6,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Divinités/Mineur/Diablio.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Bardes",
+      "occurrences": 6,
+      "nb_fiches_sources": 2,
+      "sources": [
+        "01_Lore/Divinités/Majeur/Fastiae.md",
+        "01_Lore/Magies/Le Fil.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Naphiël",
+      "occurrences": 6,
+      "nb_fiches_sources": 2,
+      "sources": [
+        "01_Lore/Lieux/Royaume de Naphelia.md",
+        "01_Lore/Peuples/Naphelians.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Marque de Persemis",
+      "occurrences": 5,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Divinités/Anges/Persemis.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "La Prison de Cyroldan",
+      "occurrences": 5,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Lieux/Cyroldan.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Royaume de Montalumir",
+      "occurrences": 4,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Divinités/Mineur/Quaesir.md"
+      ],
+      "deja_tracke_index": false,
+      "variantes_probables": [
+        {
+          "cible": "Montalumir",
+          "occurrences": 1,
+          "sources": [
+            "01_Lore/Lieux/Horiae.md"
+          ]
+        }
+      ]
+    },
+    {
+      "cible": "Mont Quaesir",
+      "occurrences": 4,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Divinités/Mineur/Quaesir.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Albaelian",
+      "occurrences": 4,
+      "nb_fiches_sources": 3,
+      "sources": [
+        "01_Lore/Divinités/Majeur/Fastiae.md",
+        "01_Lore/Races/Divins/Anges.md",
+        "01_Lore/Races/Divins/Valkys.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "République d'Ildienae",
+      "occurrences": 4,
+      "nb_fiches_sources": 4,
+      "sources": [
+        "01_Lore/Divinités/Demi-dieu/Alfaryus.md",
+        "01_Lore/Lieux/Horiae.md",
+        "01_Lore/Races/Mortels/Elfes.md",
+        "01_Lore/Timeline Master.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Erlsen",
+      "occurrences": 4,
+      "nb_fiches_sources": 3,
+      "sources": [
+        "01_Lore/Factions/Cercle d'Armerith.md",
+        "01_Lore/Lieux/Horiae.md",
+        "01_Lore/Races/Mortels/Elfes.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Landes d'Enkar",
+      "occurrences": 4,
+      "nb_fiches_sources": 2,
+      "sources": [
+        "01_Lore/Lieux/Horiae.md",
+        "01_Lore/Lieux/Royaume de Naphelia.md"
+      ],
+      "deja_tracke_index": false,
+      "variantes_probables": [
+        {
+          "cible": "Enkar",
+          "occurrences": 1,
+          "sources": [
+            "01_Lore/Lieux/Horiae.md"
+          ]
+        }
+      ]
+    },
+    {
+      "cible": "Ivalice",
+      "occurrences": 3,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Divinités/Mineur/Quaesir.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Ildearan",
+      "occurrences": 3,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Divinités/Mineur/Quaesir.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Elyiael",
+      "occurrences": 3,
+      "nb_fiches_sources": 2,
+      "sources": [
+        "01_Lore/Divinités/Majeur/Xeros.md",
+        "01_Lore/Races/Mortels/Elfes.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Épreuve d'Oriac",
+      "occurrences": 3,
+      "nb_fiches_sources": 2,
+      "sources": [
+        "01_Lore/Divinités/Majeur/Oriac.md",
+        "01_Lore/Races/Mortels/Orcs.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Émissaires de Fastiae",
+      "occurrences": 3,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Divinités/Majeur/Fastiae.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Jardin des Légendes",
+      "occurrences": 3,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Divinités/Majeur/Fastiae.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Magie élémentaire",
+      "occurrences": 3,
+      "nb_fiches_sources": 3,
+      "sources": [
+        "01_Lore/Divinités/Demi-dieu/Alfaryus.md",
+        "01_Lore/Magies/Le Fil.md",
+        "01_Lore/Magies/Magies MOC.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Trans-flux",
+      "occurrences": 3,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Lieux/Cyroldan.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Fusion Ghorrek",
+      "occurrences": 2,
+      "nb_fiches_sources": 2,
+      "sources": [
+        "01_Lore/Créatures/Ghorreks.md",
+        "01_Lore/Races/Mortels/Nains.md"
+      ],
+      "deja_tracke_index": true
+    },
+    {
+      "cible": "Mornes de Melidarth",
+      "occurrences": 2,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Divinités/Mineur/Vindiereis.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Île Blanche",
+      "occurrences": 2,
+      "nb_fiches_sources": 2,
+      "sources": [
+        "01_Lore/Divinités/Mineur/Sophis.md",
+        "01_Lore/Essences/Ichor du Néant.md"
+      ],
+      "deja_tracke_index": false,
+      "variantes_probables": [
+        {
+          "cible": "l'Île Blanche",
+          "occurrences": 1,
+          "sources": [
+            "01_Lore/Races/Divins/Démons.md"
+          ]
+        }
+      ]
+    },
+    {
+      "cible": "Royaume de Lumior",
+      "occurrences": 2,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Divinités/Mineur/Quaesir.md"
+      ],
+      "deja_tracke_index": false,
+      "variantes_probables": [
+        {
+          "cible": "Lumior",
+          "occurrences": 1,
+          "sources": [
+            "01_Lore/Lieux/Horiae.md"
+          ]
+        }
+      ]
+    },
+    {
+      "cible": "Diu'rakin",
+      "occurrences": 2,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Factions/Cercle d'Armerith.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Plaines d'Ambrea",
+      "occurrences": 2,
+      "nb_fiches_sources": 2,
+      "sources": [
+        "01_Lore/Lieux/Horiae.md",
+        "01_Lore/Lieux/Royaume de Naphelia.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Magie Mageysienne",
+      "occurrences": 2,
+      "nb_fiches_sources": 2,
+      "sources": [
+        "01_Lore/Magies/Magie Arcanique.md",
+        "01_Lore/Magies/Magies MOC.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Fanges sombres",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Créatures/Chairombres.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Bataille de Cyroldan",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Divinités/Mineur/Sophis.md"
+      ],
+      "deja_tracke_index": false,
+      "fusionnee_dans": "Grande Bataille de Cyroldan"
+    },
+    {
+      "cible": "Pavor",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Divinités/Mineur/Laxius.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Lyanxia",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Divinités/Majeur/Xeros.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Empire Marchand de Merkatia",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Divinités/Demi-dieu/Alfaryus.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Ruines de Zahral",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Factions/Cercle d'Armerith.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Temples-Forge de Perservorn",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Factions/Cercle d'Armerith.md"
+      ],
+      "deja_tracke_index": false,
+      "fusionnee_dans": "Royaume de Perservorn"
+    },
+    {
+      "cible": "Océan Cyroldien",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Lieux/Royaume de Naphelia.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Skraztok le Gris",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Lieux/Royaume de Naphelia.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Dragons primordiaux",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Lieux/Koboldia.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Thorn Kaz",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Lieux/Horiae.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Duraz'kal",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Lieux/Horiae.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Rak'Maik",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Lieux/Horiae.md"
+      ],
+      "deja_tracke_index": false,
+      "fusionnee_dans": "Royaume de Rak'Maik"
+    },
+    {
+      "cible": "Terres Libres du Nord",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Lieux/Horiae.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Sylve d'Urvalis",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Lieux/Horiae.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Tribus Gobelins du Nord",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Lieux/Horiae.md"
+      ],
+      "deja_tracke_index": false,
+      "fusionnee_dans": "Tribus Gobelins du Nords"
+    },
+    {
+      "cible": "Enkar",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Lieux/Horiae.md"
+      ],
+      "deja_tracke_index": false,
+      "fusionnee_dans": "Landes d'Enkar"
+    },
+    {
+      "cible": "Royaume de Persevorn",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Lieux/Horiae.md"
+      ],
+      "deja_tracke_index": false,
+      "fusionnee_dans": "Royaume de Perservorn"
+    },
+    {
+      "cible": "Royaume d'Enkaria",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Lieux/Horiae.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Irlandorn",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Lieux/Horiae.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Lumior",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Lieux/Horiae.md"
+      ],
+      "deja_tracke_index": false,
+      "fusionnee_dans": "Royaume de Lumior"
+    },
+    {
+      "cible": "Montalumir",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Lieux/Horiae.md"
+      ],
+      "deja_tracke_index": false,
+      "fusionnee_dans": "Royaume de Montalumir"
+    },
+    {
+      "cible": "Panumorn",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Lieux/Horiae.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Royaume de Rivenhelm",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Lieux/Horiae.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Désert de Xeros",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Lieux/Horiae.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Vallées de l'Oubli",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Lieux/Horiae.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Marécage de Thiérapans",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Lieux/Horiae.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Jungle d'Oriac",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Lieux/Horiae.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Mer Sanglante d'Oriac",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Lieux/Horiae.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Archipel d'Elirium",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Lieux/Horiae.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Mer des Orcs",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Lieux/Horiae.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Archanges",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Lieux/Dibertium.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Magie Druidique",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Magies/Magies MOC.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "l'Île Blanche",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Races/Divins/Démons.md"
+      ],
+      "deja_tracke_index": false,
+      "fusionnee_dans": "Île Blanche"
+    },
+    {
+      "cible": "Humerian",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Races/Mortels/Humains.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Univrian",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Races/Mortels/Humains.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Zalandrians",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Races/Mortels/Elfes.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Ildienaée",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Races/Mortels/Elfes.md"
+      ],
+      "deja_tracke_index": false
+    },
+    {
+      "cible": "Perservorn",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Timeline Master.md"
+      ],
+      "deja_tracke_index": true,
+      "fusionnee_dans": "Royaume de Perservorn"
+    }
+  ],
+  "quasi_doublons": [
+    {
+      "cible": "Tumeurs de Rhamal",
+      "occurrences": 23,
+      "nb_fiches_sources": 7,
+      "sources": [
+        "01_Lore/Divinités/Mineur/Quaesir.md",
+        "01_Lore/Divinités/Mineur/Rhamal.md",
+        "01_Lore/Divinités/Mineur/Vindiereis.md",
+        "01_Lore/Lieux/Cyroldan.md",
+        "01_Lore/Lieux/Horiae.md",
+        "01_Lore/Races/Mortels/Orcs.md",
+        "01_Lore/Races/Mortels/Vendards.md"
+      ],
+      "deja_tracke_index": true,
+      "candidats_proches": [
+        {
+          "name": "01_Lore/Divinités/Mineur/Rhamal.md",
+          "confiance": "approximative (difflib)"
+        }
+      ]
+    },
+    {
+      "cible": "Limbes",
+      "occurrences": 11,
+      "nb_fiches_sources": 3,
+      "sources": [
+        "01_Lore/Divinités/Mineur/Alketeria.md",
+        "01_Lore/Divinités/Mineur/Thanatia.md",
+        "01_Lore/Systèmes/Le Cycle des Âmes.md"
+      ],
+      "deja_tracke_index": true,
+      "candidats_proches": [
+        {
+          "name": "01_Lore/Lieux/Les Limbes.md",
+          "confiance": "forte (article retiré)"
+        }
+      ]
+    },
+    {
+      "cible": "Fasties",
+      "occurrences": 10,
+      "nb_fiches_sources": 3,
+      "sources": [
+        "01_Lore/Divinités/Majeur/Fastiae.md",
+        "01_Lore/Divinités/Mineur/Diablio.md",
+        "01_Lore/Divinités/Primordiales/Albaesclatia.md"
+      ],
+      "deja_tracke_index": false,
+      "candidats_proches": [
+        {
+          "name": "01_Lore/Divinités/Majeur/Fastiae.md",
+          "confiance": "approximative (difflib)"
+        }
+      ]
+    },
+    {
+      "cible": "Lamia",
+      "occurrences": 9,
+      "nb_fiches_sources": 8,
+      "sources": [
+        "01_Lore/Créatures/Daenithor.md",
+        "01_Lore/Créatures/Hurinathil.md",
+        "01_Lore/Créatures/Raekialar.md",
+        "01_Lore/Divinités/Majeur/Maurtria.md",
+        "01_Lore/Divinités/Mineur/Alketeria.md",
+        "01_Lore/Divinités/Mineur/Laxius.md",
+        "01_Lore/Systèmes/La Barrière de Lamia.md",
+        "01_Lore/Évenements/Ère Sérénale/La Naissance de l'Intraherium.md"
+      ],
+      "deja_tracke_index": true,
+      "candidats_proches": [
+        {
+          "name": "01_Lore/Divinités/Esprit/Lamia (ange).md",
+          "confiance": "forte (suffixe d'homonymie retiré)"
+        },
+        {
+          "name": "01_Lore/Lieux/Lamia (planète).md",
+          "confiance": "forte (suffixe d'homonymie retiré)"
+        }
+      ]
+    },
+    {
+      "cible": "Xeroniens",
+      "occurrences": 7,
+      "nb_fiches_sources": 2,
+      "sources": [
+        "01_Lore/Divinités/Majeur/Xeros.md",
+        "01_Lore/Lieux/Horiae.md"
+      ],
+      "deja_tracke_index": true,
+      "candidats_proches": [
+        {
+          "name": "01_Lore/Divinités/Majeur/Xeros.md",
+          "confiance": "approximative (difflib)"
+        }
+      ]
+    },
+    {
+      "cible": "Disciples de Maurtria",
+      "occurrences": 5,
+      "nb_fiches_sources": 2,
+      "sources": [
+        "01_Lore/Divinités/Majeur/Maurtria.md",
+        "01_Lore/Divinités/Mineur/Vindiereis.md"
+      ],
+      "deja_tracke_index": false,
+      "candidats_proches": [
+        {
+          "name": "01_Lore/Divinités/Majeur/Maurtria.md",
+          "confiance": "approximative (difflib)"
+        }
+      ]
+    },
+    {
+      "cible": "La Forêt de Naphusis",
+      "occurrences": 5,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Lieux/Cyroldan.md"
+      ],
+      "deja_tracke_index": false,
+      "candidats_proches": [
+        {
+          "name": "01_Lore/Lieux/Forêt de Naphusis.md",
+          "confiance": "forte (article retiré)"
+        },
+        {
+          "name": "01_Lore/Créatures/Héraut de Naphusis.md",
+          "confiance": "approximative (difflib)"
+        }
+      ]
+    },
+    {
+      "cible": "Cœur de Lamia",
+      "occurrences": 4,
+      "nb_fiches_sources": 3,
+      "sources": [
+        "01_Lore/Divinités/Esprit/Lamia (ange).md",
+        "01_Lore/Lieux/Lamia (planète).md",
+        "01_Lore/Évenements/Temps primordiaux/La Semence Cachée.md"
+      ],
+      "deja_tracke_index": true,
+      "candidats_proches": [
+        {
+          "name": "01_Lore/Objets/Divin/Le Cœur de Lamia.md",
+          "confiance": "forte (article retiré)"
+        }
+      ]
+    },
+    {
+      "cible": "Arbre-Monde",
+      "occurrences": 4,
+      "nb_fiches_sources": 2,
+      "sources": [
+        "01_Lore/Lieux/Cyroldan.md",
+        "01_Lore/Lieux/Horiae.md"
+      ],
+      "deja_tracke_index": true,
+      "candidats_proches": [
+        {
+          "name": "01_Lore/Divinités/Primordiales/Naphusis.md",
+          "confiance": "approximative (difflib)"
+        }
+      ]
+    },
+    {
+      "cible": "Les Miroirs de l'Âme",
+      "occurrences": 3,
+      "nb_fiches_sources": 2,
+      "sources": [
+        "01_Lore/Divinités/Mineur/Vindiereis.md",
+        "01_Lore/Races/Mortels/Vendards.md"
+      ],
+      "deja_tracke_index": false,
+      "candidats_proches": [
+        {
+          "name": "01_Lore/Divinités/Mineur/Vindiereis.md",
+          "confiance": "approximative (difflib)"
+        }
+      ]
+    },
+    {
+      "cible": "Maréliens",
+      "occurrences": 2,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Divinités/Majeur/Xeros.md"
+      ],
+      "deja_tracke_index": false,
+      "candidats_proches": [
+        {
+          "name": "01_Lore/Divinités/Primordiales/Naphusis.md",
+          "confiance": "approximative (difflib)"
+        }
+      ]
+    },
+    {
+      "cible": "Fil",
+      "occurrences": 2,
+      "nb_fiches_sources": 2,
+      "sources": [
+        "01_Lore/Divinités/Majeur/Xeros.md",
+        "01_Lore/Évenements/Ère Exodiale/Les Liens Rompus.md"
+      ],
+      "deja_tracke_index": false,
+      "candidats_proches": [
+        {
+          "name": "01_Lore/Magies/Le Fil.md",
+          "confiance": "forte (article retiré)"
+        }
+      ]
+    },
+    {
+      "cible": "Alchimistes",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Divinités/Primordiales/Mageisys.md"
+      ],
+      "deja_tracke_index": false,
+      "candidats_proches": [
+        {
+          "name": "01_Lore/Divinités/Primordiales/Mageisys.md",
+          "confiance": "approximative (difflib)"
+        }
+      ]
+    },
+    {
+      "cible": "Roi Sombre",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Divinités/Mineur/Vindiereis.md"
+      ],
+      "deja_tracke_index": true,
+      "candidats_proches": [
+        {
+          "name": "01_Lore/Divinités/Mineur/Vindiereis.md",
+          "confiance": "forte (article retiré)"
+        }
+      ]
+    },
+    {
+      "cible": "Miroirs de l'Âme",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Divinités/Mineur/Vindiereis.md"
+      ],
+      "deja_tracke_index": false,
+      "candidats_proches": [
+        {
+          "name": "01_Lore/Divinités/Mineur/Vindiereis.md",
+          "confiance": "approximative (difflib)"
+        }
+      ]
+    },
+    {
+      "cible": "Charte du Conseil",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Divinités/Mineur/Laxius.md"
+      ],
+      "deja_tracke_index": false,
+      "candidats_proches": [
+        {
+          "name": "01_Lore/Évenements/Temps primordiaux/La Charte du Conseil.md",
+          "confiance": "forte (article retiré)"
+        }
+      ]
+    },
+    {
+      "cible": "Royaume de Magelia",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Lieux/Horiae.md"
+      ],
+      "deja_tracke_index": false,
+      "candidats_proches": [
+        {
+          "name": "01_Lore/Lieux/Royaume de Naphelia.md",
+          "confiance": "approximative (difflib)"
+        }
+      ]
+    },
+    {
+      "cible": "Naphelian",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Races/Mortels/Elfes.md"
+      ],
+      "deja_tracke_index": false,
+      "candidats_proches": [
+        {
+          "name": "01_Lore/Peuples/Naphelians.md",
+          "confiance": "approximative (difflib)"
+        },
+        {
+          "name": "01_Lore/Lieux/Royaume de Naphelia.md",
+          "confiance": "approximative (difflib)"
+        }
+      ]
+    },
+    {
+      "cible": "MOC Magies",
+      "occurrences": 1,
+      "nb_fiches_sources": 1,
+      "sources": [
+        "01_Lore/Races/Mortels/Elfes.md"
+      ],
+      "deja_tracke_index": true,
+      "candidats_proches": [
+        {
+          "name": "01_Lore/Magies/Magies MOC.md",
+          "confiance": "approximative (difflib)"
+        }
+      ]
+    }
+  ]
+}

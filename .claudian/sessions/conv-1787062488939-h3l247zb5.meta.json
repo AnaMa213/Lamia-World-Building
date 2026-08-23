@@ -1,0 +1,20 @@
+{
+  "id": "conv-1787062488939-h3l247zb5",
+  "providerId": "claude",
+  "title": "Créer fiche Quaesir basée sur Vindeireis",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787062488940,
+  "lastActivityAt": 1787064530823,
+  "sessionId": null,
+  "selectedModel": "sonnet",
+  "currentNote": "01_Lore/Divinités/Mineur/Quaesir.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 16483,
+    "cacheReadInputTokens": 137599,
+    "contextWindow": 1000000,
+    "contextTokens": 154085,
+    "percentage": 15
+  }
+}

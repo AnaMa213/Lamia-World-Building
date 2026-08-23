@@ -22,7 +22,7 @@ aliases:
 ---
 # Ghorreks
 
-![[a_dark_fantasy_concept_art_wallpaper_style_illustr 1.png]]
+![[a_dark_fantasy_concept_art_wallpaper_style_illustr.png]]
 
 **En une phrase :** Compagnons inséparables des [[Nains]], nés de la même âme divisée par [[Naïnrak]] depuis [[Filiama]], les Ghorreks sont des primates souterrains à l'intelligence instinctive et émotionnelle — ni animaux ordinaires, ni êtres doués de langage — dont le lien d'âme avec leur pair peut culminer, au prix d'un entraînement extrême, en une fusion physique temporaire qui laisse les deux êtres réunis le temps d'un instant, puis séparés dans la tristesse.
 

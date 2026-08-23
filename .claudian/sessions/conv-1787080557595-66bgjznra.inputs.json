@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1787080557595-66bgjznra",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787080557627-4tiyc1i",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1787080557593-aipr67h",
+      "timestamp": 1787080557593,
+      "rawDisplayText": "/creer-fiche j'aimerai que tu créer la fiche de Persemis en t'inspirant de la proposition. Il faudrait créer les liens avec d'autres fiches.",
+      "canonicalText": "/creer-fiche j'aimerai que tu créer la fiche de Persemis en t'inspirant de la proposition. Il faudrait créer les liens avec d'autres fiches.",
+      "context": {
+        "currentNote": {
+          "path": "04_Brouillons/2026-07-12 — Proposition — Migration Persemis.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "fb19bf8bd52912fc110035318ab846d7df05b981181ff7ad63ed089ce6ad9587",
+      "providerUserMessageId": "5311381d-85dd-41ce-9832-d04d55c82756",
+      "providerAssistantMessageId": "405a4407-084e-4b5f-84da-564a3af97642"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787082748307-cipvtek",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1787082748304-4z8q90a",
+      "timestamp": 1787082748304,
+      "rawDisplayText": "Il faudrait ajouter un peu de son histoire avant la grande guerre divine et après. Fais moi une proposition ici avant de modifier quoi que ce soit.",
+      "canonicalText": "Il faudrait ajouter un peu de son histoire avant la grande guerre divine et après. Fais moi une proposition ici avant de modifier quoi que ce soit.",
+      "images": [],
+      "contentDigest": "e31da982433787145e0c7f2e5c6036657446a425dec879aefa57b5dd3cae418e",
+      "providerUserMessageId": "2891099b-b949-4f32-82ea-86eb5c482086",
+      "providerAssistantMessageId": "2c1e9fa6-e574-4f9f-93e2-fe6b61b300ba"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787082904925-f5khu3p",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1787082904921-yaedo9g",
+      "timestamp": 1787082904921,
+      "rawDisplayText": "pourquoi tu me parle d'Akator, on parle de la fiche de Persemis.md",
+      "canonicalText": "pourquoi tu me parle d'Akator, on parle de la fiche de Persemis.md",
+      "images": [],
+      "contentDigest": "b3337975c34bc218376bf7e75163bbc473d6bb612c0403d91c3aabe7c6525d94",
+      "providerUserMessageId": "9df99bde-70a3-4c06-b3bd-781a297cacc3",
+      "providerAssistantMessageId": "552a0c21-a8bc-484a-84c9-73eab5accd0f"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787084080232-xoimtqw",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1787084080228-94vxexp",
+      "timestamp": 1787084080228,
+      "rawDisplayText": "En y réfléchissant bien, peut être que cette Archange est de trop. Il ressemble trop à Akator ou Oriac. On pourrait en faire un Ange divin qui a fait de nombreuse guerre dans l'univers. Il aurait pris Akator comme exemple et serait devenu une figure impressionante parmis les anges et le Dibertium.",
+      "canonicalText": "En y réfléchissant bien, peut être que cette Archange est de trop. Il ressemble trop à Akator ou Oriac. On pourrait en faire un Ange divin qui a fait de nombreuse guerre dans l'univers. Il aurait pris Akator comme exemple et serait devenu une figure impressionante parmis les anges et le Dibertium.",
+      "images": [],
+      "contentDigest": "fe2d0fe68eae8c393357ed488df28092ab8b0cffcef1b93c07ae7433b55bf912",
+      "providerUserMessageId": "13b531e8-55b2-4f2c-80a7-66046b94faf0",
+      "providerAssistantMessageId": "75c97c4d-2a9b-4334-be4b-e3e9fde8d13a"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787085127127-ubqb85x",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1787085127122-ry1stek",
+      "timestamp": 1787085127122,
+      "rawDisplayText": "1. Si c'est un Ange exceptionnelle unique qui a parvenu à se niveau fou ? 2. Dans le cas d'un Ange exceptionnelle qui aurait été béni et soutenu par Akator (en vue de son envie de puissance et de son determinisem) il lui accorde une partie de son essence. C'est à partir de là qu'il l'alimente et l'entraine pour arriver à un niveau similaire. 3. oui mais le constraste est trop faible je trouve 4. Il a réussi à se créer une légende parmi les mortels grace à ses exploits mais assez méconnu.",
+      "canonicalText": "1. Si c'est un Ange exceptionnelle unique qui a parvenu à se niveau fou ? 2. Dans le cas d'un Ange exceptionnelle qui aurait été béni et soutenu par Akator (en vue de son envie de puissance et de son determinisem) il lui accorde une partie de son essence. C'est à partir de là qu'il l'alimente et l'entraine pour arriver à un niveau similaire. 3. oui mais le constraste est trop faible je trouve 4. Il a réussi à se créer une légende parmi les mortels grace à ses exploits mais assez méconnu.",
+      "images": [],
+      "contentDigest": "9f738a9ded939ea63a125133c9b97524bfaf578dfcc1b0cb9efd4d79e2ed03a0",
+      "providerUserMessageId": "7b7b8c08-dc67-48d1-89b4-a844536626d3",
+      "providerAssistantMessageId": "5f582c50-4329-4c5f-ab23-bd2c1ce87889"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787086008057-6iejaxb",
+      "userTurnOrdinal": 6,
+      "state": "accepted",
+      "localMessageId": "msg-1787086008053-0l2dmqi",
+      "timestamp": 1787086008053,
+      "rawDisplayText": "Quand Akator lui a-t-il cédé son essence ? Pendant les Temps primordiaux vers Les Prémices de la Discorde. Il pourrait être intéressant qu'il meure du à l'effort pendant la grande bataille de Cyroldan pour créer les montagnes et sauver une partie du peuple en fuite de Lamia. Avant de mourir il aurait concentrer une ultime partie de son essence pour créer la marque et la transmettre à un enfants.",
+      "canonicalText": "Quand Akator lui a-t-il cédé son essence ? Pendant les Temps primordiaux vers Les Prémices de la Discorde. Il pourrait être intéressant qu'il meure du à l'effort pendant la grande bataille de Cyroldan pour créer les montagnes et sauver une partie du peuple en fuite de Lamia. Avant de mourir il aurait concentrer une ultime partie de son essence pour créer la marque et la transmettre à un enfants.",
+      "images": [],
+      "contentDigest": "6442dcc3d3920c36f1825f1a607b2acc076b4045f3087d8249d5bfab151251cb",
+      "providerUserMessageId": "5f3e6a0f-a956-4394-ace0-2de21b3bea80",
+      "providerAssistantMessageId": "f8056ecd-58cc-4f80-b111-a94d98f305c8"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787086753115-4uc3r4h",
+      "userTurnOrdinal": 7,
+      "state": "accepted",
+      "localMessageId": "msg-1787086753111-jujolte",
+      "timestamp": 1787086753111,
+      "rawDisplayText": "Non justement cette marque est au début faible mais chaque porteur de la marque vient alimenter sa force pour le porteur suivant comme un flambeau qui grandit petit à petit",
+      "canonicalText": "Non justement cette marque est au début faible mais chaque porteur de la marque vient alimenter sa force pour le porteur suivant comme un flambeau qui grandit petit à petit",
+      "images": [],
+      "contentDigest": "e5fc79f2a9f80d7cd0e4ec444c0308e72dbd08362937946ffb9e5c4cae38acd7",
+      "providerUserMessageId": "68b70061-6ca8-44d6-a609-ee00e2a10f36",
+      "providerAssistantMessageId": "02ec59f7-9dec-417d-8f31-550667412756"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787086880284-vah4p44",
+      "userTurnOrdinal": 8,
+      "state": "accepted",
+      "localMessageId": "msg-1787086880279-xnp3v09",
+      "timestamp": 1787086880279,
+      "rawDisplayText": "super tu peux modifier directement la fiche dans 04_Brouillons avec tous ces changements",
+      "canonicalText": "super tu peux modifier directement la fiche dans 04_Brouillons avec tous ces changements",
+      "images": [],
+      "contentDigest": "30fd6f5383c7f725e626f2e7e974416be1d1cdbe3680c7d295da273d2fae733f",
+      "providerUserMessageId": "ce8bc054-5909-4b85-bb46-6162cbcfb7c8",
+      "providerAssistantMessageId": "12f296b7-85fa-4d7a-8d8b-a04bb43f67e5"
+    }
+  ]
+}

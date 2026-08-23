@@ -20,11 +20,11 @@ suivants:
   - "[[Xeroniens]]"
 alignement: Loyal Bon
 revision-date: 2026-08-12
+ia-a-valider: "2026-08-17"
 cr_type: person
 sex: male
 pronouns: il/lui
 mother: "[[Albaesclatia]]"
-revision:
 cr_id: bvs-216-jgu-843
 name: Xeros
 born: ""
@@ -128,6 +128,7 @@ Elle explique aussi son éloignement actuel. Absorbé par la guerre dans [[les L
 - [[Thanatia]] — reçoit le commandement des Valkys pour l'escorte des âmes dans les Limbes.
 - [[Les Limbes]] / [[Maréliens]] / [[Archipel de Marelion]] / [[Elyiael]] / [[Lyanxia]] — entités et lieux structurants sans note dédiée à ce jour.
 - **Evènement à créer** : Création des Maréliens
+- [[Oriac]] — rival bienveillant des Temps primordiaux, dont il partageait l'émulation créatrice dans les projets de création mortelle ; lors d'une réunion du Conseil sur Lamia pendant la Grande Guerre Divine, Oriac en est venu aux mains avec lui sous l'effet de sa corruption progressive par l'Ichor du Néant — événement déclencheur du bannissement volontaire d'Oriac du Dibertium et de la création de l'[[Orcium]].
 
 ## Contradictions potentielles
 **Datation de Valkania (création et destruction du peuple xeronien originel) non fixée.** À reporter dans [[01_Lore/Timeline Master]] (via `05_IA_Inbox/Update - Timeline Master.md`) quand la fiche Xeroniens/Valkania sera traitée — voir chantier Index.

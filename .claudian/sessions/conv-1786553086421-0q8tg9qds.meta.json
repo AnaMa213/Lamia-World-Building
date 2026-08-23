@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786553086421-0q8tg9qds",
+  "providerId": "claude",
+  "title": "Créer la fiche canon d'Humarios from scratch",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786553086425,
+  "lastActivityAt": 1786553412543,
+  "sessionId": "906dc7d9-701e-4c17-a7c6-05d35c245b85",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "906dc7d9-701e-4c17-a7c6-05d35c245b85"
+  },
+  "currentNote": "04_Brouillons/Mage noir - brouillon old.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 2389,
+    "cacheReadInputTokens": 55186,
+    "contextWindow": 1000000,
+    "contextTokens": 57576,
+    "percentage": 6
+  }
+}

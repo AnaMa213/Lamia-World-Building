@@ -1,0 +1,19 @@
+{
+  "id": "conv-1787056241459-xt4v4unj1",
+  "providerId": "claude",
+  "title": "Créer la fiche de Fastiae et des Fasties",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787056241459,
+  "lastActivityAt": 1787059652570,
+  "sessionId": null,
+  "selectedModel": "sonnet",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 342,
+    "cacheReadInputTokens": 186215,
+    "contextWindow": 1000000,
+    "contextTokens": 186558,
+    "percentage": 19
+  }
+}

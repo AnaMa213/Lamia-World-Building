@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786886174094-9gvx53p30",
+  "providerId": "claude",
+  "title": "Migrer fiche Valkys en type Race avec apparence",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786886174100,
+  "lastActivityAt": 1786886562590,
+  "sessionId": "f14bd9bb-0ec8-460d-996a-387224f896cf",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "f14bd9bb-0ec8-460d-996a-387224f896cf"
+  },
+  "currentNote": "99_Archive/Creatures/Valkys.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 184,
+    "cacheReadInputTokens": 83108,
+    "contextWindow": 1000000,
+    "contextTokens": 83293,
+    "percentage": 8
+  }
+}

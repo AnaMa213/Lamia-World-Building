@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786616513870-9jr5dmivd",
+  "providerId": "claude",
+  "title": "Créer fiche lieu Caedarium avec liens morts",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786616513871,
+  "lastActivityAt": 1786616777720,
+  "sessionId": null,
+  "selectedModel": "sonnet",
+  "currentNote": "01_Lore/Évenements/Ère Exodiale/La Dernière Menace.md",
+  "enabledMcpServers": [
+    "obsidian-mcp"
+  ],
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 10455,
+    "cacheReadInputTokens": 69299,
+    "contextWindow": 1000000,
+    "contextTokens": 79755,
+    "percentage": 8
+  }
+}

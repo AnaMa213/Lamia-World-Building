@@ -1,0 +1,20 @@
+{
+  "id": "conv-1787151893178-9hc1rinm5",
+  "providerId": "claude",
+  "title": "Créer fiche personnage Pilanir Archange refacto...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787151893181,
+  "lastActivityAt": 1787154916502,
+  "sessionId": null,
+  "selectedModel": "sonnet",
+  "currentNote": "01_Lore/Timeline Master.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 6437,
+    "cacheReadInputTokens": 171060,
+    "contextWindow": 1000000,
+    "contextTokens": 177498,
+    "percentage": 18
+  }
+}

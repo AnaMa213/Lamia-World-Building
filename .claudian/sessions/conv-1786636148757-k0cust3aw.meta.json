@@ -1,0 +1,26 @@
+{
+  "id": "conv-1786636148757-k0cust3aw",
+  "providerId": "claude",
+  "title": "Créer fiche personnage Laxius mise à jour",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786636148761,
+  "lastActivityAt": 1786639943113,
+  "sessionId": "1bad1c05-c79a-4a3d-834f-912b37a38df1",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "1bad1c05-c79a-4a3d-834f-912b37a38df1"
+  },
+  "currentNote": "01_Lore/Timeline Master.md",
+  "enabledMcpServers": [
+    "obsidian-mcp"
+  ],
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 4177,
+    "cacheReadInputTokens": 90834,
+    "contextWindow": 1000000,
+    "contextTokens": 95012,
+    "percentage": 10
+  }
+}

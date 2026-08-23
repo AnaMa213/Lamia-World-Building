@@ -1,0 +1,2207 @@
+/* ═══════════════════════════════════════════════════════════════
+   Obsidian Writing Studio — styles.css
+   ═══════════════════════════════════════════════════════════════ */
+
+/* ── Typography Fonts (Google Fonts) ────────────────────────────── */
+/* Loaded at runtime — requires an internet connection on first use.  */
+/* Fonts are cached by the OS/browser after that and work offline.    */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,700;1,400;1,700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=EB+Garamond:ital,wght@0,400;0,700;1,400;1,700&family=Inter:wght@400;700&family=Lato:ital,wght@0,400;0,700;1,400;1,700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,700;1,7..72,400;1,7..72,700&family=Lora:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+3:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+/* ── CSS Custom Properties ─────────────────────────────────────── */
+:root {
+  --ws-focus-dim-opacity: 0.2;
+  --ws-focus-transition: opacity 0.15s ease;
+  --ws-sprint-bg: var(--background-primary);
+  --ws-sprint-border: var(--background-modifier-border);
+  --ws-accent: var(--interactive-accent);
+}
+
+/* ── Focus Mode ─────────────────────────────────────────────────── */
+.writing-studio-focus-mode .cm-line {
+  opacity: var(--ws-focus-dim-opacity);
+  transition: var(--ws-focus-transition);
+}
+
+.writing-studio-focus-mode .cm-line.cm-ws-focus-para {
+  opacity: 1;
+}
+
+.writing-studio-focus-mode .cm-line.cm-activeLine {
+  opacity: 1;
+}
+
+/* Focus font size override — double class outranks typography mode's
+   body.writing-studio-typography .cm-content rule, so the explicit focus
+   override wins while both modes are active */
+body.ws-focus-fontsize.writing-studio-focus-mode .cm-content {
+  font-size: var(--ws-focus-font-size);
+}
+
+/* Focus floating toolbar */
+.ws-focus-toolbar {
+  /* Anchored bottom-right in the editor margin with an opaque background —
+     centered at bottom it floated mid-column over dimmed draft lines */
+  position: fixed;
+  bottom: 8px;
+  right: 16px;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 8px 20px;
+  background: var(--background-primary);
+  border: 1px solid var(--ws-sprint-border);
+  border-radius: 32px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  font-size: 13px;
+  color: var(--text-muted);
+}
+
+.ws-focus-toolbar .ws-focus-wordcount {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Reserve scroll room so the end of the document can always be scrolled
+   clear of the anchored toolbar — with or without typewriter scroll */
+body.writing-studio-focus-mode .cm-scroller {
+  padding-bottom: 72px;
+}
+
+.ws-focus-toolbar .ws-focus-sprint-time {
+  font-variant-numeric: tabular-nums;
+  color: var(--ws-accent);
+  font-weight: 600;
+}
+
+.ws-focus-toolbar .ws-focus-exit {
+  background: none;
+  border: 1px solid var(--ws-sprint-border);
+  border-radius: 16px;
+  padding: 3px 12px;
+  font-size: 12px;
+  cursor: pointer;
+  color: var(--text-muted);
+  transition: all 0.1s;
+}
+
+.ws-focus-toolbar .ws-focus-exit:hover {
+  background: var(--background-modifier-hover);
+  color: var(--text-normal);
+}
+
+/* ── Hidden utility ─────────────────────────────────────────────── */
+/* body prefix gives specificity (0,1,1), beating theme element selectors
+   without needing !important. */
+body .ws-hidden { display: none; }
+
+/* ── Typography Mode ────────────────────────────────────────────── */
+/*
+ * Prefixing with "body" gives specificity (0,2,1), which beats theme
+ * selectors like ".theme-name .cm-editor" at (0,2,0) without !important.
+ */
+body.writing-studio-typography .cm-editor,
+body.writing-studio-typography .cm-content {
+  font-family: var(--ws-typo-font);
+  font-size: var(--ws-typo-size);
+  line-height: var(--ws-typo-lh);
+  letter-spacing: var(--ws-typo-ls);
+}
+
+body.writing-studio-typography .markdown-source-view .cm-scroller {
+  padding-left:  var(--ws-typo-pad-left);
+  padding-right: var(--ws-typo-pad-right);
+  box-sizing: border-box;
+}
+
+body.writing-studio-typography .markdown-reading-view .markdown-preview-section {
+  font-family: var(--ws-typo-font);
+  font-size: var(--ws-typo-size);
+  line-height: var(--ws-typo-lh);
+  letter-spacing: var(--ws-typo-ls);
+  max-width: var(--ws-typo-max-width);
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  box-sizing: border-box;
+}
+
+/* ── Writing Binder ─────────────────────────────────────────────── */
+.ws-binder-container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding: 0;
+  overflow: hidden;
+}
+
+.ws-binder-header {
+  flex-shrink: 0;
+  padding: 10px 12px 6px;
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.ws-binder-project-row {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 8px;
+}
+
+.ws-binder-project-sel-wrap {
+  position: relative;
+  flex: 1;
+  min-width: 0;
+  display: flex;
+}
+
+.ws-binder-project-sel {
+  flex: 1;
+  min-width: 0;
+  font-size: 12px;
+  padding: 3px 22px 3px 6px;
+  appearance: none;
+  background: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 4px;
+  color: var(--text-normal);
+}
+
+/* Project-switch indicator — same chevron as the launcher's switcher */
+.ws-binder-project-caret {
+  position: absolute;
+  right: 5px;
+  top: 50%;
+  transform: translateY(-50%);
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  color: var(--text-muted);
+}
+
+.ws-binder-project-caret svg {
+  width: 14px;
+  height: 14px;
+}
+
+.ws-binder-toolbar {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 8px;
+}
+
+.ws-binder-btn {
+  background: none;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 4px;
+  padding: 3px 8px;
+  font-size: 12px;
+  cursor: pointer;
+  color: var(--text-normal);
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  transition: background 0.1s;
+}
+
+.ws-binder-btn:hover {
+  background: var(--background-modifier-hover);
+}
+
+.ws-binder-search {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 5px 8px;
+  font-size: 12px;
+  background: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 4px;
+  color: var(--text-normal);
+}
+
+.ws-binder-list {
+  flex: 1;
+  overflow-y: auto;
+  padding: 6px 0;
+}
+
+.ws-binder-empty {
+  padding: 20px 16px;
+  font-size: 12px;
+  color: var(--text-muted);
+  text-align: center;
+  line-height: 1.6;
+}
+
+.ws-binder-item {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 12px 4px var(--ws-binder-depth, 8px);
+  cursor: pointer;
+  border-radius: 4px;
+  margin: 1px 4px;
+  font-size: 13px;
+  user-select: none;
+  transition: background 0.1s;
+}
+
+.ws-binder-item:hover {
+  background: var(--background-modifier-hover);
+}
+
+.ws-binder-item.ws-binder-dragging {
+  opacity: 0.4;
+}
+
+.ws-binder-item.ws-binder-drop-into {
+  background: var(--background-modifier-hover);
+  box-shadow: inset 0 0 0 2px var(--ws-accent);
+}
+
+.ws-binder-item.ws-binder-drop-before {
+  box-shadow: 0 -2px 0 0 var(--ws-accent);
+}
+
+.ws-binder-item.ws-binder-drop-after {
+  box-shadow: 0 2px 0 0 var(--ws-accent);
+}
+
+.ws-binder-root-append-zone {
+  /* Hidden until a binder drag is active — see ws-binder-drag-active */
+  display: none;
+  margin: 6px 8px 4px;
+  padding: 5px 12px;
+  border: 1px dashed var(--background-modifier-border);
+  border-radius: 4px;
+  font-size: 11px;
+  color: var(--text-faint);
+  text-align: center;
+  cursor: default;
+  transition: all 0.1s;
+}
+
+.ws-binder-drag-active .ws-binder-root-append-zone {
+  display: block;
+}
+
+.ws-binder-root-append-zone.ws-binder-root-append-active {
+  border-color: var(--ws-accent);
+  color: var(--ws-accent);
+  background: var(--background-modifier-hover);
+}
+
+.ws-binder-toggle {
+  width: 14px;
+  font-size: 10px;
+  color: var(--text-muted);
+  cursor: pointer;
+  flex-shrink: 0;
+}
+
+.ws-binder-toggle-leaf {
+  visibility: hidden;
+}
+
+.ws-binder-icon {
+  width: 18px;
+  flex-shrink: 0;
+  display: inline-flex;
+  align-items: center;
+  color: var(--text-muted);
+}
+
+.ws-binder-icon svg {
+  width: 14px;
+  height: 14px;
+}
+
+.ws-binder-status-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  margin-right: 2px;
+  background-color: var(--ws-status-color, var(--text-muted));
+}
+
+/* Sortable table header */
+.ws-sortable { cursor: pointer; }
+
+.ws-binder-title {
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.ws-binder-title[contenteditable="true"] {
+  outline: 1px solid var(--ws-accent);
+  border-radius: 2px;
+  padding: 0 2px;
+}
+
+.ws-binder-wc {
+  font-size: 11px;
+  color: var(--text-faint);
+  flex-shrink: 0;
+  margin-left: auto;
+}
+
+/* ── Sprint Floating Element ────────────────────────────────────── */
+.ws-sprint-floating {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  /* Above all Obsidian UI layers, modals, and Focus Mode toolbar */
+  z-index: 10000;
+  background: var(--background-primary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 10px;
+  padding: 14px 18px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
+  min-width: 140px;
+  text-align: center;
+}
+
+/* Dragged position overrides the default bottom/right anchor */
+.ws-sprint-floating--dragged {
+  right: auto;
+  bottom: auto;
+  left: var(--ws-float-x, auto);
+  top: var(--ws-float-y, auto);
+}
+
+.ws-sprint-header {
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--text-muted);
+  margin-bottom: 6px;
+}
+
+.ws-sprint-header.ws-draggable {
+  cursor: grab;
+  user-select: none;
+}
+
+.ws-sprint-header.ws-draggable::before {
+  content: '⠿';
+  display: inline-block;
+  margin-right: 6px;
+  opacity: 0.45;
+  font-size: 13px;
+  line-height: 1;
+}
+
+.ws-sprint-header.ws-dragging {
+  cursor: grabbing;
+}
+
+.ws-sprint-time {
+  font-size: 28px;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  color: var(--text-normal);
+  line-height: 1;
+  margin-bottom: 4px;
+}
+
+.ws-sprint-wc {
+  font-size: 12px;
+  color: var(--ws-accent);
+  margin-bottom: 10px;
+}
+
+.ws-sprint-controls {
+  display: flex;
+  gap: 6px;
+  justify-content: center;
+}
+
+.ws-sprint-pause,
+.ws-sprint-stop {
+  background: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 5px;
+  padding: 4px 10px;
+  cursor: pointer;
+  font-size: 14px;
+  color: var(--text-normal);
+  transition: background 0.1s;
+}
+
+.ws-sprint-pause:hover,
+.ws-sprint-stop:hover {
+  background: var(--background-modifier-hover);
+}
+
+/* ── Inline Goal Banner ─────────────────────────────────────────── */
+.ws-inline-goal-banner {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 6px 16px;
+  background: var(--background-secondary);
+  border-bottom: 1px solid var(--background-modifier-border);
+  font-size: 12px;
+  color: var(--text-muted);
+}
+
+.ws-goal-text {
+  flex-shrink: 0;
+}
+
+.ws-goal-bar-wrap {
+  flex: 1;
+  height: 4px;
+  background: var(--background-modifier-border);
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.ws-goal-bar {
+  height: 100%;
+  background: var(--ws-accent);
+  border-radius: 2px;
+  transition: width 0.3s ease;
+  width: var(--ws-bar-width, 0%);
+}
+
+.ws-goal-dismiss {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--text-faint);
+  padding: 0 2px;
+  font-size: 11px;
+}
+
+.ws-goal-dismiss:hover {
+  color: var(--text-muted);
+}
+
+/* ── Compile Preview ────────────────────────────────────────────── */
+.ws-compile-preview-container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.ws-compile-toolbar {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 16px;
+  border-bottom: 1px solid var(--background-modifier-border);
+  flex-shrink: 0;
+}
+
+.ws-compile-jump {
+  flex: 1;
+  max-width: 280px;
+  padding: 4px 8px;
+  font-size: 13px;
+  background: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 4px;
+  color: var(--text-normal);
+}
+
+.ws-compile-export-btn {
+  padding: 6px 14px;
+  font-size: 13px;
+}
+
+.ws-compile-close-btn {
+  padding: 6px 14px;
+  font-size: 13px;
+  background: none;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 4px;
+  cursor: pointer;
+  color: var(--text-muted);
+}
+
+.ws-compile-close-btn:hover {
+  background: var(--background-modifier-hover);
+}
+
+.ws-compile-content {
+  flex: 1;
+  overflow-y: auto;
+  padding: 2rem;
+  max-width: 720px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.ws-compile-section {
+  margin-bottom: 3rem;
+}
+
+.ws-compile-load-btn {
+  display: block;
+  margin: 0 auto;
+}
+
+
+/* ── Progress Bars (shared) ─────────────────────────────────────── */
+.ws-progress-wrap {
+  width: 100%;
+  height: 6px;
+  background: var(--background-modifier-border);
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.ws-progress-bar {
+  height: 100%;
+  background: var(--ws-accent);
+  border-radius: 3px;
+  transition: width 0.3s ease;
+  min-width: 2px;
+  width: var(--ws-bar-width, 0%);
+}
+
+.ws-progress-pct {
+  font-size: 11px;
+  color: var(--text-muted);
+  margin-left: 6px;
+}
+
+/* ── Status Badge ───────────────────────────────────────────────── */
+.ws-status-badge {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 10px;
+  font-size: 11px;
+  font-weight: 600;
+  color: white;
+  text-shadow: 0 1px 1px rgba(0,0,0,0.3);
+  background-color: var(--ws-status-color, var(--text-muted));
+}
+
+/* ── Modal Shared ───────────────────────────────────────────────── */
+.ws-modal-btn-row {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+  margin-top: 24px;
+  padding-top: 16px;
+  border-top: 1px solid var(--background-modifier-border);
+}
+
+.ws-empty-state {
+  color: var(--text-muted);
+  font-style: italic;
+  text-align: center;
+  padding: 20px;
+}
+
+/* ── Targets Dashboard Modal ────────────────────────────────────── */
+.ws-dashboard-modal {
+  min-width: 750px;
+}
+
+.ws-dashboard-filters {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+  font-size: 13px;
+}
+
+.ws-dashboard-refresh {
+  background: none;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 4px;
+  padding: 4px 10px;
+  cursor: pointer;
+  font-size: 12px;
+}
+
+.ws-dashboard-table-wrap {
+  overflow-x: auto;
+}
+
+.ws-dashboard-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+
+.ws-dashboard-table th,
+.ws-dashboard-table td {
+  padding: 8px 10px;
+  text-align: left;
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.ws-dashboard-table th {
+  font-weight: 600;
+  color: var(--text-muted);
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  background: var(--background-secondary);
+}
+
+.ws-dashboard-table tbody tr:hover {
+  background: var(--background-modifier-hover);
+}
+
+.ws-dashboard-table tfoot .ws-dash-summary {
+  font-weight: 700;
+  background: var(--background-secondary);
+}
+
+.ws-dash-title a {
+  color: var(--text-normal);
+  text-decoration: none;
+}
+
+.ws-dash-title a:hover {
+  color: var(--ws-accent);
+  text-decoration: underline;
+}
+
+.ws-dash-goal-input {
+  width: 70px;
+  padding: 2px 4px;
+  font-size: 12px;
+  background: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 3px;
+  color: var(--text-normal);
+}
+
+/* ── Writing Dashboard Modal ────────────────────────────────────── */
+.ws-writing-dashboard {
+  min-width: 600px;
+}
+
+.ws-dash-section {
+  margin-bottom: 24px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.ws-dash-section:last-of-type {
+  border-bottom: none;
+}
+
+.ws-dash-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  gap: 12px;
+  margin-top: 12px;
+}
+
+.ws-dash-stat {
+  background: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 8px;
+  padding: 12px;
+  text-align: center;
+}
+
+.ws-dash-stat-value {
+  font-size: 22px;
+  font-weight: 700;
+  color: var(--text-normal);
+  margin-bottom: 4px;
+}
+
+.ws-dash-stat-label {
+  font-size: 11px;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.ws-dash-progress {
+  margin-top: 12px;
+  height: 10px;
+}
+
+.ws-dash-progress-label {
+  font-size: 12px;
+  color: var(--text-muted);
+  margin-top: 4px;
+}
+
+.ws-sprint-history-table,
+.ws-doc-wc-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 12px;
+  margin-top: 10px;
+}
+
+.ws-sprint-history-table th,
+.ws-doc-wc-table th {
+  font-weight: 600;
+  color: var(--text-muted);
+  text-align: left;
+  padding: 6px 8px;
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.ws-sprint-history-table td,
+.ws-doc-wc-table td {
+  padding: 6px 8px;
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.ws-doc-wc-table a {
+  color: var(--text-normal);
+  text-decoration: none;
+}
+
+.ws-doc-wc-table a:hover {
+  color: var(--ws-accent);
+}
+
+.ws-dash-close {
+  display: block;
+  margin: 16px auto 0;
+}
+
+/* ── Sprint Summary Modal ───────────────────────────────────────── */
+.ws-sprint-summary-modal .ws-dash-grid {
+  margin-bottom: 24px;
+}
+
+/* ── WordPress Settings ─────────────────────────────────────────── */
+.ws-wp-site-config {
+  padding: 16px;
+  margin-bottom: 16px;
+  background: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 8px;
+}
+
+.ws-wp-test-status {
+  padding: 6px 10px;
+  border-radius: 4px;
+  font-size: 12px;
+  margin-top: 6px;
+}
+
+.ws-wp-test-pending {
+  color: var(--text-muted);
+}
+
+.ws-wp-test-ok {
+  background: rgba(16, 185, 129, 0.1);
+  color: #10b981;
+  border: 1px solid #10b981;
+}
+
+.ws-wp-test-err {
+  background: rgba(239, 68, 68, 0.1);
+  color: #ef4444;
+  border: 1px solid #ef4444;
+}
+
+/* ── Settings Tab Bar ───────────────────────────────────────────── */
+.ws-settings {
+  padding-bottom: 40px;
+}
+
+.ws-settings-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid var(--background-modifier-border);
+  padding-bottom: 10px;
+}
+
+.ws-settings-tab {
+  background: none;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 4px;
+  padding: 5px 14px;
+  font-size: 13px;
+  cursor: pointer;
+  color: var(--text-muted);
+  transition: all 0.1s;
+}
+
+.ws-settings-tab:hover {
+  background: var(--background-modifier-hover);
+  color: var(--text-normal);
+}
+
+.ws-settings-tab.is-active {
+  background: var(--ws-accent);
+  color: var(--text-on-accent);
+  border-color: var(--ws-accent);
+}
+
+/* ── Project Modal ──────────────────────────────────────────────── */
+.ws-template-preview {
+  background: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 6px;
+  padding: 12px 16px;
+  margin: 12px 0;
+}
+
+.ws-template-desc {
+  font-size: 13px;
+  color: var(--text-muted);
+  margin: 0;
+}
+
+/* ── Publish Modal ──────────────────────────────────────────────── */
+.ws-publish-categories {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  padding: 8px 0;
+  max-height: 120px;
+  overflow-y: auto;
+}
+
+.ws-publish-cat-label {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.ws-publish-existing-notice {
+  background: rgba(245, 158, 11, 0.1);
+  border: 1px solid rgba(245, 158, 11, 0.4);
+  border-radius: 6px;
+  padding: 12px 16px;
+  margin: 12px 0;
+}
+
+.ws-publish-choice {
+  display: flex;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+/* ── Status Bar ─────────────────────────────────────────────────── */
+.ws-status-mode {
+  font-weight: 500;
+  color: var(--text-muted);
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+/* Hidden while no writing mode is active */
+.ws-status-mode.ws-status-mode-empty {
+  display: none;
+}
+
+.ws-status-mode-icon svg {
+  width: 13px;
+  height: 13px;
+}
+
+.ws-status-mode--active {
+  color: var(--ws-accent);
+  font-weight: 600;
+}
+
+.ws-status-project-goal {
+  color: var(--text-muted);
+  font-size: var(--font-ui-smaller);
+}
+
+.ws-status-wordcount {
+  color: var(--text-muted);
+}
+
+.ws-status-sprint {
+  color: var(--ws-accent);
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}
+
+/* ── Launcher Panel ─────────────────────────────────────────────── */
+.ws-launcher {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  padding: 0 0 24px;
+  overflow-y: auto;
+  height: 100%;
+  font-size: 13px;
+}
+
+.ws-launcher-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 14px 10px;
+  border-bottom: 1px solid var(--background-modifier-border);
+  position: sticky;
+  top: 0;
+  background: var(--background-primary);
+  z-index: 10;
+}
+
+.ws-launcher-title {
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  color: var(--text-normal);
+}
+
+.ws-launcher-icon-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--text-muted);
+  padding: 4px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+}
+
+.ws-launcher-icon-btn:hover {
+  background: var(--background-modifier-hover);
+  color: var(--text-normal);
+}
+
+/* Cards */
+.ws-launcher-card {
+  padding: 12px 14px;
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.ws-launcher-card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 8px;
+}
+
+.ws-launcher-card-label {
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--text-faint);
+  display: block;
+  margin-bottom: 8px;
+}
+
+.ws-launcher-text-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--ws-accent);
+  font-size: 12px;
+  padding: 0;
+}
+
+.ws-launcher-text-btn:hover {
+  text-decoration: underline;
+}
+
+/* Project card — the project row itself reuses the binder's
+   ws-binder-project-row classes (the binder is the reference, #233 audit) */
+.ws-launcher-wc-row {
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+  margin-bottom: 6px;
+}
+
+.ws-launcher-wc-num {
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--text-normal);
+  font-variant-numeric: tabular-nums;
+}
+
+.ws-launcher-wc-goal {
+  font-size: 12px;
+  color: var(--text-muted);
+}
+
+.ws-launcher-progress {
+  margin: 6px 0 4px;
+  height: 5px;
+}
+
+.ws-launcher-pct {
+  font-size: 11px;
+  color: var(--text-faint);
+}
+
+/* Mode selector */
+.ws-launcher-mode-btns {
+  display: flex;
+  gap: 5px;
+  margin-bottom: 4px;
+}
+
+.ws-launcher-mode-btn {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3px;
+  padding: 8px 4px;
+  background: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.1s;
+}
+
+.ws-launcher-mode-btn:hover {
+  background: var(--background-modifier-hover);
+}
+
+.ws-launcher-mode-btn.is-active {
+  background: var(--ws-accent);
+  border-color: var(--ws-accent);
+  color: var(--text-on-accent);
+}
+
+.ws-mode-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.ws-mode-icon svg {
+  width: 16px;
+  height: 16px;
+}
+
+.ws-mode-label {
+  font-size: 11px;
+  font-weight: 600;
+}
+
+.ws-launcher-clear-mode {
+  font-size: 11px;
+  color: var(--text-faint);
+  margin-top: 4px;
+}
+
+/* Focus toggles */
+.ws-launcher-toggle-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 4px 0;
+}
+
+.ws-launcher-toggle-label {
+  color: var(--text-normal);
+}
+
+.ws-launcher-toggle {
+  padding: 3px 10px;
+  border-radius: 12px;
+  font-size: 11px;
+  font-weight: 700;
+  cursor: pointer;
+  border: 1px solid transparent;
+  transition: all 0.1s;
+}
+
+.ws-launcher-toggle.is-on {
+  background: var(--ws-accent);
+  color: var(--text-on-accent);
+  border-color: var(--ws-accent);
+}
+
+.ws-launcher-toggle.is-off {
+  background: var(--background-secondary);
+  color: var(--text-muted);
+  border-color: var(--background-modifier-border);
+}
+
+/* Quick actions grid */
+.ws-launcher-actions-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6px;
+}
+
+.ws-launcher-action-grid-btn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+  padding: 10px 6px;
+  background: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.1s;
+  text-align: center;
+}
+
+.ws-launcher-action-grid-btn:hover {
+  background: var(--background-modifier-hover);
+}
+
+.ws-launcher-grid-icon {
+  width: 20px;
+  height: 20px;
+  color: var(--ws-accent);
+}
+
+.ws-launcher-grid-label {
+  font-size: 11px;
+  color: var(--text-normal);
+  line-height: 1.3;
+}
+
+/* Action button (full width) */
+.ws-launcher-action-btn {
+  width: 100%;
+  padding: 8px 12px;
+  background: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 13px;
+  color: var(--text-normal);
+  text-align: left;
+  transition: background 0.1s;
+  margin-top: 8px;
+}
+
+.ws-launcher-action-btn:hover {
+  background: var(--background-modifier-hover);
+}
+
+.ws-launcher-action-btn.mod-cta {
+  background: var(--ws-accent);
+  color: var(--text-on-accent);
+  border-color: var(--ws-accent);
+  text-align: center;
+}
+
+.ws-launcher-action-btn.mod-cta:hover {
+  opacity: 0.9;
+}
+
+.ws-launcher-stop-btn {
+  background: rgba(239, 68, 68, 0.1);
+  border-color: rgba(239, 68, 68, 0.4);
+  color: #ef4444;
+}
+
+/* Sprint card */
+.ws-launcher-sprint-time {
+  font-size: 36px;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  color: var(--ws-accent);
+  text-align: center;
+  margin: 6px 0;
+}
+
+.ws-launcher-sprint-ctrls {
+  display: flex;
+  gap: 6px;
+}
+
+.ws-launcher-sprint-ctrls .ws-launcher-action-btn {
+  text-align: center;
+  flex: 1;
+  margin-top: 0;
+}
+
+.ws-launcher-sprint-presets {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  margin-top: 8px;
+}
+
+.ws-launcher-preset-label {
+  font-size: 11px;
+  color: var(--text-faint);
+}
+
+.ws-launcher-preset-btn {
+  padding: 3px 10px;
+  font-size: 12px;
+  background: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 12px;
+  cursor: pointer;
+  color: var(--text-muted);
+}
+
+.ws-launcher-preset-btn:hover {
+  background: var(--background-modifier-hover);
+  color: var(--text-normal);
+}
+
+/* Today card */
+.ws-launcher-today-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 6px;
+  margin-bottom: 8px;
+}
+
+.ws-launcher-today-stat {
+  background: var(--background-secondary);
+  border-radius: 5px;
+  padding: 7px 4px;
+  text-align: center;
+}
+
+.ws-launcher-today-val {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--text-normal);
+  font-variant-numeric: tabular-nums;
+}
+
+.ws-launcher-today-label {
+  font-size: 10px;
+  color: var(--text-faint);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-top: 2px;
+}
+
+.ws-launcher-session-words {
+  font-size: var(--font-ui-smaller);
+  color: var(--interactive-accent);
+  text-align: center;
+  margin-bottom: 6px;
+}
+
+/* ── Launcher: Button overflow protection (community theme guard) ── */
+/*
+ * Community themes can set a fixed height on `button`, which clips content
+ * when overflow:hidden is on the container. The fix: only apply overflow
+ * clipping to the text label elements themselves, not the button wrappers.
+ * height:auto overrides any theme-imposed fixed height on our buttons.
+ */
+
+/* box-sizing + height:auto on every interactive element — prevents theme
+   fixed-height rules from vertically clipping icon+label stacked buttons.
+   "body .ws-launcher" gives specificity (0,1,2), beating theme rules like
+   ".workspace button { height: 2rem; }" at (0,1,1). */
+body .ws-launcher button,
+body .ws-launcher select {
+  box-sizing: border-box;
+  max-width: 100%;
+  height: auto;
+}
+
+/* Grid action buttons — min-width:0 lets 1fr cells shrink below content size */
+.ws-launcher .ws-launcher-action-grid-btn {
+  min-width: 0;
+}
+
+/* Grid label — align-self:stretch gets the full cell width inside a
+   flex-column with align-items:center; then ellipsis can truncate */
+.ws-launcher .ws-launcher-grid-label {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: 100%;
+  align-self: stretch;
+  text-align: center;
+}
+
+/* Mode buttons — flex:1 children need min-width:0 to shrink */
+.ws-launcher .ws-launcher-mode-btn {
+  min-width: 0;
+}
+
+/* Mode label — it's a <span> (inline), so display:block is required for
+   text-overflow:ellipsis to fire; align-self:stretch gives it full width */
+.ws-launcher .ws-mode-label {
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: 100%;
+  align-self: stretch;
+  text-align: center;
+}
+
+/* Full-width action buttons: Open Binder, Start Sprint, Pause, Stop */
+.ws-launcher .ws-launcher-action-btn {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+/* Quick-start preset pills */
+.ws-launcher .ws-launcher-preset-btn {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+/* ── Help Tab ───────────────────────────────────────────────────── */
+.ws-help-content {
+  max-width: 680px;
+  padding: 8px 4px 40px;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.ws-help-content h1 { font-size: 1.4em; margin: 0 0 4px; }
+.ws-help-content h2 { font-size: 1.1em; margin: 24px 0 8px; border-bottom: 1px solid var(--background-modifier-border); padding-bottom: 4px; }
+.ws-help-content h3 { font-size: 1em; margin: 16px 0 6px; }
+.ws-help-content p  { margin: 0 0 10px; }
+.ws-help-content ul, .ws-help-content ol { margin: 0 0 10px; padding-left: 1.4em; }
+.ws-help-content li { margin-bottom: 3px; }
+.ws-help-content table { border-collapse: collapse; width: 100%; margin-bottom: 12px; font-size: 13px; }
+.ws-help-content th, .ws-help-content td { padding: 5px 10px; border: 1px solid var(--background-modifier-border); text-align: left; }
+.ws-help-content th { background: var(--background-secondary); font-weight: 600; }
+.ws-help-content blockquote { border-left: 3px solid var(--ws-accent); margin: 0 0 10px; padding: 6px 12px; background: var(--background-secondary); border-radius: 0 4px 4px 0; }
+.ws-help-content code { background: var(--background-secondary); padding: 1px 5px; border-radius: 3px; font-size: 0.9em; }
+.ws-help-content hr { border: none; border-top: 1px solid var(--background-modifier-border); margin: 20px 0; }
+
+/* ── Export Preview Button ──────────────────────────────────────── */
+.ws-export-preview-btn {
+  width: 100%;
+  margin: 12px 0;
+  padding: 8px;
+  background: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 13px;
+  color: var(--text-muted);
+  transition: all 0.1s;
+}
+
+.ws-export-preview-btn:hover {
+  background: var(--background-modifier-hover);
+  color: var(--text-normal);
+}
+
+/* ── Folder Sidebar Explorer ────────────────────────────────────── */
+.ws-folder-container {
+  background: var(--background-secondary);
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.ws-folder-header {
+  font-weight: bold;
+  font-size: 1.1em;
+  padding: 12px 12px 2px;
+  color: var(--text-normal);
+  flex-shrink: 0;
+}
+
+.ws-folder-breadcrumb {
+  padding: 4px 12px 6px;
+  font-size: var(--font-ui-small);
+  color: var(--text-muted);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.ws-folder-nav-row {
+  padding: 0 12px 8px;
+  display: flex;
+  gap: 8px;
+  flex-shrink: 0;
+}
+
+.ws-folder-separator {
+  border-top: 1px solid var(--divider-color);
+  flex-shrink: 0;
+}
+
+.ws-folder-content {
+  flex: 1;
+  overflow-y: auto;
+  padding: 12px;
+}
+
+.ws-folder-list {
+  outline: none;
+  padding: 4px 0;
+  flex: 1;
+  overflow-y: auto;
+}
+
+.ws-folder-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 4px 12px;
+  cursor: pointer;
+  color: var(--text-normal);
+}
+
+.ws-folder-item:hover {
+  background: var(--interactive-hover);
+}
+
+.ws-folder-item.is-keyboard-focused,
+.ws-binder-item.is-keyboard-focused,
+.ws-fsb-row.is-keyboard-focused {
+  background: var(--interactive-hover);
+  outline: 2px solid var(--interactive-accent);
+  outline-offset: -2px;
+}
+
+.ws-folder-item-icon {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.ws-folder-empty {
+  text-align: center;
+  color: var(--text-muted);
+  padding: 24px 0;
+  font-size: var(--font-ui-small);
+}
+
+.ws-folder-empty-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  padding: 24px 12px;
+}
+
+.ws-folder-unsupported {
+  color: var(--text-muted);
+  text-align: center;
+  padding: 24px 0;
+  font-size: var(--font-ui-small);
+}
+
+.ws-folder-open-btn {
+  display: block;
+  margin: 8px auto 0;
+  cursor: pointer;
+}
+
+.ws-folder-img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.ws-folder-audio {
+  width: 100%;
+  margin-top: 8px;
+}
+
+.ws-folder-nav-btn {
+  font-size: var(--font-ui-small);
+  padding: 2px 8px;
+  cursor: pointer;
+}
+
+.ws-breadcrumb-current { color: var(--text-normal); }
+
+.ws-breadcrumb-link {
+  color: var(--text-muted);
+  cursor: pointer;
+}
+
+.ws-breadcrumb-link:hover { text-decoration: underline; }
+
+.ws-breadcrumb-sep { color: var(--text-muted); }
+
+/* ── Search + sort toolbar ───────────────────────────────────────── */
+.ws-folder-toolbar {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 12px;
+  flex-shrink: 0;
+}
+
+.ws-folder-search-wrap {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  background: var(--background-modifier-form-field);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 4px;
+  padding: 2px 6px;
+  min-width: 0;
+}
+
+.ws-folder-search-icon {
+  display: flex;
+  align-items: center;
+  color: var(--text-muted);
+  flex-shrink: 0;
+}
+
+.ws-folder-search-icon svg {
+  width: 12px;
+  height: 12px;
+}
+
+.ws-folder-search-input {
+  flex: 1;
+  border: none;
+  background: transparent;
+  outline: none;
+  font-size: var(--font-ui-small);
+  color: var(--text-normal);
+  padding: 0;
+  min-width: 0;
+}
+
+.ws-folder-search-clear {
+  color: var(--text-muted);
+  cursor: pointer;
+  font-size: 14px;
+  line-height: 1;
+  flex-shrink: 0;
+}
+
+.ws-folder-search-clear:hover { color: var(--text-normal); }
+
+.ws-folder-sort-select {
+  font-size: var(--font-ui-small);
+  background: var(--background-modifier-form-field);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 4px;
+  color: var(--text-normal);
+  padding: 2px 4px;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+
+/* ── File preview — selectable content ──────────────────────────── */
+.ws-folder-content-selectable {
+  user-select: text;
+  cursor: text;
+}
+
+/* ── Insert selection button ─────────────────────────────────────── */
+.ws-folder-insert-btn { margin-left: auto; }
+
+/* ── Hover info tooltip ──────────────────────────────────────────── */
+.ws-info-tooltip {
+  position: fixed;
+  top: var(--ws-tip-top, 0);
+  left: var(--ws-tip-left, 0);
+  z-index: 9999;
+  max-width: 280px;
+  background: var(--background-primary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 6px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  padding: 10px 12px;
+  pointer-events: none;
+}
+
+.ws-tooltip-name {
+  font-weight: 600;
+  font-size: var(--font-ui-small);
+  color: var(--text-normal);
+  margin-bottom: 6px;
+  word-break: break-word;
+}
+
+.ws-tooltip-divider {
+  border-top: 1px solid var(--background-modifier-border);
+  margin-bottom: 6px;
+}
+
+.ws-tooltip-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  font-size: var(--font-ui-smaller);
+  line-height: 1.6;
+}
+
+.ws-tooltip-label {
+  color: var(--text-muted);
+  flex-shrink: 0;
+}
+
+.ws-tooltip-value {
+  color: var(--text-normal);
+  text-align: right;
+}
+
+/* ── Search match highlight ──────────────────────────────────────── */
+.ws-search-highlight {
+  background: var(--text-highlight-bg);
+  color: var(--text-normal);
+  border-radius: 2px;
+  padding: 0 1px;
+}
+
+/* ── Search result item layout ───────────────────────────────────── */
+.ws-folder-item--column {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
+  padding: 6px 12px;
+}
+
+.ws-folder-item-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+}
+
+.ws-folder-item-label {
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.ws-folder-match-badge {
+  font-size: 10px;
+  padding: 1px 5px;
+  border-radius: 3px;
+  background: var(--background-modifier-border);
+  color: var(--text-muted);
+  flex-shrink: 0;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.ws-folder-item-snippet {
+  font-size: var(--font-ui-smaller);
+  color: var(--text-muted);
+  padding-left: 22px;
+  line-height: 1.4;
+  word-break: break-word;
+}
+
+/* ── Writing Log View ───────────────────────────────────────────── */
+.ws-log-root {
+  padding: 0;
+  overflow-y: auto;
+}
+
+.ws-log-header {
+  padding: 14px 16px 8px;
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.ws-log-title {
+  font-size: var(--font-ui-medium);
+  font-weight: 700;
+  color: var(--text-normal);
+}
+
+.ws-log-date {
+  font-size: var(--font-ui-smaller);
+  color: var(--text-muted);
+  margin-top: 2px;
+}
+
+.ws-log-streak {
+  padding: 8px 16px;
+  font-size: var(--font-ui-small);
+  font-weight: 600;
+  color: var(--interactive-accent);
+  background: var(--background-secondary);
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.ws-log-streak--zero {
+  color: var(--text-muted);
+  font-weight: 400;
+}
+
+.ws-log-section {
+  padding: 12px 16px;
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.ws-log-section-label {
+  font-size: 10px;
+  font-weight: 700;
+  color: var(--text-faint);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-bottom: 8px;
+}
+
+.ws-log-today-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 6px;
+}
+
+.ws-log-today-stat {
+  background: var(--background-secondary);
+  border-radius: 5px;
+  padding: 7px 4px;
+  text-align: center;
+}
+
+.ws-log-today-val {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--text-normal);
+  font-variant-numeric: tabular-nums;
+}
+
+.ws-log-today-label {
+  font-size: 9px;
+  color: var(--text-faint);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-top: 2px;
+}
+
+.ws-log-empty-msg {
+  padding: 16px;
+  font-size: var(--font-ui-small);
+  color: var(--text-muted);
+  line-height: 1.5;
+}
+
+.ws-log-day-list {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.ws-log-day-row {
+  display: grid;
+  grid-template-columns: 46px 1fr auto;
+  align-items: center;
+  gap: 8px;
+}
+
+.ws-log-day-date {
+  font-size: var(--font-ui-smaller);
+  color: var(--text-normal);
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+
+.ws-log-day-row--collapsed .ws-log-day-date {
+  color: var(--text-faint);
+}
+
+.ws-log-day-bar-wrap {
+  height: 8px;
+  background: var(--background-modifier-border);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.ws-log-day-bar {
+  height: 100%;
+  width: var(--ws-log-bar-width, 0%);
+  background: var(--interactive-accent);
+  border-radius: 4px;
+  transition: width 0.3s ease;
+}
+
+.ws-log-day-row--collapsed .ws-log-day-bar-wrap {
+  background: transparent;
+}
+
+.ws-log-day-words {
+  font-size: var(--font-ui-smaller);
+  color: var(--text-normal);
+  white-space: nowrap;
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  min-width: 50px;
+}
+
+.ws-log-day-row--collapsed .ws-log-day-words {
+  color: var(--text-faint);
+}
+
+.ws-log-day-meta {
+  color: var(--text-muted);
+}
+
+.ws-support-footer {
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--background-modifier-border);
+  text-align: center;
+}
+
+/* ── Title prompt modal ─────────────────────────────────────── */
+
+.ws-title-prompt-input {
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom: 12px;
+}
+
+/* ── Binder control strip ───────────────────────────────────── */
+
+.ws-binder-strip {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 8px 8px 6px;
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.ws-strip-modes {
+  display: flex;
+  gap: 4px;
+}
+
+.ws-strip-mode-btn {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  padding: 4px 6px;
+  font-size: var(--font-ui-smaller);
+  border-radius: 4px;
+  background: var(--background-secondary);
+  color: var(--text-muted);
+  cursor: pointer;
+}
+
+.ws-strip-mode-btn.is-active {
+  background: var(--interactive-accent);
+  color: var(--text-on-accent);
+}
+
+.ws-strip-mode-icon {
+  display: flex;
+  align-items: center;
+}
+
+.ws-strip-mode-icon svg {
+  width: 13px;
+  height: 13px;
+}
+
+.ws-strip-row2 {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.ws-strip-pill,
+.ws-strip-chip {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  padding: 3px 9px;
+  font-size: var(--font-ui-smaller);
+  border-radius: 999px;
+  background: var(--background-secondary);
+  color: var(--text-muted);
+  cursor: pointer;
+}
+
+.ws-strip-pill.is-on {
+  background: var(--interactive-accent);
+  color: var(--text-on-accent);
+}
+
+.ws-strip-chip.is-armed {
+  background: var(--background-modifier-success);
+  color: var(--text-normal);
+}
+
+.ws-strip-chip.is-running {
+  background: var(--interactive-accent);
+  color: var(--text-on-accent);
+}
+
+.ws-strip-chip-icon {
+  display: flex;
+  align-items: center;
+}
+
+.ws-strip-chip-icon svg {
+  width: 12px;
+  height: 12px;
+}
+
+.ws-strip-overflow {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  padding: 3px 6px;
+  border-radius: 4px;
+  background: transparent;
+  color: var(--text-muted);
+  cursor: pointer;
+  box-shadow: none;
+}
+
+.ws-strip-overflow:hover {
+  background: var(--background-secondary);
+}
+
+/* ── Launcher first-run empty state ─────────────────────────── */
+
+.ws-launcher-first-run {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-bottom: 10px;
+}
+
+.ws-launcher-first-run-text {
+  color: var(--text-muted);
+  font-size: 12px;
+  line-height: 1.4;
+}
+
+/* ── Export modal ───────────────────────────────────────────── */
+
+.ws-export-pandoc-warning {
+  margin: 4px 0 8px;
+  padding: 8px 12px;
+  border-radius: 6px;
+  background: var(--background-modifier-error);
+  color: var(--text-on-accent);
+  font-size: 12px;
+  line-height: 1.4;
+}
+
+/* Let the scope dropdown size to its longest option instead of being
+   squeezed by the setting row at the default modal width */
+.ws-export-modal .setting-item-control select.dropdown {
+  width: max-content;
+  max-width: 100%;
+}
+
+/* ── Light-mode selected-state contrast ───────────────────────────────────
+   Selected / active / toggle-on states fill with the accent token and use
+   white text. In themes/accents that resolve --interactive-accent to a pale
+   colour, white-on-pale becomes invisible in light mode. These rules pin an
+   explicit, high-contrast violet (#6d28d9 + white text, 7.08:1) for light
+   mode only. Theme-class rules (0,3,0) outrank the prefers-color-scheme
+   fallbacks (0,2,0), so a dark Obsidian under an OS-light setting never picks
+   up the light fill. Dark mode keeps its theme-adaptive accent unchanged. */
+
+/* (a) Obsidian set to Light, or System resolving to light */
+.theme-light .ws-settings-tab.is-active,
+.theme-light .ws-launcher-mode-btn.is-active,
+.theme-light .ws-launcher-toggle.is-on,
+.theme-light .ws-launcher-action-btn.mod-cta,
+.theme-light .ws-strip-mode-btn.is-active,
+.theme-light .ws-strip-pill.is-on,
+.theme-light .ws-strip-chip.is-running {
+  background-color: #6d28d9;
+  border-color: #6d28d9;
+  color: #ffffff;
+}
+
+.theme-light .ws-binder-item.is-keyboard-focused,
+.theme-light .ws-fsb-row.is-keyboard-focused {
+  outline-color: #6d28d9;
+}
+
+/* (b) Fallback: OS in light mode, used only if the body theme class is absent */
+@media (prefers-color-scheme: light) {
+  .ws-settings-tab.is-active,
+  .ws-launcher-mode-btn.is-active,
+  .ws-launcher-toggle.is-on,
+  .ws-launcher-action-btn.mod-cta,
+  .ws-strip-mode-btn.is-active,
+  .ws-strip-pill.is-on,
+  .ws-strip-chip.is-running {
+    background-color: #6d28d9;
+    border-color: #6d28d9;
+    color: #ffffff;
+  }
+
+  .ws-binder-item.is-keyboard-focused,
+  .ws-fsb-row.is-keyboard-focused {
+    outline-color: #6d28d9;
+  }
+}
+
+/* (c) Dark mode: unchanged appearance, re-asserted so it always outranks the
+   prefers-color-scheme:light fallback above (e.g. dark Obsidian on a light OS) */
+.theme-dark .ws-settings-tab.is-active,
+.theme-dark .ws-launcher-mode-btn.is-active,
+.theme-dark .ws-launcher-toggle.is-on,
+.theme-dark .ws-launcher-action-btn.mod-cta,
+.theme-dark .ws-strip-mode-btn.is-active,
+.theme-dark .ws-strip-pill.is-on,
+.theme-dark .ws-strip-chip.is-running {
+  background-color: var(--interactive-accent);
+  border-color: var(--interactive-accent);
+  color: var(--text-on-accent);
+}
+
+.theme-dark .ws-binder-item.is-keyboard-focused,
+.theme-dark .ws-fsb-row.is-keyboard-focused {
+  outline-color: var(--interactive-accent);
+}
+
+/* ─── Filesystem binder (experimental, ADR 0001 slice 1 — #225) ─────────────
+   Compact outliner: dense single-line rows, status as a left-edge stripe,
+   no type icons, no order gutter. */
+
+.ws-fsb-row {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  padding: 2px 12px 2px var(--ws-binder-depth, 8px);
+  cursor: pointer;
+  border-radius: 4px;
+  margin: 0 4px;
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.ws-fsb-row:hover {
+  background: var(--background-modifier-hover);
+}
+
+/* Status stripe — the row's only status signal (variant C) */
+.ws-fsb-has-status::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 2px;
+  bottom: 2px;
+  width: 3px;
+  border-radius: 2px;
+  background: var(--ws-status-color);
+}
+
+.ws-fsb-title {
+  flex: 1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.ws-fsb-folder > .ws-fsb-title {
+  font-weight: 600;
+}
+
+/* Excluded from compile (binder-compile: false) or non-markdown */
+.ws-fsb-dimmed {
+  opacity: 0.5;
+}
+
+/* Sibling-reorder drag states (#227). Inset shadows, not pseudo-elements —
+   ::before already carries the status stripe. */
+.ws-fsb-dragging {
+  opacity: 0.4;
+}
+
+.ws-fsb-drop-before {
+  box-shadow: inset 0 2px 0 var(--interactive-accent);
+}
+
+.ws-fsb-drop-after {
+  box-shadow: inset 0 -2px 0 var(--interactive-accent);
+}
+
+/* Structural moves (#228): nesting highlight on folder rows and drawer tabs,
+   and the root drop target on the list's empty space */
+.ws-fsb-drop-into {
+  box-shadow: inset 0 0 0 2px var(--interactive-accent);
+}
+
+.ws-fsb-list.ws-fsb-drop-root {
+  box-shadow: inset 0 -3px 0 var(--interactive-accent);
+}
+
+.ws-fsb-count {
+  flex-shrink: 0;
+  font-size: 10px;
+  color: var(--text-muted);
+  background: var(--background-modifier-border);
+  border-radius: 8px;
+  padding: 0 6px;
+  line-height: 16px;
+}
+
+/* Count-badge toggle: active = accent border + text on a normal background,
+   so it stays readable under any theme accent (see light-theme fix above) */
+.ws-fsb-counts-btn.is-active {
+  border-color: var(--interactive-accent);
+  color: var(--text-accent);
+}
+
+/* Resources drawer — Research/Exports pinned below the manuscript (#226) */
+.ws-fsb-drawer {
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  border-top: 1px solid var(--background-modifier-border);
+}
+
+/* Panel sits BELOW the tab bar (prototype variant C: the drawer opens
+   downward; the tab bar is the divider under the manuscript) */
+.ws-fsb-drawer-panel {
+  max-height: 220px;
+  overflow-y: auto;
+  padding: 4px 0;
+}
+
+.ws-fsb-drawer-tabs {
+  display: flex;
+}
+
+/* Active tab = accent bottom border (pointing at the panel below) + normal
+   text on a normal background — readable under any theme accent (see
+   light-theme fix above) */
+.ws-fsb-drawer-tab {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 6px 8px;
+  background: none;
+  border: none;
+  border-bottom: 2px solid transparent;
+  border-radius: 0;
+  font-size: 12px;
+  color: var(--text-muted);
+  cursor: pointer;
+}
+
+.ws-fsb-drawer-tab:hover {
+  background: var(--background-modifier-hover);
+}
+
+.ws-fsb-drawer-tab.is-active {
+  border-bottom-color: var(--interactive-accent);
+  color: var(--text-normal);
+  background: var(--background-secondary);
+}

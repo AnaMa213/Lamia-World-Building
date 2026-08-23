@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1787218040869-qnab7td2x",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787218040900-50g4aqf",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1787218040868-zfpkczm",
+      "timestamp": 1787218040868,
+      "rawDisplayText": "/detecter-liens-morts",
+      "canonicalText": "/detecter-liens-morts",
+      "context": {
+        "currentNote": {
+          "path": "01_Lore/Divinités/Mineur/Aion.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "dd7345dec4759627587b71edd5e686ee80ae9315cc24ebf16a2beb66d68e1346",
+      "providerUserMessageId": "c14c2773-8e64-4586-a6e0-a6b3ae5e226a",
+      "providerAssistantMessageId": "797b7b19-b465-4b2c-b09f-d14eb03cb98b"
+    }
+  ]
+}

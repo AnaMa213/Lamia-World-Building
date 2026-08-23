@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786562697662-9os6h7aew",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786562697706-4bqv5fg",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786562697661-l3kuevg",
+      "timestamp": 1786562697661,
+      "rawDisplayText": "Retravaillons la fiche Oneira. /traiter-chantier J'aimerai que tu me reécrive la partie histoire pour que ajouter les différente partie de Lors lié à Oneira, au Fil et ce qu'on a pu ajouter dans 01_Lore. De plus j'aimerai que tu reprennes la structure similaire au autres fiche de divinité.",
+      "canonicalText": "Retravaillons la fiche Oneira. /traiter-chantier J'aimerai que tu me reécrive la partie histoire pour que ajouter les différente partie de Lors lié à Oneira, au Fil et ce qu'on a pu ajouter dans 01_Lore. De plus j'aimerai que tu reprennes la structure similaire au autres fiche de divinité.",
+      "context": {
+        "currentNote": {
+          "path": "04_Brouillons/Oneira.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "81ef2f4cf42b7fcb3c0c46b234fef15bece2a112cf7c9a297f556ef190897e00",
+      "providerUserMessageId": "7c4fdffb-3fc1-425e-8ee5-dba45fc88756",
+      "providerAssistantMessageId": "717274d2-a6cc-44f2-8b72-0751e7ea87d5"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786563369882-746pd09",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786563369878-v543cft",
+      "timestamp": 1786563369878,
+      "rawDisplayText": "1. La fiche des Songes font foi 2. oui",
+      "canonicalText": "1. La fiche des Songes font foi 2. oui",
+      "images": [],
+      "contentDigest": "9a2973e33f1674f73db0ebe540b6b2322e2e3edc928d6093a1c6c42e0b1bcd0a",
+      "providerUserMessageId": "c6c40a19-68b4-48b5-ae15-2e275f32710b",
+      "providerAssistantMessageId": "01f455b7-75e4-44bb-bd12-86152b7f7e26"
+    }
+  ]
+}

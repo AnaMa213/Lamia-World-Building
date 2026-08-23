@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786735346992-s7jhz5m0m",
+  "providerId": "claude",
+  "title": "Créer une fiche créature pour les Chairombres",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786735346994,
+  "lastActivityAt": 1786743930651,
+  "sessionId": "e405650e-9baf-44b0-b43f-4b7a301ccf6d",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "e405650e-9baf-44b0-b43f-4b7a301ccf6d"
+  },
+  "currentNote": "01_Lore/Divinités/Primordiales/Ataraxus.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 3388,
+    "cacheReadInputTokens": 75041,
+    "contextWindow": 1000000,
+    "contextTokens": 78430,
+    "percentage": 8
+  }
+}

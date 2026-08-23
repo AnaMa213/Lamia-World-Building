@@ -1,0 +1,22 @@
+{
+  "id": "conv-1787240582538-2uclutc77",
+  "providerId": "claude",
+  "title": "Créer un recueil de nouvelles pour enrichir un ...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787240582541,
+  "lastActivityAt": 1787426583294,
+  "sessionId": "2e255aef-2807-4cec-86c9-c208c5f1e23d",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "2e255aef-2807-4cec-86c9-c208c5f1e23d"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1443,
+    "cacheReadInputTokens": 159589,
+    "contextWindow": 1000000,
+    "contextTokens": 161033,
+    "percentage": 16
+  }
+}

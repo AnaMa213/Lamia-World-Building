@@ -4,7 +4,7 @@ source: auteur
 type: evenement
 importance: majeur
 ere: exodiale
-annee: ≈ 1500
+annee: ≈ 1500 EE
 annee_debut: 1500
 annee_fin:
 tags:

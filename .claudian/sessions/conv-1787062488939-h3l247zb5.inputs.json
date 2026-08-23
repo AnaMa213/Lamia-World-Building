@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1787062488939-h3l247zb5",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787062488968-lh91g4j",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1787062488938-nlssghb",
+      "timestamp": 1787062488938,
+      "rawDisplayText": "/creer-fiche la fiche de Quaesir à partir de la proposition et des infos de la fiche Vindeireis qui est le Roi Sombre, des Tumeurs de Rhamal ect.",
+      "canonicalText": "/creer-fiche la fiche de Quaesir à partir de la proposition et des infos de la fiche Vindeireis qui est le Roi Sombre, des Tumeurs de Rhamal ect.",
+      "context": {
+        "currentNote": {
+          "path": "04_Brouillons/2026-07-12 — Proposition — Migration Quaesir.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "608a2e00b2b5deb1da6cd203d2adbf9ed953f203b2558192854a6e10851705d3",
+      "providerUserMessageId": "c9223637-980b-4f85-83d1-1e2022ea0e50",
+      "providerAssistantMessageId": "da7f2053-5599-442c-9178-b951341d696c"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787063105782-qqx7de8",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1787063105778-fj6bs95",
+      "timestamp": 1787063105778,
+      "rawDisplayText": "1. Mineur, tu as le go pour la fiche",
+      "canonicalText": "1. Mineur, tu as le go pour la fiche",
+      "images": [],
+      "contentDigest": "9d096ad5acbabd7551737c031808184c0b27a130348322204c25d31311583ea1",
+      "providerUserMessageId": "38363da5-a5e3-4da4-9be5-e791da2899be",
+      "providerAssistantMessageId": "1ea93a8a-813e-474e-a424-de73230396fe"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787063555547-4gmjhzl",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1787063555543-tm3yb7v",
+      "timestamp": 1787063555543,
+      "rawDisplayText": "**Déclencheur précis de l'intervention en Zalandria non intégré.** tu peux l'inclure dans Quaesir",
+      "canonicalText": "**Déclencheur précis de l'intervention en Zalandria non intégré.** tu peux l'inclure dans Quaesir",
+      "images": [],
+      "contentDigest": "726b75dc29e03b59e1acbb7544e46f8e82bd9104d29752758f46ea71375903e0",
+      "providerUserMessageId": "159286a2-7702-471a-a53e-7c98e4ab6e34",
+      "providerAssistantMessageId": "25ed3e0c-ea78-4882-a5dd-e53d3af842d2"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787064115654-tlhsboa",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1787064115650-tlfu7hc",
+      "timestamp": 1787064115650,
+      "rawDisplayText": "integre le. Pour la datation, chronlogiquement on a vers 600 naissance de Quaesir en humain -> Mort de Quaesir vers 800 -> Deuxieme reincarnation vers 1000 -> première invasion et apparition des Tumeur de Rhamal vers 1100 -> rumeur et apparition du Roi sombre vers 1200",
+      "canonicalText": "integre le. Pour la datation, chronlogiquement on a vers 600 naissance de Quaesir en humain -> Mort de Quaesir vers 800 -> Deuxieme reincarnation vers 1000 -> première invasion et apparition des Tumeur de Rhamal vers 1100 -> rumeur et apparition du Roi sombre vers 1200",
+      "images": [],
+      "contentDigest": "8cc945054a8f3bd45e182256e72a181ca22f8853dc52721c606878c0761347f4",
+      "providerUserMessageId": "dbc12f0c-f037-4777-b292-019311211186",
+      "providerAssistantMessageId": "78ae073b-293c-42df-b5d9-e863ca65ad53"
+    }
+  ]
+}

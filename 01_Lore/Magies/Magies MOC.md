@@ -21,7 +21,7 @@ revision-date: 2026-08-05
 
 - [[Magie Druidique]] — les Elfes de Naphelia (et de rares Humains) communiquent directement avec [[Naphusis]] et lui prêtent leur essence pour étendre sa portée, en échange de faveurs locales. Mécanisme distinct du Fil (le mortel va vers la divinité, pas l'inverse) mais même famille : lien direct et personnel à une divinité précise, plutôt qu'un mécanisme universel comme l'élémentaire.
 
-## [[Magie arcanique]] 
+## [[Magie Arcanique]] 
 Système attribué à [[Alfaryus]], ancré par l'événement [[La Transmission de la Magie Arcanique]] *(≈900 Ère Exodiale)*.
 
 ## [[Magie mageysienne]]

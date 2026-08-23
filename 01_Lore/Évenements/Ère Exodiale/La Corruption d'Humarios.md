@@ -4,7 +4,7 @@ source: auteur
 type: evenement
 importance: majeur
 ere: exodiale
-annee: 1500
+annee: ≈ 1500 EE
 annee_debut:
 annee_fin:
 tags:
@@ -31,7 +31,7 @@ Depuis la fondation d'Humildas (voir [[Humarios et la Fondation d'Humildas]]), H
 
 ## Déroulement
 
-Humarios s'enfonce dans une recherche de puissance et de reconnaissance. Il expérimente sur un fragment du **[[Cœur de Lamia]]** pour modifier son essence divine. L'expérience échoue : son essence, devenue ténébreuse, commence à le déchirer intérieurement. Sa chair brûle, son esprit se remplit de rage, et une faim d'essence de vie s'impose à lui.
+Humarios s'enfonce dans une recherche de puissance et de reconnaissance. Il expérimente sur un fragment du **[[Le Cœur de Lamia|Cœur de Lamia]]** pour modifier son essence divine. L'expérience échoue : son essence, devenue ténébreuse, commence à le déchirer intérieurement. Sa chair brûle, son esprit se remplit de rage, et une faim d'essence de vie s'impose à lui.
 
 Il devient une menace pour ce qu'il devait protéger. [[Alfaryus]], sans haine mais faute d'alternative, finit par l'emprisonner dans une gemme noire — espérant, un jour, trouver un moyen de le délivrer sans libérer la corruption qui le ronge.
 
@@ -46,11 +46,10 @@ Fait probablement connu d'Alfaryus et de quelques rares témoins ; l'ampleur exa
 ## Relations
 
 - [[Alfaryus]] — emprisonne son frère, cherche encore à le sauver.
-- [[Cœur de Lamia]] — fragment sur lequel Humarios expérimente.
+- [[Le Cœur de Lamia|Cœur de Lamia]] — fragment sur lequel Humarios expérimente.
 - [[Humarios et la Fondation d'Humildas]] — événement antérieur directement lié.
 
 ## Contradictions potentielles
 
 ⚠️ **Articulation avec la Grande Bataille de Cyroldan non tranchée — volontairement laissée ouverte.** Timeline Master lie déjà « Humarios fragilise un fragment » à la Grande Bataille de Cyroldan (barrière qui cède, manifestation physique d'Ataraxus). Le lien précis entre cette corruption personnelle et cette bataille reste à développer lors de l'écriture de ton roman sur l'Ère Exodiale — non inventé ici.
 
-**Cohérent avec la fiche déjà migrée [[Humarios]]**, qui détaille déjà ce même épisode.

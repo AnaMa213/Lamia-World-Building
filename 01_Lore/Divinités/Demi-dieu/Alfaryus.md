@@ -30,7 +30,7 @@ father: "[[Mageisys]]"
 revision:
 cr_id: omr-814-gsv-060
 name: Alfaryus
-born: ""
+born: 170 ES
 died: ""
 spouses: []
 children: []
@@ -93,7 +93,7 @@ Il porte seul ce qui devrait peut-être être partagé avec des mortels capables
 ## Relations
 
 - [[Mageisys]] / [[Albaesclatia]] — parents ; le créent avec Humarios comme guide incarné pendant la Grande Guerre Divine.
-- [[Humarios]] — frère jumeau divin ; le scelle dans une gemme noire après sa chute, sans haine mais faute d'alternative.
+- [[Mage noir - brouillon old]] — frère jumeau divin ; le scelle dans une gemme noire après sa chute, sans haine mais faute d'alternative.
 - [[Oneira]] — seul lien avec le divin autorisé par le bannissement des dieux ; lui transmet des visions en rêve.
 - [[Xeros]] — allié dans l'établissement des Limbes comme plan-tampon défensif (voir fiche [[Xeros]], lot précédent).
 - [[Cyroldan]] — cité qu'il fonde, dont il ignore que la protection réelle vient d'un secret enfoui sous ses fondations.

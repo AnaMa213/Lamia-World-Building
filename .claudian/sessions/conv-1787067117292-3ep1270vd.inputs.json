@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1787067117292-3ep1270vd",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787067117326-ndvx71j",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1787067117291-ny5fsnq",
+      "timestamp": 1787067117291,
+      "rawDisplayText": "/creer-fiche Il faudrait créer le fiche Sophis, en s'inspirant de la proposition déjà existante et en vérifiant qu'il n'y ait pas 'd'incohérence avec le reste. L'île blanche n'est enfaite pas une île mais un conclave entre les montagnes à l'est du grand continent de Lamia. Elle est proche d'Albaesclatia et Alketeria et vit toujours au Dibertium.",
+      "canonicalText": "/creer-fiche Il faudrait créer le fiche Sophis, en s'inspirant de la proposition déjà existante et en vérifiant qu'il n'y ait pas 'd'incohérence avec le reste. L'île blanche n'est enfaite pas une île mais un conclave entre les montagnes à l'est du grand continent de Lamia. Elle est proche d'Albaesclatia et Alketeria et vit toujours au Dibertium.",
+      "context": {
+        "currentNote": {
+          "path": "01_Lore/Divinités/Mineur/Quaesir.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "eac9a89e019df3ed4b3e4f0726f5c4e50e98fe33bf6ec9b6fdce66f8f9c6e41d",
+      "providerUserMessageId": "414e30db-f3de-4a54-8d77-c1f2391eba32",
+      "providerAssistantMessageId": "3672bd7f-3bed-4bf2-901a-e55d74f44f04"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787067550202-8p605na",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1787067550199-j8svdqc",
+      "timestamp": 1787067550199,
+      "rawDisplayText": "Sophis ne vit pas dans le conclave sur Lamia, rien à voir. Elle vit Au Dibertium.",
+      "canonicalText": "Sophis ne vit pas dans le conclave sur Lamia, rien à voir. Elle vit Au Dibertium.",
+      "images": [],
+      "contentDigest": "8d296020c7023ff78a26ae1009e3010f9696b52026605a144727ea72b5f7415f",
+      "providerUserMessageId": "e51e3f45-3bb1-40ab-bec6-a100e1e710fa",
+      "providerAssistantMessageId": "38702fee-fb93-4519-bea4-d0e84bbbe0b3"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787072715320-bzoc9ze",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1787072715316-kw71m91",
+      "timestamp": 1787072715316,
+      "rawDisplayText": "tu peux créer la fiche",
+      "canonicalText": "tu peux créer la fiche",
+      "images": [],
+      "contentDigest": "b1c3e7bb0b410a5c5166ae2377b97af8ee9e1845de14efe9883e0169df58698e",
+      "providerUserMessageId": "f5acc352-216f-4dbc-8818-632bc1f49e15",
+      "providerAssistantMessageId": "9c38a757-09b6-4e4a-b054-26af3bb25145"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787074312463-fle9hdb",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1787074312459-0zt294j",
+      "timestamp": 1787074312459,
+      "rawDisplayText": "1. on devrait  l'appelait l'Archipel blanche car elle est isolé du monde, et la citée et faite dans des montagnes raide reliée entre des points entre les montagnes souvent entouré de nuages 2. Propose moi un point à coller dans Timeline Master",
+      "canonicalText": "1. on devrait  l'appelait l'Archipel blanche car elle est isolé du monde, et la citée et faite dans des montagnes raide reliée entre des points entre les montagnes souvent entouré de nuages 2. Propose moi un point à coller dans Timeline Master",
+      "images": [],
+      "contentDigest": "542f9fb1eeaec581f739bcb3f86555f5c2e26dd9efdd6af82f9c1a867965b09d",
+      "providerUserMessageId": "bfdb7812-aaba-4bab-926a-4b1d2711739b",
+      "providerAssistantMessageId": "4e0696b1-1789-406a-b17a-18ceebaa5ed9"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787079004462-gn7gazd",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1787079004457-t89u8tp",
+      "timestamp": 1787079004457,
+      "rawDisplayText": "Il faudrait indiquer que la création de cet artefact est était faite en colaboration entre les Mortels Lamiens, Armerith, Mageysis et Sophis et que le coût fut lourd. (sinon qu'est-ce qui leur empeche d'enfaire plein pour couvrir plusieurs cité protéger). En construisant la pierre de Sophis, Sophis d'eut y implanter une partie d'elle-même l'affaiblissant e façon permanente. Mais cette nouvelle fragilité elle ne la considerait pas comme une faiblesse ou un point mais la preuve de sa bonté et son envie de paix pour les mortels de Lamia.",
+      "canonicalText": "Il faudrait indiquer que la création de cet artefact est était faite en colaboration entre les Mortels Lamiens, Armerith, Mageysis et Sophis et que le coût fut lourd. (sinon qu'est-ce qui leur empeche d'enfaire plein pour couvrir plusieurs cité protéger). En construisant la pierre de Sophis, Sophis d'eut y implanter une partie d'elle-même l'affaiblissant e façon permanente. Mais cette nouvelle fragilité elle ne la considerait pas comme une faiblesse ou un point mais la preuve de sa bonté et son envie de paix pour les mortels de Lamia.",
+      "context": {
+        "editorSelection": {
+          "notePath": "05_IA_Inbox/Fiches/Sophis.md",
+          "mode": "selection",
+          "selectedText": "Alors que la guerre semblait encore lointaine, Sophis supplia [[Mageisys]] de lui donner un moyen de protéger les Hommes et les Elfes qui refuseraient catégoriquement de combattre. Mageisys, occupé par d'autres préoccupations mais sensible à la détermination de l'Archange, conçut une solution : il identifia un conclave naturel entre les montagnes à l'est du grand continent de Lamia, en territoire reculé et difficile d'accès, au cœur duquel il plaça une gemme imprégnée d'essence divine, La [[Pierre de Sophis]].\n\nCette roche n'était pas un artefact ordinaire. Elle contenait une quantité considérable de l'essence de Sophis, assez grande pour qu'un tel objet aurait normalement dû être rejeté par [[Lamia (planète)]]. Depuis que le cœur de la planète portait sa propre mémoire divine, Lamia supportait mal les concentrations trop fortes d'essence étrangère, à part celle de [[Naphusis]]. Les dieux pouvaient encore bénir, marquer, influencer ou transmettre des fragments de pouvoir, mais une présence divine trop dense risquait d'être repoussée par le monde lui-même.\n\nPourtant, l'essence de Sophis produisit un effet différent. Là où d'autres puissances divines auraient pesé sur Lamia, la paix de Sophis semblait l'apaiser. La planète accepta la gemme, non comme une domination, mais comme une zone de calme localisée. Cette acceptation avait une limite stricte : l'influence de l'artefact ne devait empiéter que sur un petit territoire. Tant que la paix de Sophis demeurait contenue au conclave, Lamia la tolérait.\n\nMageisys avait d'ailleurs tenté d'imaginer une version bien plus ambitieuse du même principe : une gemme capable d'englober toute la planète afin de la protéger d'Ataraxus. Mais Lamia rejeta cette tentative. Une barrière divine planétaire, même conçue pour la défendre, aurait imposé une essence étrangère sur l'ensemble de son corps vivant. Là où Sophis pouvait apaiser un conclave, Mageisys ne pouvait pas enfermer Lamia entière dans une protection sans que la planète y voie une forme d'emprise.\n\nLa gemme du conclave fut donc animée d'une barrière physique. Les âmes en quête de violence et de guerre ne pouvaient pas y pénétrer. Ce lieu, plus tard surnommé l'[[Archipel Blanc]] par ceux qui tentaient d'en décrire la vision depuis les plaines — ses sommets acérés reliés entre eux par des passages taillés à même la roche surgissant d'une mer de nuages quasi permanente, comme autant d'îles flottant au-dessus du monde — devint un refuge pour ceux qui suivaient la voie de Sophis : des mortels refusant de devenir guerriers, même face à l'effondrement du monde.",
+          "lineCount": 9,
+          "startLine": 43
+        }
+      },
+      "images": [],
+      "contentDigest": "33bdf3b940491a0445f23a86f5d0084a8cb49316671ac50fadfba41321da5d1b",
+      "providerUserMessageId": "cbaf76a8-15c9-4bfd-bdcc-42bb76345514",
+      "providerAssistantMessageId": "0ab826c5-1a66-42e3-b132-932ad7617285"
+    }
+  ]
+}

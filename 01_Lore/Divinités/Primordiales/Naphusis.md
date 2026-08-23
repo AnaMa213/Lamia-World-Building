@@ -20,10 +20,9 @@ suivants:
   - Paysans
   - "[[Gnomes]]"
 alignement: Loyal Neutre
-revision-date: 2026-08-12
+revision-date: 2026-08-15
 cr_type: person
 pronouns: elle/la
-revision:
 cr_id: var-181-rfb-104
 name: Naphusis
 born: ""
@@ -48,9 +47,9 @@ Naphusis est la divinité de la Nature, de l'équilibre sauvage, de la flore, de
 
 Lorsque les trois puissances créatrices cherchèrent à permettre à la vie de s'implanter dans des mondes physiques trop complexes pour elle, Naphusis apparut comme une réponse vivante à ce problème. Elle ne fut pas seulement une divinité ajoutée au monde : elle devint le lien entre la fragilité du vivant et la dureté des lois cosmiques. Là où Mageisys avait créé des structures trop vastes et trop rigides, Naphusis offrit des points d'ancrage capables d'accueillir la vie sans briser l'équilibre du réel.
 
-Sur les astres élus, elle prit la forme d'un [[Arbre-Monde]] colossal. Chaque manifestation de Naphusis devint un berceau vivant, capable de stabiliser les cycles naturels, de soutenir l'apparition des espèces et d'offrir aux créatures intelligentes les conditions nécessaires pour évoluer. Ses racines ne nourrissaient pas seulement la terre ; elles reliaient les êtres, les milieux, les saisons, les instincts et les transformations lentes du vivant.
+Sur les astres élus, elle prit la forme d'un Arbre-Monde colossal. Chaque manifestation de Naphusis devint un berceau vivant, capable de stabiliser les cycles naturels, de soutenir l'apparition des espèces et d'offrir aux créatures intelligentes les conditions nécessaires pour évoluer. Ses racines ne nourrissaient pas seulement la terre ; elles reliaient les êtres, les milieux, les saisons, les instincts et les transformations lentes du vivant.
 
-Sur [[Lamia]], Naphusis devint l'un des piliers essentiels de la vie. Son influence permit aux créations d'Albaesclatia et de Lumina de s'enraciner réellement dans le monde physique. Les premiers peuples mortels, les animaux, les plantes, les forêts, les plaines et les équilibres écologiques trouvèrent en elle une structure silencieuse, moins visible que les lois de Mageisys ou la lumière de Lumina, mais tout aussi indispensable.
+Sur [[Lamia (planète)]], Naphusis devint l'un des piliers essentiels de la vie. Son influence permit aux créations d'Albaesclatia et de Lumina de s'enraciner réellement dans le monde physique. Les premiers peuples mortels, les animaux, les plantes, les forêts, les plaines et les équilibres écologiques trouvèrent en elle une structure silencieuse, moins visible que les lois de Mageisys ou la lumière de Lumina, mais tout aussi indispensable.
 
 Naphusis ne prend presque jamais part aux conflits divins. Sa neutralité ne vient pas d'une indifférence morale, mais d'une priorité absolue : permettre à la vie de prospérer. Elle ne cherche ni domination, ni culte exclusif, ni victoire idéologique. Elle protège les conditions d'existence du vivant. Pour elle, une forêt qui repousse, une espèce qui s'adapte, une meute qui survit ou une graine qui germe sont des victoires plus profondes que les triomphes des dieux.
 
@@ -66,7 +65,7 @@ Naphusis possède aussi un héraut, une créature très ancienne et redoutable, 
 
 Aujourd'hui, Naphusis demeure l'un des fondements silencieux de Lamia. Elle n'est pas une déesse de conquête, de loi ou de salut. Elle est la condition profonde qui permet au vivant de continuer : racine, cycle, refuge et équilibre. Tant que ses racines tiennent encore, Lamia reste plus qu'un champ de ruines divin ; elle reste un monde capable de repousser.
 
-Son influence directe reste bordée par l'espace : elle est la plus forte à proximité immédiate de l'Arbre-Monde, dans [[La Forêt de Naphusis]], et nettement plus limitée ailleurs sur Lamia. Elle ne relève pas du miracle : hors de sa zone d'influence, elle ne peut ni déplacer un arbre ni faire pousser une forêt en un instant — seulement orienter ou accélérer des processus déjà naturels, jamais les créer de toutes pièces. Les [[Druides]], viennent compenser cette limite : en apprenant à communiquer avec elle, ils obtiennent des faveurs locales et amplifient sa portée par leur propre essence — un mécanisme distinct du [[Le Fil|Fil]] (voir [[La Barrière de Lamia]]), propre à elle seule, puisque Naphusis n'emprunte jamais ce canal.
+Son influence directe reste bordée par l'espace : elle est la plus forte à proximité immédiate de l'Arbre-Monde, dans [[Forêt de Naphusis]], et nettement plus limitée ailleurs sur Lamia. Elle ne relève pas du miracle : hors de sa zone d'influence, elle ne peut ni déplacer un arbre ni faire pousser une forêt en un instant — seulement orienter ou accélérer des processus déjà naturels, jamais les créer de toutes pièces. Les [[Druides]], viennent compenser cette limite : en apprenant à communiquer avec elle, ils obtiennent des faveurs locales et amplifient sa portée par leur propre essence — un mécanisme distinct du [[Le Fil|Fil]] (voir [[La Barrière de Lamia]]), propre à elle seule, puisque Naphusis n'emprunte jamais ce canal.
 
 ## Apparence
 
@@ -84,7 +83,7 @@ Naphusis incarne donc l'abondance, mais pas la facilité. Elle offre la vie à c
 
 ## Désir conscient
 
-Naphusis veut préserver l'équilibre vivant de [[Lamia]].
+Naphusis veut préserver l'équilibre vivant de [[Lamia (planète)]].
 
 Son objectif n'est pas de sauver chaque individu, chaque peuple ou chaque espèce à tout prix. Elle cherche avant tout à maintenir les cycles qui permettent à la vie de continuer : naissance, croissance, mort, décomposition, renaissance, adaptation et transmission. Pour elle, la vie n'est pas une chose fixe à protéger sous cloche, mais un mouvement à maintenir.
 
@@ -128,29 +127,21 @@ Mais son danger est de regarder les êtres conscients comme des éléments d'un 
 - [[Chronoversum]] — géniteur direct confirmé (résolu, voir [[L'Enracinement Primordial]] et Contradictions potentielles).
 - [[Ataraxus]] — antithèse idéologique absolue.
 - [[Maurtria]] — sa corruption vise directement les forêts de Naphusis, utilisées comme bases de résistance (voir [[La Dernière Menace]]).
-- [[Lamia]] — porte son dernier Arbre-Monde survivant ; [[01_Lore/Timeline Master]] : « Naphusis s'enracine dans Lamia et devient l'Arbre-Monde » (Temps primordiaux).
+- [[Lamia (planète)]] — porte son dernier Arbre-Monde survivant ; [[Timeline Master]] : « Naphusis s'enracine dans Lamia et devient l'Arbre-Monde » (Temps primordiaux).
 - [[Le Cœur de Lamia]] — son implantation écologique en est l'une des deux origines.
 - [[La Barrière de Lamia]] — sa présence physique continue est traitée en analogie avec l'exemption déjà écrite pour le Cycle des Âmes (voir Contradictions potentielles).
 - [[La Dernière Menace]] — ses forêts servent de bases de résistance contre la corruption de Maurtria (Exodiale ≈600–1450).
 - [[Le Scellement du Cœur]] — des forêts entières liées à elle y sont détruites de façon permanente (≈1450–1500) — blessure jamais refermée.
-- [[La Forêt de Naphusis]] — forêt entourant l'Arbre-Monde, créée en 05_IA_Inbox/Fiches (à valider).
-- [[Naphusis (lieu)]] — lieu/cité elfique bâtie plus tard autour de l'Arbre-Monde, homonyme de la divinité, créée en 05_IA_Inbox/Fiches (à valider).
-- [[Gnomes]] — nés de ses bourgeons, canal vivant entre elle et les Lamiens ; naissance désormais datée (voir [[Le Don du Chagrin]], Sérénale ≈2500–2600).
-- [[Xeros]] — appuyé par elle pour la création des peuples adaptés après la guerre ([[01_Lore/Timeline Master]], Voile ≈ 80–500).
+- [[Forêt de Naphusis]] — territoire sacré entourant le Lac de Fironea et l'Arbre-Monde, hors de toute juridiction politique ; fiche en 05_IA_Inbox/Fiches (à valider).
+- [[Naphusis (lieu)]] — village à l'entrée de la berge naturelle (≈150 km) menant à l'Arbre-Monde, dans la [[Forêt de Naphusis|Forêt de Naphusis]] ; fondé vers Exodiale ≈200 ; cohabitation Elfes-[[Gnomes]] depuis l'origine ; point de départ de la migration qui fonde le [[Royaume de Naphelia]] au nord-est — ni le village ni la forêt ne font partie de ce royaume ; fiche en 05_IA_Inbox/Fiches (à valider).
+- [[Gnomes]] — nés de ses bourgeons, canal vivant entre elle et les Lamiens ; naissance désormais datée (voir [[Le Don du Chagrin]], Sérénale ≈2500–2600) ; cohabitent avec les Elfes dans le village de [[Naphusis (lieu)]] depuis sa fondation (Exodiale ≈200).
+- [[Xeros]] — appuyé par elle pour la création des peuples adaptés après la guerre ([[Timeline Master]], Voile ≈ 80–500).
 - [[Humarios]] et [[Mageisys]] — leur combat est la source des dérèglements climatiques qu'on lui attribue à tort.
-- Héraut de Naphusis — créature hybride animal/végétal, personnification de la fureur (sans note, à créer).
+- [[Héraut de Naphusis]] — créature hybride animal/végétal, personnification de la fureur ; gardien actif de la [[Forêt de Naphusis|Forêt de Naphusis]], retient les démons hors du village de [[Naphusis (lieu)]] (sans note, à créer).
 
 
-- Druides (concept à ficher séparément) — pratiquants capables de communiquer avec elle pour obtenir des faveurs locales, amplifiant sa portée par leur propre essence.
+- Druides (concept à ficher séparément) — pratiquants capables de communiquer avec elle pour obtenir des faveurs locales, amplifiant sa portée par leur propre essence — un mécanisme distinct du [[Le Fil|Fil]] (voir [[La Barrière de Lamia]]), propre à elle seule, puisque Naphusis n'emprunte jamais ce canal.
 
 ## Contradictions potentielles
 
-**Naphelia sans note.** « Certains Elfes de Naphelia » — lieu ou région lié à son nom, mentionné nulle part ailleurs. À créer ou rattacher lors de la migration des Lieux.
-
-**Pas de mention, ni de lien avec la Flore ou la Faune**. Fiches à créer, et à parler dans l'histoire de la déesse. Placer en chantier Majeur. 
-
-> [!ia-a-valider]- 2026-08-12 — Propriétés Charted Roots
-> **Décision** : demande explicite de l'auteur (session 2026-08-12). Aucun lore modifié.
-> **Ajouté en frontmatter** : `cr_type: person` · `sex: female` · `pronouns: elle/la` · `revision: ia-a-valider`
-
-^rev-20260812-charted-roots-naphusis
+**Naphelia — partiellement résolu.** [[Naphusis (lieu)]] (village fondé Exodiale ≈200, cohabitation Elfes-Gnomes, indépendant de tout royaume) et [[Forêt de Naphusis|Forêt de Naphusis]] (territoire sacré hors de toute juridiction politique) ont été créés en 05_IA_Inbox/Fiches, en attente de validation. Le [[Royaume de Naphelia]] lui-même — fondé au nord-est de la forêt par les Elfes ayant migré depuis le village — reste sans fiche dédiée dans le vault.

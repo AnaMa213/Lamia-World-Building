@@ -14,7 +14,7 @@ date: 2026-08-02
 portee:
 aliases:
   - Magie divine
-revision-date: 2026-08-02
+revision-date: 2026-08-18
 ---
 # Le Fil
 
@@ -41,7 +41,7 @@ Pas de fondation délibérée isolée dans le temps : le Fil découle de la comb
 - [[Les Accords du Despophys]] (Temps primordiaux, canon) : Albaesclatia, avec l'apport de Lumina, insuffle une part de sa propre essence dans [[Filiama]]. C'est cette essence combinée qui permet à Filiama d'exister hors du corps d'Albaesclatia, comme entité durable et distincte — condition nécessaire pour qu'un fragment individualisé puisse plus tard voyager jusqu'à un mortel.
 - [[Le Cycle des Âmes]] (instauré par Mageisys, statut : brouillon) : chaque naissance mortelle de la lignée puise une part d'essence dans Filiama, individualisée et acheminée par les Limbes — ce qui fait de chaque mortel concerné un porteur d'un fragment de Filiama, donc un vaisseau potentiel pour le Fil.
 
-Le Fil serait donc une propriété structurelle de cette double fondation plutôt qu'un acte séparé — hypothèse cohérente avec le canon existant, jamais formulée telle quelle avant le brainstorm du 2026-07-31.
+Le Fil serait donc une propriété structurelle de cette double fondation plutôt qu'un acte séparé
 
 ## Limites et coûts
 
@@ -58,9 +58,10 @@ Le Fil serait donc une propriété structurelle de cette double fondation plutô
 
 Le miracle ne se « pratique » pas à proprement parler : il peut frapper n'importe quel mortel porteur d'un fragment de Filiama, sans sélection ni entraînement — le marin de l'exemple pédagogique en Principe n'a rien demandé. La magie divine, elle, est portée par des praticiens reconnus — prêtres, paladins, exorcistes — formés au sein de clergés et de temples dédiés à la divinité servie, apparus après l'Ère Exodiale et répandus durant l'Ère du Voile.
 
+Les [[Bardes]] constituent un cas particulier parmi les praticiens du Fil. Liés à [[Fastiae]] — archange d'Albaesclatia et donc de la lignée Filiama — ils ne forment pas leur lien au sein d'un clergé ou d'un temple : leur accès au Fil passe par l'art lui-même. Lorsqu'un artiste atteint une justesse rare, une vérité émotionnelle assez forte pour toucher les âmes, son expression entre en résonance avec Fastiae, et par ce canal une infime part de l'essence de la déesse agit sur le réel. Ce que certains nomment « magie bardique » n'est pas un système distinct : c'est l'usage du Fil canalisé par Fastiae, manifesté par la musique, la danse, le récit ou le spectacle.
 ## Distinction avec les autres magies
 
-Distincte de la [[magie arcanique]] (Alfaryus) et de la [[magie élémentaire]] (essence mageysienne latente, voir [[Le Tribut de la Création]]), qui ne dépendent d'aucun lien personnel à une divinité. Le Fil, à l'inverse, exige toujours un lien vivant entre un mortel précis et une divinité précise de la lignée Filiama — sans ce lien, aucune des deux échelles (miracle ou magie divine) ne peut s'exercer.
+Distincte de la [[Magie Arcanique]] (Alfaryus) et de la [[magie élémentaire]] (essence mageysienne latente, voir [[Le Tribut de la Création]]), qui ne dépendent d'aucun lien personnel à une divinité. Le Fil, à l'inverse, exige toujours un lien vivant entre un mortel précis et une divinité précise de la lignée Filiama — sans ce lien, aucune des deux échelles (miracle ou magie divine) ne peut s'exercer.
 
 ## Relations
 
@@ -72,12 +73,10 @@ Distincte de la [[magie arcanique]] (Alfaryus) et de la [[magie élémentaire]] 
 - [[Le Tribut de la Création]] / [[Mageisys]] — magie élémentaire, mécanisme distinct sans lien personnel — explique aussi l'exclusion de Mageisys du Fil.
 - [[Ataraxus]] — exclu délibérément, motivation déjà intégrée à sa fiche canon.
 
+- [[Fastiae]] — archange Filiama ; les [[Bardes]] constituent les praticiens du Fil qui lui sont liés — voir § "Qui la pratique".
+
 ## Contradictions potentielles
 
 ⚠️ **Coût de la magie divine non tranché** — question explicitement laissée ouverte en brainstorm (2026-07-31) : la forme apprise épuise-t-elle aussi son utilisateur, proportionnellement à l'usage, comme le miracle — ou est-elle sans coût une fois maîtrisée ? Pas de réponse ici, à traiter en session dédiée.
 
 **Aucune contradiction relevée** avec le canon existant.
-
-> [!ia-a-valider]- 2026-08-02 — Restructuration selon le template Magie
-> **Décision** : tranchée avec l'auteur (session du 2026-08-02) — Le Fil devient la première fiche à suivre le nouveau template `Magie` plutôt que `Système`.
-> **Modifié** : sections renommées et réorganisées (« Limites et exceptions » → « Limites et coûts », avec ajout explicite des coûts respectifs du miracle et de la magie divine) ; deux nouvelles sections ajoutées, « Qui la pratique » et « Distinction avec les autres magies » — cette dernière reprend une phrase auparavant logée dans le Résumé. Coquille corrigée dans En une phrase (« Albaeslcatia » → « Albaesclatia »). Aucun contenu substantiel supprimé.

@@ -4,7 +4,7 @@ source: auteur
 type: evenement
 importance: majeur
 ere: exodiale
-annee: inconnu
+annee: ≈ 1450 EE
 annee_debut: 1450
 annee_fin: 1500
 tags:
@@ -51,8 +51,8 @@ Par nature, cet événement est déjà une zone d'incertitude collective — mê
 ## Relations
 
 - [[La Dernière Menace]] — événement antérieur directement lié.
-- [[Cœur de Lamia]] — objet rescellé, jamais guéri.
-- Grande Bataille de Cyroldan (déjà dans [[01_Lore/Timeline Master]]) — lien précis non tranché, à développer ultérieurement.
+- [[Le Cœur de Lamia]] — objet rescellé, jamais guéri.
+- Grande Bataille de Cyroldan (déjà dans [[Timeline Master]]) — lien précis non tranché, à développer ultérieurement.
 
 ## Contradictions potentielles
 

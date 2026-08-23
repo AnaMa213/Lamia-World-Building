@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786699588579-ysz40tq7t",
+  "providerId": "claude",
+  "title": "Créer une fiche de Magie Arcanique",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786699588580,
+  "lastActivityAt": 1786710110992,
+  "sessionId": "b0805908-6b32-4191-98bd-ea8f1a8136a5",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "b0805908-6b32-4191-98bd-ea8f1a8136a5"
+  },
+  "currentNote": "01_Lore/Évenements/Ère Exodiale/La Transmission de la Magie Arcanique.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 557,
+    "cacheReadInputTokens": 101236,
+    "contextWindow": 1000000,
+    "contextTokens": 101794,
+    "percentage": 10
+  }
+}

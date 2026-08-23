@@ -1,0 +1,23 @@
+{
+  "id": "conv-1787080557595-66bgjznra",
+  "providerId": "claude",
+  "title": "Créer fiche Persemis avec liens vers autres fiches",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787080557598,
+  "lastActivityAt": 1787087163567,
+  "sessionId": "96545689-fc47-4743-a7d2-ad8bdb2360e6",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "96545689-fc47-4743-a7d2-ad8bdb2360e6"
+  },
+  "currentNote": "01_Lore/Divinités/Anges/Persemis.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 13242,
+    "cacheReadInputTokens": 112909,
+    "contextWindow": 1000000,
+    "contextTokens": 126152,
+    "percentage": 13
+  }
+}

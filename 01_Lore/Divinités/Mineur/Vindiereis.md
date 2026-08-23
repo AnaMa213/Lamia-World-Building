@@ -168,8 +168,6 @@ Mais son danger est de faire de cette vérité une doctrine de domination. Puisq
 
 ## Contradictions potentielles
 
-⚠️ **Datation du règne de Vindiereis en Roi Sombre — recoupement direct avec le chantier déjà ouvert.** [[Index]] signale une divergence non tranchée (1350–1400 vs bloc 1000–1350 dans la synthèse) ; [[01_Lore/Timeline Master]] retient actuellement Voile ≈1150–1250. Cette fiche et celle de [[Quaesir]] se recoupent en détail sur l'enchaînement (chute à Cyroldan → longue errance → premier retour et fondation de la Guilde des Aventuriers par Quaesir dans une autre incarnation → « plusieurs siècles plus tard » second retour de Quaesir en Zalandria → « plus d'un siècle » de guerre contre Vindiereis) — matériau cohérent entre les deux fiches, à utiliser pour arbitrer la date exacte, non tranché ici.
-
 **« Bataille de Cyroldan » sans « Grande » (récurrent — voir synthèse transversale de fin de lot).**
 
 **Datation de la création des Vendards et de leur destruction absente de [[01_Lore/Timeline Master]] en tant qu'entrée liée à Vindiereis lui-même.** Timeline Master (Sérénale ≈1500) mentionne déjà « Destruction du monde des Vendard... l'archange Vindiereis, leur créateur, survit » — cohérent avec cette fiche, qui vient l'enrichir (rôle de Mageisys, nature du don, mécanisme de survie). Suggestion d'enrichissement de l'entrée existante plutôt qu'une nouvelle entrée.

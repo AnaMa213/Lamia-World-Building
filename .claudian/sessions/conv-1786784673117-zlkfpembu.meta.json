@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786784673117-zlkfpembu",
+  "providerId": "claude",
+  "title": "Créer fiches de lieux Forêt et Village de Naphusis",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786784673127,
+  "lastActivityAt": 1786800804856,
+  "sessionId": "0b592dd2-42b5-4e70-8229-1ff81c93d362",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "0b592dd2-42b5-4e70-8229-1ff81c93d362"
+  },
+  "currentNote": "01_Lore/Divinités/Primordiales/Naphusis.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 7875,
+    "cacheReadInputTokens": 165523,
+    "contextWindow": 1000000,
+    "contextTokens": 173399,
+    "percentage": 17
+  }
+}

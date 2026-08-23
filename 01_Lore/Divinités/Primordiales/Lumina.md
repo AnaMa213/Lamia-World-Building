@@ -84,7 +84,7 @@ Ainsi, son apparence porte toute son ambiguïté : elle est la fleur de l'aube, 
 
 Lumina veut guider les êtres vers la lumière, la justice et la rédemption.
 
-Elle ne cherche pas seulement à être vénérée comme déesse solaire. Elle veut que les peuples de [[Lamia]] adoptent une voie plus juste, plus tempérée, plus claire moralement. À ses yeux, la lumière n'est pas seulement une force physique : c'est une méthode pour révéler les mensonges, exposer les fautes, corriger les déséquilibres et ramener les êtres égarés vers une forme de vérité.
+Elle ne cherche pas seulement à être vénérée comme déesse solaire. Elle veut que les peuples de [[Lamia (planète)]] adoptent une voie plus juste, plus tempérée, plus claire moralement. À ses yeux, la lumière n'est pas seulement une force physique : c'est une méthode pour révéler les mensonges, exposer les fautes, corriger les déséquilibres et ramener les êtres égarés vers une forme de vérité.
 
 Son désir conscient est donc d'étendre son influence sur les peuples, les institutions, les lois, les cultes et les âmes. Elle veut bâtir un monde où la compassion existe, mais où elle est encadrée par la justice ; un monde où la rédemption reste possible, mais seulement pour ceux qui acceptent de se tourner vers la lumière.
 
@@ -135,27 +135,3 @@ Mais son danger est de croire que sa lumière est la seule forme légitime du bi
 ## Contradictions potentielles
 
 La fiche **[[Le Sceptre des Anges]]** est encore en brouillon.
-
-[[Grande Bataille de Cyroldan]] non crée.
-
-> [!ia-a-valider]- 2026-07-28 — Arbitrages de session : régence datée, rupture du Conseil, Soleil
-> **Décision** : trois points traités avec l'auteur (session du 2026-07-28).
-> **Modifié** : Histoire (paragraphe de régence réécrit, mention du Soleil ajoutée) et Relations (liens ajoutés).
->
-> 1. **Régence des anges non datée** — désormais datée et événementialisée : nouvelle fiche [[Le Sceptre des Anges]] (05_IA_Inbox/Fiches, à valider et à ajouter à Timeline Master), Exodiale ≈1500, à la Grande Bataille de Cyroldan. Albaesclatia se retire définitivement veiller sur Filiama avec Alketeria ; Lumina prend la tête des troupes angéliques.
-> 2. **Articulation avec la rupture du Conseil** — résolue : la gouvernance stricte et autoritaire de Lumina est intégrée comme cause supplémentaire de [[L'Impossible Retour à l'Unité]] (aux côtés de la trahison de Mageisys et de la corruption de Maurtria, déjà établies), tout en la laissant dirigeante des troupes contre Ataraxus.
-> 3. **Soleil lié mais inexistant** — créé : nouvelle fiche [[Soleil]] (Objet Divin, 05_IA_Inbox/Fiches, à valider), fragment direct de l'essence de Lumina sur Lamia, distinct des astres ordinaires façonnés par Mageisys.
-
-^rev-20260728-lumina-regence-soleil
-
-> [!ia-a-valider]- 2026-08-05 — Ajout : révélation de Mageisys au Concile de l'Aequadeus
-> **Décision** : tranchée avec l'auteur (session brainstorm [[2026-08-05 — Brainstorm — NeutraliteMageisys]]).
-> **Modifié** : Histoire (paragraphe ajouté sur la confrontation de Mageisys au Concile Rompu, cohérent avec sa Faille intime déjà écrite) et Relations (nouvelle ligne Mageisys). Voir aussi [[Mageisys]], [[Albaesclatia]] et [[Le Concile Rompu]] pour le même épisode.
-
-^rev-20260805-lumina-concilerompu
-
-> [!ia-a-valider]- 2026-08-12 — Propriétés Charted Roots
-> **Décision** : demande explicite de l'auteur (session 2026-08-12). Aucun lore modifié.
-> **Ajouté en frontmatter** : `cr_type: person` · `sex: female` · `pronouns: elle/la` · `revision: ia-a-valider`
-
-^rev-20260812-charted-roots-lumina

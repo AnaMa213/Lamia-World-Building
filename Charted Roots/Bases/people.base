@@ -1,0 +1,365 @@
+visibleProperties:
+  - formula.thumbnail
+  - formula.display_name
+  - note.surnames
+  - note.father
+  - note.mother
+  - formula.spouses_all
+  - note.children
+  - formula.birth_display
+  - formula.death_display
+  - note.sex
+  - note.research_level
+  - note.collection
+  - note.group_name
+  - note.root_person
+  - note.lineage
+  - note.generation
+  - note.ahnentafel
+  - note.daboville
+summaries:
+  generation_span: if(values.length > 0, (values.max() - values.min()).years.floor(), 0)
+filters:
+  and:
+    - cr_type == "person"
+formulas:
+  thumbnail: if(!media.isEmpty(), image(list(media)[0]), "")
+  display_name: name || file.name
+  age: if(born.isEmpty(), "Unknown", if(died.isEmpty() && (now() - born).years.floor() < 100, (now() - born).years.floor() + " years", if(born && !died.isEmpty(), (died - born).years.floor() + " years", "Unknown")))
+  birth_display: if(born, born.format("YYYY-MM-DD"), "")
+  death_display: if(died, died.format("YYYY-MM-DD"), "")
+  spouses_all: "[note.spouse, note.spouse1, note.spouse2, note.spouse3, note.spouse4, note.spouse5].flat().filter(!value.isEmpty())"
+properties:
+  cr_id:
+    displayName: ID
+  formula.thumbnail:
+    displayName: Photo
+  formula.display_name:
+    displayName: Name
+  note.surnames:
+    displayName: Surnames
+  note.father:
+    displayName: Father
+  note.mother:
+    displayName: Mother
+  formula.spouses_all:
+    displayName: Spouse(s)
+  note.children:
+    displayName: Children
+  formula.birth_display:
+    displayName: Born
+  formula.death_display:
+    displayName: Died
+  formula.age:
+    displayName: Age
+  note.sex:
+    displayName: Sex
+  note.research_level:
+    displayName: Research Level
+  note.collection:
+    displayName: Collection
+  note.group_name:
+    displayName: Group name
+  note.root_person:
+    displayName: Root person
+  note.lineage:
+    displayName: Lineage
+  note.generation:
+    displayName: Generation
+  note.ahnentafel:
+    displayName: Ahnentafel
+  note.daboville:
+    displayName: d'Aboville
+  note.henry:
+    displayName: Henry
+  file.path:
+    displayName: Location
+  note.dna_shared_cm:
+    displayName: Shared cM
+  note.dna_match_type:
+    displayName: Match Type
+  note.dna_testing_company:
+    displayName: Testing Company
+  note.dna_endogamy_flag:
+    displayName: Endogamy
+  note.dna_kit_id:
+    displayName: Kit ID
+  note.dna_notes:
+    displayName: DNA Notes
+views:
+  - type: table
+    name: All family members
+    filters:
+      and:
+        - "!cr_id.isEmpty()"
+    order:
+      - born
+      - file.name
+      - father
+      - mother
+      - formula.spouses_all
+      - children
+    sort:
+      - property: formula.spouses_all
+        direction: DESC
+    summaries:
+      born: Earliest
+      died: Latest
+      formula.age: Average
+  - type: table
+    name: Living members
+    filters:
+      and:
+        - "!cr_id.isEmpty()"
+        - died.isEmpty()
+        - (now() - born).years.floor() < 100
+    order:
+      - born
+      - name
+    summaries:
+      formula.age: Average
+  - type: table
+    name: Deceased members
+    filters:
+      and:
+        - "!cr_id.isEmpty()"
+        - "!died.isEmpty() || (now() - born).years.floor() >= 100"
+    order:
+      - died
+      - name
+    summaries:
+      formula.age: Average
+      died: Latest
+  - type: table
+    name: Recently added
+    filters:
+      and:
+        - "!cr_id.isEmpty()"
+        - file.ctime > now() - "30d"
+    order:
+      - file.ctime
+    limit: 20
+  - type: table
+    name: Missing parents
+    filters:
+      and:
+        - "!cr_id.isEmpty()"
+        - father.isEmpty() && mother.isEmpty()
+    order:
+      - file.name
+  - type: table
+    name: Incomplete data
+    filters:
+      and:
+        - "!cr_id.isEmpty()"
+        - born.isEmpty() || name.isEmpty()
+    order:
+      - file.name
+  - type: table
+    name: By collection
+    filters:
+      and:
+        - "!cr_id.isEmpty()"
+        - "!collection.isEmpty()"
+    groupBy:
+      property: collection
+      direction: ASC
+    order:
+      - collection
+      - file.name
+    summaries:
+      collection: Unique
+      born: Earliest
+      died: Latest
+  - type: table
+    name: By family group
+    filters:
+      and:
+        - "!cr_id.isEmpty()"
+        - "!group_name.isEmpty()"
+    groupBy:
+      property: group_name
+      direction: ASC
+    order:
+      - group_name
+      - file.name
+    summaries:
+      group_name: Unique
+      born: Earliest
+      died: Latest
+  - type: table
+    name: Unassigned collections
+    filters:
+      and:
+        - "!cr_id.isEmpty()"
+        - collection.isEmpty()
+    order:
+      - file.name
+  - type: table
+    name: Single parents
+    filters:
+      and:
+        - "!cr_id.isEmpty()"
+        - "!children.isEmpty()"
+        - formula.spouses_all.isEmpty()
+    order:
+      - file.name
+    summaries:
+      children: Filled
+  - type: table
+    name: Childless couples
+    filters:
+      and:
+        - "!cr_id.isEmpty()"
+        - "!formula.spouses_all.isEmpty()"
+        - children.isEmpty()
+    order:
+      - file.name
+  - type: table
+    name: Multiple marriages
+    filters:
+      and:
+        - "!cr_id.isEmpty()"
+        - formula.spouses_all.length > 1
+    order:
+      - file.name
+  - type: table
+    name: Sibling groups
+    filters:
+      and:
+        - "!cr_id.isEmpty()"
+        - "!father.isEmpty()"
+    groupBy:
+      property: father
+      direction: ASC
+    order:
+      - father
+      - mother
+      - born
+    summaries:
+      father: Unique
+  - type: table
+    name: Root generation
+    filters:
+      and:
+        - "!cr_id.isEmpty()"
+        - father.isEmpty() && mother.isEmpty()
+    order:
+      - born
+    summaries:
+      children: Filled
+  - type: table
+    name: Marked root persons
+    filters:
+      and:
+        - "!cr_id.isEmpty()"
+        - root_person == true
+    order:
+      - born
+    summaries:
+      children: Filled
+  - type: table
+    name: By lineage
+    filters:
+      and:
+        - "!cr_id.isEmpty()"
+        - "!lineage.isEmpty()"
+    groupBy:
+      property: lineage
+      direction: ASC
+    order:
+      - lineage
+      - generation
+      - born
+    summaries:
+      lineage: Unique
+  - type: table
+    name: By generation number
+    filters:
+      and:
+        - "!cr_id.isEmpty()"
+        - "!generation.isEmpty()"
+    groupBy:
+      property: generation
+      direction: ASC
+    order:
+      - generation
+      - born
+    summaries:
+      generation: Unique
+  - type: table
+    name: By research level
+    filters:
+      and:
+        - "!cr_id.isEmpty()"
+        - "!research_level.isEmpty()"
+    groupBy:
+      property: research_level
+      direction: ASC
+    order:
+      - research_level
+      - name
+    summaries:
+      research_level: Unique
+  - type: table
+    name: Needs research
+    filters:
+      and:
+        - "!cr_id.isEmpty()"
+        - research_level <= 2
+    order:
+      - research_level
+      - name
+    summaries:
+      research_level: Average
+  - type: table
+    name: Not assessed
+    filters:
+      and:
+        - "!cr_id.isEmpty()"
+        - research_level.isEmpty()
+    order:
+      - name
+  - type: table
+    name: Ahnentafel ordered
+    filters:
+      and:
+        - "!cr_id.isEmpty()"
+        - "!ahnentafel.isEmpty()"
+    order:
+      - ahnentafel
+    summaries:
+      ahnentafel: Max
+  - type: table
+    name: d'Aboville ordered
+    filters:
+      and:
+        - "!cr_id.isEmpty()"
+        - "!daboville.isEmpty()"
+    order:
+      - daboville
+  - type: table
+    name: Without lineage
+    filters:
+      and:
+        - "!cr_id.isEmpty()"
+        - lineage.isEmpty()
+    order:
+      - file.name
+  - type: table
+    name: DNA Matches
+    filters:
+      and:
+        - "!cr_id.isEmpty()"
+        - "!dna_shared_cm.isEmpty()"
+    order:
+      - dna_shared_cm DESC
+    summaries:
+      dna_shared_cm: Average
+    visibleProperties:
+      - formula.display_name
+      - note.dna_shared_cm
+      - note.dna_match_type
+      - note.dna_testing_company
+      - note.dna_endogamy_flag
+      - note.dna_notes

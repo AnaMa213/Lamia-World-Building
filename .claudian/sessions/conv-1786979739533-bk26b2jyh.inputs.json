@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786979739533-bk26b2jyh",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786979739561-2eruhzs",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786979739532-o3d3oyq",
+      "timestamp": 1786979739532,
+      "rawDisplayText": "/creer-fiche de type Créatures pour les Dragons. Contrairement au Drakéides qui pour survivre doit vivre en communauté à l'instar des Humains ou des Elfes, les Dragons, ancêtres encore vivant des Drakéides, vivent généralement en solitaire et dans des lieux isolé. Après je te laisse remplir la fiche",
+      "canonicalText": "/creer-fiche de type Créatures pour les Dragons. Contrairement au Drakéides qui pour survivre doit vivre en communauté à l'instar des Humains ou des Elfes, les Dragons, ancêtres encore vivant des Drakéides, vivent généralement en solitaire et dans des lieux isolé. Après je te laisse remplir la fiche",
+      "context": {
+        "currentNote": {
+          "path": "01_Lore/Divinités/Majeur/Akator.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "9658890987a966cf21c09b6c5efce3df112231e544376713d1c70f2faca96d93",
+      "providerUserMessageId": "9e346314-488a-4c9b-baf5-755e9d68301e",
+      "providerAssistantMessageId": "f57ac78b-6bc3-4d6a-93fd-5394743315ee"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786980036085-0t853oz",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786980036082-45gq9f9",
+      "timestamp": 1786980036082,
+      "rawDisplayText": "1. Les Dragons primordiaux sont à part. Cette fiche inclus la descendance des Dragons 2. oui",
+      "canonicalText": "1. Les Dragons primordiaux sont à part. Cette fiche inclus la descendance des Dragons 2. oui",
+      "images": [],
+      "contentDigest": "cd44dfe48e180f2e32a5aaaa610172b63609e462b830caad203213d00e4a7f38",
+      "providerUserMessageId": "c552ada4-9e4e-4966-99c1-67acecc81716",
+      "providerAssistantMessageId": "7cfcc2ef-d515-41fa-9b5b-e826fa75055d"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786980400605-0gk248n",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1786980400602-olcrj4k",
+      "timestamp": 1786980400602,
+      "rawDisplayText": "*(À définir)* Régime alimentaire, cycles de reproduction, organisation territoriale implicite entre dragons — absent du canon actuel. : La plupart sont carnivores et certains d'entre venant de la lignée de Raekialar sont corrompues et peuvent térrorisé des villages ou même tenter de regner en maitre sur un territoire de mortels. Leur reproduction est particulière. Les Dragons primordiaux, n'ont pas besoin de partenaire pour pondre des oeufs, mais la pontes est rare, il en est de même pour les dragons de 2 et 3eme générations. à partir de la 4eme générations qui sont les Drakeides, Xeros leur a accorder afin qu'il s'adapte plus au mode de vie mortels de leur donner la reproduction humaine ou elfique.  Les Dragons sont générallement territoriaux en fonction de leur ancestre. Les rouges sont solitaires, bleu en bande , vers et blanc plutôt solitaires mais non hostiles.",
+      "canonicalText": "*(À définir)* Régime alimentaire, cycles de reproduction, organisation territoriale implicite entre dragons — absent du canon actuel. : La plupart sont carnivores et certains d'entre venant de la lignée de Raekialar sont corrompues et peuvent térrorisé des villages ou même tenter de regner en maitre sur un territoire de mortels. Leur reproduction est particulière. Les Dragons primordiaux, n'ont pas besoin de partenaire pour pondre des oeufs, mais la pontes est rare, il en est de même pour les dragons de 2 et 3eme générations. à partir de la 4eme générations qui sont les Drakeides, Xeros leur a accorder afin qu'il s'adapte plus au mode de vie mortels de leur donner la reproduction humaine ou elfique.  Les Dragons sont générallement territoriaux en fonction de leur ancestre. Les rouges sont solitaires, bleu en bande , vers et blanc plutôt solitaires mais non hostiles.",
+      "context": {
+        "editorSelection": {
+          "notePath": "01_Lore/Créatures/Dragons.md",
+          "mode": "selection",
+          "selectedText": "*(À définir)* Régime alimentaire, cycles de reproduction, organisation territoriale implicite entre dragons — absent du canon actuel.",
+          "lineCount": 1,
+          "startLine": 56
+        }
+      },
+      "images": [],
+      "contentDigest": "f499192f9befee75e5b33e186c244afe0f962f6760c733308c4f8912709c8004",
+      "providerUserMessageId": "63c84779-7998-42f4-a2a8-5942b19cdb00",
+      "providerAssistantMessageId": "42b07e1e-d340-433a-a71d-efde9daa9fc7"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786984038113-hm59h8t",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1786984038109-ak52u82",
+      "timestamp": 1786984038109,
+      "rawDisplayText": "Met à jour la fiche des Drakeide",
+      "canonicalText": "Met à jour la fiche des Drakeide",
+      "images": [],
+      "contentDigest": "f77cb87122f11e58850db4cef4a21bfdecf8c8f3d6a8038ac01158c368109839",
+      "providerUserMessageId": "81c1f1a4-e462-4c81-b16a-cdad71c94f20",
+      "providerAssistantMessageId": "158e8a41-f209-4ad2-9ff3-b81bf73cc84a"
+    }
+  ]
+}

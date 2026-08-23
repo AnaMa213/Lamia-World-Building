@@ -2,7 +2,7 @@
 statut: canon
 source: auteur
 type: creature
-echelle: colossale
+echelle: lamien
 categorie: dragon primordial
 createur: "[[Akator]]"
 habitat:

@@ -19,22 +19,24 @@ suivants:
   - "[[Chercheurs]]"
   - "[[Alchimistes]]"
 alignement: Chaotique Neutre
-revision-date: 2026-08-12
+revision-date: 2026-08-18
 cr_type: person
 sex: male
 pronouns: il/lui
 children:
   - "[[Alfaryus]]"
   - "[[Humarios]]"
-revision:
 cr_id: ybj-043-twy-933
 name: Mageisys
 born: ""
 died: ""
 father: "[[Chronoversum]]"
 mother: "[[Chronoversum]]"
-spouses: []
+spouses:
+  - "[[Albaesclatia]]"
 group_name: divinite
+children_id:
+  - vqk-179-rpz-791
 ---
 
 # Mageisys
@@ -67,7 +69,7 @@ C'est alors que l'apparition de [[Naphusis]] changea tout. Sur plusieurs planèt
 
 Grâce à cette illumination, Mageisys comprit comment permettre à Albaesclatia et Lumina de créer la vie dans le Plan des Mondes sans démanteler l'architecture du réel. Les Arbres-Mondes de Naphusis devinrent des médiateurs entre la complexité cosmique et la fragilité du vivant : des points d'ancrage où la nature, la magie, les éléments et les cycles pouvaient s'organiser assez finement pour soutenir des êtres mortels.
 
-C'est dans ce cadre que la vie put réellement s'établir sur [[Lamia]]. Avec l'appui de Mageisys, l'élan vital d'Albaesclatia, la lumière de Lumina et l'ancrage de Naphusis, les premiers peuples mortels purent voir le jour, notamment les [[01_Lore/Races/Mortels/Humains]] et les [[Elfes]]. La magie et la physique de Lamia ne furent donc pas ajoutées après coup à un monde vivant : elles furent les conditions mêmes qui rendirent possible l'apparition d'une vie durable dans un plan trop complexe pour elle.
+C'est dans ce cadre que la vie put réellement s'établir sur [[Lamia (planète)]]. Avec l'appui de Mageisys, l'élan vital d'Albaesclatia, la lumière de Lumina et l'ancrage de Naphusis, les premiers peuples mortels purent voir le jour, notamment les [[Humains]] et les [[Elfes]]. La magie et la physique de Lamia ne furent donc pas ajoutées après coup à un monde vivant : elles furent les conditions mêmes qui rendirent possible l'apparition d'une vie durable dans un plan trop complexe pour elle.
 
 Lorsque la Grande Guerre divine éclate, Mageisys n'y prend jamais vraiment parti. Il aide neutralement à plusieurs reprises Albaesclatia,  Lumina et le Conseil des Archanges — pour repousser le premier massacre d'Ataraxus (voir [[L'Éveil du Fléau]]), pour se réunir stratégiquement avec elles face à la menace grandissante (voir [[L'Alliance Froide]]), ou pour concevoir l'[[Aequadeus]], un plan neutre pensé pour limiter les affrontements directs entre divinités (voir [[Le Concile Rompu]]) — mais chacune de ces interventions reste réactive, jamais offensive : il ne prend jamais l'initiative d'attaquer Ataraxus sur son propre terrain, [[Hésychirium|Hésychion]], le plan-refuge qu'il lui a lui-même bâti (voir [[La Retraite du Calme]]), alors même qu'il aurait la capacité de le détruire à volonté — de la même manière qu'il pourrait, s'il le voulait, réduire à néant le [[Plan des Mondes]] ou le [[Despophys]] tout entiers.
 
@@ -79,7 +81,7 @@ Malgré son génie, Mageisys fut souvent mal apprécié par les autres dieux. So
 
 Mageisys préféra longtemps une forme immatérielle. Il errait librement dans le Plan des Mondes, laissant son essence voguer comme autrefois dans le néant. Pour cela, il créa une dimension nouvelle, indéchiffrable, liée au plan physique mais séparée de lui. Cette strate immatérielle n'était atteignable que par Mageisys, puis plus tard par certains esprits particuliers, notamment ceux liés à [[Vindiereis]]. En s'extrayant de leur corps physique, ces esprits pouvaient parfois, guidés par leurs désirs, leurs sentiments ou leurs objectifs, interagir subtilement avec la dimension matérielle.
 
-Mais Mageisys ne se contentait pas d'observer. Cherchant toujours à perfectionner les possibilités de la magie dans un monde physique, il se matérialisait parfois pour mener des expériences dans le Plan des Mondes. Avec l'aide d'[[Albaesclatia]], il créa deux entités inspirées par l'évolution des races intelligentes de Lamia : [[Alfaryus]] et [[Humarios]], guides incarnés des derniers survivants après la Chute de l'Âge d'Or (Exodiale ≈170–220, voir [[Les Jumeaux Divins]]). À chacun, il transmit une part de son essence divine, espérant peut-être produire des héritiers capables d'explorer la magie, la connaissance et l'influence divine sous des formes nouvelles.
+Mais Mageisys ne se contentait pas d'observer. Cherchant toujours à perfectionner les possibilités de la magie dans un monde physique, il se matérialisait parfois pour mener des expériences dans le Plan des Mondes. Avec l'aide d'[[Albaesclatia]], il créa deux entités inspirées par l'évolution des races intelligentes de Lamia : [[Alfaryus]] et [[Mage noir - brouillon old]], guides incarnés des derniers survivants après la Chute de l'Âge d'Or (Exodiale ≈170–220, voir [[Les Jumeaux Divins]]). À chacun, il transmit une part de son essence divine, espérant peut-être produire des héritiers capables d'explorer la magie, la connaissance et l'influence divine sous des formes nouvelles.
 
 Cette expérience devint sa plus grande faute. Humarios, rongé par la comparaison avec son frère et par le besoin d'être reconnu, expérimenta seul sur un fragment du Cœur de Lamia pour accroître sa puissance (voir [[La Corruption d'Humarios]]) — fragilisant du même coup la barrière protégeant Lamia et ouvrant la voie à la [[Grande Bataille de Cyroldan]] (Exodiale ≈1500). C'est là, à ce qu'on retient aujourd'hui — rien n'est encore figé sur le déroulement exact — que Mageisys aurait foulé lui-même le sol de Lamia, aux côtés d'[[Alfaryus]], pour tenter d'arrêter la corruption de son fils. Il aurait sous-estimé le pouvoir qu'il venait lui-même de créer : Humarios, submergé, n'aurait pu contenir la quantité d'essence divine qu'il lui arracha, celle-ci déferlant sur le monde sous la forme d'un cataclysme élémentaire. Les équilibres climatiques de Lamia s'en trouvèrent brisés, donnant naissance à des hivers extrêmes, des étés infernaux et des saisons devenues parfois hostiles aux peuples mortels.
 
@@ -154,20 +156,16 @@ Mais son danger est de croire que la structure suffit. La vie a besoin de lois, 
 - [[Xeros]] — né du second pacte avec Albaesclatia, à la suite des [[Les Accords du Despophys]].
 - [[La Flamme Éteinte]] / [[Le Larcin de Mageisys]] — origine de son intérêt secret pour l'essence de l'ange Lamia, implantée bien plus tard dans la planète (voir [[La Semence Cachée]]).
 - [[Alfaryus]] — fils, dépositaire d'une part de son essence divine, fondateur de la magie arcanique (système distinct de sa propre magie élémentaire) ; à ses côtés lors de la [[Grande Bataille de Cyroldan]].
-- [[Humarios]] — fils déchu ; la [[La Corruption d'Humarios|corruption]] qui l'oppose à Mageisys est au cœur de sa faute et de son retrait (mécanisme encore à figer, voir Contradictions potentielles).
+- [[Mage noir - brouillon old]] — fils déchu ; la [[La Corruption d'Humarios|corruption]] qui l'oppose à Mageisys est au cœur de sa faute et de son retrait (mécanisme encore à figer, voir Contradictions potentielles).
 - [[Grande Bataille de Cyroldan]] — épisode où Mageisys se serait manifesté physiquement sur Lamia ; chantier en cours, non développé ici.
 - [[Vindiereis]] — parmi les rares esprits capables d'atteindre sa strate immatérielle.
-- [[Lamia]] — monde où, avec Albaesclatia, Lumina et Naphusis, la vie mortelle put s'établir.
+- [[Lamia (planète)]] — monde où, avec Albaesclatia, Lumina et Naphusis, la vie mortelle put s'établir.
 - [[Hésychirium]] — plan-refuge qu'il a lui-même bâti pour Ataraxus (voir [[La Retraite du Calme]]) et qu'il pourrait détruire à volonté, comme il pourrait détruire le [[Plan des Mondes]] ou le [[Despophys]] — sans jamais le faire, pour aucun camp ; Ataraxus le sait, et ne teste jamais cette limite.
 - [[Le Concile Rompu]] — lieu et moment où sa véritable position dans la Grande Guerre divine est révélée au Conseil des Archanges.
 - [[L'Alliance Froide]] — s'y réunit stratégiquement avec Albaesclatia et Lumina face à Ataraxus, sans jamais s'y engager pleinement.
 - [[Lumina]] — sa révélation au Concile de l'Aequadeus fait naître chez elle une haine jamais résolue depuis.
 - [[Akator]] — crée à sa demande l'[[Intraherium]] (Sérénale ≈2700), un plan adapté à sa nouvelle forme draconique colossale, fonctionnant comme un désert infini peuplé de créatures sans conscience ; acte réalisé sans consultation préalable d'[[Albaesclatia]], dans la continuité de leur accord sur l'installation des dragons (voir [[L'Asile des Dragons]]).
+- [[Diablio]] — lors de la [[Grande Bataille de Cyroldan]], une vague d'énergie née de son essence pure frappa Diablio ; absorbée involontairement par ce dernier et maintenue en lui par l'amour d'[[Orgea]], cette essence lui conféra de façon permanente des capacités planaires (création de plans d'existence, ouverture de portails). Les plans ainsi créés — le [[Havre Éthéré]], puis le [[Plan des Fasties]] bâti pour [[Fastiae]] — possèdent une barrière comparable à celle de [[La Barrière de Lamia|Lamia]] interdisant l'accès aux dieux primordiaux, Mageisys lui-même compris. Des plans nés de son essence, hors de sa connaissance et de son contrôle : l'une des rares énigmes que Mageisys n'a pas su résoudre, dont la fascination — mêlée d'une frustration qu'il ne peut admettre — ne le quitte pas.
 
 ## Contradictions potentielles
-
-> [!ia-a-valider]- 2026-08-12 — Propriétés Charted Roots
-> **Décision** : demande explicite de l'auteur (session 2026-08-12). Aucun lore modifié.
-> **Ajouté en frontmatter** : `cr_type: person` · `sex: male` · `pronouns: il/lui` · `children` (Alfaryus, Humarios — tous deux mentionnés comme fils dans ses Relations) · `revision-date` mis à jour
-
-^rev-20260812-charted-roots-mageisys
+⚠️ **Plans de Diablio inaccessibles à Mageisys.** Le [[Havre Éthéré]] et le [[Plan des Fasties]], nés d'une absorption involontaire de son essence par [[Diablio]] à Cyroldan, possèdent une barrière qu'il ne comprend pas et ne peut franchir — paradoxe pour un dieu dont la croyance fausse est que tout ce qui est compris peut être maîtrisé. Quelle est la nature exacte de cette barrière ? Comment des plans issus de son essence peuvent-ils lui être structurellement fermés ? Tension narrative ouverte — à trancher en session dédiée.

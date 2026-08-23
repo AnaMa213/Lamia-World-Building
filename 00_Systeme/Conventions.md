@@ -36,7 +36,7 @@ version: "1.3"
 
 ## 2. Types d'entités (`type:`, liste fermée)
 
-`core` · `divinite` · `personnage` · `peuple` · `faction` · `lieu` · `creature` · `magie` · `objet` · `ere` · `evenement` · `legende` · `concept` · `oeuvre` · `systeme` · `moc`· `race`· `peuple`
+`core` · `divinite` · `personnage` · `peuple` · `faction` · `lieu` · `creature` · `magie` · `objet` · `ere` · `evenement` · `legende` · `concept` · `oeuvre` · `systeme` · `moc`· `race`· `peuple`· `essence`
 
 - **evenement** = fait daté de l'histoire de l'univers. Modèle hybride : [[01_Lore/Timeline Master]] est le registre maître de TOUS les événements ; seuls les événements MAJEURS reçoivent en plus leur propre note `evenement`. Toute note evenement DOIT figurer dans Timeline Master.
 - **legende** = un récit qui circule DANS l'univers. La fiche peut être `statut: canon` (la légende existe) tout en racontant des choses fausses. Indiquer : part vraie / part fausse / origine du récit.

@@ -1,0 +1,774 @@
+[
+  {
+    "filename": "00_Systeme/Conventions.md",
+    "result": true
+  },
+  {
+    "filename": "00_Systeme/Index.md",
+    "result": true
+  },
+  {
+    "filename": "00_Systeme/Regles_IA_Lore.md",
+    "result": true
+  },
+  {
+    "filename": "00_Systeme/Tableau de bord.md",
+    "result": true
+  },
+  {
+    "filename": "00_Systeme/Templates/Brainstorm.md",
+    "result": true
+  },
+  {
+    "filename": "00_Systeme/Templates/Concept.md",
+    "result": true
+  },
+  {
+    "filename": "00_Systeme/Templates/Créature.md",
+    "result": true
+  },
+  {
+    "filename": "00_Systeme/Templates/Divinité.md",
+    "result": true
+  },
+  {
+    "filename": "00_Systeme/Templates/Essence.md",
+    "result": true
+  },
+  {
+    "filename": "00_Systeme/Templates/Faction.md",
+    "result": true
+  },
+  {
+    "filename": "00_Systeme/Templates/Lieu.md",
+    "result": true
+  },
+  {
+    "filename": "00_Systeme/Templates/Magie.md",
+    "result": true
+  },
+  {
+    "filename": "00_Systeme/Templates/Personnage.md",
+    "result": true
+  },
+  {
+    "filename": "00_Systeme/Templates/Peuple.md",
+    "result": true
+  },
+  {
+    "filename": "00_Systeme/Templates/Race.md",
+    "result": true
+  },
+  {
+    "filename": "00_Systeme/Templates/Système.md",
+    "result": true
+  },
+  {
+    "filename": "00_Systeme/Templates/Vocation.md",
+    "result": true
+  },
+  {
+    "filename": "00_Systeme/Templates/Ère.md",
+    "result": true
+  },
+  {
+    "filename": "00_Systeme/Templates/Événement.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Créatures/Chairombres.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Créatures/Créatures MOC.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Créatures/Daenithor.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Créatures/Dragons.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Créatures/Faune.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Créatures/Flore.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Créatures/Ghorreks.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Créatures/Hurinathil.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Créatures/Héraut de Naphusis.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Créatures/Raekialar.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Créatures/Thariathor.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Divinités/Anges/Persemis.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Divinités/Demi-dieu/Alfaryus.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Divinités/Demi-dieu/Humarios.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Divinités/Divinités MOC.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Divinités/Esprit/Lamia (ange).md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Divinités/Majeur/Akator.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Divinités/Majeur/Fastiae.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Divinités/Majeur/Maurtria.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Divinités/Majeur/Naïnrak.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Divinités/Majeur/Oriac.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Divinités/Majeur/Xeros.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Divinités/Mineur/Aion.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Divinités/Mineur/Alketeria.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Divinités/Mineur/Armerith.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Divinités/Mineur/Diablio.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Divinités/Mineur/Laxius.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Divinités/Mineur/Oneira.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Divinités/Mineur/Orgea.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Divinités/Mineur/Pilanir.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Divinités/Mineur/Quaesir.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Divinités/Mineur/Rhamal.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Divinités/Mineur/Sophis.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Divinités/Mineur/Thanatia.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Divinités/Mineur/Vindiereis.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Divinités/Primordiales/Albaesclatia.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Divinités/Primordiales/Ataraxus.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Divinités/Primordiales/Chronoversum.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Divinités/Primordiales/Lumina.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Divinités/Primordiales/Mageisys.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Divinités/Primordiales/Naphusis.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Essences/Ichor du Néant.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Factions/Cercle d'Armerith.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Factions/Conseil des Archanges.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Factions/Culte d'Ataraxus.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Lieux/Aequadeus.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Lieux/Atar.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Lieux/Caedarium.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Lieux/Cyroldan.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Lieux/Despophys.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Lieux/Dibertium.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Lieux/Eliyae.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Lieux/Forêt de Naphusis.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Lieux/Horiae.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Lieux/Humildas.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Lieux/Hésychirium.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Lieux/Intraherium.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Lieux/Koboldia.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Lieux/Lamia (planète).md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Lieux/Les Limbes.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Lieux/Les Songes.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Lieux/Lieux MOC.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Lieux/Montagnes de Lerium.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Lieux/Naphusis (lieu).md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Lieux/Plan des Mondes.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Lieux/Royaume de Naphelia.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Magies/Le Fil.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Magies/Magie Arcanique.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Magies/Magies MOC.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Objets/Divin/Fastiandre.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Objets/Divin/Filiama.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Objets/Divin/La Perle d'Albaesclatia.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Objets/Divin/Le Cœur de Lamia.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Objets/Divin/Miroir de Lumina.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Objets/Divin/Soleil.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Objets/Objets MOC.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Peuples/Naphelians.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Races/Divins/Anges.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Races/Divins/Démons.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Races/Divins/Valkys.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Races/Mortels/Drakéide.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Races/Mortels/Elfes.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Races/Mortels/Gnomes.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Races/Mortels/Gobelins.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Races/Mortels/Humains.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Races/Mortels/Nains.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Races/Mortels/Orcs.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Races/Mortels/Vendards.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Systèmes/La Barrière de Lamia.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Systèmes/Le Cycle des Âmes.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Systèmes/Systèmes MOC.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Timeline Master.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Vocations/Druides.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Temps primordiaux/L'Enracinement Primordial.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Temps primordiaux/L'Éveil des Profondeurs.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Temps primordiaux/L'Éveil du Néant.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Temps primordiaux/La Charte du Conseil.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Temps primordiaux/La Flamme Éteinte.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Temps primordiaux/La Première Émanation.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Temps primordiaux/La Retraite du Calme.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Temps primordiaux/La Seconde Émanation.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Temps primordiaux/La Semence Cachée.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Temps primordiaux/Le Dessein des Mortels.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Temps primordiaux/Le Larcin de Mageisys.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Temps primordiaux/Les Accords du Despophys.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Temps primordiaux/Les Prémices de la Discorde.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Exodiale/Alfaryus et la Fondation de Cyroldan.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Exodiale/Humarios et la Fondation d'Humildas.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Exodiale/L'Impossible Retour à l'Unité.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Exodiale/La Chute de l'Âge d'Or.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Exodiale/La Corruption d'Humarios.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Exodiale/La Dernière Menace.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Exodiale/La Sublimation des Treize.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Exodiale/La Transmission de la Magie Arcanique.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Exodiale/Le Dernier Bastion Disputé.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Exodiale/Le Scellement du Cœur.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Exodiale/Les Archanges Devenus Dieux.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Exodiale/Les Jumeaux Divins.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Exodiale/Les Liens Rompus.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/L'Alliance Froide.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/L'Asile des Dragons.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/L'Exil d'Oriac.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/L'Incarnation Draconique d'Akator.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/L'Âge d'Or de Lamia.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/L'Éveil du Fléau.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/La Création des Limbes.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/La Fin de l'Innocence.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/La Garde du Cœur.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/La Guerre des Profondeurs.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/La Lune Manquée.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/La Naissance de l'Intraherium.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/La Perte du Monde des Vendards.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/La Résistance des Entrailles.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/La Trahison Dévoilée.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/La Trahison des Gardiens.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/Le Concile Rompu.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/Le Dernier Serment des Gardiens.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/Le Don du Chagrin.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/Le Grand Déferlement.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/Le Refus d'Albaesclatia.md",
+    "result": true
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/Le Tribut de la Création.md",
+    "result": true
+  },
+  {
+    "filename": "02_Romans/L'Infinitium de Chronoversum.md",
+    "result": true
+  },
+  {
+    "filename": "04_Brouillons/2026-07-12 — Proposition — Légende Le Voile.md",
+    "result": true
+  },
+  {
+    "filename": "04_Brouillons/Aldania.md",
+    "result": true
+  },
+  {
+    "filename": "04_Brouillons/Creperstella.md",
+    "result": true
+  },
+  {
+    "filename": "04_Brouillons/Idée - Alfaryus.md",
+    "result": true
+  },
+  {
+    "filename": "04_Brouillons/La Forge de Creperstella.md",
+    "result": true
+  },
+  {
+    "filename": "04_Brouillons/Le Sceptre des Anges.md",
+    "result": true
+  },
+  {
+    "filename": "04_Brouillons/Le Voile.md",
+    "result": true
+  },
+  {
+    "filename": "04_Brouillons/Mage noir - brouillon old.md",
+    "result": true
+  },
+  {
+    "filename": "04_Brouillons/Makhoma.md",
+    "result": true
+  },
+  {
+    "filename": "04_Brouillons/Nexa.md",
+    "result": true
+  },
+  {
+    "filename": "04_Brouillons/Orgaliens.md",
+    "result": true
+  },
+  {
+    "filename": "05_IA_Inbox/Brainstorm/2026-07-18 — Brainstorm — PeuplementLamia.md",
+    "result": true
+  },
+  {
+    "filename": "05_IA_Inbox/Brainstorm/2026-07-21 — Brainstorm — FragmentsCoeur.md",
+    "result": true
+  },
+  {
+    "filename": "05_IA_Inbox/Brainstorm/2026-07-21 — Brainstorm — OneiraLienMortels.md",
+    "result": true
+  },
+  {
+    "filename": "05_IA_Inbox/Brainstorm/2026-07-21 — Brainstorm — ReparationDuCoeur.md",
+    "result": true
+  },
+  {
+    "filename": "05_IA_Inbox/Brainstorm/2026-07-31 — Brainstorm — LienDivinMortel.md",
+    "result": true
+  },
+  {
+    "filename": "05_IA_Inbox/Brainstorm/2026-08-05 — Brainstorm — NeutraliteMageisys.md",
+    "result": true
+  },
+  {
+    "filename": "05_IA_Inbox/Chantiers/2026-08-07 — Chantier — Akator.md",
+    "result": true
+  },
+  {
+    "filename": "05_IA_Inbox/Chantiers/2026-08-07 — Chantier — Alketeria-Histoire.md",
+    "result": true
+  },
+  {
+    "filename": "05_IA_Inbox/Chantiers/2026-08-07 — Chantier — Armerith.md",
+    "result": true
+  },
+  {
+    "filename": "05_IA_Inbox/Chantiers/2026-08-07 — Chantier — Vindiereis-Refonte.md",
+    "result": true
+  },
+  {
+    "filename": "05_IA_Inbox/Chantiers/2026-08-09 — Chantier — Nainrak-OrigineNains.md",
+    "result": true
+  },
+  {
+    "filename": "05_IA_Inbox/Chantiers/2026-08-10 — Chantier — LeriumKoboldia.md",
+    "result": true
+  },
+  {
+    "filename": "05_IA_Inbox/Chantiers/2026-08-11 — Chantier — Thanatia-Refacto.md",
+    "result": true
+  },
+  {
+    "filename": "05_IA_Inbox/Chantiers/2026-08-12 — Chantier — JumeauxDivins.md",
+    "result": true
+  },
+  {
+    "filename": "05_IA_Inbox/Chantiers/2026-08-13 — Chantier — DerniereMenace-Refonte.md",
+    "result": true
+  },
+  {
+    "filename": "05_IA_Inbox/Chantiers/2026-08-18 — Chantier — Fastiae.md",
+    "result": true
+  },
+  {
+    "filename": "05_IA_Inbox/Chantiers/2026-08-20 — Chantier — Liens-Morts.md",
+    "result": true
+  },
+  {
+    "filename": "99_Archive/Lieux/Empire de Luminorn.md",
+    "result": true
+  },
+  {
+    "filename": "99_Archive/Peuples/Humain/Humains - old.md",
+    "result": true
+  },
+  {
+    "filename": "99_Archive/Peuples/Humain/Luminornien.md",
+    "result": true
+  },
+  {
+    "filename": "Excalidraw/Drawing 2026-05-25 09.44.28.excalidraw.md",
+    "result": true
+  }
+]

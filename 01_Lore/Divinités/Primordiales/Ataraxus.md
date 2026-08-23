@@ -18,7 +18,6 @@ titres:
   - Dieu du chaos et de la destruction
 suivants:
   - Conjurateurs de démons
-  - Ombres
   - "[[Démons]]"
   - Ceux-qui-ont-tout-perdu
 alignement: Chaotique Mauvais
@@ -63,15 +62,15 @@ Là où les anges portaient une intention, une beauté ou une fonction sacrée, 
 
 La guerre qui suivit ravagea l'univers. Monde après monde, les créations d'Albaesclatia furent détruites, les civilisations réduites au silence et les formes de vie arrachées à l'existence. En frappant les protégés de la Déesse de la Vie, Ataraxus ne cherchait pas seulement à conquérir : il voulait éteindre les vibrations mêmes du vivant. Chaque planète morte était, pour lui, un pas vers le calme perdu.
 
-Au terme de ces batailles, Albaesclatia perdit une grande partie de sa puissance. Le vivant fut presque entièrement anéanti dans l'univers, et [[Lamia]] devint l'ultime arche de vie, protégée par les races intelligentes, par l'influence de Lumina et d'Albaesclatia, et par les ultimes décisions de Mageisys.
+Au terme de ces batailles, Albaesclatia perdit une grande partie de sa puissance. Le vivant fut presque entièrement anéanti dans l'univers, et [[Lamia (planète)]] devint l'ultime arche de vie, protégée par les races intelligentes, par l'influence de Lumina et d'Albaesclatia, et par les ultimes décisions de Mageisys.
 
-Frustré de ne pouvoir franchir la barrière protégeant [[Lamia]] pour l'exterminer lui-même, [[Ataraxus]] tente, en pleine Grande Guerre divine (Sérénale ≈2500–2600), une destruction par la force brute : plutôt que d'envoyer seulement ses démons, il projette un astre vers la planète, cherchant à l'anéantir d'un seul impact (voir [[La Lune Manquée]]). Mais sa méconnaissance des lois du Plan des Mondes le trahit : l'astre ne percute pas Lamia, il est capturé par sa gravité et devient [[Atar]], sa lune. Depuis, elle demeure suspendue dans le ciel comme une cicatrice cosmique, rappelant à chaque Lamien que la menace d'Ataraxus n'a jamais disparu. Même lorsqu'il ne peut entrer, même lorsqu'il semble lointain, son ombre continue de veiller sur le monde qu'il veut réduire au silence.
+Frustré de ne pouvoir franchir la barrière protégeant [[Lamia (planète)]] pour l'exterminer lui-même, [[Ataraxus]] tente, en pleine Grande Guerre divine (Sérénale ≈2500–2600), une destruction par la force brute : plutôt que d'envoyer seulement ses démons, il projette un astre vers la planète, cherchant à l'anéantir d'un seul impact (voir [[La Lune Manquée]]). Mais sa méconnaissance des lois du Plan des Mondes le trahit : l'astre ne percute pas Lamia, il est capturé par sa gravité et devient [[Atar]], sa lune. Depuis, elle demeure suspendue dans le ciel comme une cicatrice cosmique, rappelant à chaque Lamien que la menace d'Ataraxus n'a jamais disparu. Même lorsqu'il ne peut entrer, même lorsqu'il semble lointain, son ombre continue de veiller sur le monde qu'il veut réduire au silence.
 
 Bien plus tard, à la [[Grande Bataille de Cyroldan]] (Exodiale ≈1500), la barrière — fragilisée par la corruption d'un fragment du Cœur — cède enfin assez pour qu'Ataraxus s'y manifeste physiquement, cette fois pour de bon. L'affrontement, (*encore peu développé à ce jour*), se solde par sa défaite et par la fracture de l'ancien continent en [[Horiae]] et [[Eliyae]]. C'est de cette bataille, et du [[Le Scellement du Cœur|rescellement du Cœur]] qui la précède de peu, que naît la loi bannissant durablement la présence physique des dieux sur Lamia. Ce bannissement empêche Ataraxus d'entrer librement dans le dernier monde vivant, mais il ne met pas fin à son influence.
 
 Sur Lamia, Ataraxus est désormais considéré comme le dieu de la Destruction, le grand dirigeant des démons et la source majeure de corruption. Comprenant qu'il ne pourrait pas prendre le monde par la force pure, il changea de stratégie. Plutôt que de chercher uniquement l'invasion totale, il se mit à semer la discorde, à exploiter les failles des mortels, à transformer les êtres faibles ou brisés en instruments de chaos.
 
-Son action actuelle passe par la corruption, la mutation, la démonisation et la perte de soi. Il ne détruit pas seulement les corps : il déforme les volontés, attise les haines, fragmente les communautés et pousse les peuples à devenir les agents de leur propre ruine. Les [[Demi-démons]], les cultes corrompus, les créatures mutées et les zones ravagées par sa marque sont autant de tentatives pour affaiblir Lamia de l'intérieur.
+Son action actuelle passe par la corruption, la mutation, la démonisation et la perte de soi. Il ne détruit pas seulement les corps : il déforme les volontés, attise les haines, fragmente les communautés et pousse les peuples à devenir les agents de leur propre ruine. Les [[Démons]], les cultes corrompus, les [[Chairombres]] et les zones ravagées par sa marque sont autant de tentatives pour affaiblir Lamia de l'intérieur.
 
 Ataraxus reste ainsi une figure tragique et terrifiante : il n'est pas né comme dieu du chaos, mais comme dieu du calme. Sa destruction n'est pas une passion gratuite ; elle est la forme monstrueuse qu'a prise son désir de paix absolue. Là où Albaesclatia voit dans la vie une merveille imparfaite, Ataraxus n'y voit qu'un vacarme insupportable qu'il faut enfin réduire au silence.
 
@@ -123,49 +122,14 @@ Ataraxus est donc dangereux parce qu'il peut justifier l'horreur comme une purif
 - [[Lumina]] et [[Albaesclatia]] — leur projet de vie est la blessure fondatrice qui le fait basculer ; ennemies premières.
 - [[Naphusis]] — antithèse idéologique (équilibre vivant vs silence final), selon la fiche [[Naphusis]].
 - [[Démons]] — ses créations, reflets déformés des anges (voir [[Le Grand Déferlement]]).
-- [[Maurtria]] — alliée objective, tolérée malgré sa haine des Archanges : sa corruption des gardiens nains fracture le cœur de Lamia et ouvre la brèche aux démons ([[01_Lore/Timeline Master]], Sérénale ≈ 2750) ; il la laisse faire, elle et d'autres Archanges retournés contre le Conseil, parce qu'ils lui offrent un accès à Lamia qu'il n'a pas lui-même.
+- [[Maurtria]] — alliée objective, tolérée malgré sa haine des Archanges : sa corruption des gardiens nains fracture le cœur de Lamia et ouvre la brèche aux démons ([[Timeline Master]], Sérénale ≈ 2750) ; il la laisse faire, elle et d'autres Archanges retournés contre le Conseil, parce qu'ils lui offrent un accès à Lamia qu'il n'a pas lui-même.
 - [[Atar]] — cicatrice de sa tentative manquée de détruire Lamia par un astre (Sérénale ≈ 2500–2600, voir [[La Lune Manquée]]) ; décision tranchée : pas une divinité ([[Index]]).
 - [[Grande Bataille de Cyroldan]] — seule manifestation physique confirmée sur Lamia (Exodiale ≈1500) ; chantier en cours, déroulement non développé ici.
 - [[L'Éveil du Fléau]] — sa métamorphose en dieu de la destruction (implosion, corps de destruction) et son premier massacre.
 - [[Le Grand Déferlement]] — création de son armée de démons, lancée simultanément sur des milliers de planètes.
 - [[Culte d'Ataraxus]] — relais mortels de son influence actuelle.
-
-
 - [[Mageisys]] — sait qu'il pourrait détruire [[Hésychirium|Hésychion]] à tout moment et lui rendre d'autres services, mais ne teste jamais cette limite : équilibre tacite de non-agression entre les deux plus anciens primordiaux.
+- [[Ichor du Néant]] — émanation et substance que dégage Ataraxus et ses démons. 
+- [[Chairombres]] — créatures corrompues par l'Ichor du Néant.
 
 ## Contradictions potentielles
-
-> [!ia-a-valider]- 2026-07-27 — Terminologie : « ère » → « émanation »
-> **Décision** : terminologie retenue avec l'auteur (session Chronoversum, 2026-07-27) — voir [[Chronoversum|Chronoversum]].
-> **Modifié** : Résumé, Histoire, Désir conscient et Relations — toutes les occurrences de « première/seconde ère (cosmique) » remplacées par « première/seconde émanation », plus champ `source: ia` ajouté (manquant). Aucun autre changement de contenu.
-
-^rev-20260727-ataraxus-terminologie
-
-> [!ia-a-valider]- 2026-07-28 — Arbitrages de session : Cyroldan, sacrifice de Mageisys, mécanisme d'Atar, liens événementiels
-> **Décision** : quatre points tranchés avec l'auteur (session du 2026-07-28).
-> **Modifié** : Histoire (deux paragraphes réécrits et réordonnés chronologiquement) et Relations (liens ajoutés/corrigés) — détail ci-dessous.
->
-> 1. **Manifestation physique omise** — résolue en distinguant deux épisodes séparés : la projection de l'astre ([[La Lune Manquée]], Sérénale ≈2500–2600, échec — devient Atar) puis, bien plus tard, la [[Grande Bataille de Cyroldan]] (Exodiale ≈1500, chantier en cours — existence canon actée, déroulement non développé ici sur ta décision). Histoire réordonnée pour respecter cette chronologie.
-> 2. **« Sacrifice » de Mageisys** — abandonné. Le bannissement des dieux est désormais rattaché à la Grande Bataille de Cyroldan et au [[Le Scellement du Cœur|rescellement du Cœur]] qui la précède — chantier en cours de réflexion (l'auteur du sacrifice reste volontairement non tranché), sans attribution à Mageisys.
-> 3. **Mécanisme de l'échec de l'astre** — tranché par les fiches canon [[Atar]] et [[La Lune Manquée]] : capture gravitationnelle, due à l'ignorance d'Ataraxus des lois du Plan des Mondes. Les deux autres versions (« arrêté par des forces défensives » ; Timeline neutre) abandonnées.
-> 4. **Épisodes de la Genèse absents** — reliés à leurs fiches canon déjà existantes, ajoutées en Relations : [[La Retraite du Calme]] (plan-refuge de Mageisys), [[L'Éveil du Fléau]] (implosion, métamorphose, premier massacre), [[Le Grand Déferlement]] (levée des démons). Ils n'étaient pas vraiment absents : seuls les liens manquaient.
-
-^rev-20260728-ataraxus-cyroldan-atar
-
-> [!ia-a-valider]- 2026-08-01 — Motivation de la tolérance envers Maurtria et les Archanges retournés
-> **Décision** : tranchée avec l'auteur (session du 2026-08-01).
-> **Modifié** : ligne Maurtria enrichie d'une motivation explicite.
-
-^rev-20260801-ataraxus-tolerance-maurtria
-
-> [!ia-a-valider]- 2026-08-05 — Ajout : équilibre tacite avec Mageisys sur Hésychion
-> **Décision** : tranchée avec l'auteur (session brainstorm [[2026-08-05 — Brainstorm — NeutraliteMageisys]]).
-> **Modifié** : Relations (nouvelle ligne Mageisys). Ataraxus sait que Mageisys pourrait détruire Hésychion et lui rendre d'autres services, mais ne teste jamais cette limite. Voir aussi [[Mageisys]] et [[L'Alliance Froide]] pour le même équilibre.
-
-^rev-20260805-ataraxus-mageisys-equilibre
-
-> [!ia-a-valider]- 2026-08-12 — Propriétés Charted Roots
-> **Décision** : demande explicite de l'auteur (session 2026-08-12). Aucun lore modifié.
-> **Ajouté en frontmatter** : `cr_type: person` · `sex: male` · `pronouns: il/lui` · `revision: ia-a-valider`
-
-^rev-20260812-charted-roots-ataraxus

@@ -1,0 +1,817 @@
+[
+  {
+    "filename": "01_Lore/Créatures/Créatures MOC.md",
+    "result": [
+      "- MOC Créatures"
+    ]
+  },
+  {
+    "filename": "01_Lore/Créatures/Daenithor.md",
+    "result": [
+      "- Dragon d'eau de Koboldia",
+      "Gardien des Courants"
+    ]
+  },
+  {
+    "filename": "01_Lore/Créatures/Dragons.md",
+    "result": [
+      "- Dragons"
+    ]
+  },
+  {
+    "filename": "01_Lore/Créatures/Ghorreks.md",
+    "result": [
+      "- Ghorrek"
+    ]
+  },
+  {
+    "filename": "01_Lore/Créatures/Hurinathil.md",
+    "result": [
+      "- Dragon du vent de Koboldia"
+    ]
+  },
+  {
+    "filename": "01_Lore/Créatures/Héraut de Naphusis.md",
+    "result": [
+      "- la Fureur de Naphusis"
+    ]
+  },
+  {
+    "filename": "01_Lore/Créatures/Raekialar.md",
+    "result": [
+      "- Dragon de feu de Koboldia"
+    ]
+  },
+  {
+    "filename": "01_Lore/Créatures/Thariathor.md",
+    "result": [
+      "- Dragon de terre de Koboldia"
+    ]
+  },
+  {
+    "filename": "01_Lore/Divinités/Demi-dieu/Alfaryus.md",
+    "result": [
+      "- Demi-dieu de la Magie",
+      "Nouveau dieu de la Magie",
+      "Le Grand Arcaniste",
+      "[[Elfes]]",
+      "Mages",
+      "Professeurs",
+      "Chercheurs",
+      "Savants"
+    ]
+  },
+  {
+    "filename": "01_Lore/Divinités/Demi-dieu/Humarios.md",
+    "result": [
+      "- Frère de Alfaryus"
+    ]
+  },
+  {
+    "filename": "01_Lore/Divinités/Divinités MOC.md",
+    "result": [
+      "- MOC Divinités"
+    ]
+  },
+  {
+    "filename": "01_Lore/Divinités/Majeur/Akator.md",
+    "result": [
+      "- Dieu des dragons",
+      "Dieu de la puissance",
+      "Le Dieu des dragons",
+      "Dieu de la puissance",
+      "[[Drakéide]]",
+      "[[Orcs]]",
+      "Barbares",
+      "[[Dragons]]"
+    ]
+  },
+  {
+    "filename": "01_Lore/Divinités/Majeur/Maurtria.md",
+    "result": [
+      "- Déesse du meurtre",
+      "Déesse du sang",
+      "Déesse du meurtre et du sang",
+      "Âmes perdues",
+      "Désespérés",
+      "Tourmentés",
+      "[[Disciples de Maurtria]]",
+      "Marqués"
+    ]
+  },
+  {
+    "filename": "01_Lore/Divinités/Majeur/Naïnrak.md",
+    "result": [
+      "- Foyer du monde",
+      "Dieu du Foyer",
+      "Dieu de la Famille",
+      "Le Foyer du monde",
+      "[[Nains]]",
+      "[[Ghorreks]]",
+      "Familles en général"
+    ]
+  },
+  {
+    "filename": "01_Lore/Divinités/Majeur/Oriac.md",
+    "result": [
+      "- Fléau du fer",
+      "Dieu de la Guerre",
+      "Dieu de la Discipline",
+      "Le Fléau du fer",
+      "[[Orcs]]",
+      "Demi-orcs",
+      "Barbares",
+      "Militaires en tout genre"
+    ]
+  },
+  {
+    "filename": "01_Lore/Divinités/Majeur/Xeros.md",
+    "result": [
+      "- Dieu aux Mille Visages",
+      "Dieu de la Diversité",
+      "Dieu de l'évolution",
+      "Le Dieu aux Mille Visages",
+      "[[Xeroniens]]"
+    ]
+  },
+  {
+    "filename": "01_Lore/Divinités/Mineur/Armerith.md",
+    "result": [
+      "- Dieu de la forge",
+      "Dieu de l'artisanat",
+      "Dieu du travail",
+      "Dieu de la forge, du travail et de la création sacrée",
+      "Artisans",
+      "Forgerons",
+      "Bâtisseurs",
+      "Inventeurs"
+    ]
+  },
+  {
+    "filename": "01_Lore/Divinités/Mineur/Diablio.md",
+    "result": [
+      "- Dieu des contrats",
+      "Dieu de la tentation",
+      "Dieu des contrats et de la tentation",
+      "Âme sous contrat",
+      "Serviteur de Diablio"
+    ]
+  },
+  {
+    "filename": "01_Lore/Divinités/Mineur/Pilanir.md",
+    "result": [
+      "- Le Sourire de la Mort",
+      "Dieu de la Tourmente"
+    ]
+  },
+  {
+    "filename": "01_Lore/Divinités/Mineur/Rhamal.md",
+    "result": [
+      "- Ange Noir",
+      "Dieu de la Maladie",
+      "L'Ange Noir",
+      "[[Tumeurs de Rhamal]]"
+    ]
+  },
+  {
+    "filename": "01_Lore/Divinités/Mineur/Sophis.md",
+    "result": [
+      "- L'Apaiseuse",
+      "Déesse de la Paix"
+    ]
+  },
+  {
+    "filename": "01_Lore/Divinités/Mineur/Vindiereis.md",
+    "result": [
+      "- Melidarth",
+      "Le Roi Sombre",
+      "[[Vendards]]",
+      "[[Les Miroirs de l'Âme]]"
+    ]
+  },
+  {
+    "filename": "01_Lore/Divinités/Primordiales/Albaesclatia.md",
+    "result": [
+      "- Déesse de la Vie",
+      "[[Lamia (ange)]]",
+      "[[Xeros]]",
+      "[[Maurtria]]",
+      "[[Akator]]",
+      "[[Vindiereis]]",
+      "[[Armerith]]",
+      "[[Alfaryus]]",
+      "[[Naïnrak]]",
+      "[[Alketeria]]",
+      "[[Thanatia]]",
+      "[[Mage noir - brouillon old|Humarios]]",
+      "[[Oneira]]",
+      "[[Laxius]]",
+      "[[Oriac]]",
+      "[[Rhamal|Rhamal]]",
+      "[[Orgea]]",
+      "[[Diablio]]",
+      "[[Fastiae]]",
+      "[[Fastiae]]",
+      "[[Quaesir]]",
+      "[[Persemis]]",
+      "[[Sophis]]",
+      "[[Pilanir]]",
+      "[[Aion|Aion]]",
+      "[[Mageisys]]",
+      "uun-538-yfb-935",
+      "hhl-652-auq-293",
+      "kww-526-jva-492",
+      "yho-347-xrs-106",
+      "vqk-179-rpz-791",
+      "pfw-146-ifm-859",
+      "uuc-651-qvz-707",
+      "exq-590-uac-126",
+      "fgj-357-kge-271",
+      "lpx-446-awm-116",
+      "aur-333-fch-044",
+      "aky-027-hra-088",
+      "paz-820-oro-199",
+      "qnk-633-sal-205",
+      "cnh-584-rab-992"
+    ]
+  },
+  {
+    "filename": "01_Lore/Divinités/Primordiales/Ataraxus.md",
+    "result": [
+      "- Dieu du chaos",
+      "Dieu de la destruction",
+      "Ancien dieu du Calme et de la Tranquillité",
+      "Dieu du chaos et de la destruction",
+      "Conjurateurs de démons",
+      "[[Démons]]",
+      "Ceux-qui-ont-tout-perdu"
+    ]
+  },
+  {
+    "filename": "01_Lore/Divinités/Primordiales/Chronoversum.md",
+    "result": [
+      "- Dieu des dieux",
+      "Dieu du temps",
+      "Dieu du Tout",
+      "Dieu du temps et du Tout",
+      "Fous",
+      "[[Ataraxus]]",
+      "[[Mageisys]]",
+      "[[Albaesclatia]]",
+      "[[Lumina]]",
+      "[[Naphusis]]",
+      "wmz-642-cwt-213",
+      "ybj-043-twy-933",
+      "mzl-858-vyw-779",
+      "bwu-119-nwq-933",
+      "var-181-rfb-104"
+    ]
+  },
+  {
+    "filename": "01_Lore/Divinités/Primordiales/Lumina.md",
+    "result": [
+      "- Fleur de l'aube",
+      "Flamme guérisseuse",
+      "Déesse de la lumière et de la justice",
+      "Soigneurs",
+      "Agriculteurs",
+      "Repentis du mal"
+    ]
+  },
+  {
+    "filename": "01_Lore/Divinités/Primordiales/Mageisys.md",
+    "result": [
+      "- Dieu de la Magie Élémentaire",
+      "Dieu du Savoir",
+      "Dieu du savoir et de la magie élémentaire",
+      "[[Mages]]",
+      "[[Chercheurs]]",
+      "[[Alchimistes]]",
+      "[[Alfaryus]]",
+      "[[Humarios]]",
+      "[[Albaesclatia]]",
+      "vqk-179-rpz-791"
+    ]
+  },
+  {
+    "filename": "01_Lore/Divinités/Primordiales/Naphusis.md",
+    "result": [
+      "- Arbre-Monde",
+      "Déesse de la Nature",
+      "Déesse de la Nature",
+      "Druides",
+      "Marins",
+      "Paysans",
+      "[[Gnomes]]"
+    ]
+  },
+  {
+    "filename": "01_Lore/Essences/Ichor du Néant.md",
+    "result": [
+      "- Essence d'Ataraxus",
+      "Fumée du Néant"
+    ]
+  },
+  {
+    "filename": "01_Lore/Factions/Conseil des Archanges.md",
+    "result": [
+      "- Ellurium"
+    ]
+  },
+  {
+    "filename": "01_Lore/Lieux/Caedarium.md",
+    "result": [
+      "- Le Plan-Refuge de Maurtria"
+    ]
+  },
+  {
+    "filename": "01_Lore/Lieux/Cyroldan.md",
+    "result": [
+      "- Ville du Foyer",
+      "l'Ancienne Cyroldan",
+      "Ancienne Cyroldan"
+    ]
+  },
+  {
+    "filename": "01_Lore/Lieux/Eliyae.md",
+    "result": [
+      "- continent est",
+      "continent oriental"
+    ]
+  },
+  {
+    "filename": "01_Lore/Lieux/Forêt de Naphusis.md",
+    "result": [
+      "- La Forêt de Naphusis"
+    ]
+  },
+  {
+    "filename": "01_Lore/Lieux/Horiae.md",
+    "result": [
+      "- continent ouest",
+      "continent occidental"
+    ]
+  },
+  {
+    "filename": "01_Lore/Lieux/Humildas.md",
+    "result": [
+      "- Le Refuge Maritime"
+    ]
+  },
+  {
+    "filename": "01_Lore/Lieux/Hésychirium.md",
+    "result": [
+      "- Le Plan-Refuge d'Ataraxus"
+    ]
+  },
+  {
+    "filename": "01_Lore/Lieux/Les Songes.md",
+    "result": [
+      "- Plan des Rêves",
+      "Monde des Rêves"
+    ]
+  },
+  {
+    "filename": "01_Lore/Lieux/Lieux MOC.md",
+    "result": [
+      "- MOC Lieux"
+    ]
+  },
+  {
+    "filename": "01_Lore/Lieux/Montagnes de Lerium.md",
+    "result": [
+      "- Chaîne de Lerium"
+    ]
+  },
+  {
+    "filename": "01_Lore/Lieux/Royaume de Naphelia.md",
+    "result": [
+      "- Naphelia"
+    ]
+  },
+  {
+    "filename": "01_Lore/Magies/Le Fil.md",
+    "result": [
+      "- Magie divine"
+    ]
+  },
+  {
+    "filename": "01_Lore/Magies/Magie Arcanique.md",
+    "result": [
+      "- l'Arcane"
+    ]
+  },
+  {
+    "filename": "01_Lore/Magies/Magies MOC.md",
+    "result": [
+      "- MOC Magies"
+    ]
+  },
+  {
+    "filename": "01_Lore/Objets/Divin/Fastiandre.md",
+    "result": [
+      "- La Fastiandre"
+    ]
+  },
+  {
+    "filename": "01_Lore/Objets/Divin/Filiama.md",
+    "result": [
+      "- La Flamme de Vie"
+    ]
+  },
+  {
+    "filename": "01_Lore/Objets/Divin/Soleil.md",
+    "result": [
+      "- Le Soleil de Lamia"
+    ]
+  },
+  {
+    "filename": "01_Lore/Objets/Objets MOC.md",
+    "result": [
+      "- MOC Objets"
+    ]
+  },
+  {
+    "filename": "01_Lore/Peuples/Naphelians.md",
+    "result": [
+      "- Naphelian",
+      "Elfes Naphelians"
+    ]
+  },
+  {
+    "filename": "01_Lore/Races/Mortels/Drakéide.md",
+    "result": [
+      "- Descendants des Dragons",
+      "Race draconique"
+    ]
+  },
+  {
+    "filename": "01_Lore/Races/Mortels/Orcs.md",
+    "result": [
+      "- Orc"
+    ]
+  },
+  {
+    "filename": "01_Lore/Races/Mortels/Vendards.md",
+    "result": [
+      "- Vendard"
+    ]
+  },
+  {
+    "filename": "01_Lore/Systèmes/Le Cycle des Âmes.md",
+    "result": [
+      "- Le Flux de Filiama",
+      "Le Cycle des Naissances et des Morts"
+    ]
+  },
+  {
+    "filename": "01_Lore/Systèmes/Systèmes MOC.md",
+    "result": [
+      "- MOC Systèmes"
+    ]
+  },
+  {
+    "filename": "01_Lore/Timeline Master.md",
+    "result": [
+      "- Chronologie",
+      "Timeline"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Temps primordiaux/L'Enracinement Primordial.md",
+    "result": [
+      "- Le Premier Bourgeon"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Temps primordiaux/L'Éveil des Profondeurs.md",
+    "result": [
+      "- La Création des Nains"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Temps primordiaux/L'Éveil du Néant.md",
+    "result": [
+      "- La Genèse du Tout"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Temps primordiaux/La Charte du Conseil.md",
+    "result": [
+      "- La Naissance des Vingt"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Temps primordiaux/La Flamme Éteinte.md",
+    "result": [
+      "- Le Deuil d'Albaesclatia"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Temps primordiaux/La Première Émanation.md",
+    "result": [
+      "- La Dyade Primordiale"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Temps primordiaux/La Retraite du Calme.md",
+    "result": [
+      "- L'Exil Volontaire"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Temps primordiaux/La Seconde Émanation.md",
+    "result": [
+      "- L'Aube Jumelle"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Temps primordiaux/La Semence Cachée.md",
+    "result": [
+      "- La Naissance de Lamia"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Temps primordiaux/Le Dessein des Mortels.md",
+    "result": [
+      "- Le Vœu d'Albaesclatia"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Temps primordiaux/Le Larcin de Mageisys.md",
+    "result": [
+      "- Le Repos Promis"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Temps primordiaux/Les Accords du Despophys.md",
+    "result": [
+      "- Le Serment des Deux Frères"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Temps primordiaux/Les Prémices de la Discorde.md",
+    "result": [
+      "- Le Premier Désaccord"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Exodiale/Alfaryus et la Fondation de Cyroldan.md",
+    "result": [
+      "- La Ville du Foyer"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Exodiale/Humarios et la Fondation d'Humildas.md",
+    "result": [
+      "- Le Refuge Maritime"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Exodiale/L'Impossible Retour à l'Unité.md",
+    "result": [
+      "- La Fin du Conseil"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Exodiale/La Chute de l'Âge d'Or.md",
+    "result": [
+      "- L'Invasion"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Exodiale/La Corruption d'Humarios.md",
+    "result": [
+      "- La Chute du Mage Noir"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Exodiale/La Dernière Menace.md",
+    "result": [
+      "- Le Long Poison"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Exodiale/La Transmission de la Magie Arcanique.md",
+    "result": [
+      "- La Naissance de l'Arcane"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Exodiale/Le Dernier Bastion Disputé.md",
+    "result": [
+      "- L'Enjeu Divin"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Exodiale/Le Scellement du Cœur.md",
+    "result": [
+      "- Le Sursis"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Exodiale/Les Archanges Devenus Dieux.md",
+    "result": [
+      "- L'Élévation par le Culte"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Exodiale/Les Jumeaux Divins.md",
+    "result": [
+      "- La Naissance des Guides Incarnés"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Exodiale/Les Liens Rompus.md",
+    "result": [
+      "- Le Retrait d'Albaesclatia"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/L'Alliance Froide.md",
+    "result": [
+      "- La Réconciliation Silencieuse"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/L'Asile des Dragons.md",
+    "result": [
+      "- L'Arrivée des Quatre"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/L'Exil d'Oriac.md",
+    "result": [
+      "- Bannissement d'Oriac"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/L'Incarnation Draconique d'Akator.md",
+    "result": [
+      "- La Transformation d'Akator",
+      "La Forge Draconique"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/L'Âge d'Or de Lamia.md",
+    "result": [
+      "- L'apogée de Lamia",
+      "Le Temps de la Paix"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/L'Éveil du Fléau.md",
+    "result": [
+      "- La Chute du Dieu du Calme"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/La Fin de l'Innocence.md",
+    "result": [
+      "- Le Premier Sortilège de Guerre"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/La Garde du Cœur.md",
+    "result": [
+      "- Le Serment de Naïnrak"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/La Guerre des Profondeurs.md",
+    "result": [
+      "- La Chute des Cités Naines"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/La Lune Manquée.md",
+    "result": [
+      "- La Cicatrice du Ciel"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/La Naissance de l'Intraherium.md",
+    "result": [
+      "- La Création de l'Intraherium"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/La Perte du Monde des Vendards.md",
+    "result": [
+      "- Le Sacrifice des Vendards"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/La Résistance des Entrailles.md",
+    "result": [
+      "- La Chute de la Planète des Nains",
+      "L'Exode vers le Dibertium"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/La Trahison Dévoilée.md",
+    "result": [
+      "- Le Grand Isolement"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/La Trahison des Gardiens.md",
+    "result": [
+      "- La Fracture du Cœur"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/Le Concile Rompu.md",
+    "result": [
+      "- La Trêve Manquée"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/Le Dernier Serment des Gardiens.md",
+    "result": [
+      "- La Disparition des Gardiens"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/Le Don du Chagrin.md",
+    "result": [
+      "- Les Enfants de Naphusis"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/Le Grand Déferlement.md",
+    "result": [
+      "- Les Larmes des Mondes"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/Le Refus d'Albaesclatia.md",
+    "result": [
+      "- L'Interdit d'Albaesclatia"
+    ]
+  },
+  {
+    "filename": "01_Lore/Évenements/Ère Sérénale/Le Tribut de la Création.md",
+    "result": [
+      "- Le Don de Mageisys"
+    ]
+  },
+  {
+    "filename": "02_Romans/L'Infinitium de Chronoversum.md",
+    "result": [
+      "- Infinitium"
+    ]
+  },
+  {
+    "filename": "04_Brouillons/2026-07-12 — Proposition — Légende Le Voile.md",
+    "result": [
+      "Les récits du Voile"
+    ]
+  },
+  {
+    "filename": "04_Brouillons/Aldania.md",
+    "result": [
+      "- Grande Prêtresse Sanglante"
+    ]
+  },
+  {
+    "filename": "04_Brouillons/Creperstella.md",
+    "result": [
+      "- L'Épée d'Albaesclatia"
+    ]
+  },
+  {
+    "filename": "04_Brouillons/Le Sceptre des Anges.md",
+    "result": [
+      "- La Régence de Lumina"
+    ]
+  },
+  {
+    "filename": "04_Brouillons/Le Voile.md",
+    "result": [
+      "L'enfouissement du Cœur"
+    ]
+  },
+  {
+    "filename": "04_Brouillons/Mage noir - brouillon old.md",
+    "result": [
+      "- Frère de Alfaryus",
+      "Le Mage noir",
+      "Mages noirs"
+    ]
+  },
+  {
+    "filename": "04_Brouillons/Makhoma.md",
+    "result": [
+      "- Anges de mort",
+      "Anges de Maurtria"
+    ]
+  },
+  {
+    "filename": "04_Brouillons/Nexa.md",
+    "result": [
+      "- Dague de Maurtria",
+      "La Lame Sanglante"
+    ]
+  }
+]

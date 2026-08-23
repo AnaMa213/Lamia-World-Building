@@ -71,7 +71,7 @@ Au sud de l'Ancienne Cyroldan, [[La Prison de Cyroldan]] est construite et explo
 - [[Le Cœur de Lamia]] — fragment enfoui sous les fondations, source de la protection
 - [[Maurtria]] — corrompt le gardien nain, causant indirectement la protection de Cyroldan
 - [[Nains]] — leur gardien corrompu est le secret enfoui sous la cité
-- [[Humildas]] — cité-sanctuaire parallèle fondée au sud par [[Humarios]]
+- [[Humildas]] — cité-sanctuaire parallèle fondée au sud par [[Mage noir - brouillon old]]
 - [[La Forêt de Naphusis]] — forêt voisine, au sud de la cité
 - [[Arbre-Monde]] — à quelques centaines de kilomètres au sud, centre du continent
 - [[Trans-flux]] — technologie de téléportation présente dans une cité ruinée voisine (Ère Sérénale)

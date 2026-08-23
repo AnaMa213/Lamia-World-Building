@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786979739533-bk26b2jyh",
+  "providerId": "claude",
+  "title": "Créer une fiche Créatures pour les Dragons",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786979739536,
+  "lastActivityAt": 1786984207224,
+  "sessionId": "5412c141-8b02-4dc8-ac48-55859ffd405a",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "5412c141-8b02-4dc8-ac48-55859ffd405a"
+  },
+  "currentNote": "01_Lore/Divinités/Majeur/Akator.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 6047,
+    "cacheReadInputTokens": 80234,
+    "contextWindow": 1000000,
+    "contextTokens": 86284,
+    "percentage": 9
+  }
+}

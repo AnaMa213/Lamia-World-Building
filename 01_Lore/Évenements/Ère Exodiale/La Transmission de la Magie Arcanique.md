@@ -4,7 +4,7 @@ source: auteur
 type: evenement
 importance: majeur
 ere: exodiale
-annee: 900
+annee: ≈ 900 EE
 annee_debut:
 annee_fin:
 tags:
@@ -29,7 +29,7 @@ Des siècles après la fondation de Cyroldan (voir [[Alfaryus et la Fondation de
 
 ## Déroulement
 
-[[Alfaryus]] transmet aux mortels une part de l'essence mageysienne sous une forme nouvelle, pensée pour ceux qui ne peuvent dompter l'élémentaire : la **magie arcanique**. Moins puissante en force brute que l'élémentaire, elle est plus stable, plus précise et plus polyvalente — une arme contre les démons qui ne dépend plus directement des dieux, ni d'un don rare.
+[[Alfaryus]] transmet aux mortels une part de l'essence mageysienne sous une forme nouvelle, pensée pour ceux qui ne peuvent dompter l'élémentaire : la **[[Magie Arcanique]]**. Moins puissante en force brute que l'élémentaire, elle est plus stable, plus précise et plus polyvalente — une arme contre les démons qui ne dépend plus directement des dieux, ni d'un don rare.
 
 ## Conséquences
 
@@ -47,4 +47,4 @@ Fait largement connu — la magie arcanique et son lien à Alfaryus sont documen
 
 ## Contradictions potentielles
 
-**Aucune contradiction relevée.** Cohérent avec l'entrée déjà existante dans [[01_Lore/Timeline Master]] (≈900) et avec la fiche déjà migrée d'Alfaryus.
+**Aucune contradiction relevée.** Cohérent avec l'entrée déjà existante dans [[Timeline Master]] (≈900) et avec la fiche déjà migrée d'Alfaryus.

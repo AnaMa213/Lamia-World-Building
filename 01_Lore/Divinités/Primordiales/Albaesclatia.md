@@ -18,7 +18,7 @@ alignement: Loyal Bon
 date: 2026-07-11
 aliases:
   - Déesse de la Vie
-revision-date: 2026-08-12
+revision-date: 2026-08-18
 cr_type: person
 sex: female
 pronouns: elle/la
@@ -33,19 +33,45 @@ children:
   - "[[Naïnrak]]"
   - "[[Alketeria]]"
   - "[[Thanatia]]"
-revision:
+  - "[[Mage noir - brouillon old|Humarios]]"
+  - "[[Oneira]]"
+  - "[[Laxius]]"
+  - "[[Oriac]]"
+  - "[[Rhamal|Rhamal]]"
+  - "[[Orgea]]"
+  - "[[Diablio]]"
+  - "[[Fastiae]]"
+  - "[[Fastiae]]"
+  - "[[Quaesir]]"
+  - "[[Persemis]]"
+  - "[[Sophis]]"
+  - "[[Pilanir]]"
+  - "[[Aion|Aion]]"
 cr_id: mzl-858-vyw-779
 name: Albaesclatia
 born: ""
 died: ""
 father: "[[Chronoversum]]"
 mother: "[[Chronoversum]]"
-spouses: []
+spouses:
+  - "[[Mageisys]]"
 group_name: divinite
 children_id:
   - uun-538-yfb-935
   - hhl-652-auq-293
   - kww-526-jva-492
+  - yho-347-xrs-106
+  - vqk-179-rpz-791
+  - pfw-146-ifm-859
+  - uuc-651-qvz-707
+  - exq-590-uac-126
+  - fgj-357-kge-271
+  - lpx-446-awm-116
+  - aur-333-fch-044
+  - aky-027-hra-088
+  - paz-820-oro-199
+  - qnk-633-sal-205
+  - cnh-584-rab-992
 ---
 
 # Albaesclatia
@@ -72,7 +98,7 @@ Dans ce nouveau plan, Albaesclatia parvint à créer des anges à son image, pui
 
 Mais même après de nombreuses discussions avec Mageisys, ils ne trouvèrent pas le moyen suffisant pour créer la vie sur ce plan complexe. La vie ne pouvait pas seulement être posée sur les mondes comme une lumière fragile. Elle avait besoin d'un environnement vivant, d'un cycle, d'un souffle, d'un réseau capable de soutenir les êtres imparfaits qu'Albaesclatia rêvait de voir évoluer. C'est dans cette quête d'un monde réellement habitable qu'apparut [[Naphusis]], lié à la nature, à l'équilibre organique et à la capacité de la vie à s'enraciner dans la matière. (voir  [[L'Enracinement Primordial]])
 
-Grâce à l'apparition de Naphusis sur de nombreuses planètes, les mondes vivants purent enfin se développer. Des espèces, des peuples et des civilisations apparurent dans de nombreux lieux de l'univers, jusqu'à donner naissance aux multiples races intelligentes qui peupleraient plus tard [[Lamia]] et d'autres mondes du [[Plan des Mondes]]. La mort de la première Lamia ne fut donc pas effacée ; elle devint la blessure originelle à partir de laquelle Albaesclatia comprit que créer la vie, ce n'était pas seulement lui donner naissance, mais lui donner les moyens de survivre sans elle.
+Grâce à l'apparition de Naphusis sur de nombreuses planètes, les mondes vivants purent enfin se développer. Des espèces, des peuples et des civilisations apparurent dans de nombreux lieux de l'univers, jusqu'à donner naissance aux multiples races intelligentes qui peupleraient plus tard [[Lamia (planète)]] et d'autres mondes du [[Plan des Mondes]]. La mort de la première Lamia ne fut donc pas effacée ; elle devint la blessure originelle à partir de laquelle Albaesclatia comprit que créer la vie, ce n'était pas seulement lui donner naissance, mais lui donner les moyens de survivre sans elle.
 
 Pendant longtemps, Albaesclatia fut l'une des divinités les plus puissantes du cosmos. L'abondance croissante de la vie nourrissait son influence, tandis que ses créations se multipliaient dans l'univers. Mais cette expansion troubla profondément [[Ataraxus]], ancien dieu de la plénitude, attaché au silence froid du vide et à l'absence d'agitation. Pour lui, la vie était une rupture, une vibration insupportable dans l'ordre immobile qu'il désirait.
 
@@ -117,7 +143,7 @@ Albaesclatia veut préserver la vie sous toutes ses formes.
 
 Elle ne cherche pas seulement à sauver les peuples qu'elle juge beaux, purs ou dignes. Son amour s'étend aux êtres fragiles, imparfaits, blessés, inachevés ou menacés. Chaque forme de vie représente pour elle une victoire contre le silence du vide et contre la destruction portée par [[Ataraxus]].
 
-Depuis la perte de nombreux mondes et l'affaiblissement de son influence, son désir s'est concentré sur [[Lamia]], dernier grand vaisseau de vie. Elle cherche un porteur digne, capable de faire rayonner sa volonté dans le monde sans devenir un conquérant ou un fanatique. Ce porteur devrait défendre la vie, réparer ce qui peut l'être, protéger les faibles et s'opposer aux corruptions d'[[Ataraxus]] et de [[Maurtria]].
+Depuis la perte de nombreux mondes et l'affaiblissement de son influence, son désir s'est concentré sur [[Lamia (planète)]], dernier grand vaisseau de vie. Elle cherche un porteur digne, capable de faire rayonner sa volonté dans le monde sans devenir un conquérant ou un fanatique. Ce porteur devrait défendre la vie, réparer ce qui peut l'être, protéger les faibles et s'opposer aux corruptions d'[[Ataraxus]] et de [[Maurtria]].
 
 À travers [[Creperstella]], Albaesclatia veut aussi corriger certaines erreurs divines : non pas détruire pour dominer, mais trancher ce qui ronge la vie de l'intérieur.
 
@@ -127,7 +153,7 @@ Albaesclatia doit comprendre que protéger la vie ne signifie pas empêcher tout
 
 Son besoin profond est d'accepter que la vie implique aussi la fin, l'échec, le deuil, le changement et l'autonomie. Elle a créé des êtres capables d'évoluer par eux-mêmes ; elle doit donc accepter qu'ils puissent faire des choix douloureux, se tromper, mourir, se transformer ou lui échapper.
 
-La mort de la première [[Lamia]] a laissé en elle une blessure fondatrice : celle d'une mère qui a vu sa première création s'éteindre avant d'avoir pu vivre. Depuis, Albaesclatia porte le désir de ne plus jamais laisser la vie disparaître ainsi. Mais cette peur peut la pousser à vouloir sauver trop, protéger trop, intervenir trop.
+La mort de la première [[Lamia (ange)]] a laissé en elle une blessure fondatrice : celle d'une mère qui a vu sa première création s'éteindre avant d'avoir pu vivre. Depuis, Albaesclatia porte le désir de ne plus jamais laisser la vie disparaître ainsi. Mais cette peur peut la pousser à vouloir sauver trop, protéger trop, intervenir trop.
 
 Son besoin profond est donc d'apprendre que la vie n'est pas précieuse parce qu'elle peut être conservée intacte, mais parce qu'elle persiste, se transmet, se relève et continue même lorsqu'elle n'est plus entre ses mains.
 
@@ -143,7 +169,7 @@ La faille d'Albaesclatia est qu'elle peut confondre compassion et refus de lâch
 
 Son amour est immense, mais il peut devenir aveugle. Elle peut accorder trop longtemps sa confiance à des enfants divins qui se sont déjà détournés de la vie, comme [[Maurtria]]. Elle peut espérer une rédemption là où il faudrait agir, contenir ou trancher. Elle peut aussi chercher un porteur capable de prolonger sa volonté, tout en risquant de lui imposer une responsabilité trop lourde.
 
-Cette faille ne vient pas d'une naïveté simple. Elle vient d'une blessure maternelle profonde : Albaesclatia sait ce que signifie voir une création s'éteindre. Elle a perdu [[Lamia]], puis d'innombrables mondes, puis une part de ses enfants pendant la [[Grande Guerre Divine]]. Chaque perte ravive la première.
+Cette faille ne vient pas d'une naïveté simple. Elle vient d'une blessure maternelle profonde : Albaesclatia sait ce que signifie voir une création s'éteindre. Elle a perdu [[Lamia (ange)]], puis d'innombrables mondes, puis une part de ses enfants pendant la [[Grande Guerre Divine]]. Chaque perte ravive la première.
 
 Son danger n'est donc pas la cruauté, mais l'amour sans limite. Elle peut vouloir sauver ce qui doit être arrêté, protéger ce qui doit être laissé partir, ou réparer ce qui ne peut plus l'être sans coût terrible.
 
@@ -162,42 +188,13 @@ Cette inaction apparente pendant les guerres qui suivront ne doit cependant pas 
 - [[Maurtria]] — enfant divin dévoyé, cible avec Ataraxus de [[Creperstella]].
 - [[Alketeria]] — veille avec elle sur [[Filiama]] au [[Dibertium]] depuis [[Les Liens Rompus]] ; source d'un des matériaux de Creperstella.
 - [[Armerith]] — forge [[Creperstella]] à sa demande (voir [[La Forge de Creperstella]]).
-- [[Alfaryus]] et [[Humarios]] — guides incarnés créés avec Mageisys pendant la guerre ([[01_Lore/Timeline Master]], Exodiale ≈ 170–220).
+- [[Alfaryus]] et [[Humarios]] — guides incarnés créés avec Mageisys pendant la guerre ([[Timeline Master]], Exodiale ≈ 170–220).
 - [[Xeros]] — premier fils archange, né de Filiama ; porteur de Creperstella ; réconciliation tardive avec Mageisys lors des [[Les Jumeaux Divins|Jumeaux Divins]].
-- [[Humains - old]] et [[Elfes]] — premiers peuples mortels créés par elle sur Lamia, bénéficiaires (à leur insu) de la dette de [[Le Tribut de la Création|Tribut de la Création]].
+- [[Humains]] et [[Elfes]] — premiers peuples mortels créés par elle sur Lamia, bénéficiaires (à leur insu) de la dette de [[Le Tribut de la Création|Tribut de la Création]].
 - [[Conseil des Archanges]] — fondé autour de ses enfants ; témoin de la révélation de la trahison de Mageisys.
 - [[Les Liens Rompus]] — son retrait définitif au Dibertium après Cyroldan.
 - 🔒 [[La Trahison des Gardiens]] — elle réalise que c'est Maurtria qui a corrompu le gardien nain ; détail complet sur cette fiche.
 - [[Mageisys]] — sa révélation au Concile de l'Aequadeus (voir [[Le Concile Rompu]]) l'attriste profondément, en plus de la Trahison Dévoilée déjà présente entre eux ; elle seule, parmi les Archanges, en vient à l'accepter comme allié de circonstance.
+- [[Fastiae]] — fille archange ; déesse de la festivité, de l'art et du rire ; co-créatrice des [[Fasties]] avec Albaesclatia ; habite le [[Plan des Fasties]] depuis l'ère du Voile.
 
 ## Contradictions potentielles
-
-
-> [!ia-a-valider]- 2026-07-27 — Terminologie : « ère » → « émanation »
-> **Décision** : terminologie retenue avec l'auteur (session Chronoversum, 2026-07-27) — voir [[Chronoversum|Chronoversum]].
-> **Modifié** : Résumé, Histoire et Relations — « deuxième ère (cosmique) » remplacé par « seconde émanation » (3 occurrences). `source: ia` ajouté (manquant).
-
-^rev-20260727-albaesclatia-terminologie
-
-> [!ia-a-valider]- 2026-07-28 — Arbitrages de session : trahison de Mageisys, pactes, Creperstella, retrait au Dibertium
-> **Décision** : quatre points traités avec l'auteur (session du 2026-07-28).
-> **Modifié** : Histoire réécrite (insertions datées, secret 🔒 intégré) et Relations enrichies — détail ci-dessous.
->
-> 1. **Trahison de Mageisys (secret 🔒)** — intégrée à partir de [[La Trahison Dévoilée]] (canon, déjà validée, Sérénale ≈950–1000), qui appelait elle-même cette révision. Marquée 🔒 dans le texte. Liens créés vers [[Lamia (ange)|Lamia (ange)]] et [[Lamia (planète)]], ainsi que vers toutes les fiches déjà connues référençant Albaesclatia dans cette affaire ([[Le Cœur de Lamia]], [[La Semence Cachée]], [[Le Larcin de Mageisys]] — déjà liées par ailleurs).
-> 2. **Pactes et dette** — intégrés à partir de [[Les Accords du Despophys]] et [[Le Tribut de la Création]] (les deux canon) : condition d'âme/libre arbitre, transgression à la naissance de Xeros, second pacte, dette réclamée plus tard (essence mageysienne implantée dans tous les Lamiens, origine de la magie élémentaire).
-> 3. **Forge de Creperstella** — datée et événementialisée : deux nouvelles fiches [[Creperstella]] (objet) et [[La Forge de Creperstella]] (événement mineur, Sérénale ≈1200), déposées en 05_IA_Inbox/Fiches. Détails fournis par l'auteur : forge divine d'Armerith au Dibertium, alliage essence d'Alketeria + pierre mageysienne, ne frappe que les âmes corrompues. Un brainstorm dédié reste à faire pour approfondir, comme convenu.
-> 4. **Retrait au Dibertium** — daté et événementialisé : nouvelle fiche [[Les Liens Rompus]] (événement majeur, Exodiale ≈1500, à la suite de Cyroldan), déposée en 05_IA_Inbox/Fiches. Double cause actée : épuisement énergétique après la défaite face à Ataraxus, et rupture du lien avec plusieurs enfants corrompus.
-
-^rev-20260728-albaesclatia-trahison-pactes
-
-> [!ia-a-valider]- 2026-08-05 — Ajout : révélation de Mageisys au Concile de l'Aequadeus
-> **Décision** : tranchée avec l'auteur (session brainstorm [[2026-08-05 — Brainstorm — NeutraliteMageisys]]).
-> **Modifié** : Histoire (paragraphe ajouté entre la Forge de Creperstella et Cyroldan, donnant le paiement de la promesse « véritable explication » déjà annoncée plus haut dans cette même fiche) et Relations (nouvelle ligne Mageisys). Voir aussi [[Mageisys]], [[Lumina]] et [[Le Concile Rompu]] pour le même épisode.
-
-^rev-20260805-albaesclatia-concilerompu
-
-> [!ia-a-valider]- 2026-08-12 — Propriétés Charted Roots
-> **Décision** : demande explicite de l'auteur (session 2026-08-12). Aucun lore modifié.
-> **Ajouté en frontmatter** : `cr_type: person` · `sex: female` · `pronouns: elle/la` · `children` (7 liens : Lamia ange, Xeros, Maurtria, Akator, Vindiereis, Armerith, Alfaryus — tous confirmés par les fiches canon existantes) · `revision: ia-a-valider`
-
-^rev-20260812-charted-roots-albaesclatia

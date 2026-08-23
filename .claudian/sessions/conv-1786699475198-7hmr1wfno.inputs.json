@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786699475198-7hmr1wfno",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786699475229-4vf9xz4",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786699475192-t3nm6tu",
+      "timestamp": 1786699475192,
+      "rawDisplayText": "/creer-fiche de type Magie, la fiche pour la Magie Arcanique.",
+      "canonicalText": "/creer-fiche de type Magie, la fiche pour la Magie Arcanique.",
+      "context": {
+        "currentNote": {
+          "path": "01_Lore/Évenements/Ère Exodiale/La Transmission de la Magie Arcanique.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "05727a29e399e91a157881150a075aadf9d2de6dbe808cf05236331e21073dcd",
+      "providerUserMessageId": "3dbb2c11-9d37-44fa-9fd7-43fa27c3a3ec"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786699502019-b2wlviq",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786699502017-1wkoal3",
+      "timestamp": 1786699502017,
+      "rawDisplayText": "claude auth login",
+      "canonicalText": "claude auth login",
+      "images": [],
+      "contentDigest": "78d95b53ae34a1b08269ed6a6f8c196b92a29a895840e4b58921ce2bcac45471",
+      "providerUserMessageId": "be809ee1-8d61-40f9-9380-63c5a448b4f9"
+    }
+  ]
+}

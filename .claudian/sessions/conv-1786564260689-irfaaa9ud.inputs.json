@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786564260689-irfaaa9ud",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786564260717-1g1n05x",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786564260687-wd1xlv2",
+      "timestamp": 1786564260687,
+      "rawDisplayText": "/creer-fiche de type Lieu pour Humildas. Sert toi des fiches existantes avec le lien vers Humildas ou sa mention",
+      "canonicalText": "/creer-fiche de type Lieu pour Humildas. Sert toi des fiches existantes avec le lien vers Humildas ou sa mention",
+      "context": {
+        "currentNote": {
+          "path": "01_Lore/Évenements/Ère Exodiale/Humarios et la Fondation d'Humildas.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "72737a1e020808534d97b2bc2ec4cf936d574e8dd9f3efb04e5d4b847ee0dc51",
+      "providerUserMessageId": "2c1dbc2c-c9bb-41b5-a4db-62d0c3857c92",
+      "providerAssistantMessageId": "55ced4c7-25e2-403c-a61f-9855620770f3"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786565012388-avs1cs8",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786565012385-ivwh6yk",
+      "timestamp": 1786565012385,
+      "rawDisplayText": "1. L'île a prit le nom de la cité car elle est assez petite et est considéré comme la cité en elle-même. 2. corrompu 3. Elle est encore corrompu (c'est sur l'île  que Humarios s'est transformé.) L'île a également pu tenir debout car elle était protégé par Raekialar contre les démons. Raekialar habite également sur l'île. Il y hiberne comme une montagne dormante. plusieurs dragons rouges issu de Raekialar qui protège ou servent de compagnon a des soldats Humains d'Humildas.",
+      "canonicalText": "1. L'île a prit le nom de la cité car elle est assez petite et est considéré comme la cité en elle-même. 2. corrompu 3. Elle est encore corrompu (c'est sur l'île  que Humarios s'est transformé.) L'île a également pu tenir debout car elle était protégé par Raekialar contre les démons. Raekialar habite également sur l'île. Il y hiberne comme une montagne dormante. plusieurs dragons rouges issu de Raekialar qui protège ou servent de compagnon a des soldats Humains d'Humildas.",
+      "images": [],
+      "contentDigest": "de23826e811b5a49cc25847d60d9e116ef7a059f3a5dd6738fd2f9f318d328ef",
+      "providerUserMessageId": "76ad81ce-7f56-46a4-b9e2-1a0298bc2f39",
+      "providerAssistantMessageId": "b17478c7-a731-4ebe-b8e4-5d30b595dd18"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786565662801-upaem4f",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1786565662797-xntkqwi",
+      "timestamp": 1786565662797,
+      "rawDisplayText": "1. \"Corrompu à l'Ère Sérénale\" :  Je vois pas la friction et lien avec la coruption actuellement. Il peut être sur l'île initialement et Humarios a guidé les humains pour créer la cité sur l'île où il se trouve en demandant refuge. 2. Les dragons rouges d'avant la corruption de Raekialar n'était pas corrompu ni mauvais. ( A) 3. La corruption de Raekialar et Humarios est complétement lié car c'est Humarios qui a corrompu Raekialar (donc au même moment",
+      "canonicalText": "1. \"Corrompu à l'Ère Sérénale\" :  Je vois pas la friction et lien avec la coruption actuellement. Il peut être sur l'île initialement et Humarios a guidé les humains pour créer la cité sur l'île où il se trouve en demandant refuge. 2. Les dragons rouges d'avant la corruption de Raekialar n'était pas corrompu ni mauvais. ( A) 3. La corruption de Raekialar et Humarios est complétement lié car c'est Humarios qui a corrompu Raekialar (donc au même moment",
+      "images": [],
+      "contentDigest": "b18b45654e2e488799e823467b2c5395fd20fe5a462adeb77b8e730c59a92f4b",
+      "providerUserMessageId": "d0d5b02e-375c-4f4a-9742-58a90ca56deb",
+      "providerAssistantMessageId": "e8d666d8-764e-4576-8251-3416b76d868d"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786567614107-zoo2y96",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1786567614103-dgghjt0",
+      "timestamp": 1786567614103,
+      "rawDisplayText": "ça me va tu as le go",
+      "canonicalText": "ça me va tu as le go",
+      "images": [],
+      "contentDigest": "239b1aee48be9c467e8ab62087511cc01050ff5cc7991dca5bf0ddadd14e7cf0",
+      "providerUserMessageId": "6516c4e9-e8cc-4e04-a4b2-fd2d514a8f8f",
+      "providerAssistantMessageId": "307b9e5f-eff2-4087-a6f3-c77c7bf0a52c"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786567917094-hkwtgak",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1786567917090-198785t",
+      "timestamp": 1786567917090,
+      "rawDisplayText": "créer moi les chantier près à coller dans index",
+      "canonicalText": "créer moi les chantier près à coller dans index",
+      "images": [],
+      "contentDigest": "521775851d3a1eb77fbe95e753e349aa4f636ecdad0d2757f1486cabfcae1a83",
+      "providerUserMessageId": "1579e83b-5e80-4c64-b205-d13c5a908aae",
+      "providerAssistantMessageId": "630e5fd6-6fec-464b-9c02-9427da000c85"
+    }
+  ]
+}

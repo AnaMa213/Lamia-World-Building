@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1787151893178-9hc1rinm5",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787151893208-h8ytpov",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1787151893176-0g1w6p1",
+      "timestamp": 1787151893176,
+      "rawDisplayText": "/creer-fiche On va créer la fiche pour Pilanir. On va complètement refacto toute son histoire. Il doit être un Archange qui comme Maurtria fut noir des le début. Il a longtemps, pendant les temps primordiaux été intrigué par la Flamme de vie et le potentiel derrière cette artefact. Si bien qu'il en aurait dérobé une partie secrètement et tenter de faire des expérience avec. Mais il n'a pas la maitrise de sa mère et n'a rien pu faire véritable. Son vol fut découvert et sa faute lui valu de ne plus avoir accès à de nombreuse réunion et au cercle rapproché de la Filiama, la flamme de vie. Maurtria vu en lui un allié potentiel et sema en lui, l'idée que les âme transitant dans les Limbes étaient la forme de Filiama la plus maliable pour lui et qu'il pourrait en faire des expériences. Avant que la Guerre contre Ataraxus ne commence,  Il s'y rendit et commença discrètement de subtiliser des âmes pour des expériences. Mais ces agissement fut rapidement détecté par Thanatia qui remonta l'info au conseil. Albaeslcatia et le conseil ne su pas quoi faire de Pilanir, mais ils n'eurent pas besoin de faire grand chose car il refusa de rentrer au Dibertium et se cacha dans les Limbes. Ces expériences constitué souvent à tenter d'absorber certaines âmes pour alimenter sa puissance et son essence divine. Thanatia devint sa Nemesis et inversement. Elle le traque sans relache pour tenter de le stopper dans son appétit. Mageysis refuse categoriquement de s'appliquer dans le conflit. Avec le temps dans les Limbes et les âmes absorber, Pilanir a gagner des facultés particulières et et devenu très difficile à trouver dans les Limbes.  Il est le dieu de la nécromatie et grâce au Fil peut permettre de rappeler certaines âmes des Limbes mais sa magie a souvent un coup fort, car une fois un nécromancien mort, il est marqué et son âme et à coup sur retrouver par Pilanir qui le dévore. Pendant la guerre, il s'est allié avec les démons d'Ataraxus et Maurtria à plusieurs reprise. Il est également une des grosses raison du conflit entre Mageysis et Lumina et Albaesclatia. Car c'est le libre arbitre des Archanges qui a permit ça et qu'il n'intervient pas.",
+      "canonicalText": "/creer-fiche On va créer la fiche pour Pilanir. On va complètement refacto toute son histoire. Il doit être un Archange qui comme Maurtria fut noir des le début. Il a longtemps, pendant les temps primordiaux été intrigué par la Flamme de vie et le potentiel derrière cette artefact. Si bien qu'il en aurait dérobé une partie secrètement et tenter de faire des expérience avec. Mais il n'a pas la maitrise de sa mère et n'a rien pu faire véritable. Son vol fut découvert et sa faute lui valu de ne plus avoir accès à de nombreuse réunion et au cercle rapproché de la Filiama, la flamme de vie. Maurtria vu en lui un allié potentiel et sema en lui, l'idée que les âme transitant dans les Limbes étaient la forme de Filiama la plus maliable pour lui et qu'il pourrait en faire des expériences. Avant que la Guerre contre Ataraxus ne commence,  Il s'y rendit et commença discrètement de subtiliser des âmes pour des expériences. Mais ces agissement fut rapidement détecté par Thanatia qui remonta l'info au conseil. Albaeslcatia et le conseil ne su pas quoi faire de Pilanir, mais ils n'eurent pas besoin de faire grand chose car il refusa de rentrer au Dibertium et se cacha dans les Limbes. Ces expériences constitué souvent à tenter d'absorber certaines âmes pour alimenter sa puissance et son essence divine. Thanatia devint sa Nemesis et inversement. Elle le traque sans relache pour tenter de le stopper dans son appétit. Mageysis refuse categoriquement de s'appliquer dans le conflit. Avec le temps dans les Limbes et les âmes absorber, Pilanir a gagner des facultés particulières et et devenu très difficile à trouver dans les Limbes.  Il est le dieu de la nécromatie et grâce au Fil peut permettre de rappeler certaines âmes des Limbes mais sa magie a souvent un coup fort, car une fois un nécromancien mort, il est marqué et son âme et à coup sur retrouver par Pilanir qui le dévore. Pendant la guerre, il s'est allié avec les démons d'Ataraxus et Maurtria à plusieurs reprise. Il est également une des grosses raison du conflit entre Mageysis et Lumina et Albaesclatia. Car c'est le libre arbitre des Archanges qui a permit ça et qu'il n'intervient pas.",
+      "context": {
+        "currentNote": {
+          "path": "01_Lore/Timeline Master.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "8a7a91f345832262bd3dc1b5daab49e99a5efe9bdf845b6f8078352809f09388",
+      "providerUserMessageId": "fea101aa-3751-4d5e-bc09-71765382dfcb",
+      "providerAssistantMessageId": "0a5ba238-f43e-48d1-8e72-a66a0e3e5081"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787153053567-7t75y7t",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1787153053564-yr6w3aw",
+      "timestamp": 1787153053564,
+      "rawDisplayText": "Il va dans les Limbes après leur création (Sérénale vers 600) . Il reste un dieu mineur. On peut rajouter qu'il s'est corrompu car il trouvait que les âmes corrompu par l'Ichor était plus subtile et délicieuse, donc il devenut complétement corrompu. Les légendes disent que en fonction de son comportement sur Lamia on est plus susceptible de se faire dévorer son âme si on est une personne mauvaise qu'une bonne personne.",
+      "canonicalText": "Il va dans les Limbes après leur création (Sérénale vers 600) . Il reste un dieu mineur. On peut rajouter qu'il s'est corrompu car il trouvait que les âmes corrompu par l'Ichor était plus subtile et délicieuse, donc il devenut complétement corrompu. Les légendes disent que en fonction de son comportement sur Lamia on est plus susceptible de se faire dévorer son âme si on est une personne mauvaise qu'une bonne personne.",
+      "images": [],
+      "contentDigest": "dc78701d02a9c6683f1a8f6845b966f48b2e510d5a89b3f33fa183bf287501d5",
+      "providerUserMessageId": "c95be6bd-ab86-4db7-ab7c-0ebd96d2558a",
+      "providerAssistantMessageId": "9734b709-360d-4fb0-b8f8-2ac956dbd556"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787154562723-f00hmjc",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1787154562720-ig5wxic",
+      "timestamp": 1787154562720,
+      "rawDisplayText": "J'ai mise à jour la fiche, analyse ce que j'ai ajouter et ameliore le fiche Pilanir.md",
+      "canonicalText": "J'ai mise à jour la fiche, analyse ce que j'ai ajouter et ameliore le fiche Pilanir.md",
+      "images": [],
+      "contentDigest": "89718a2bb3ad5675a41971c83fcb2c41fbc993facabc738b309eafec80d6f347",
+      "providerUserMessageId": "c646d31f-576e-4dcd-a810-cb25db400acf",
+      "providerAssistantMessageId": "70c567d4-6f97-4859-8aab-730626843a8f"
+    }
+  ]
+}

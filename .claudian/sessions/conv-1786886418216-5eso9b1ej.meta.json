@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786886418216-5eso9b1ej",
+  "providerId": "claude",
+  "title": "Classer l'Ichor du Néant dans une fiche",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786886418218,
+  "lastActivityAt": 1786888411261,
+  "sessionId": "79bbe1dc-f484-4254-b4c5-c1ee7e9588ca",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "79bbe1dc-f484-4254-b4c5-c1ee7e9588ca"
+  },
+  "currentNote": "01_Lore/Divinités/Primordiales/Ataraxus.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 559,
+    "cacheReadInputTokens": 79530,
+    "contextWindow": 1000000,
+    "contextTokens": 80092,
+    "percentage": 8
+  }
+}

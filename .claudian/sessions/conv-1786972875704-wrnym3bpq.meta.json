@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786972875704-wrnym3bpq",
+  "providerId": "claude",
+  "title": "Enrichir la fiche d'Oriac avec son histoire pri...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786972875707,
+  "lastActivityAt": 1786979693090,
+  "sessionId": "e02ab7ac-98b0-49d8-b967-f8b74b7574ab",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "e02ab7ac-98b0-49d8-b967-f8b74b7574ab"
+  },
+  "currentNote": "01_Lore/Divinités/Majeur/Oriac.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 5593,
+    "cacheReadInputTokens": 198775,
+    "contextWindow": 1000000,
+    "contextTokens": 204371,
+    "percentage": 20
+  }
+}

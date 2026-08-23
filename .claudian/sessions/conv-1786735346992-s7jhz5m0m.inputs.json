@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786735346992-s7jhz5m0m",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786735347020-wjxhkxi",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786735346991-pcxjev9",
+      "timestamp": 1786735346991,
+      "rawDisplayText": "/creer-fiche la fiche créature  pour les Chairombres",
+      "canonicalText": "/creer-fiche la fiche créature  pour les Chairombres",
+      "context": {
+        "currentNote": {
+          "path": "01_Lore/Divinités/Primordiales/Ataraxus.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "344b5920a1465b1b2fdb7fc300dd3fb2355cc7ad2002a6b5b0618d34414aec51",
+      "providerUserMessageId": "4870dc32-14e1-414a-88b3-f690a149e603",
+      "providerAssistantMessageId": "3ec3d788-99dc-455c-b347-718b783562e0"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786736670124-sm4stse",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786736670121-f0z48nb",
+      "timestamp": 1786736670121,
+      "rawDisplayText": "1. créature 2. une categorie (toute animal corrompu par l'Ichor du Néant jusqu'à mutation.",
+      "canonicalText": "1. créature 2. une categorie (toute animal corrompu par l'Ichor du Néant jusqu'à mutation.",
+      "images": [],
+      "contentDigest": "02f30ad546ffe875ef35dd7566bb8f62fe5543771b8b9e197993a1f969aa3dd4",
+      "providerUserMessageId": "fcd41998-c2b4-43f5-beef-8ce3a4a0cd8e"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786740302723-7aa8bmm",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1786740302719-1244y0l",
+      "timestamp": 1786740302719,
+      "rawDisplayText": "Apparence — à quel point un animal corrompu change physiquement\nQuels animaux peuvent être corrompus (tous ? certains types seulement ?) Tous être vivant à des degrès différents. La métamorphose est visible sur la morphologie. bras en plus, organes en plus, deformé, plus aggressif, meurtrier et prédateur Apex. \nComportement précis une fois corrompus\nHabitat/territoire. Territorial, Agressif sur n'importe quel être vivant, parfois intelligent et mutation qui les rends aussi intelligent qu'un humains ou Elfe.\nLa corruption est-elle permanente ou progressive ? Se transmet-elle ?\nInteractions avec les peuples (craints ? chassés ? ignorés ?) Ils sont chassés et craints, certains CHairombres tente de se fondre dans des communautés souvent pour se nourrir d'humains ou autre.\nPrésence à l'Ère Sérénale/Exodiale ou phénomène uniquement voilien ?1. créature 2. une categorie (toute animal corrompu par l'Ichor du Néant jusqu'à mutation.",
+      "canonicalText": "Apparence — à quel point un animal corrompu change physiquement\nQuels animaux peuvent être corrompus (tous ? certains types seulement ?) Tous être vivant à des degrès différents. La métamorphose est visible sur la morphologie. bras en plus, organes en plus, deformé, plus aggressif, meurtrier et prédateur Apex. \nComportement précis une fois corrompus\nHabitat/territoire. Territorial, Agressif sur n'importe quel être vivant, parfois intelligent et mutation qui les rends aussi intelligent qu'un humains ou Elfe.\nLa corruption est-elle permanente ou progressive ? Se transmet-elle ?\nInteractions avec les peuples (craints ? chassés ? ignorés ?) Ils sont chassés et craints, certains CHairombres tente de se fondre dans des communautés souvent pour se nourrir d'humains ou autre.\nPrésence à l'Ère Sérénale/Exodiale ou phénomène uniquement voilien ?1. créature 2. une categorie (toute animal corrompu par l'Ichor du Néant jusqu'à mutation.",
+      "images": [],
+      "contentDigest": "8626b1e3b79a5bc52bb6ea08b0e8ba06f7d2e3ede6b2238a5ab10699e571660e",
+      "providerUserMessageId": "49c370b9-5b07-4add-9540-081bc59d3ff2",
+      "providerAssistantMessageId": "13c7d7b2-b2ec-4fff-bc4f-b85e7bee05cb"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786743428963-dk5sxbz",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1786743428959-tjzydqv",
+      "timestamp": 1786743428959,
+      "rawDisplayText": "⚠️ Tension canon à trancher : A) Nuance acceptable : La plupart des mutations ne créer que des monstres mutée voulant tuer et se nourrir en mode predateur Apex. C'est juste quelques mutations souvent lorsque l'Ichor du Néant est mélée à un autre type de Magie lors de la mutation ou lié à l'environnement, cela peut générer des mutations qui rends ces créatures intelligentes. ❓ Deux questions encore ouvertes : Apriori jusqu'ici aucun moyen deretour arrière n'a été trouvé sur Lamia. Elle peut se transmettre mais il faut être en contacte prolongée avec plusieurs Chairombres. Les Chairombres ont commençé à voir le jour pendant l'ère Exodiale quand les démons ont débarqués.",
+      "canonicalText": "⚠️ Tension canon à trancher : A) Nuance acceptable : La plupart des mutations ne créer que des monstres mutée voulant tuer et se nourrir en mode predateur Apex. C'est juste quelques mutations souvent lorsque l'Ichor du Néant est mélée à un autre type de Magie lors de la mutation ou lié à l'environnement, cela peut générer des mutations qui rends ces créatures intelligentes. ❓ Deux questions encore ouvertes : Apriori jusqu'ici aucun moyen deretour arrière n'a été trouvé sur Lamia. Elle peut se transmettre mais il faut être en contacte prolongée avec plusieurs Chairombres. Les Chairombres ont commençé à voir le jour pendant l'ère Exodiale quand les démons ont débarqués.",
+      "images": [],
+      "contentDigest": "aa561bdc6cb39493e9a47ab461fdbfdaace6aad41faad51f3230e72d6abf7eac",
+      "providerUserMessageId": "76281fb0-cd73-4f23-bb50-f335ab34d25d",
+      "providerAssistantMessageId": "eed3e4db-be2e-4cef-a62c-5ae59cdeb466"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786743823972-46jb32o",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1786743823968-bwjqzh0",
+      "timestamp": 1786743823968,
+      "rawDisplayText": "1. oui 2. on verra plus tard mais oui il y en a qui peuvent notamment dans les Fanges sombres",
+      "canonicalText": "1. oui 2. on verra plus tard mais oui il y en a qui peuvent notamment dans les Fanges sombres",
+      "images": [],
+      "contentDigest": "818bcae62872d488c767bb64499b90e97dfb963e0f7878529ea34d9788196616",
+      "providerUserMessageId": "6b1d08ed-3864-482c-bedd-7fa5ca86fa90",
+      "providerAssistantMessageId": "c1996c6e-24ac-407e-8404-fdb08c7c43ab"
+    }
+  ]
+}

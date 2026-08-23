@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786616513870-9jr5dmivd",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786616513900-252z292",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786616513868-qr5prot",
+      "timestamp": 1786616513868,
+      "rawDisplayText": "/creer-fiche Crée la fiche du Caedarium de type Lieu. Utilise les lien mort de ce lieu pour construire la fiche directement.",
+      "canonicalText": "/creer-fiche Crée la fiche du Caedarium de type Lieu. Utilise les lien mort de ce lieu pour construire la fiche directement.",
+      "context": {
+        "currentNote": {
+          "path": "01_Lore/Évenements/Ère Exodiale/La Dernière Menace.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "ee0191e095e890dfe52710a84a2e0ee2482fd8f5ab04f022ee08f335ed099052",
+      "providerUserMessageId": "c13fc0c4-036a-4a49-ab4f-3a9b0600657a",
+      "providerAssistantMessageId": "0d5a1114-c259-4cb5-823b-dc5e02fffb52"
+    }
+  ]
+}

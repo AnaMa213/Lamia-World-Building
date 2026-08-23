@@ -68,10 +68,11 @@ revision-date: 2026-08-07
 - **≈ 2550–2650** · [MAJEUR] · [[La Fin de l'Innocence]] — Le message des Gnomes brise l'innocence de Lamia ; naissance de la magie offensive.
 - **≈ 2600–2700** · [MAJEUR] · [[L'Alliance Froide]] — Lumina tire Albaesclatia de son effondrement ; réunion froide et sans pardon avec Mageisys face à la menace d'Ataraxus.
 - **≈ 2700** · [MAJEUR] · [[L'Incarnation Draconique d'Akator]] — Hanté par la chute de Koboldia, Akator se fait muter en dragon colossal au Dibertium par Xeros — seul Archange capable, avec Albaesclatia, d'une telle transformation sans risque fatal pour un être déjà vivant ; son nouveau corps, trop imposant pour le Dibertium, contraint Mageisys à créer l'Intraherium.
-- **≈ 2700** · [MAJEUR] · [[La Naissance de l'Intraherium]] — Mageisys crée pour Akator un plan-désert infini peuplé de créatures sans conscience ; à la demande de Xeros, un volet d'accès mortel y est intégré (puissance accumulée des mortels rejoint Akator à leur mort).
+- **≈ 2700** · [MINEUR] · [[La Naissance de l'Intraherium]] — Mageisys crée pour Akator un plan-désert infini peuplé de créatures sans conscience ; à la demande de Xeros, un volet d'accès mortel y est intégré (puissance accumulée des mortels rejoint Akator à leur mort).
 - **≈ 2700–2750** · [MAJEUR] · [[Le Concile Rompu]] — Échec de la trêve avec Ataraxus à l'Aequadeus ; le Conseil des Archanges se fissure durablement en visions divergentes.
 - **≈ 2750** · [MAJEUR] · [[La Trahison des Gardiens]] — Maurtria corrompt un gardien nain du cœur par les rêves ; le cœur est fracturé en trois, une brèche s'ouvre dans la barrière.
 - **≈ 2750 → Exodiale ≈280** · [MAJEUR] · [[La Guerre des Profondeurs]] — Les démons envahissent les profondeurs par la brèche ; chute de la civilisation naine, exil des survivants vers les montagnes du nord.
+- **≈ 2755** · [MINEUR] · [[L'Exil d'Oriac]] — Progressivement corrompu par l'Ichor du Néant au contact des cadavres de démons, [[Oriac]] en vient aux mains avec [[Xeros]] lors d'une réunion du Conseil sur Lamia, révélant l'ampleur de sa corruption. Il se bannit lui-même du [[Dibertium]], à la grande tristesse d'[[Albaesclatia]], et demande à [[Mageisys]] la création de l'[[Orcium]] — plan séparé où il s'entraîne pendant un millénaire à maîtriser sa rage avant de rejoindre le premier front de la Grande Bataille de Cyroldan.
 
 ## Ère Exodiale (0 = Sérénale ≈ 2950 → ≈ 1600)
 
@@ -81,10 +82,10 @@ revision-date: 2026-08-07
 - **≈ 0–30** · [MAJEUR] · 🔒 · [[Le Dernier Serment des Gardiens]] — Dispersion des trois fragments du cœur fracturé : le **Corps** enfermé dans une pierre noire, l'**Âme** assimilée par un Protecteur, la **Conscience** cachée dans le plan des rêves d'**Oneira**,.
 - **≈ 0–300** · [MAJEUR] — Les démons ravagent profondeurs et surface ; royaumes nains détruits ; la majorité des institutions et savoirs sérénaux disparaissent.
 - **≈ 50–280** · [MINEUR] — Les Nains survivants abandonnent les profondeurs et migrent vers les montagnes du nord ; la surface ignore longtemps cette guerre souterraine.
-- **≈ 170–220** · [MAJEUR] · [[Les Jumeaux Divins]] — Albaesclatia, Mageisys et le Conseil créent Alfaryus et Humarios, guides incarnés des derniers survivants.
-- **≈ 220–400** · [MAJEUR] · [[Alfaryus et la Fondation de Cyroldan]] — Guidé par les rêves d'Oneira, Alfaryus fonde Cyroldan, la Ville du Foyer, sans savoir que sa protection vient d'un gardien nain corrompu enfoui sous ses fondations.
+- **≈ 170** · [MAJEUR] · [[Les Jumeaux Divins]] — Albaesclatia, Mageisys et le Conseil créent Alfaryus et Humarios, guides incarnés des derniers survivants.
+- **≈ 350** · [MAJEUR] · [[Alfaryus et la Fondation de Cyroldan]] — Guidé par les rêves d'Oneira, Alfaryus fonde Cyroldan, la Ville du Foyer, sans savoir que sa protection vient d'un gardien nain corrompu enfoui sous ses fondations.
 - **≈ 220–400** · [MAJEUR] · [[Humarios et la Fondation d'Humildas]] — Humarios mène son peuple vers une île isolée, hors de portée des démons, et y fonde Humildas.
-- **≈ 600–1450** · [MAJEUR] · [[La Dernière Menace]] — Maurtria, indépendante d'Ataraxus qu'elle méprise autant que le Conseil, sème la discorde parmi les mortels pour que la violence ne s'éteigne jamais.
+- **≈ 480–1450** · [MAJEUR] · [[La Dernière Menace]] — Découverte par le Conseil comme l'instigatrice de la corruption du gardien nain, Maurtria est confinée dans une salle du Dibertium ; elle corrompt son geôlier Laxius et lui fait briser le Miroir de Lumina pour obtenir un éclat qui lui donnera les yeux sur Lamia depuis sa prison.
 - **≈ 900** · [MAJEUR] · [[La Transmission de la Magie Arcanique]] — Alfaryus transmet l'essence mageysienne aux mortels : naissance de la magie arcanique, arme contre les démons sans dépendre des dieux.
 - **≈ 1100** · [MINEUR] · [[La Sublimation des Treize]] — Pendant la Grande Guerre Divine, **Armerith** identifie treize chefs-d'œuvre mortels de l'Ère Sérénale et Exodiale, y infuse une partie de son essence divine et les envoie aux Humains et Elfes de Lamia.
 - **≈ 1450–1500** · [MAJEUR] · [[Le Scellement du Cœur]] — Face à la menace portée à son comble, le Cœur de Lamia est rescéllé au prix d'un sacrifice que même les survivants ne surent pas tous nommer.

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786562697662-9os6h7aew",
+  "providerId": "claude",
+  "title": "Réécrire la fiche Oneira avec le lore du Fil",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786562697665,
+  "lastActivityAt": 1786563815586,
+  "sessionId": "7e2399b4-c3ba-411e-81a5-5eb5a280a7c2",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "7e2399b4-c3ba-411e-81a5-5eb5a280a7c2"
+  },
+  "currentNote": "01_Lore/Divinités/Mineur/Oneira.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1104,
+    "cacheReadInputTokens": 116427,
+    "contextWindow": 1000000,
+    "contextTokens": 117532,
+    "percentage": 12
+  }
+}

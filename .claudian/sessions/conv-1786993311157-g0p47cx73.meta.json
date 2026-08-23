@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786993311157-g0p47cx73",
+  "providerId": "claude",
+  "title": "Créer fiche personnage Rhamal archange",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786993311161,
+  "lastActivityAt": 1786996437516,
+  "sessionId": "4927e12d-be4a-45c0-bc8a-ae81032bbdfb",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "4927e12d-be4a-45c0-bc8a-ae81032bbdfb"
+  },
+  "currentNote": "01_Lore/Divinités/Mineur/Rhamal.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 433,
+    "cacheReadInputTokens": 122331,
+    "contextWindow": 1000000,
+    "contextTokens": 122765,
+    "percentage": 12
+  }
+}

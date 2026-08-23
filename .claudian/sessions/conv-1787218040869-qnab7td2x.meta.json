@@ -1,0 +1,22 @@
+{
+  "id": "conv-1787218040869-qnab7td2x",
+  "providerId": "claude",
+  "title": "Détecter les liens morts d'un site web",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787218040872,
+  "lastActivityAt": 1787218964454,
+  "sessionId": "beadef62-cc43-44d0-abef-caca7cb160ca",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "beadef62-cc43-44d0-abef-caca7cb160ca"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 149,
+    "cacheReadInputTokens": 189551,
+    "contextWindow": 1000000,
+    "contextTokens": 189701,
+    "percentage": 19
+  }
+}

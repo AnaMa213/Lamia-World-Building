@@ -9,6 +9,7 @@
     "panthéon": "multitext",
     "langues": "multitext",
     "habitat": "multitext",
-    "annee": "text"
+    "annee": "text",
+    "chapters": "multitext"
   }
 }

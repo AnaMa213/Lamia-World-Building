@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786810666031-wjujjckz5",
+  "providerId": "claude",
+  "title": "Créer fiche Héraut de Naphusis créature divine",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786810666037,
+  "lastActivityAt": 1786811198777,
+  "sessionId": "1f2f34ea-c93d-44b4-abb0-74692934e51e",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "1f2f34ea-c93d-44b4-abb0-74692934e51e"
+  },
+  "currentNote": "01_Lore/Divinités/Primordiales/Naphusis.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 3213,
+    "cacheReadInputTokens": 62874,
+    "contextWindow": 1000000,
+    "contextTokens": 66088,
+    "percentage": 7
+  }
+}

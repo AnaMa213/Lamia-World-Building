@@ -2,8 +2,8 @@
 statut: canon
 source: auteur
 type: lieu
-continent: null
-region: null
+continent:
+region:
 plan: songes
 tags:
   - songes
@@ -13,11 +13,10 @@ tags:
   - coeur-de-lamia
   - conscience
 date: 2026-07-21
-portee: null
+portee:
 aliases:
   - Plan des Rêves
   - Monde des Rêves
-revision: ia-a-valider
 revision-date: 2026-07-27
 ---
 
@@ -39,16 +38,6 @@ Avant même de créer le Plan des Mondes, Mageisys façonne, sans en avoir plein
 ### Temps primordiaux
 Créé inconsciemment par [[Mageisys]], avant le [[Plan des Mondes]] — son tout premier plan, et le seul dont il ne maîtrise pas entièrement les règles, celles-ci étant antérieures aux siennes, instinctives à Chronoversum lui-même.
 
-
-
-> [!ia-a-valider]- 2026-07-27 — Naissance simultanée avec Mageisys, pas une création de sa part
-> **Décision** : tranchée avec l'auteur (session Chronoversum, 2026-07-27).
-> **Modifié** : précision sur le mécanisme de naissance de Les Songes, en complément du paragraphe ci-dessus.
->
-> Les Songes n'est pas à proprement parler « créé par Mageisys » : il émerge au même instant que lui, juste après Ataraxus — tous deux matérialisés par l'inconscient de [[Chronoversum]] lui-même. C'est précisément pour cela que Mageisys n'en maîtrise jamais entièrement les règles (déjà énoncé ci-dessus) : elles ne sont pas les siennes, Les Songes le précède ontologiquement autant qu'il n'émerge avec lui. Voir aussi [[Chronoversum]] et [[La Première Émanation]] (mise à jour correspondante). « En une phrase » et Résumé ci-dessus **non reformulés ici** (additif uniquement) — à ajuster par l'auteur si souhaité.
-
-^rev-20260727-songes-naissance-mageisys
-
 ### Ère Sérénale / Ère Exodiale
 [[Oneira]] y développe un lien profond, au point d'y naviguer avec plus d'aisance que Mageisys lui-même. Après [[La Trahison des Gardiens]], elle et le second gardien survivant y plongent la Conscience du Cœur de Lamia (voir [[Le Dernier Serment des Gardiens]]) — un fragment qui, composé de l'essence matérialisée de l'ange défunte Lamia, peut se mouvoir dans Les Songes sans jamais réellement quitter le Plan des Mondes, à l'abri de toute destruction. [[Maurtria]], ayant eu connaissance de sa présence, ne cesse depuis de le traquer à travers Les Songes — elle s'y insinue plus facilement que la plupart des divinités, sans toutefois égaler l'aisance d'Oneira.
 
@@ -60,7 +49,7 @@ Absent des notes du vault à ce jour.
 - [[Mageisys]] — créateur inconscient, toujours en quête d'en comprendre le fonctionnement.
 - [[Oneira]] — la seule à le maîtriser pleinement, meilleure que son propre créateur.
 - [[Maurtria]] — y traque le fragment-Conscience depuis qu'elle en connaît l'existence, accès partiel seulement.
-- Le fragment-Conscience du [[Cœur de Lamia]] — caché ici depuis [[Le Dernier Serment des Gardiens]].
+- Le fragment-Conscience du [[Le Cœur de Lamia|Cœur de Lamia]] — caché ici depuis [[Le Dernier Serment des Gardiens]].
 
 ## Relations
 

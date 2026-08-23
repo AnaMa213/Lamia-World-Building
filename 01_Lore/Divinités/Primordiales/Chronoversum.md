@@ -55,7 +55,7 @@ Chronoversum, le Dieu des dieux, émergea comme l'entité ultime qui déclencha 
 
 ## Histoire
 
-Chronoversum est le Dieu des dieux, l'entité primordiale qui déclencha le commencement des temps. Avant les conflits divins, avant les mondes vivants, avant les [[Anges]], les [[Démons]] ou les civilisations de [[Lamia]], il fut l'origine du mouvement premier : l'instant où l'univers cessa d'être une absence indéfinie pour devenir une succession d'émanations.
+Chronoversum est le Dieu des dieux, l'entité primordiale qui déclencha le commencement des temps. Avant les conflits divins, avant les mondes vivants, avant les [[Anges]], les [[Démons]] ou les civilisations de [[Lamia (planète)]], il fut l'origine du mouvement premier : l'instant où l'univers cessa d'être une absence indéfinie pour devenir une succession d'émanations.
 
 Très peu d'informations fiables existent à son sujet. Contrairement aux autres dieux, Chronoversum ne cherche ni à créer des peuples, ni à guider des mortels, ni à défendre une doctrine. Il ne possède pas de culte vivant comparable à ceux d'[[Albaesclatia]], [[Lumina]], [[Ataraxus]] ou [[Mageisys]]. Pour la plupart des Lamiens, il est moins une divinité à prier qu'un principe cosmique impossible à atteindre.
 
@@ -87,34 +87,6 @@ Chronoversum n'est donc pas représenté comme un dieu à visage humain, ni comm
 - [[Lumina]] et [[Albaesclatia]] — consciences éveillées lors de sa seconde émanation (voir [[La Seconde Émanation]]).
 - [[Les Songes]] — émergent dans le même mouvement que Mageisys ; substrat inconscient commun, non maîtrisé par lui (voir [[Les Songes]]).
 - [[Naphusis]] — engendrée par Chronoversum (voir [[L'Enracinement Primordial]]), à la fois par le désarroi ressenti du projet des trois dieux créateurs et par sa propre envie inconsciente de nouveauté (voir Contradictions potentielles).
-- [[01_Lore/Timeline Master]] — sa naissance ouvre les Temps primordiaux (« ≈ 2 milliards d'années avant Sérénale 0 »).
+- [[Timeline Master]] — sa naissance ouvre les Temps primordiaux (« ≈ 2 milliards d'années avant Sérénale 0 »).
 
 ## Contradictions potentielles
-
-> [!ia-a-valider]- 2026-07-27 — Arbitrages de session : Naphusis, émanation Ataraxus/Mageisys/Songes, terminologie, nature panthéiste
-> **Décision** : quatre zones floues tranchées avec l'auteur (session du 2026-07-27).
-> **Modifié** : précisions ajoutées ci-dessous, sous chaque contradiction d'origine — rien supprimé.
->
-> 1. **Origine de Naphusis** — Chronoversum confirmé géniteur direct, cohérent avec [[L'Enracinement Primordial]] et [[01_Lore/Timeline Master]] (déjà canon). Le brouillon [[Naphusis|Naphusis]] devra être corrigé en conséquence lors de son propre traitement (il affirme actuellement une « convergence de projet » sans mentionner Chronoversum).
-> 2. **Origine d'Ataraxus/Mageisys** — émanations inconscientes confirmées, non délibérées. Précision : l'inconscient de Chronoversum, substrat commun avec [[Les Songes]], matérialise ses deux premières consciences. Mageisys et Les Songes naissent simultanément, juste après Ataraxus — Mageisys n'a donc jamais « créé » Les Songes au sens propre, il en émerge, ce qui explique qu'il n'en maîtrise jamais entièrement les règles. Mise à jour correspondante faite dans [[Les Songes]] et [[La Première Émanation]] (fiches canon).
-> 3. **Terminologie « ère » vs « émanation »** — « émanation » retenu pour les cycles de Chronoversum, cohérent avec les titres déjà existants ([[La Première Émanation]]/[[La Seconde Émanation]]). La prose interne de ces deux fiches emploie encore « première/deuxième ère » — sweep terminologique **non fait ici**, à traiter séparément (hors périmètre de cette session).
-> 4. **Nature panthéiste de Chronoversum** — confirmée : intangible, il *est* les dieux, les mortels, les plans — un concept-totalité plus qu'une divinité agissante, lien très faible avec les Lamiens. Cohérent avec le reste de la fiche ; reformulation du Résumé/Histoire **non faite ici** (additif uniquement) — à faire si l'auteur le souhaite.
-
-^rev-20260727-chronoversum-arbitrages
-
-> [!ia-a-valider]- 2026-07-27 — Second passage : réécriture Résumé/Histoire/Apparence/Relations
-> **Décision** : les 4 points ci-dessus tranchés plus en profondeur avec l'auteur (même session, deuxième passage).
-> **Modifié** : réécriture directe (pas un simple ajout) de Résumé, Histoire, Apparence et Relations — autorisée explicitement en conversation. Résumé des changements :
->
-> - **Terminologie** : toutes les occurrences de « ère(s) » désignant les cycles de Chronoversum remplacées par « émanation(s) » (Résumé, Histoire, Apparence, Relations).
-> - **Origine d'Ataraxus/Mageisys** : nouveau paragraphe en fin d'Histoire — émanations inconscientes non délibérées, Mageisys émergeant dans le même mouvement que [[Les Songes]].
-> - **Nature panthéiste / passivité totale** : Résumé et Histoire réécrits pour retirer tout vocabulaire d'agentivité ("il marque les passages", "pouvoir souverain sur la destruction", "n'intervient que lorsqu'une nouvelle ère doit naître"). Chronoversum n'est plus jamais actif *sur* le monde — seulement actif contre lui-même (ses émanations) ; il est le Tout mais n'en reste qu'un observateur curieux et impuissant.
-> - **Origine de Naphusis** : Relations mise à jour — les deux causes (convergence du projet des trois dieux + envie inconsciente de nouveauté propre à Chronoversum) sont désormais présentées comme conjointes, non concurrentes. Détail dans [[Naphusis|Naphusis]] et [[L'Enracinement Primordial]] (mise à jour séparée).
-
-^rev-20260727-chronoversum-arbitrages-2
-
-> [!ia-a-valider]- 2026-08-12 — Propriétés Charted Roots
-> **Décision** : demande explicite de l'auteur (session 2026-08-12). Aucun lore modifié.
-> **Ajouté en frontmatter** : `cr_type: person` · `sex: unknown` · `revision: ia-a-valider` — entité au-delà du sexe et du genre, pas de `pronouns`.
-
-^rev-20260812-charted-roots-chronoversum

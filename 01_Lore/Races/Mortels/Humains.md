@@ -11,7 +11,6 @@ date: 2026-07-17
 portee:
 aliases: []
 revision-date: 2026-08-04
-revision: ia-a-valider
 ---
 # Humains
 
@@ -87,7 +86,7 @@ Contrepoint dramatique naturel des [[Elfes]] : là où ceux-ci incarnent plutôt
 
 - [[Albaesclatia]] — créatrice, conçoit le corps et les règles de la race au Dibertium.
 - [[Filiama]] — flamme dont une partie de l'essence anime la première fournée.
-- [[2026-07-12 — Proposition — Migration Orgea|Orgea]] — introduit, avec l'accord d'Albaesclatia, la différenciation sexuée et le désir (brouillon non validé).
+- [[Orgea|Orgea]] — introduit, avec l'accord d'Albaesclatia, la différenciation sexuée et le désir (brouillon non validé).
 - [[Naphusis]] — sa Faune inspire le modèle biologique de reproduction repris par Orgea.
 - [[Elfes]] — race-sœur créée au même moment.
 - [[Mageisys]] — ouvre le portail de dépôt sur Lamia ; source de l'essence magique latente commune ([[Le Tribut de la Création]]).
@@ -99,4 +98,4 @@ Contrepoint dramatique naturel des [[Elfes]] : là où ceux-ci incarnent plutôt
 - **Contenu peuple-niveau condensé.** Le détail narratif des huit peuples listés ci-dessus (frontières précises, gouvernement, culture propre) a été réduit à une ligne de tableau lors de cette migration — à restaurer/développer dans leurs futures fiches `peuple` dédiées.
 - **Langues retirées de cette fiche.** [[Humerian]] et [[Univrian]] (dont Univrian décrite comme « langue de commerce et de diplomatie » selon [[Empire de Luminorn]], archive) appartenaient à l'ancien frontmatter/section Langues — à relocaliser dans les futures fiches `peuple` concernées.
 - **Géographie manquante :** [[Horiae]], Cyroldan (ville), Humildas, [[Royaume de Perservorn|Perservorn]] — aucune fiche `lieu`, malgré des dizaines de mentions dans le vault.
-- **[[2026-07-12 — Proposition — Migration Orgea|Orgea]]** n'est pas encore une fiche divinité validée — cette fiche s'appuie donc partiellement sur un brouillon non canon.
+- **[[Orgea|Orgea]]** n'est pas encore une fiche divinité validée — cette fiche s'appuie donc partiellement sur un brouillon non canon.

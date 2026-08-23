@@ -21,7 +21,7 @@ aliases:
 
 ## Résumé
 
-Après le second pacte imposé par Mageisys, Albaesclatia tient sa promesse et donne naissance à vingt nouveaux enfants. Avec Xeros, ils forment le Conseil des Archanges, qu'elle dirige dans l'élaboration de nouvelles formes de vie.
+Après le second pacte imposé par Mageisys, Albaesclatia tient sa promesse et donne naissance à dix-neuf nouveaux enfants. Avec Xeros, ils forment le Conseil des Archanges, qu'elle dirige dans l'élaboration de nouvelles formes de vie.
 
 ## Causes
 

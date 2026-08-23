@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786553086421-0q8tg9qds",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786553086447-2empia4",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786553086420-bfbuorm",
+      "timestamp": 1786553086420,
+      "rawDisplayText": "/creer-fiche  On va créer une fiche ensemble car l'ancienne fiche d'Humarios (Humarios - brouillons old) est devenu obslette et je prefère recommençer à zero. Créer la fiche d'Humarios avec les infos canon que tu as de lui dans un premier temps.",
+      "canonicalText": "/creer-fiche  On va créer une fiche ensemble car l'ancienne fiche d'Humarios (Humarios - brouillons old) est devenu obslette et je prefère recommençer à zero. Créer la fiche d'Humarios avec les infos canon que tu as de lui dans un premier temps.",
+      "context": {
+        "currentNote": {
+          "path": "04_Brouillons/Humarios - brouillon old.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "39d1579e192078755084b6516cc872d1a1d1faf7fca101bfbedf29d94f09cd11",
+      "providerUserMessageId": "c2cc46f0-4ff6-4d8b-9a2e-e82714bb4d8c",
+      "providerAssistantMessageId": "7b00789b-0262-45e8-8e5e-6f857d736092"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786553219585-5v8kci9",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786553219582-nwfbna8",
+      "timestamp": 1786553219582,
+      "rawDisplayText": "1. demi-dieu comme Alfaryus 2. scellé. Tu as le go pour construire",
+      "canonicalText": "1. demi-dieu comme Alfaryus 2. scellé. Tu as le go pour construire",
+      "images": [],
+      "contentDigest": "28226958a26cce81eac2e21503873a9ae8dc134eaf710b0fe0317575ddc04d5c",
+      "providerUserMessageId": "38ae1c99-655f-4fda-839c-03ab3ca64511",
+      "providerAssistantMessageId": "36f9dabb-6c0e-4cb0-9a83-c61a6d8e761f"
+    }
+  ]
+}

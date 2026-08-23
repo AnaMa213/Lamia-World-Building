@@ -1,0 +1,17 @@
+{
+  "id": "conv-1786697440434-xa1rin5xo",
+  "providerId": "claude",
+  "title": "/creer-fiche de type Magie pour une fiche Magie Ar...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1786697440436,
+  "lastActivityAt": 1786697877693,
+  "sessionId": "4c4d4789-6298-478d-9820-ac5c74af452d",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "4c4d4789-6298-478d-9820-ac5c74af452d"
+  },
+  "currentNote": "01_Lore/Évenements/Ère Exodiale/La Transmission de la Magie Arcanique.md",
+  "enabledMcpServers": [
+    "obsidian-mcp"
+  ]
+}

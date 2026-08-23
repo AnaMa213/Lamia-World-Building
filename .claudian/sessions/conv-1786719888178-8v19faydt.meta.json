@@ -1,0 +1,22 @@
+{
+  "id": "conv-1786719888178-8v19faydt",
+  "providerId": "claude",
+  "title": "Créer fiches de lieux Horiae et Eliyae",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786719888180,
+  "lastActivityAt": 1786724945175,
+  "sessionId": "7234780f-020b-409e-b7e4-4c477390b691",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "7234780f-020b-409e-b7e4-4c477390b691"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 8929,
+    "cacheReadInputTokens": 99290,
+    "contextWindow": 1000000,
+    "contextTokens": 108220,
+    "percentage": 11
+  }
+}

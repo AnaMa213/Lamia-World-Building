@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1787169422410-jq2dzn55r",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787169422444-qt35814",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1787169422408-e89asjo",
+      "timestamp": 1787169422408,
+      "rawDisplayText": "/creer-fiche Il faudrait créer la fiche de la dernière divinité Aion. Il est l'Archange le plus proche de Lumina et partage ses idéologies presque totalitaire de l'unique voie du bien. Il é toujours été un fi observateur et il a vu avant tous le monde l'attaque d'Ataraxus mais personne ne l'a vraiment écouté. Plus tard, Ils fut s'y proche que Lumina qui lui fait une confiance aveugle lui céda une partie de son essence. De ce cadeaux, il se senti rapidement supérieur à ces frères et sœurs ce qui lui vallut d'être rapidement détester dans le conseil. D'autant plus qu'il leur en voulait aussi de ne pas avoir intervenu lorsqu'il les avaient prevenu. Son lien entre Albaesclatia et Lumina et étant une entité divine lui permit de développer un pouvoir tout particulier. Il possède la même capacité que Lumina à voir partout où la lumière de Lumina passe. Mais même si l'on a accès à un champs de vision d'un univers entiers, en avoir la vision ne permet pas de savoir où se focaliser. Aion lui avait ce don de voyance. Même les nuits intense de Lamia, il se servait des constellations et de la lune ainsi que des faibles rayons des étoiles pour trouver un moyen de regarder où il voulait. Pendant la guerre, il allait rarement au champs de bataille mais se contenter d'observer. Il se deplacer quand même dans les plans ou lieux où Lumina elle-même de brillait pas, mais il trouvait toujours un moyen de tous voir. C'est grâce à lui que toutes les messe basse et complot de Maurtria, Laxius ou Pilanir ont toujours pu être découvert. Lumina lui confia une tâche particulière sur Lamia. Celle de trouver les âme guerrières et pur et de les subtituer à Filiama afin qu'il gagne un corps temporaire dans le Dibertium. Ces âmes ayant un lien et une capacité partielle à se rendre sur Lamia deviennent un atoùt pour certaines populations ayant appris à maitriser l'appel de ses Héros. Notamment les Zaréh-Djora.  C'est une sorte d'inverse de la nécromancie. Les Heros des temps passés peuvent ainsi être appelé pour aider à nouveau leur descendance le temps d'une bataille ou pour des rituel ou autre. Pour récuperer les âmes, il se deplace généralement lui-même dans les Limbes avec des Lumars. Ce qui déplait souvent à Thanatia qui n'aime pas voir des âmes contraint à ne pas pouvoir trouver le repos en Filiama.",
+      "canonicalText": "/creer-fiche Il faudrait créer la fiche de la dernière divinité Aion. Il est l'Archange le plus proche de Lumina et partage ses idéologies presque totalitaire de l'unique voie du bien. Il é toujours été un fi observateur et il a vu avant tous le monde l'attaque d'Ataraxus mais personne ne l'a vraiment écouté. Plus tard, Ils fut s'y proche que Lumina qui lui fait une confiance aveugle lui céda une partie de son essence. De ce cadeaux, il se senti rapidement supérieur à ces frères et sœurs ce qui lui vallut d'être rapidement détester dans le conseil. D'autant plus qu'il leur en voulait aussi de ne pas avoir intervenu lorsqu'il les avaient prevenu. Son lien entre Albaesclatia et Lumina et étant une entité divine lui permit de développer un pouvoir tout particulier. Il possède la même capacité que Lumina à voir partout où la lumière de Lumina passe. Mais même si l'on a accès à un champs de vision d'un univers entiers, en avoir la vision ne permet pas de savoir où se focaliser. Aion lui avait ce don de voyance. Même les nuits intense de Lamia, il se servait des constellations et de la lune ainsi que des faibles rayons des étoiles pour trouver un moyen de regarder où il voulait. Pendant la guerre, il allait rarement au champs de bataille mais se contenter d'observer. Il se deplacer quand même dans les plans ou lieux où Lumina elle-même de brillait pas, mais il trouvait toujours un moyen de tous voir. C'est grâce à lui que toutes les messe basse et complot de Maurtria, Laxius ou Pilanir ont toujours pu être découvert. Lumina lui confia une tâche particulière sur Lamia. Celle de trouver les âme guerrières et pur et de les subtituer à Filiama afin qu'il gagne un corps temporaire dans le Dibertium. Ces âmes ayant un lien et une capacité partielle à se rendre sur Lamia deviennent un atoùt pour certaines populations ayant appris à maitriser l'appel de ses Héros. Notamment les Zaréh-Djora.  C'est une sorte d'inverse de la nécromancie. Les Heros des temps passés peuvent ainsi être appelé pour aider à nouveau leur descendance le temps d'une bataille ou pour des rituel ou autre. Pour récuperer les âmes, il se deplace généralement lui-même dans les Limbes avec des Lumars. Ce qui déplait souvent à Thanatia qui n'aime pas voir des âmes contraint à ne pas pouvoir trouver le repos en Filiama.",
+      "context": {
+        "currentNote": {
+          "path": "04_Brouillons/2026-07-12 — Proposition — Migration Aion.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "ce8a1d1ca15c2eb60b90830318e21ddc9803d656093a9046418779840030e367",
+      "providerUserMessageId": "b2b5bc3d-6d2f-464e-ae50-97c0a068db62",
+      "providerAssistantMessageId": "62918227-cfb8-4514-9c2a-1b52a320e3fe"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787169738347-5m7kngy",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1787169738344-iy5vlvf",
+      "timestamp": 1787169738344,
+      "rawDisplayText": "Loyal bon est bien et mineur est good, tu as le go",
+      "canonicalText": "Loyal bon est bien et mineur est good, tu as le go",
+      "images": [],
+      "contentDigest": "36abe3b3f7d49fb6c13e665a89aefacbdadc017f32cee66d5177aa3a1ead4801",
+      "providerUserMessageId": "d439d0ba-ab99-467d-95cf-1344fb77565e",
+      "providerAssistantMessageId": "423b85db-944f-4047-9cdb-f0acb2a82434"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787170493695-19duw2f",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1787170493691-ygdw79k",
+      "timestamp": 1787170493691,
+      "rawDisplayText": "IL aurait parlé à Lumina de ses agissements qui l'aurait féliciter et garder le silence.",
+      "canonicalText": "IL aurait parlé à Lumina de ses agissements qui l'aurait féliciter et garder le silence.",
+      "context": {
+        "editorSelection": {
+          "notePath": "05_IA_Inbox/Fiches/Aion.md",
+          "mode": "selection",
+          "selectedText": "Comprenant qu'il devrait agir seul, Aion modifia discrètement certains nouveaux êtres célestes rejoignant le Dibertium. Sans les transformer en soldats déclarés, il leur insuffla des attributs latents capables, si la guerre venait, de développer une puissance guerrière innée. Ces dons demeuraient enfouis, invisibles dans le calme du Dibertium. Aion savait qu'Albaesclatia n'aurait jamais approuvé la création d'êtres divins prédisposés au combat ; il usa donc de subterfuges subtils pour contourner sa vigilance. Lorsque la [[Grande Guerre Divine]] éclata comme il l'avait pressenti, Aion révéla son secret à sa mère. Albaesclatia fut surprise, peut-être même blessée par cette initiative cachée, mais elle comprit que ses intentions étaient restées bienveillantes. Grâce à cette préparation secrète, les anges purent mieux résister aux armées démoniaques d'Ataraxus.",
+          "lineCount": 1,
+          "startLine": 41
+        }
+      },
+      "images": [],
+      "contentDigest": "8133eae5ab2fec78e43e99b61e7e4d7a8ce106e27887b9a4a5c599ccdb84083e",
+      "providerUserMessageId": "c9878b91-64b2-42ad-bafa-ffe7b797427f",
+      "providerAssistantMessageId": "63cbf548-fb09-43e9-9c96-73cf746602a5"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786744370647-y5670uywy",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786744370673-nloke1i",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786744370645-w60swpx",
+      "timestamp": 1786744370645,
+      "rawDisplayText": "/creer-fiche Il faudrait créer une fiche de type Faction pour la Culte d'Ataraxus.",
+      "canonicalText": "/creer-fiche Il faudrait créer une fiche de type Faction pour la Culte d'Ataraxus.",
+      "context": {
+        "currentNote": {
+          "path": "01_Lore/Divinités/Primordiales/Ataraxus.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "95ab2d29cc9fd2710b4864fae2688ff2b8176bb3e5a63c30b6582d5eafe39717",
+      "providerUserMessageId": "aeafcdc7-eb33-45e1-acee-4363d4ee0ca5",
+      "providerAssistantMessageId": "e805245c-4e02-4ddf-ac9d-5badd45d9522"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786744989536-w0c7vbk",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786744989533-uuuef0d",
+      "timestamp": 1786744989533,
+      "rawDisplayText": "Organisation diffuse et peu organisé. 2. Les membres sont souvent des fou désespéré qui veulent que le monde disparaisse avec eux. Certains sont des fous qui pense au Calme final qu'Ataraxus doit redonner à l'univers. 3. Les membres trouve généralement des moyens de créer des micro portails vers les Limbes via le Fil souvent via Pilanir mais il maitrise rarement ce qu'ils font. Il arrive parfois qu'il parviennent à invoquer un démons provoquant de nombreux morts, mais ils sont souvent maitrisé rapidement . J'ai retiré Ombres de suivants car rien à faire dedans. Le Culte existe plus comme une légende que des fou et désespéré tente de suivre.",
+      "canonicalText": "Organisation diffuse et peu organisé. 2. Les membres sont souvent des fou désespéré qui veulent que le monde disparaisse avec eux. Certains sont des fous qui pense au Calme final qu'Ataraxus doit redonner à l'univers. 3. Les membres trouve généralement des moyens de créer des micro portails vers les Limbes via le Fil souvent via Pilanir mais il maitrise rarement ce qu'ils font. Il arrive parfois qu'il parviennent à invoquer un démons provoquant de nombreux morts, mais ils sont souvent maitrisé rapidement . J'ai retiré Ombres de suivants car rien à faire dedans. Le Culte existe plus comme une légende que des fou et désespéré tente de suivre.",
+      "images": [],
+      "contentDigest": "122bd12ebe8f2dfb6b722ab8d7c3539d4909620c72f890a493738b0b0c31a956",
+      "providerUserMessageId": "e21f041e-9409-4ba6-a133-1e60c1d5631e",
+      "providerAssistantMessageId": "fad65b21-6b9e-485d-b11a-11b8411a5ca6"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786745593400-j87fwtc",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1786745593396-crvg73d",
+      "timestamp": 1786745593396,
+      "rawDisplayText": "1. Il vient de l'exterieur vu qu'il n'est pas instualisé à proprement parler. 2. De membres mystiques ont été rares et ont souvent du être traqué et detruit avant de prendre de l'empleur, ils sont donc séparés. 3. connexion  plus passive pour les nihilistes mais consciente pour les groupes mystiques. 4. La théocratie de Maurtria se sert souvent de la réputation du culte pour des enjeux politiques , faire peur des populations ou au contraire leurrer les populations pour se montrer en sauveurs. 5. Ce sont des exemples de suivants, ce n'est pas des titres spécifiques. Leur titre inclut juste généralement qu'on les traite comme membre du culte. 6. La culte à vu le jour pendant l'ère du Voile, mais pas de date connu car souvent une légende à la base qui devient finalement réel par le recit qu'on lui donne.",
+      "canonicalText": "1. Il vient de l'exterieur vu qu'il n'est pas instualisé à proprement parler. 2. De membres mystiques ont été rares et ont souvent du être traqué et detruit avant de prendre de l'empleur, ils sont donc séparés. 3. connexion  plus passive pour les nihilistes mais consciente pour les groupes mystiques. 4. La théocratie de Maurtria se sert souvent de la réputation du culte pour des enjeux politiques , faire peur des populations ou au contraire leurrer les populations pour se montrer en sauveurs. 5. Ce sont des exemples de suivants, ce n'est pas des titres spécifiques. Leur titre inclut juste généralement qu'on les traite comme membre du culte. 6. La culte à vu le jour pendant l'ère du Voile, mais pas de date connu car souvent une légende à la base qui devient finalement réel par le recit qu'on lui donne.",
+      "images": [],
+      "contentDigest": "75815a8a32feb0ee7c6db7a0b06e8ba5cccac14969b8215c0440a72a6b2510f7",
+      "providerUserMessageId": "249f2d5a-2efe-4c60-8f7a-d22dafe996f2",
+      "providerAssistantMessageId": "a7d7d5c6-2c80-4f1f-863b-7b2ce5f85e17"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786745876313-wjzy5v6",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1786745876309-zhyfbcx",
+      "timestamp": 1786745876309,
+      "rawDisplayText": "1. on la fera une autre fois 2. faudra la travailler 3. rumeur tu peux mettre",
+      "canonicalText": "1. on la fera une autre fois 2. faudra la travailler 3. rumeur tu peux mettre",
+      "images": [],
+      "contentDigest": "5d17b8c0632f0cf940cddf1ce809ea5ad554e23e3c6b2e921fb3c8a99385af29",
+      "providerUserMessageId": "bb1af440-7713-43a3-9cb8-5545463df5d0",
+      "providerAssistantMessageId": "66d4d80f-208b-44b8-9921-d924ec362f17"
+    }
+  ]
+}

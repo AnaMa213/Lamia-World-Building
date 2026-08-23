@@ -1,0 +1,25 @@
+{
+  "id": "conv-1786611632824-nwrjs7jex",
+  "providerId": "claude",
+  "title": "Mettre à jour l'événement La Dernière Menace",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786611632824,
+  "lastActivityAt": 1786616404747,
+  "sessionId": "ba2d5d9c-1913-4931-99c0-e0b5d6df5d6f",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "ba2d5d9c-1913-4931-99c0-e0b5d6df5d6f"
+  },
+  "enabledMcpServers": [
+    "obsidian-mcp"
+  ],
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 1531,
+    "cacheReadInputTokens": 191188,
+    "contextWindow": 1000000,
+    "contextTokens": 192722,
+    "percentage": 19
+  }
+}

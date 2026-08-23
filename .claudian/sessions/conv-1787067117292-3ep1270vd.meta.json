@@ -1,0 +1,22 @@
+{
+  "id": "conv-1787067117292-3ep1270vd",
+  "providerId": "claude",
+  "title": "Créer fiche Sophis pour le monde de Lamia",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787067117295,
+  "lastActivityAt": 1787079251183,
+  "sessionId": "0384af21-8ebd-40e7-b009-a6c5a13a0637",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "0384af21-8ebd-40e7-b009-a6c5a13a0637"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 393,
+    "cacheReadInputTokens": 156082,
+    "contextWindow": 1000000,
+    "contextTokens": 156476,
+    "percentage": 16
+  }
+}

@@ -50,13 +50,13 @@ Ils n'ont aucun accès au [[Le Fil|Fil]] : les Gnomes n'y avaient pas accès non
 
 ## Peuples de cette race
 
-| Peuple | Territoire | Particularité |
-|---|---|---|
-| — | — | À définir |
+| Peuple            | Territoire                   | Particularité                                                                                                                        |
+| ----------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Gobelins du Nords | [[Tribus Gobelins du Nords]] | Communauté la plus organisée de Gobelins sur [[Horiae]]. Effectue même du commerce et propose des service de mercenaire (peu fiable) |
 
 ## Histoire
 
-*Détail complet dans [[01_Lore/Timeline Master]] — éléments propres à la race.*
+*Détail complet dans [[Timeline Master]] — éléments propres à la race.*
 
 ### Ère du Voile
 
@@ -73,7 +73,7 @@ Leur intelligence limitée et leurs excès de violence en font des antagonistes 
 Contraste avec les autres corruptions d'Ataraxus :
 - [[Orcs]] (Elfes/Humains corrompus) — plus grands, potentiellement plus stratèges
 - **Gobelins** (Gnomes corrompus) — petits, violents, en meute
-- [[Chairombres]] (animaux corrompus) — sans intelligence
+- [[Chairombres]] (animaux corrompus) — souvent sans intelligence
 
 Pour le JDR : ennemis de faible rang jouables en groupe, idéaux pour des rencontres dans la nature sauvage ou des zones frontalières. La révélation de leur origine gnome peut nourrir des sous-intrigues : un clan gobelin vivant près d'une communauté gnome est une menace existentielle doublée d'une tragédie.
 

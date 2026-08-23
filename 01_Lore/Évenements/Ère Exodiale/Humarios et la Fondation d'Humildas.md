@@ -4,7 +4,7 @@ source: auteur
 type: evenement
 importance: majeur
 ere: exodiale
-annee: inconnu
+annee: ≈ 220 EE
 annee_debut: 220
 annee_fin: 400
 tags:

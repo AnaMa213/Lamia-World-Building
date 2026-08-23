@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786744370647-y5670uywy",
+  "providerId": "claude",
+  "title": "Créer une fiche Faction pour le Culte d'Ataraxus",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786744370649,
+  "lastActivityAt": 1786745928554,
+  "sessionId": "670d53e0-a41f-4b99-ab15-7444ddcaff8a",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "670d53e0-a41f-4b99-ab15-7444ddcaff8a"
+  },
+  "currentNote": "01_Lore/Divinités/Primordiales/Ataraxus.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 2306,
+    "cacheReadInputTokens": 75529,
+    "contextWindow": 1000000,
+    "contextTokens": 77836,
+    "percentage": 8
+  }
+}

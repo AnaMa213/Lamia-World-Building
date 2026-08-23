@@ -19,17 +19,17 @@ suivants:
   - "[[Disciples de Maurtria]]"
   - Marqués
 alignement: Chaotique Mauvais
-revision-date: 2026-08-12
+revision-date: 2026-08-13
 cr_type: person
 sex: female
 pronouns: elle/la
 mother: "[[Albaesclatia]]"
+father: "[[Albaesclatia]]"
 revision:
 cr_id: bob-233-xdk-266
 name: Maurtria
 born: ""
 died: ""
-father: "[[Albaesclatia]]"
 spouses: []
 children: []
 group_name: divinite
@@ -44,7 +44,6 @@ group_name: divinite
 Maurtria est une divinité majeure liée au meurtre, au sang et aux âmes perdues. Son culte attire des êtres désespérés ou tourmentés cherchant la mort d'autrui pour apaiser leur douleur.
 
 ## Histoire
-
 Maurtria est la déesse du meurtre, du sang et de la torture. Parmi les enfants divins d'[[Albaesclatia]], elle demeure l'une des figures les plus dangereuses, non parce qu'elle agit toujours à visage découvert, mais parce qu'elle sait présenter la violence comme une nécessité.
 
 Bien avant que la menace d'[[Ataraxus]] ne donne au sang un prétexte officiel, Maurtria portait en elle quelque chose qu'elle ne comprenait pas encore. Ce n'était pas une doctrine, ni une conviction — c'était une faim. Une attirance pour la violence, pour le corps qui cède, pour le sang qui coule et cette suspension particulière qui précède la mort d'un être. Elle était fille d'[[Albaesclatia]], née de [[Filiama]], entourée d'anges conçus pour protéger et aimer — et en elle quelque chose cherchait le contraire, sans qu'elle puisse lui donner un nom ni un sens.
@@ -93,9 +92,9 @@ Ainsi naquit le premier grand cataclysme intérieur de Lamia. Les nains furent l
 
 Pendant toute cette période, [[Xeros]] — premier fils d'[[Albaesclatia]], l'un des rares à voir clairement ce que Maurtria était devenue — tenta d'ouvrir les yeux de sa mère. Albaesclatia ne pouvait toujours pas se résoudre au bannissement que [[Lumina]] exigeait, mais sous la pression de Xeros et du Conseil, un compromis fut trouvé : Maurtria serait confinée dans une salle du [[Dibertium]], privée de son accès direct aux mortels et aux batailles. [[Laxius]], archange effacé dont la nature timorée semblait garantir l'absence de complicité, fut désigné pour la surveiller.
 
-Ce fut une erreur de jugement. Maurtria ne brisa pas Laxius par la violence — elle n'en avait pas besoin. Elle le trouva tel qu'il était : fragile, rongé par la crainte de décevoir, incapable d'affronter ce qu'il ressentait. Elle y fit son chemin lentement, amplifiant ses peurs, les nourrissant, lui murmurant que la laisser agir était moins dangereux qu'affronter les conséquences de la contrarier. Il cessa de surveiller. Elle reprit sa liberté de mouvement — et Laxius porta seul le poids de sa défaillance, incapable même de l'avouer.
+Ce fut une erreur de jugement. Maurtria ne brisa pas Laxius par la violence — elle n'en avait pas besoin. Elle le trouva tel qu'il était : fragile, rongé par la crainte de décevoir, incapable d'affronter ce qu'il ressentait. Elle y fit son chemin lentement, amplifiant ses peurs, les nourrissant, lui murmurant que la laisser agir était moins dangereux qu'affronter les conséquences de la contrarier. Elle entra ensuite dans ses rêves par les [[Les Songes|Songes]] — lieu où toute défense s'effondre — pour y faire son lit définitivement. Il devint son allié sans jamais tout à fait décider de l'être, et porta seul le poids de sa défaillance, incapable même de l'avouer.
 
-Dès lors, Maurtria n'avait plus besoin d'être physiquement présente sur Lamia. Par le [[Le Fil|Fil]] de ses premiers fidèles mortels et en se glissant dans [[Les Songes]], elle sema la violence, le chaos et le meurtre dans les cœurs des Lamians — non plus sous le prétexte de la défense, mais pour le simple plaisir de voir le désordre s'étendre. Aux yeux d'[[Ataraxus]], elle se révélait comme une alliée potentielle, capable d'ouvrir des failles, de corrompre les esprits et de transformer la peur en meurtre.
+Par le [[Le Fil|Fil]] de ses premiers fidèles mortels et en se glissant dans [[Les Songes]], elle sema la violence, le chaos et le meurtre dans les cœurs des Lamians — non plus sous le prétexte de la défense, mais pour le simple plaisir de voir le désordre s'étendre. Aux yeux d'[[Ataraxus]], elle se révélait comme une alliée potentielle, capable d'ouvrir des failles, de corrompre les esprits et de transformer la peur en meurtre.
 
 Ni le Conseil ni Ataraxus ne comprirent immédiatement l'ampleur de son double jeu. Seule [[Lumina]] sentit que quelque chose clochait. À plusieurs reprises, elle demanda l'exclusion de Maurtria du [[Conseil des Archanges]] et du [[Dibertium]], convaincue que sa présence contaminait tout ce qu'elle prétendait aider. Mais Albaesclatia refusa toujours. Par amour maternel, par espoir de rédemption ou par refus d'abandonner l'une de ses filles, elle la conserva auprès d'eux.
 
@@ -105,7 +104,7 @@ Ce fut [[Mageisys]] qui s'en chargea — non par compassion, jamais par compassi
 
 Elle y vit encore aujourd'hui.
 
-Le [[Caedarium]] est un espace vide — sans peuple, sans structure, sans bruit — sauf lorsque les démons d'[[Ataraxus]] y entrent. Car Maurtria a conclu un accord simple avec lui : il lui envoie régulièrement des vagues de démons, qu'elle laisse s'entredévorer dans son territoire, et en échange, elle lui fournit ce qu'il ne peut obtenir seul. Elle observe [[Lamia]] via les liens que le [[Le Fil|Fil]] tisse avec ses Disciples : ce que vivent les Marqués, ce que traversent les fidèles de la [[Théocratie de Maurtria]], elle le capte et le transmet. Elle se glisse aussi dans [[Les Songes]] — moins habilement qu'[[Oneira]], mais suffisamment pour y traquer ce qu'elle cherche et pour rapporter à Ataraxus ce qu'elle y croise, notamment la trace du fragment Conscience du [[Le Cœur de Lamia|Cœur de Lamia]] qui y est dissimulé. Sur [[Les Limbes]], elle a ses relais parmi les entités qui y errent.
+Le [[Caedarium]] est un espace vide — sans peuple, sans structure, sans bruit — sauf lorsque les démons d'[[Ataraxus]] y entrent. Car Maurtria a conclu un accord simple avec lui : il lui envoie régulièrement des vagues de démons, qu'elle laisse s'entredévorer dans son territoire, et en échange, elle lui fournit ce qu'il ne peut obtenir seul. Elle observe [[Lamia]] depuis le [[Caedarium]] par plusieurs canaux. L'éclat du [[Miroir de Lumina]] qu'elle emporta depuis sa prison du [[Dibertium]] lui offre une vision directe de tout ce que la lumière de [[Lumina]] éclaire sur Lamia — c'est le nerf, l'information sans laquelle le reste ne serait que coups portés dans le vide. Via les liens que le [[Le Fil|Fil]] tisse avec ses Disciples, elle capte ce que vivent les Marqués et ce que traversent les fidèles de la [[Théocratie de Maurtria]], et le transmet à Ataraxus. Elle se glisse aussi dans [[Les Songes]] — moins habilement qu'[[Oneira]], mais suffisamment pour y traquer la trace du fragment Conscience du [[Le Cœur de Lamia|Cœur de Lamia]] qui y est dissimulé, et pour rapporter à Ataraxus ce qu'elle y croise. Sur [[Les Limbes]], elle a ses relais parmi les entités qui y errent.
 
 Ce n'est pas un pacte d'alliance. C'est un commerce froid entre deux êtres qui n'ont plus besoin de prétendre.
 
@@ -168,7 +167,6 @@ Son paradoxe est là. Les mortels de Lamia ont eu besoin d'apprendre à combattr
 Elle ne représente pas seulement le meurtre. Elle représente la justification du meurtre.
 
 ## Relations
-
 - [[Albaesclatia]] — mère ; refuse toujours de l'exclure du Conseil malgré les mises en garde de Lumina.
 - [[Mageisys]] — le libre arbitre qu'il institue empêche le Conseil de simplement effacer les désirs de Maurtria ou de ses créations ; bâtit le [[Caedarium]] lors de son bannissement définitif.
 - [[Lumina]] — seule à percevoir tôt son double jeu ; demande à plusieurs reprises son exclusion du Conseil et du Despophys ; exécute le bannissement définitif une fois qu'Albaesclatia lui cède les rênes.
@@ -181,14 +179,11 @@ Elle ne représente pas seulement le meurtre. Elle représente la justification 
 - [[Armerith]] — forgea [[Nexa]] par affection fraternelle, sans anticiper la corruption que son essence y inscrirait.
 - [[Nexa]] — sa dague, forgée par Armerith, infusée de son essence meurtrière ; lancée sur Lamia lors de Cyroldan, immortalise [[Aldania]] qui la porte. Fiche en 05_IA_Inbox/Fiches.
 - [[Aldania]] — Grande Prêtresse Sanglante, maurtrienne rendue immortelle par Nexa ; dirige la [[Théocratie de Maurtria]] depuis plus d'un siècle. Fiche en 05_IA_Inbox/Fiches.
-- [[Caedarium]] — plan que [[Mageisys]] lui bâtit lors de son bannissement définitif du Despophys ; son territoire actuel, où elle regarde les démons d'Ataraxus s'entredévorer.
+- [[Caedarium]] — plan que [[Mageisys]] lui bâtit lors de son bannissement définitif du Despophys ; son territoire actuel, depuis lequel elle observe Lamia via l'éclat du [[Miroir de Lumina]] et le [[Le Fil|Fil]], et où elle regarde les démons d'Ataraxus s'entredévorer.
+- [[Miroir de Lumina]] — artefact d'[[Armerith]] brisé par [[Laxius]] à sa demande pendant l'Ère Exodiale (voir [[La Dernière Menace]]) ; elle en emporta un éclat qui lui offre une vision directe de Lamia, d'abord depuis sa prison du [[Dibertium]], puis depuis le [[Caedarium]].
 - [[Les Songes]] — plan qu'elle peut partiellement traverser, moins habilement qu'[[Oneira]] ; y traque le fragment-Conscience du [[Le Cœur de Lamia|Cœur de Lamia]] dissimulé par Oneira et le second gardien survivant.
 - [[Xeros]] — premier fils d'Albaesclatia ; tenta de convaincre sa mère d'agir contre Maurtria ; à l'origine du compromis du confinement au Dibertium.
-- [[Laxius]] — archange chargé de la surveiller au Dibertium, dont elle exploita la nature craintive pour le corrompre et retrouver sa liberté d'action sur les mortels.
+- [[Laxius]] — archange chargé de la surveiller au Dibertium ; elle infiltra ses rêves via les Songes pour le briser psychologiquement et en faire un allié actif ; il brisa le [[Miroir de Lumina]] en feig­nant la maladresse et lui en subtilisa un éclat ; porte seul le poids de sa complicité, qu'il n'avouera jamais.
 
 ## Contradictions potentielles
 
-
-**[[Caedarium]] sans note.** Plan bâti par [[Mageisys]] pour Maurtria lors de son bannissement définitif du Despophys. À créer en fiche Lieu (plan divin). Fiches [[Makhoma]], [[Nexa]], [[Aldania]] déposées en 05_IA_Inbox/Fiches (2026-08-10).
-
-⚠️ **Corruption de [[Laxius]] — conflit chronologique avec sa fiche (2026-08-10).** La fiche de migration de Laxius (04_Brouillons) situe sa corruption à "l'ultime bataille de la Grande Guerre Divine" (vraisemblablement Cyroldan, Exodiale ≈1500), sous l'onde négative d'Ataraxus. La présente fiche situe une corruption antérieure par Maurtria pendant l'Ère Sérénale (confinement au Dibertium). Réconciliation proposée : la manipulation de Maurtria crée la vulnérabilité ; l'onde d'Ataraxus à Cyroldan l'exploite et le brise définitivement — deux étapes d'une même chute. À confirmer lors de la migration des deux fiches.

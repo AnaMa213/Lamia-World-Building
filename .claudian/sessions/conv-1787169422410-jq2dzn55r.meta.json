@@ -1,0 +1,23 @@
+{
+  "id": "conv-1787169422410-jq2dzn55r",
+  "providerId": "claude",
+  "title": "Créer fiche divinité Aion l'Archange",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787169422413,
+  "lastActivityAt": 1787170661208,
+  "sessionId": "08015b53-1384-4db8-901a-0a23d413b08b",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "08015b53-1384-4db8-901a-0a23d413b08b"
+  },
+  "currentNote": "01_Lore/Divinités/Mineur/Aion.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 2277,
+    "cacheReadInputTokens": 106766,
+    "contextWindow": 1000000,
+    "contextTokens": 109044,
+    "percentage": 11
+  }
+}

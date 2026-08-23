@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786611632824-nwrjs7jex",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786611632908-yefpue2",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786611632822-nm3jic9",
+      "timestamp": 1786611632822,
+      "rawDisplayText": "Charge les fichier Conventions, Regles_IA_Lore de 00_Système. Il faudrait complétement mettre à jour cette Evenement (@La Dernière Menace.md) pour le faire coller au évènement où Maurtria fut isoler par le Conseil dans une \"prison\" du Dibertium.",
+      "canonicalText": "Charge les fichier Conventions, Regles_IA_Lore de 00_Système. Il faudrait complétement mettre à jour cette Evenement (@La Dernière Menace.md) pour le faire coller au évènement où Maurtria fut isoler par le Conseil dans une \"prison\" du Dibertium.",
+      "context": {
+        "currentNote": {
+          "path": "01_Lore/Évenements/Ère Exodiale/La Dernière Menace.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "711161c76c41c726584377bc974ef70d9fc29e9150bf874b45bbdee3ce1d38f8",
+      "providerUserMessageId": "91144127-b05b-42c2-8648-13342a81a80a",
+      "providerAssistantMessageId": "f071f9d1-dec4-448a-b66d-3fedda7eea19"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786613485623-nh3g4wn",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786613485620-b97nv7h",
+      "timestamp": 1786613485620,
+      "rawDisplayText": "1. C'est  environ 200 ans après La Guerre profonde qu'Albaesclatia et le conseil comprirent que Maurtria était dérrière tous ça et que Xeros demanda son confinement. 2. Oui 3. Oui 4. Oui ça tiens toujours",
+      "canonicalText": "1. C'est  environ 200 ans après La Guerre profonde qu'Albaesclatia et le conseil comprirent que Maurtria était dérrière tous ça et que Xeros demanda son confinement. 2. Oui 3. Oui 4. Oui ça tiens toujours",
+      "images": [],
+      "contentDigest": "a184693b1eb81c0f5b25b9cf67631b2e5fc0a7d931552693b5affcd8820abe9b",
+      "providerUserMessageId": "dcee7896-b260-40ae-bdef-b18f6629b2f9",
+      "providerAssistantMessageId": "5234869e-d707-426b-9d67-fa87b752be45"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786614354704-gmmyhkk",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1786614354701-iw0sr19",
+      "timestamp": 1786614354701,
+      "rawDisplayText": "On peut rajouter et changer quelques détail. Dans sa prison Maurtria n'avait aucune vue sur Lamia et ne pouvait pas agir. C'est pour ça qu'elle corrompe Laxius pour en faite son allié, un allié qui agirait pour elle car détruit psychologiquement par la peur d'elle. Il rentra jusqu'à dans ses rêves via les Songes. Une fois dans sa poche, Elle lui demanda de briser le Miroir de Lumina et de lui en rapporter un des éclats discrètement. Laxius fendant la maladresse brisa le Miroir sous les yeux horrifié d'Albaesclatia et Lumina. Il prit discrètement un des éclats pour le donner à Maurtria qui pu depuis sa prison être libre de continuer sa corruption des mortels en cachette. Depuis ce jour le Miroir de Lumina est brisé mais chaque éclat agit comme un miroir indépendant.",
+      "canonicalText": "On peut rajouter et changer quelques détail. Dans sa prison Maurtria n'avait aucune vue sur Lamia et ne pouvait pas agir. C'est pour ça qu'elle corrompe Laxius pour en faite son allié, un allié qui agirait pour elle car détruit psychologiquement par la peur d'elle. Il rentra jusqu'à dans ses rêves via les Songes. Une fois dans sa poche, Elle lui demanda de briser le Miroir de Lumina et de lui en rapporter un des éclats discrètement. Laxius fendant la maladresse brisa le Miroir sous les yeux horrifié d'Albaesclatia et Lumina. Il prit discrètement un des éclats pour le donner à Maurtria qui pu depuis sa prison être libre de continuer sa corruption des mortels en cachette. Depuis ce jour le Miroir de Lumina est brisé mais chaque éclat agit comme un miroir indépendant.",
+      "context": {
+        "editorSelection": {
+          "notePath": "01_Lore/Évenements/Ère Exodiale/La Dernière Menace.md",
+          "mode": "selection",
+          "selectedText": "(≈ 480 EE)",
+          "lineCount": 1,
+          "startLine": 42
+        }
+      },
+      "images": [],
+      "contentDigest": "a87a64249b597cfaade52cfceae1da09cdebf3778e009826ee8fe8008aad7164",
+      "providerUserMessageId": "3e292c0a-1c25-4995-ac4c-fc66e9608c3d",
+      "providerAssistantMessageId": "66e72554-51b9-4be8-a447-477a60b07dcf"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786614890547-6t4wccw",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1786614890543-9khhqqq",
+      "timestamp": 1786614890543,
+      "rawDisplayText": "Fais L'update sur la fiche du Miroir. Elle a toujours accès au Fil et au Songes, mais si elle ne voit pas ce qui se passe sur Lamia , elle ne peut rien prévoir. Cette vision lui permet d'avoir de l'informations (le nerf de la guerre); A  C'est Maurtria qui entre dans les rêves de Laxius",
+      "canonicalText": "Fais L'update sur la fiche du Miroir. Elle a toujours accès au Fil et au Songes, mais si elle ne voit pas ce qui se passe sur Lamia , elle ne peut rien prévoir. Cette vision lui permet d'avoir de l'informations (le nerf de la guerre); A  C'est Maurtria qui entre dans les rêves de Laxius",
+      "context": {
+        "editorSelection": {
+          "notePath": "01_Lore/Évenements/Ère Exodiale/La Dernière Menace.md",
+          "mode": "selection",
+          "selectedText": "(≈ 480 EE)",
+          "lineCount": 1,
+          "startLine": 42
+        }
+      },
+      "images": [],
+      "contentDigest": "b474ac9da0e8b53824a3ec55b0d9bd715c05d31aa9e5e1fbecf5637532a1d10a",
+      "providerUserMessageId": "8735aaa9-60c7-4b54-baa4-d70759aa6a6d",
+      "providerAssistantMessageId": "b98921a9-2083-4dd8-8072-e64b87fa2a1f"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786615490050-oxv796x",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1786615490046-48svbyb",
+      "timestamp": 1786615490046,
+      "rawDisplayText": "oui",
+      "canonicalText": "oui",
+      "images": [],
+      "contentDigest": "2e3c8e50f730ba9d4b999c055db5371a1f6f882255fb1e9dca59e7bd031e004e",
+      "providerUserMessageId": "34e3c3da-f6a7-44e5-b779-99f3212f65e8",
+      "providerAssistantMessageId": "0a67e712-52cb-4c71-a9a5-818b1412f64b"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786615615574-xkdvb3c",
+      "userTurnOrdinal": 6,
+      "state": "accepted",
+      "localMessageId": "msg-1786615615570-ik1ti2g",
+      "timestamp": 1786615615570,
+      "rawDisplayText": "Aligne la fiche [[Maurtria]] (canon) : mentionner l'éclat du Miroir de Lumina dans la description du Caedarium",
+      "canonicalText": "Aligne la fiche [[Maurtria]] (canon) : mentionner l'éclat du Miroir de Lumina dans la description du Caedarium",
+      "images": [],
+      "contentDigest": "9ed9292742bb624587a8c4c88682822100383ca07f44964510378b8f30575ac4",
+      "providerUserMessageId": "9c1e710e-c11c-4c95-9bd3-22d167414908",
+      "providerAssistantMessageId": "4aa4091e-618d-49e2-a17a-6f87afd9c3b7"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1787417875378-mvt3rjd6l",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787417875413-0r944iy",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1787417875377-2ur3oje",
+      "timestamp": 1787417875377,
+      "rawDisplayText": "Agis comme un expert world-building. Si on imaginait un peuple de nomade. Comment serait fait les vêtements des prêtres de ce peuple nomade qui pour survivre ne doivent pas rester au même endroits trop longtemps ?",
+      "canonicalText": "Agis comme un expert world-building. Si on imaginait un peuple de nomade. Comment serait fait les vêtements des prêtres de ce peuple nomade qui pour survivre ne doivent pas rester au même endroits trop longtemps ?",
+      "context": {
+        "currentNote": {
+          "path": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapter 1.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "7207e9353fd36836984085a628656f9288c8c6f8fe4769e954818240d4257131",
+      "providerUserMessageId": "cd350224-03d2-4caf-b2be-e46f8761693b",
+      "providerAssistantMessageId": "4ec72dc0-2fb8-4e59-bb04-eb403c627342"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787418149153-bg5nlbz",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1787418149150-l0bswgx",
+      "timestamp": 1787418149150,
+      "rawDisplayText": "Il est la seconde génération après la destruction du monde. Ses parents avaient connu le monde sédentaire.",
+      "canonicalText": "Il est la seconde génération après la destruction du monde. Ses parents avaient connu le monde sédentaire.",
+      "images": [],
+      "contentDigest": "8c81ceb542885e09df2e38231cdf4214c15151387bdfaade44a7b85b5ea68370",
+      "providerUserMessageId": "7c805e41-1435-419a-9722-1c393693b7cb",
+      "providerAssistantMessageId": "2f68a17e-f1fc-4e07-b455-7eb254903d54"
+    }
+  ]
+}

@@ -11,14 +11,11 @@ date: 2026-08-04
 portee:
 aliases: []
 revision-date: 2026-08-04
-revision: ia-a-valider
 ---
 # Elfes
 
-> [!ia-a-valider] 2026-08-04 — Passages sur le mécanisme de création et le don oral de Mageisys marqués secrets
-> En écho à leur intégration dans [[La Semence Cachée]] (décision de Key) : marqueurs 🔒 ajoutés en Origine (modelage/Filiama, asexuation/Orgea, don oral de Mageisys), Culture et société et Rapport aux dieux et à la magie (mentions du lien oral avec Mageisys). « En une phrase » et Résumé laissés tels quels — ils évoquent un secret sans en détailler le mécanisme, à corriger aussi si tu le souhaites.
 
-**En une phrase :** Premiers mortels créés « achevés » par [[Albaesclatia]] au [[Dibertium]] aux côtés des [[01_Lore/Races/Mortels/Humains]], et dotés en secret par [[Mageisys]] d'une longueur d'avance magique, les Elfes incarnent la mémoire et la continuité de Lamia — une race stable et conservatrice, aujourd'hui divisée entre plusieurs peuples aux pratiques distinctes.
+**En une phrase :** Premiers mortels créés « achevés » par [[Albaesclatia]] au [[Dibertium]] aux côtés des [[Humains]], et dotés en secret par [[Mageisys]] d'une longueur d'avance magique, les Elfes incarnent la mémoire et la continuité de Lamia — une race stable et conservatrice, aujourd'hui divisée entre plusieurs peuples aux pratiques distinctes.
 
 ## Résumé
 
@@ -38,7 +35,7 @@ Les Elfes comptent, avec les Humains, parmi les premiers peuples mortels créés
 
 - **Taille moyenne** : plus élancée que les Humains (≈1m82).
 - **Morphologie** : nettement plus homogène d'une lignée à l'autre — reflet direct de leur conception « achevée » dès l'origine, à l'opposé de la variabilité expérimentale des Humains.
-- **Longévité** : environ deux siècles. Le vieillissement visible n'apparaît que très tardivement — environ 60 ans avant la date moyenne du décès naturel, soit après près d'un siècle et demi d'apparence stable. Contraste marqué avec les Humains, dont le corps décline progressivement sur toute la fin de vie.
+- **Longévité** : environ 150 ans. Le vieillissement visible n'apparaît que très tardivement — environ 60 ans avant la date moyenne du décès naturel, soit après près d'un siècle et demi d'apparence stable. Contraste marqué avec les Humains, dont le corps décline progressivement sur toute la fin de vie.
 - **Traits distinctifs** : peu de variation physique perceptible sur plusieurs générations d'une même lignée — une constance qui contraste avec l'adaptabilité rapide des Humains.
 
 ## Culture et société
@@ -55,13 +52,13 @@ Cette maîtrise ancienne s'est scindée depuis le début de l'Ère du Voile entr
 
 ## Peuples de cette race
 
-| Peuple          | Territoire                                                                                              | Particularité                                                                  |
-| --------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| [[Zalandrians]] | [[Empire de Zalandria]] à l'est du continent d'[[Horiae]]                                               | Culture majoritaire, « l'Elfe traditionnel » ; fort contrôle continental       |
-| [[Ildienaée]]   | [[République d'Ildienae]] à l'ouest du continent d'[[Horiae]]                                           | Indépendante de son autorité                                                   |
-| [[Naphelian]]   | [[Royaume de Naphelia]] au dessus de la [[La Forêt de Naphusis\|Forêt de Naphusis]] et de l'Arbre-Monde | Culture naturaliste, foyer des [[Druides]] ; née de réfugiés de l'Ère Exodiale |
-| [[Erlsen]]      | [[Royaume de Perservorn]] au nord ouest du continent d'[[Horiae]]                                       | Minorité elfique issue des peuples humains                                     |
-| [[Zaréh-Djora]] | ? au sud du continent d'[[Elyiael]]                                                                     | ?                                                                              |
+| Peuple          | Territoire                                                                                           | Particularité                                                                  |
+| --------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| [[Zalandrians]] | [[Empire de Zalandria]] à l'est du continent d'[[Horiae]]                                            | Culture majoritaire, « l'Elfe traditionnel » ; fort contrôle continental       |
+| [[Ildienaée]]   | [[République d'Ildienae]] à l'ouest du continent d'[[Horiae]]                                        | Indépendante de son autorité                                                   |
+| [[Naphelian]]   | [[Royaume de Naphelia]] au dessus de la [[Forêt de Naphusis\|Forêt de Naphusis]] et de l'Arbre-Monde | Culture naturaliste, foyer des [[Druides]] ; née de réfugiés de l'Ère Exodiale |
+| [[Erlsen]]      | [[Royaume de Perservorn]] au nord ouest du continent d'[[Horiae]]                                    | Minorité elfique issue des peuples humains                                     |
+| [[Zaréh-Djora]] | ? au sud du continent d'[[Elyiael]]                                                                  | ?                                                                              |
 
 ## Histoire
 
@@ -71,7 +68,7 @@ Cette maîtrise ancienne s'est scindée depuis le début de l'Ère du Voile entr
 Créés peu avant Sérénale 0 aux côtés des Humains (voir Origine). Différenciation sexuée par Orgea au tout début de l'ère. Rôle de mémoire, de rigueur et de conservation du savoir durant la paix originelle ; premières cités elfes et humaines ≈100–500 ; réception de l'essence mageysienne universelle ([[Le Tribut de la Création]]) ; apogée magique de l'[[L'Âge d'Or de Lamia]] (≈500–950). Premières tensions avec les Humains à l'approche de la menace d'Ataraxus, en toute fin d'ère.
 
 ### Ère Exodiale
-[[La Chute de l'Âge d'Or]] (an 0) précipite l'invasion démoniaque ; les Elfes, comme les Humains, ne sont pas préparés à une guerre totale. Deux voies de survie émergent alors : une partie rallie [[Alfaryus et la Fondation de Cyroldan|Cyroldan]], fondée par Alfaryus (dont les Elfes comptent parmi les principaux suivants) ; une autre se réfugie dans la [[La Forêt de Naphusis|Forêt de Naphusis]], protégée par le Héraut de Naphusis — germe de ce qui deviendra le [[Royaume de Naphelia]]. 
+[[La Chute de l'Âge d'Or]] (an 0) précipite l'invasion démoniaque ; les Elfes, comme les Humains, ne sont pas préparés à une guerre totale. Deux voies de survie émergent alors : une partie rallie [[Alfaryus et la Fondation de Cyroldan|Cyroldan]], fondée par Alfaryus (dont les Elfes comptent parmi les principaux suivants) ; une autre se réfugie dans la [[Forêt de Naphusis|Forêt de Naphusis]], protégée par le Héraut de Naphusis — germe de ce qui deviendra le [[Royaume de Naphelia]]. 
 
 **Chantier en cours** 
 
@@ -84,24 +81,24 @@ Reconstruction et cristallisation de la scission Mageisys/Alfaryus (voir Culture
 
 ## Rôle narratif
 
-Contrepoint des [[01_Lore/Races/Mortels/Humains]] : là où ceux-ci incarnent la rupture et la réinvention, les Elfes incarnent la continuité et la mémoire — une race dont la force (savoir accumulé, stabilité politique, longévité) est aussi la limite (incapacité à se réinventer face à un monde brisé). Leur division interne (Zalandria/Ildienae/Naphelia/Erlsen ) offre un espace de tensions internes plutôt qu'un simple bloc monolithique face aux Humains.
+Contrepoint des [[Humains]] : là où ceux-ci incarnent la rupture et la réinvention, les Elfes incarnent la continuité et la mémoire — une race dont la force (savoir accumulé, stabilité politique, longévité) est aussi la limite (incapacité à se réinventer face à un monde brisé). Leur division interne (Zalandria/Ildienae/Naphelia/Erlsen ) offre un espace de tensions internes plutôt qu'un simple bloc monolithique face aux Humains.
 
 ## Relations
 
 - [[Albaesclatia]] — créatrice, modèle leur corps et leurs règles « achevés » dès l'origine.
 - [[Filiama]] — flamme dont une partie de l'essence anime la première fournée.
-- [[2026-07-12 — Proposition — Migration Orgea|Orgea]] — introduit, avec l'accord d'Albaesclatia, la différenciation sexuée (brouillon non validé).
+- [[Orgea|Orgea]] — introduit, avec l'accord d'Albaesclatia, la différenciation sexuée (brouillon non validé).
 - [[Naphusis]] — sa Faune inspire le modèle de reproduction ; protège les réfugiés elfes de l'Ère Exodiale via son Héraut, à l'origine du Royaume de Naphelia.
 - [[Mageisys]] — transmet de vive voix, avant le départ du Dibertium et à eux seuls, un savoir du contrôle élémentaire ; source, plus tard, de l'essence latente universelle ([[Le Tribut de la Création]]).
 - [[Alfaryus et la Fondation de Cyroldan|Alfaryus]] — ses préceptes arcaniques rallient une partie des Elfes depuis l'Ère du Voile, fracturant leur unité magique.
-- [[01_Lore/Races/Mortels/Humains]] — race-sœur, créée au même moment ; contrepoint adaptation/mémoire.
+- [[Humains]] — race-sœur, créée au même moment ; contrepoint adaptation/mémoire.
 - [[Druides]] — vocation principalement pratiquée par les Elfes de Naphelia.
-- [[2026-07-12 — Proposition — Migration Quaesir|Quaesir]], [[Vindiereis|Vindiereis]] — figures liées à la victoire de Zalandria sur Horiae (≈1150-1250 È.V., brouillons non validés).
+- [[Quaesir|Quaesirr]], [[Vindiereis|Vindiereis]] — figures liées à la victoire de Zalandria sur Horiae (≈1150-1250 È.V., brouillons non validés).
 - [[Royaume de Perservorn]] — abrite les Erlsen, minorité elfique en terre humaine.
 
 ## Contradictions potentielles
 
-- **Contenu peuple-niveau condensé.** Comme pour [[01_Lore/Races/Mortels/Humains]], le détail des entités listées ci-dessus a été réduit à une ligne de tableau — à restaurer/développer dans leurs futures fiches `peuple` dédiées.
+- **Contenu peuple-niveau condensé.** Comme pour [[Humains]], le détail des entités listées ci-dessus a été réduit à une ligne de tableau — à restaurer/développer dans leurs futures fiches `peuple` dédiées.
 - **[[Zaréh-Djora]]** : cinquième peuple ajouté à la table, aucun autre détail disponible dans cette conversation — territoire et particularité non renseignés.
 - **Géographie non résolue** : position relative de Zalandria/Ildienae/Naphelia/Perservorn sur Horiae, chevauchement possible avec les royaumes humains de la fiche [[01_Lore/Races/Mortels/Humains]].
 - **Passé esclavagiste de Zalandria** (mentionné dans le brouillon Quaesir : esclaves humains libérés par Quaesir) volontairement omis de cette fiche — à traiter lors d'une future fiche Zalandria dédiée.

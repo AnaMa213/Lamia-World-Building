@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786698407996-x9cvo8ir1",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786698408032-mobtycg",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786698407994-l8vxugt",
+      "timestamp": 1786698407994,
+      "rawDisplayText": "/creer-fiche  de type Magie pour une fiche Magie Arcanique.",
+      "canonicalText": "/creer-fiche  de type Magie pour une fiche Magie Arcanique.",
+      "context": {
+        "currentNote": {
+          "path": "01_Lore/Évenements/Ère Exodiale/La Transmission de la Magie Arcanique.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "e5731135073eac6540336fd218b01fbdfe5ddd099502de899b7becdbc2811e21",
+      "providerUserMessageId": "84a9a2af-d58c-46fe-a1c7-de334d331c05"
+    }
+  ]
+}

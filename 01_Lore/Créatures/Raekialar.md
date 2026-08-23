@@ -2,7 +2,7 @@
 statut: canon
 source: auteur
 type: creature
-echelle: colossale
+echelle: lamien
 categorie: dragon primordial
 createur: "[[Akator]]"
 habitat:
@@ -49,7 +49,7 @@ Raekialar n'interagit pas avec les Lamiens. Son île est connue des marins du su
 - **Temps primordiaux** : gardien de Koboldia aux côtés d'[[Akator]] ; père de la lignée draconique du feu.
 - **Sérénale ≈2500** : transporté sur Lamia par [[Mageisys]] ; posté sur une île isolée au sud d'Horiae.
 - **Sérénale ≈2500 — Exodiale ≈1500** : protecteur discret, hibernation entrecoupée de périodes actives.
-- **Exodiale ≈1500 (Grande Bataille de Cyroldan)** : gravement blessé et corrompu lors de l'affrontement avec [[Humarios]].
+- **Exodiale ≈1500 (Grande Bataille de Cyroldan)** : gravement blessé et corrompu lors de l'affrontement avec [[Mage noir - brouillon old]].
 - **Exodiale ≈1500 → Voile 1448 È.V.** : hibernation corrompue profonde ; engendre les dragons rouges.
 
 ## Rôle narratif
@@ -60,7 +60,7 @@ Raekialar est la source narrative de la menace draconique maléfique sur Lamia. 
 
 - [[Akator]] — créateur originel ; si et comment Akator perçoit la corruption de sa création reste non défini.
 - [[Mageisys]] — l'a renforcé et installé sur Lamia (voir [[L'Asile des Dragons]]).
-- [[Humarios]] — affrontement lors de la Grande Bataille de Cyroldan ; source probable de la corruption.
+- [[Mage noir - brouillon old]] — affrontement lors de la Grande Bataille de Cyroldan ; source probable de la corruption.
 - [[Daenithor]] / [[Hurinathil]] / [[Thariathor]] — frères ; leur communication depuis la corruption de Raekialar est inconnue.
 - [[L'Asile des Dragons]] — événement de son arrivée sur Lamia (Sérénale ≈2500).
 - [[Grande Bataille de Cyroldan]] — événement de sa corruption (Exodiale ≈1500).

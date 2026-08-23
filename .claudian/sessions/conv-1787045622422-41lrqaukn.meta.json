@@ -1,0 +1,22 @@
+{
+  "id": "conv-1787045622422-41lrqaukn",
+  "providerId": "claude",
+  "title": "Créer fiches Orgea et Diablio liées à leur hist...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787045622426,
+  "lastActivityAt": 1787049232635,
+  "sessionId": "7d61367d-28b0-40a9-b41c-ee4c8ee773ed",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "7d61367d-28b0-40a9-b41c-ee4c8ee773ed"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 2908,
+    "cacheReadInputTokens": 164302,
+    "contextWindow": 1000000,
+    "contextTokens": 167211,
+    "percentage": 17
+  }
+}

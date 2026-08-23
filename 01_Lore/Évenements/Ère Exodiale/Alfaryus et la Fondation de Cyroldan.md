@@ -4,9 +4,9 @@ source: auteur
 type: evenement
 importance: majeur
 ere: exodiale
-annee: inconnu
-annee_debut: 220
-annee_fin: 400
+annee: ≈ 350 ES
+annee_debut: 350
+annee_fin:
 tags:
   - alfaryus
   - cyroldan
@@ -24,7 +24,7 @@ aliases:
 
 ## Résumé
 
-Alfaryus grandit parmi les survivants elfiques du nord, guidé indirectement par les visions fragmentaires d'Oneira. Après des années d'errance, ses rêves le mènent vers un lieu que les démons semblent éviter. Il y fonde Cyroldan, dresse une barrière protectrice, et devient le premier grand sanctuaire de l'après-cataclysme — sans savoir que cette protection vient du gardien nain corrompu enfoui sous ses fondations.
+Alfaryus grandit parmi les survivants elfiques du nord, guidé indirectement par les visions fragmentaires d'Oneira. Après des années d'errance, ses rêves le mènent vers un lieu que les démons semblent éviter. Il y fonde Cyroldan, dresse une barrière protectrice, et devient le premier grand sanctuaire de l'après cataclysme — sans savoir que cette protection vient du gardien nain corrompu enfoui sous ses fondations.
 
 ## Causes
 
@@ -34,7 +34,7 @@ Né au nord au sein de communautés majoritairement elfiques, déjà nomades et 
 
 Pendant des années, Alfaryus mène son peuple en quête d'un refuge. À mesure qu'il avance, ses rêves se font plus insistants pour une terre précise — un lieu où les démons semblent ne pas oser pénétrer, où la lumière du jour garde quelque chose de l'âge d'or perdu. Il y conduit son peuple.
 
-Il y fonde une cité : **[[Cyroldan]]**, *la ville du Foyer* en langue elfique. À l'aide de l'étrange essence divine qui semble baigner ce lieu, il dresse une **barrière** qui repousse les démons hors des murs. Cyroldan devient le premier vrai sanctuaire de l'après-cataclysme, et les survivants des contrées voisines y affluent.
+Il y fonde une cité : **[[Cyroldan]]**, *la ville du Foyer* en langue elfique. À l'aide de l'étrange essence divine qui semble baigner ce lieu, il dresse une **barrière** qui repousse les démons hors des murs. Cyroldan devient le premier vrai sanctuaire de l'après cataclysme, et les survivants des contrées voisines y affluent.
 
 Alfaryus ne sait jamais d'où vient l'essence qui protège sa cité. Quelques mètres sous ses fondations, dans une prison de pierre oubliée du monde, un gardien nain corrompu se tient figé pour l'éternité, étreignant un fragment du cœur de Lamia (voir [[La Trahison des Gardiens]]).
 

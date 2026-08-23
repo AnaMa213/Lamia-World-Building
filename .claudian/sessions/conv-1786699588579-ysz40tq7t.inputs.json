@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786699588579-ysz40tq7t",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786699588599-qjyt3pt",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786699588577-zqg1sqg",
+      "timestamp": 1786699588577,
+      "rawDisplayText": "/creer-fiche de type Magie, la fiche pour la Magie Arcanique.",
+      "canonicalText": "/creer-fiche de type Magie, la fiche pour la Magie Arcanique.",
+      "context": {
+        "currentNote": {
+          "path": "01_Lore/Évenements/Ère Exodiale/La Transmission de la Magie Arcanique.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "05727a29e399e91a157881150a075aadf9d2de6dbe808cf05236331e21073dcd",
+      "providerUserMessageId": "2e0fdf06-80bb-41f0-b9b1-df8c0ba37a87",
+      "providerAssistantMessageId": "c4f7a5c8-a899-4ffb-8f1b-b799055e4cb6"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786701123549-m8297gs",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786701123545-i4yxjd9",
+      "timestamp": 1786701123545,
+      "rawDisplayText": "Question 1 : L'Arcane est très bien comme alias. Question 2.  La Magie Arcanique est plus accessible que la magie mageysienne. (La magie élémentaire étant une sous branche de la magie mageysienne qui correspond au contrôle locale des règles physique du monde) Principe : 1. Condition d'accès : Tous mortel avec l'essence de Mageysis peut developper l'Arcane avec suffisement de travail, même si certaines personne ne trouveront jamais l'étincelle ou la façon de demarrer l'apprentissage. Le corps armée et beaucoup de scientifique doivent maitriser un minimum l'arcane pour être au niveau mais ça reste une magie des elite pour être maitriser. Un soldat peut maitriser les bases, bouclier mineur ou projectile mineur mais rarement plus.  2. C'est concrètement la matérialisation de l'essence mageysienne présente dans chaque Lamiens. (Les nains ne peuvent pas l'utiliser par exemple). On peut ainsi matérialiser l'Arcane en arme, en projectile, bouclier et s'en servir comme énergie. 3. C'est purement mentale et ça coûte l'énergie à l'utilisateur. Une manipulation de l'arcane prolongé peut faire perdre conscience et nécessiter un énorme repos comme si tu avais fais un sport intensif trop longtemps. ça s'apparente à un muscle avec une limite de musculation. Cette limite est propre à chaque mortel. Certains ont des limites d'Arcane énorme, d'autre moins élevé. Origine : Question 3.  Non il parvient à utiliser l'essence Mageysienne en lui autrement que par l'utilisation que Mageysis avait imaginer. Là où elle était utiliser pour pouvoir manipuler localement les regles du monde avec la magie Mageysienne, Alfaryus a directement manipuler l'outil permettant d'utiliser la magie mageysienne, comme une arme,, la magie Arcanique. Limites et Coûts : Question 5. préciser dans la réponse 3 de principe : C'est purement mentale et ça coûte l'énergie à l'utilisateur. Une manipulation de l'arcane prolongé peut faire perdre conscience et nécessiter un énorme repos comme si tu avais fais un sport intensif trop longtemps. ça s'apparente à un muscle avec une limite de musculation. Cette limite est propre à chaque mortel. Certains ont des limites d'Arcane énorme, d'autre moins élevé. Qui la pratique : réponse de 1 de principe : Tous mortel avec l'essence de Mageysis peut developper l'Arcane avec suffisement de travail, même si certaines personne ne trouveront jamais l'étincelle ou la façon de demarrer l'apprentissage. Le corps armée et beaucoup de scientifique doivent maitriser un minimum l'arcane pour être au niveau mais ça reste une magie des elite pour être maitriser. Un soldat peut maitriser les bases, bouclier mineur ou projectile mineur mais rarement plus. Question 6. On alimentera plus tard lors de leur créations. Question 6. déjà trancher plus haut.",
+      "canonicalText": "Question 1 : L'Arcane est très bien comme alias. Question 2.  La Magie Arcanique est plus accessible que la magie mageysienne. (La magie élémentaire étant une sous branche de la magie mageysienne qui correspond au contrôle locale des règles physique du monde) Principe : 1. Condition d'accès : Tous mortel avec l'essence de Mageysis peut developper l'Arcane avec suffisement de travail, même si certaines personne ne trouveront jamais l'étincelle ou la façon de demarrer l'apprentissage. Le corps armée et beaucoup de scientifique doivent maitriser un minimum l'arcane pour être au niveau mais ça reste une magie des elite pour être maitriser. Un soldat peut maitriser les bases, bouclier mineur ou projectile mineur mais rarement plus.  2. C'est concrètement la matérialisation de l'essence mageysienne présente dans chaque Lamiens. (Les nains ne peuvent pas l'utiliser par exemple). On peut ainsi matérialiser l'Arcane en arme, en projectile, bouclier et s'en servir comme énergie. 3. C'est purement mentale et ça coûte l'énergie à l'utilisateur. Une manipulation de l'arcane prolongé peut faire perdre conscience et nécessiter un énorme repos comme si tu avais fais un sport intensif trop longtemps. ça s'apparente à un muscle avec une limite de musculation. Cette limite est propre à chaque mortel. Certains ont des limites d'Arcane énorme, d'autre moins élevé. Origine : Question 3.  Non il parvient à utiliser l'essence Mageysienne en lui autrement que par l'utilisation que Mageysis avait imaginer. Là où elle était utiliser pour pouvoir manipuler localement les regles du monde avec la magie Mageysienne, Alfaryus a directement manipuler l'outil permettant d'utiliser la magie mageysienne, comme une arme,, la magie Arcanique. Limites et Coûts : Question 5. préciser dans la réponse 3 de principe : C'est purement mentale et ça coûte l'énergie à l'utilisateur. Une manipulation de l'arcane prolongé peut faire perdre conscience et nécessiter un énorme repos comme si tu avais fais un sport intensif trop longtemps. ça s'apparente à un muscle avec une limite de musculation. Cette limite est propre à chaque mortel. Certains ont des limites d'Arcane énorme, d'autre moins élevé. Qui la pratique : réponse de 1 de principe : Tous mortel avec l'essence de Mageysis peut developper l'Arcane avec suffisement de travail, même si certaines personne ne trouveront jamais l'étincelle ou la façon de demarrer l'apprentissage. Le corps armée et beaucoup de scientifique doivent maitriser un minimum l'arcane pour être au niveau mais ça reste une magie des elite pour être maitriser. Un soldat peut maitriser les bases, bouclier mineur ou projectile mineur mais rarement plus. Question 6. On alimentera plus tard lors de leur créations. Question 6. déjà trancher plus haut.",
+      "images": [],
+      "contentDigest": "f79d42f09b98c9798c06107523d2296ac7cf2fbe60dec9b9ee33bc3aaec3130a",
+      "providerUserMessageId": "dbe2ac5d-3938-406f-bedb-c877bf10a439",
+      "providerAssistantMessageId": "9117af50-82d6-4538-a190-c88bf8f87865"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786701622988-963h9is",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1786701622984-5wkwe00",
+      "timestamp": 1786701622984,
+      "rawDisplayText": "1. Non les Nains n'ont pas l'essence mageysienne ont la bien noté dans leur fiche. 2. Non c'était un abus de language, je parlais de Humains et des Elfes principalement. Les Dragons peuvent théoriquement également l'utiliser et certains créatures 3. ça ne pose pas de soucis",
+      "canonicalText": "1. Non les Nains n'ont pas l'essence mageysienne ont la bien noté dans leur fiche. 2. Non c'était un abus de language, je parlais de Humains et des Elfes principalement. Les Dragons peuvent théoriquement également l'utiliser et certains créatures 3. ça ne pose pas de soucis",
+      "images": [],
+      "contentDigest": "b0a20a035c816c057a4d6baf47786df13d7616592f36a1499e34cc6f9b801787",
+      "providerUserMessageId": "4ed7c09d-67e5-48f3-b202-0240ba0c530a",
+      "providerAssistantMessageId": "44006282-b1c0-4948-857d-c5e2639c2753"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786709926481-godf7o8",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1786709926477-c2uatgt",
+      "timestamp": 1786709926477,
+      "rawDisplayText": "Pour structurer l'arcane plus complexement en revanche, certain dispositif peut être requis.",
+      "canonicalText": "Pour structurer l'arcane plus complexement en revanche, certain dispositif peut être requis.",
+      "context": {
+        "editorSelection": {
+          "notePath": "05_IA_Inbox/Fiches/Magie Arcanique.md",
+          "mode": "selection",
+          "selectedText": "La pratique est entièrement mentale — aucun support matériel requis.",
+          "lineCount": 1,
+          "startLine": 26
+        }
+      },
+      "images": [],
+      "contentDigest": "fefab92478182a3a816b94e5bde254f462c7488d7b2301ca090e3ce0e2148a0f",
+      "providerUserMessageId": "0da7dfb1-19cd-4b3d-a8db-6c16b11ad4b2",
+      "providerAssistantMessageId": "c0c96bb6-28cc-4514-a837-b535016685f1"
+    }
+  ]
+}

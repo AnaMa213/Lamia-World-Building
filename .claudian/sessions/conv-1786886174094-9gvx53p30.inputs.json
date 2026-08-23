@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786886174094-9gvx53p30",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786886174124-0a7mk53",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786886174092-9wrvz8k",
+      "timestamp": 1786886174092,
+      "rawDisplayText": "/migrer-fiche Valkys.md pour la migrer en tant que fiche de type Race. Pour son apparence donne moi une proposition d'apparence pour ces Valkys qui sont des anges habitué au Limbes.",
+      "canonicalText": "/migrer-fiche Valkys.md pour la migrer en tant que fiche de type Race. Pour son apparence donne moi une proposition d'apparence pour ces Valkys qui sont des anges habitué au Limbes.",
+      "context": {
+        "currentNote": {
+          "path": "99_Archive/Creatures/Valkys.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "c4c0d66e6c11b6d646aaecc4b208045b5aa0a6663e3cb0570ea21575f24020ce",
+      "providerUserMessageId": "d5380da5-004c-450d-8939-1587b03cb6a2",
+      "providerAssistantMessageId": "e242564b-a035-412f-95d4-0c9ae867c068"
+    }
+  ]
+}

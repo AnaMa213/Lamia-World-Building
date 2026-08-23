@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786886418216-5eso9b1ej",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786886418238-oxdb000",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786886418215-p4f7gol",
+      "timestamp": 1786886418215,
+      "rawDisplayText": "L'Ichor du Néant tu le placerais en quel type de fiche celon toi ?",
+      "canonicalText": "L'Ichor du Néant tu le placerais en quel type de fiche celon toi ?",
+      "context": {
+        "currentNote": {
+          "path": "01_Lore/Divinités/Primordiales/Ataraxus.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "a9162b6bc1b7d647f60be8af4bf389b7115eb4f9d2eb802dca78af17a34c434a",
+      "providerUserMessageId": "6319cf50-d965-4a19-927f-93c610461fb9",
+      "providerAssistantMessageId": "845f38a5-d5bd-4de6-8f9b-1237cc51a35a"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786887591613-zdib25a",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786887591611-pnr2aj1",
+      "timestamp": 1786887591611,
+      "rawDisplayText": "Si on devait en créer un , tu créerais quoi ?",
+      "canonicalText": "Si on devait en créer un , tu créerais quoi ?",
+      "images": [],
+      "contentDigest": "638c0d5e741731f1ba7171bb861500b7e75df655fa85a97b1d27ba79993febe0",
+      "providerUserMessageId": "8d1e66f2-56d2-4c21-b590-231bcbb294e2",
+      "providerAssistantMessageId": "72bbd6ab-0c5f-468c-9879-c6940189b121"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786887620226-bsr4sxp",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1786887620224-99r32w1",
+      "timestamp": 1786887620224,
+      "rawDisplayText": "Je veux dire si tu devais créer un nouveau de type de fiche, tu lui donnerai quel nom ?",
+      "canonicalText": "Je veux dire si tu devais créer un nouveau de type de fiche, tu lui donnerai quel nom ?",
+      "images": [],
+      "contentDigest": "d9efee9787e1cf8dfbf65d18fc36b6099033016b15ddc20dd3082cf32801ca25",
+      "providerUserMessageId": "85eec204-d7d1-4d49-9b9c-080113f38af5",
+      "providerAssistantMessageId": "26550743-2416-4bb6-8bbd-006cb989df92"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786887764146-uf1s8x4",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1786887764143-ras9bv9",
+      "timestamp": 1786887764143,
+      "rawDisplayText": "Créer un template pour ce nouveau type essence",
+      "canonicalText": "Créer un template pour ce nouveau type essence",
+      "images": [],
+      "contentDigest": "1a2e2b256a215dbd10ab51d97bf220bbf8aeb6a42fee6a8228f43dd8bef090a7",
+      "providerUserMessageId": "7f891920-6c84-49a4-8bab-737ba7ae776b",
+      "providerAssistantMessageId": "259ad881-961a-48ea-b8b5-26682bb6237a"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786887881116-csxuk8f",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1786887881113-nq64s6p",
+      "timestamp": 1786887881113,
+      "rawDisplayText": "créer moi la fiche template complete",
+      "canonicalText": "créer moi la fiche template complete",
+      "images": [],
+      "contentDigest": "2e5897dcddbda39ef0fda7d5c7354df10f67b003d4054acb1cfa9b2e69c27f0b",
+      "providerUserMessageId": "415fade2-cf78-47c1-9947-76927a76ab1a",
+      "providerAssistantMessageId": "5dfd5b13-3227-42ab-b97b-9004fd9c2450"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786888390745-2amefk6",
+      "userTurnOrdinal": 6,
+      "state": "accepted",
+      "localMessageId": "msg-1786888390741-euogf5m",
+      "timestamp": 1786888390741,
+      "rawDisplayText": "J'aimerai que tu e me créer une fiche Template de Essence que je pourrais copier moi même dans 00_Systeme",
+      "canonicalText": "J'aimerai que tu e me créer une fiche Template de Essence que je pourrais copier moi même dans 00_Systeme",
+      "images": [],
+      "contentDigest": "ad1f1bbf338aa880ef29d6084f1e07d68f883795bd1fc2498f24b2e991068062",
+      "providerUserMessageId": "39c67d47-9474-484a-a402-61899301d9df",
+      "providerAssistantMessageId": "6b1ae212-da79-4e30-8a75-d66a85b7b2b0"
+    }
+  ]
+}
