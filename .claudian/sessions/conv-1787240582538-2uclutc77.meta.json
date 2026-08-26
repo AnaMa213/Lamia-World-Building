@@ -4,7 +4,7 @@
   "title": "Créer un recueil de nouvelles pour enrichir un ...",
   "titleGenerationStatus": "success",
   "createdAt": 1787240582541,
-  "lastActivityAt": 1787426583294,
+  "lastActivityAt": 1787666055560,
   "sessionId": "2e255aef-2807-4cec-86c9-c208c5f1e23d",
   "selectedModel": "sonnet",
   "providerState": {
@@ -12,11 +12,11 @@
   },
   "usage": {
     "model": "sonnet",
-    "inputTokens": 1,
-    "cacheCreationInputTokens": 1443,
-    "cacheReadInputTokens": 159589,
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 268911,
+    "cacheReadInputTokens": 16920,
     "contextWindow": 1000000,
-    "contextTokens": 161033,
-    "percentage": 16
+    "contextTokens": 285834,
+    "percentage": 29
   }
 }

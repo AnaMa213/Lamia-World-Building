@@ -365,6 +365,840 @@
       "contentDigest": "b7b199fd8589a3e96852110e1038b732b32b550170e0e18015e8cd558b25d5c0",
       "providerUserMessageId": "a766a63f-0fbb-42f0-8d6f-c3f58cb8f4d6",
       "providerAssistantMessageId": "6728b797-3942-461a-bc70-7f139d7f6aef"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787479899915-3m9ozei",
+      "userTurnOrdinal": 27,
+      "state": "accepted",
+      "localMessageId": "msg-1787479899890-7h1qqwq",
+      "timestamp": 1787479899890,
+      "rawDisplayText": "Que penses-tu de ce paragraphe ? De plus , Il faudrait que je determine ce que comporte le sac de Varell qui possède tous les outils de survie du groupe. (Le fait que ça soit lui qui porte le sac et pas un des enfants , explique de un qu'il est fort et veut prendre cette responsabilité mais aussi qu'il place plus de valeurs sur ça que sur la vie des autres membres du groupe de manière général).",
+      "canonicalText": "Que penses-tu de ce paragraphe ? De plus , Il faudrait que je determine ce que comporte le sac de Varell qui possède tous les outils de survie du groupe. (Le fait que ça soit lui qui porte le sac et pas un des enfants , explique de un qu'il est fort et veut prendre cette responsabilité mais aussi qu'il place plus de valeurs sur ça que sur la vie des autres membres du groupe de manière général).",
+      "context": {
+        "editorSelection": {
+          "notePath": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapter 1.md",
+          "mode": "selection",
+          "selectedText": "Le restes de la troupe se contenta de suivre Eryan alors qu'il reprit la marche. Sans compter les enfants, ils n'étaient plus qu'une demi-douzaine. Dans le monde de Lamia , celui dans lequel vivait Eryan et les siens, ils valaient mieux vivre en communauté et ne pas s'attacher à un lieu en particulier. Chaque communauté né du grand déferlement avait appris à survivre en nomades, ne se déplaçant qu'avec le nécessaire. Ici, c'était essentiellement Varell qui portait le plus gros du matériels et des ressources. L'énorme sac dans son dos comportait ... . Varell aurait pu décider à tout moment de partir avec tous les éléments de survie du groupe mais aussi vindicatif et brute qu'il pouvait être, Eryan savait qu'il n'était pas assez stupide pour mettre sa femme ou le reste du groupe en danger.",
+          "lineCount": 1,
+          "startLine": 39
+        }
+      },
+      "images": [],
+      "contentDigest": "321ea8a30b148c52df365171a474667939df3c1bc59f88812906cb725480b60b",
+      "providerUserMessageId": "f9a04df9-4574-477e-ac05-0128f821fa1e",
+      "providerAssistantMessageId": "77f2b11d-c0bd-4a35-88e2-e5ca7200813d"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787480497439-561088u",
+      "userTurnOrdinal": 28,
+      "state": "accepted",
+      "localMessageId": "msg-1787480497430-g09qj23",
+      "timestamp": 1787480497430,
+      "rawDisplayText": "Si je prends Hobbs par exemple, ça arrive qu'elle fasse des passage où elle explique briévement du worldbuilding sans pour autant tout décrire. J'ai voulu créer un effet où c'est le narrateur qui redirige le recit le temps d'une phrase. ça ne va pas ?",
+      "canonicalText": "Si je prends Hobbs par exemple, ça arrive qu'elle fasse des passage où elle explique briévement du worldbuilding sans pour autant tout décrire. J'ai voulu créer un effet où c'est le narrateur qui redirige le recit le temps d'une phrase. ça ne va pas ?",
+      "images": [],
+      "contentDigest": "0c6be7b1a42a0b8e2ad43c2ebe8dd02462a0bbc96738ae825ba880421205e708",
+      "providerUserMessageId": "d6056a16-dd37-4f3f-a3bd-f53be3f394ab",
+      "providerAssistantMessageId": "fa23ff25-6493-4145-98d0-76603fa81e36"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787480791070-r5v10fz",
+      "userTurnOrdinal": 29,
+      "state": "accepted",
+      "localMessageId": "msg-1787480791060-wmweaa9",
+      "timestamp": 1787480791060,
+      "rawDisplayText": "propose moi une modification de ce paragraphe pour l'améliorer dans la forme et le fond.",
+      "canonicalText": "propose moi une modification de ce paragraphe pour l'améliorer dans la forme et le fond.",
+      "context": {
+        "editorSelection": {
+          "notePath": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapter 1.md",
+          "mode": "selection",
+          "selectedText": "Le restes de la troupe se contenta de suivre Eryan alors qu'il reprit la marche. Sans compter les enfants, ils n'étaient plus qu'une demi-douzaine. Dans le monde de Lamia , celui dans lequel vivait Eryan et les siens, ils valaient mieux vivre en communauté et ne pas s'attacher à un lieu en particulier. Chaque communauté né du grand déferlement avait appris à survivre en nomades, ne se déplaçant qu'avec le nécessaire. Ici, c'était essentiellement Varell qui portait le plus gros du matériels et des ressources. L'énorme sac dans son dos comportait ... . Varell aurait pu décider à tout moment de partir avec tous les éléments de survie du groupe mais aussi vindicatif et brute qu'il pouvait être, Eryan savait qu'il n'était pas assez stupide pour mettre sa femme ou le reste du groupe en danger. ",
+          "lineCount": 1,
+          "startLine": 39
+        }
+      },
+      "images": [],
+      "contentDigest": "986a87ac0f488d34ab7f8ee3ed23e7ef942b9ac0853b8cced5dd4b197afdc075",
+      "providerUserMessageId": "4840ebd6-e2c1-4e28-bbb3-803b7e12bb52",
+      "providerAssistantMessageId": "93323ccf-2aac-4a75-8b45-57e2d237798a"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787481160862-5av8j6x",
+      "userTurnOrdinal": 30,
+      "state": "accepted",
+      "localMessageId": "msg-1787481160852-lx30efq",
+      "timestamp": 1787481160852,
+      "rawDisplayText": "est-ce interressant d'indiquer ce que le sac contient ?",
+      "canonicalText": "est-ce interressant d'indiquer ce que le sac contient ?",
+      "context": {
+        "editorSelection": {
+          "notePath": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapter 1.md",
+          "mode": "selection",
+          "selectedText": "Son sac contenait [...]",
+          "lineCount": 1,
+          "startLine": 41
+        }
+      },
+      "images": [],
+      "contentDigest": "a47a960e87a1285be091f5aebfbb00228ffe43eb70ac5964aa282b1ccbc5c88e",
+      "providerUserMessageId": "df2c1a20-4caa-491f-855d-884384fa7363",
+      "providerAssistantMessageId": "775e4b7b-1162-4710-815b-e11aa5875bfd"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787482082945-60wbfev",
+      "userTurnOrdinal": 31,
+      "state": "accepted",
+      "localMessageId": "msg-1787482082936-csstji0",
+      "timestamp": 1787482082936,
+      "rawDisplayText": "Améliore la forme de ce paragraphe.",
+      "canonicalText": "Améliore la forme de ce paragraphe.",
+      "context": {
+        "editorSelection": {
+          "notePath": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapter 1.md",
+          "mode": "selection",
+          "selectedText": "Ils marchaient depuis plus d'une demi-heure, le soleil devenu invisible derrière les arbres ne dessinait plus qu'un tableau rose orangé dans le ciel ; un léger brouillard s'étant levé, serpentait entre les troncs de bouleau et de chêne. Eryan se fiait surtout au son du ruisseau qu'il avait continué de longer. Peu à peu, le terrain devenait plus accidenté ; la terre noire cédait la place à des roches moussues et à des affleurements pierreux. Puis le ruisseau allait se perdre dans l’ouverture obscure d’une caverne. ",
+          "lineCount": 1,
+          "startLine": 43
+        }
+      },
+      "images": [],
+      "contentDigest": "620d8ecf4824eb47f3dacc846f8a5527f8cf367f42859e66917180aab3707fcf",
+      "providerUserMessageId": "16cef826-fe06-4ab6-8278-0a63fd21b427",
+      "providerAssistantMessageId": "d9c014fa-1244-4be4-b1d8-55a6ba45e467"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787486428007-qryhd3m",
+      "userTurnOrdinal": 32,
+      "state": "accepted",
+      "localMessageId": "msg-1787486427998-4elrv3x",
+      "timestamp": 1787486427998,
+      "rawDisplayText": "l'imparfait va bien avec le passé simple ou pas ?",
+      "canonicalText": "l'imparfait va bien avec le passé simple ou pas ?",
+      "images": [],
+      "contentDigest": "a3e240ab0a52f1431bf5084d110905ac3cb557638ebad6dfe36ed1240fe47f46",
+      "providerUserMessageId": "8264c143-273e-4cec-bfc6-ad11c9d0047f",
+      "providerAssistantMessageId": "1dd969b0-2661-4618-b3de-d8b46b49d5fe"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787486576543-50kpwy8",
+      "userTurnOrdinal": 33,
+      "state": "accepted",
+      "localMessageId": "msg-1787486576533-7bh14od",
+      "timestamp": 1787486576533,
+      "rawDisplayText": "est-ce qu'il est rationnel ou du moins imaginable qu'Eryan puisse avoir porter son fils pendant plusieurs heures alors qu'il est blessé. pour echaper au monstre ?",
+      "canonicalText": "est-ce qu'il est rationnel ou du moins imaginable qu'Eryan puisse avoir porter son fils pendant plusieurs heures alors qu'il est blessé. pour echaper au monstre ?",
+      "images": [],
+      "contentDigest": "d1780fee23f1a4ab9c8700babadab5a1eaece5b7a842133deb07dedd95fbaead",
+      "providerUserMessageId": "280ce03a-1448-4640-ac13-9a692e34c759",
+      "providerAssistantMessageId": "9876b355-7914-43a4-8179-33dade1c0a31"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787489013805-gpi1oai",
+      "userTurnOrdinal": 34,
+      "state": "accepted",
+      "localMessageId": "msg-1787489013796-oh3xnx1",
+      "timestamp": 1787489013796,
+      "rawDisplayText": "J'ai effectué un sprint d'écriture sur 25 min. Pour 380 mots. On va retravailler la forme de chaque paragraphe. Si tu ne comprends pas une phrase que j'ai voulu écrire, une métaphore ou autre dis le moi. Le but est de me trouver mon style à moi mais qu'il soit agréable à lire et surtout compréhensible.  On va faire paragraphe par paragraphe puis le tout une fois terminer. Voici le premier paragraphe à retravailler. (forme et fond).",
+      "canonicalText": "J'ai effectué un sprint d'écriture sur 25 min. Pour 380 mots. On va retravailler la forme de chaque paragraphe. Si tu ne comprends pas une phrase que j'ai voulu écrire, une métaphore ou autre dis le moi. Le but est de me trouver mon style à moi mais qu'il soit agréable à lire et surtout compréhensible.  On va faire paragraphe par paragraphe puis le tout une fois terminer. Voici le premier paragraphe à retravailler. (forme et fond).",
+      "context": {
+        "editorSelection": {
+          "notePath": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapter 1.md",
+          "mode": "selection",
+          "selectedText": "Elle n'était pas trop profonde et menait vers une petite étendu d'eau alimenté par le ruisseau qu'il avait suivi. Il ne pouvait pas voir jusqu'au fond, l'étendu d'eau l'empêcher de traverser et de l'emmener plus loin dans la grotte. L'écho des clapotis lui indiqua pourtant que sa délimitation  devrait se trouver à quelque mètre seulement après ce que sa vision lui offrait. Sur une des parois, un arbre était parvenu à creuser dans la roche pour y planter durement ses racines. Elle traversait en veine la roche jusqu'à atteindre une partie du ruisseau. Un de chemin que les racines avaient pris se dirigeant jusqu'à la source d'eau avait été coupé, comme si elle était tombé tel la queue d'un lézard. Mais son œil fut rapidement happé par un bouqué de ce qu'il identifia être des pleurotes des profondeurs. Elles étaient empaqueté sur le bout de racines qui s'étaient détachés du restes. Cet endroit ne pouvait pas mieux tomber. Ils auraient accès à une source d'eau presque infinie et une source de nourriture.",
+          "lineCount": 1,
+          "startLine": 51
+        }
+      },
+      "images": [],
+      "contentDigest": "139847ddfc05a534b3de0fe67354e27e3e4ff435d0f599fcca7a8b2de9fb9264",
+      "providerUserMessageId": "d9ce9b06-9f7f-495f-b11e-ccf5d19c645d",
+      "providerAssistantMessageId": "37fe6027-7f23-4aed-acd8-a55df0a24418"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787489494919-nw2afpx",
+      "userTurnOrdinal": 35,
+      "state": "accepted",
+      "localMessageId": "msg-1787489494909-wx21ze4",
+      "timestamp": 1787489494909,
+      "rawDisplayText": "Pas mal mais \"L'un des bras avait été tranché net — il pendait là, détaché, comme la queue d'un lézard. \" n'est pas vraiment ça. Je veux créer une atmosphère de mystère. Comment la racine d'un arbre qui est parvenu à planter ses racines profondément à même la roche a perdu une de ses racines. Je voulais pas qu'elle soit tranché net comme si quelque chose l'avait fait, plus, la racine s'était détaché comme si elle avait du se détacher d'une partie de son corps peut être par survie. (on apprendra plus tard dans la nouvelle que l'eau du bassin est contaminé. Cette racine qui touché directement l'eau du bassin a été contaminé et l'arbre a du se débarrasser de sa racine car risquant de se faire contaminer.",
+      "canonicalText": "Pas mal mais \"L'un des bras avait été tranché net — il pendait là, détaché, comme la queue d'un lézard. \" n'est pas vraiment ça. Je veux créer une atmosphère de mystère. Comment la racine d'un arbre qui est parvenu à planter ses racines profondément à même la roche a perdu une de ses racines. Je voulais pas qu'elle soit tranché net comme si quelque chose l'avait fait, plus, la racine s'était détaché comme si elle avait du se détacher d'une partie de son corps peut être par survie. (on apprendra plus tard dans la nouvelle que l'eau du bassin est contaminé. Cette racine qui touché directement l'eau du bassin a été contaminé et l'arbre a du se débarrasser de sa racine car risquant de se faire contaminer.",
+      "images": [],
+      "contentDigest": "85a2f6808cb26a388d8f9b613056feb1f9790a16419d173516ad3c48a4fd018b",
+      "providerUserMessageId": "e90f859d-0cbc-4d76-8209-0d2ce833a4e2",
+      "providerAssistantMessageId": "5a6fa8c5-f728-4f0f-8b87-9b6c1a66206b"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787490104568-8crgyle",
+      "userTurnOrdinal": 36,
+      "state": "accepted",
+      "localMessageId": "msg-1787490104559-xf02x0g",
+      "timestamp": 1787490104559,
+      "rawDisplayText": "Je suis partie là dessus au final :\"Sur une des parois, un arbre était parvenu à s'enfoncer dans la roche, y plantant ses racines comme des veines dans de la chair. Elles couraient jusqu'au bord du ruisseau. L'un des bras avait semblé vouloir rejoindre le bassin.  Mais elle s'en était détachée à mi-chemin — pas arrachée, pas brisée, mais abandonnée. Comme un lézard qui consent à perdre sa queue.\" Qu'en penses-tu ?",
+      "canonicalText": "Je suis partie là dessus au final :\"Sur une des parois, un arbre était parvenu à s'enfoncer dans la roche, y plantant ses racines comme des veines dans de la chair. Elles couraient jusqu'au bord du ruisseau. L'un des bras avait semblé vouloir rejoindre le bassin.  Mais elle s'en était détachée à mi-chemin — pas arrachée, pas brisée, mais abandonnée. Comme un lézard qui consent à perdre sa queue.\" Qu'en penses-tu ?",
+      "context": {
+        "editorSelection": {
+          "notePath": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapter 1.md",
+          "mode": "selection",
+          "selectedText": "Sur une des parois, un arbre était parvenu à s'enfoncer dans la roche, y plantant ses racines comme des veines dans de la chair. Elles couraient jusqu'au bord du ruisseau. L'un des bras avait semblé vouloir rejoindre le bassin.  Mais elle s'en était détachée à mi-chemin — pas arrachée, pas brisée, mais abandonnée. Comme un lézard qui consent à perdre sa queue.",
+          "lineCount": 1,
+          "startLine": 53
+        }
+      },
+      "images": [],
+      "contentDigest": "018f1fc0e3d156aec421e3b29e9ba7087a2ac2af411918ded6ce9c77f6afb2f9",
+      "providerUserMessageId": "10c5d081-4b9f-4d18-8324-0c4ed02c1954",
+      "providerAssistantMessageId": "33fa6521-c7e1-4014-8169-fcddf1aca897"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787490231347-389075g",
+      "userTurnOrdinal": 37,
+      "state": "accepted",
+      "localMessageId": "msg-1787490231337-h7c8rjb",
+      "timestamp": 1787490231337,
+      "rawDisplayText": "occupons nous de ce paragraphe à améliorer maintenant",
+      "canonicalText": "occupons nous de ce paragraphe à améliorer maintenant",
+      "context": {
+        "editorSelection": {
+          "notePath": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapter 1.md",
+          "mode": "selection",
+          "selectedText": "Eryan déposa son fils sur une des dalles les plus lisse que la caverne offrait pour un blessé. Il avait appris à toujours garder la tête froide même dans ce genre de circonstance, mais son inquiétude devait être visible jusque dans le Dibertium, le Havre des dieux. Avant de s'occuper de son fils, il devait s'assurer que cette grotte soit inhabité et sans danger. Il demanda à Varell de construire un camp et de monter un feu — Un courant d'air dirigerai la fumée vers l'extérieur et ne devrait ni alerter leur présence, ni les intoxiquer. Thaer et Lidea, le dernier couple qui formait ce nouveau groupe venait de perdre leur unique enfant et Eryan n'eut pas le cœur de leur demander quoi que ce soit. Il se chargea d'explorer rapidement le reste de la Caverne.",
+          "lineCount": 1,
+          "startLine": 49
+        }
+      },
+      "images": [],
+      "contentDigest": "10691a11f903a95f861f2df8c7fecd01a1599c2dc4c3b265246f526ea5decefc",
+      "providerUserMessageId": "24e2f9e4-7092-41dc-a8c2-cfc2d6c2ac9b",
+      "providerAssistantMessageId": "3274efef-5a01-460a-88a3-c7c0a970f823"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787490546376-h90jzd3",
+      "userTurnOrdinal": 38,
+      "state": "accepted",
+      "localMessageId": "msg-1787490546359-qap8o63",
+      "timestamp": 1787490546359,
+      "rawDisplayText": "Eryan qui se juge avec une hyperbole. Tu trouves que les ponts entre les phrases est assez fluides et se raccordent bien dans la continuité du texte ? \"Eryan déposa son fils sur une des dalles les plus lisses que la caverne offrait\" Est compréhensible et assez visuel ? j'aimerai que tu m'analyse chaque phrase pour en déduire ce que tu comprends de la scene",
+      "canonicalText": "Eryan qui se juge avec une hyperbole. Tu trouves que les ponts entre les phrases est assez fluides et se raccordent bien dans la continuité du texte ? \"Eryan déposa son fils sur une des dalles les plus lisses que la caverne offrait\" Est compréhensible et assez visuel ? j'aimerai que tu m'analyse chaque phrase pour en déduire ce que tu comprends de la scene",
+      "context": {
+        "editorSelection": {
+          "notePath": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapter 1.md",
+          "mode": "selection",
+          "selectedText": "Eryan déposa son fils sur une des dalles les plus lisse que la caverne offrait pour un blessé. Il avait appris à toujours garder la tête froide même dans ce genre de circonstance, mais son inquiétude devait être visible jusque dans le Dibertium, le Havre des dieux. Avant de s'occuper de son fils, il devait s'assurer que cette grotte soit inhabité et sans danger. Il demanda à Varell de construire un camp et de monter un feu — Un courant d'air dirigerai la fumée vers l'extérieur et ne devrait ni alerter leur présence, ni les intoxiquer. Thaer et Lidea, le dernier couple qui formait ce nouveau groupe venait de perdre leur unique enfant et Eryan n'eut pas le cœur de leur demander quoi que ce soit. Il se chargea d'explorer rapidement le reste de la Caverne.",
+          "lineCount": 1,
+          "startLine": 49
+        }
+      },
+      "images": [],
+      "contentDigest": "a69f70391ac79fde55c1e8edc9143c087e00b134970bbb0ab5230470ea1d3caf",
+      "providerUserMessageId": "75fcf1f6-9707-4988-aabf-90caf170984f",
+      "providerAssistantMessageId": "9c5aebd1-06f2-4bce-ba87-236d94f804f4"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787490806291-waiw4cz",
+      "userTurnOrdinal": 39,
+      "state": "accepted",
+      "localMessageId": "msg-1787490806276-yqp37lc",
+      "timestamp": 1787490806276,
+      "rawDisplayText": "Avec cette analyse, j'amerai que tu me proposes un nouvelle proposition qui corrige ces problèmes et tu m'explique à chaque fois comment ça les corrige",
+      "canonicalText": "Avec cette analyse, j'amerai que tu me proposes un nouvelle proposition qui corrige ces problèmes et tu m'explique à chaque fois comment ça les corrige",
+      "context": {
+        "editorSelection": {
+          "notePath": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapter 1.md",
+          "mode": "selection",
+          "selectedText": "Eryan déposa son fils sur une des dalles les plus lisse que la caverne offrait pour un blessé. Il avait appris à toujours garder la tête froide même dans ce genre de circonstance, mais son inquiétude devait être visible jusque dans le Dibertium, le Havre des dieux. Avant de s'occuper de son fils, il devait s'assurer que cette grotte soit inhabité et sans danger. Il demanda à Varell de construire un camp et de monter un feu — Un courant d'air dirigerai la fumée vers l'extérieur et ne devrait ni alerter leur présence, ni les intoxiquer. Thaer et Lidea, le dernier couple qui formait ce nouveau groupe venait de perdre leur unique enfant et Eryan n'eut pas le cœur de leur demander quoi que ce soit. Il se chargea d'explorer rapidement le reste de la Caverne.",
+          "lineCount": 1,
+          "startLine": 49
+        }
+      },
+      "images": [],
+      "contentDigest": "b48a597e606228a25d3229d9782cdf6bfbc634f1285806ad7c097bcc034afaa9",
+      "providerUserMessageId": "d501e7cd-6fab-4cad-bd24-9bf0e076b6ac",
+      "providerAssistantMessageId": "9c23f163-08fb-4093-a967-f18abf7e36a1"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787491761253-xzgnxzd",
+      "userTurnOrdinal": 40,
+      "state": "accepted",
+      "localMessageId": "msg-1787491761237-g29wlr8",
+      "timestamp": 1787491761237,
+      "rawDisplayText": "Enfaite ça n'a pas de sens cette partie. Le but était plus d'indiquer qu'Eryan ne voulait pas montrer au autres qu'il n'avait pas le contrôle de la situation, pourtant en regardant son fils il avait l'impression qu'il aller la perdre et que ça se remarquerait depuis le Dibertium. C'est ça que je voulais dire",
+      "canonicalText": "Enfaite ça n'a pas de sens cette partie. Le but était plus d'indiquer qu'Eryan ne voulait pas montrer au autres qu'il n'avait pas le contrôle de la situation, pourtant en regardant son fils il avait l'impression qu'il aller la perdre et que ça se remarquerait depuis le Dibertium. C'est ça que je voulais dire",
+      "context": {
+        "editorSelection": {
+          "notePath": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapter 1.md",
+          "mode": "selection",
+          "selectedText": "Il aurait juré que son inquiétude était visible jusque dans le Dibertium — le Havre des dieux lui-même aurait pu la lire sur son visage.",
+          "lineCount": 1,
+          "startLine": 53
+        }
+      },
+      "images": [],
+      "contentDigest": "b64c2f935a9de2c9f4d0f0bbe99c9605b1adc180d711bb6c928f98e7935fa97d",
+      "providerUserMessageId": "6d0a784a-50df-4174-ae6a-0cd7d6e23747",
+      "providerAssistantMessageId": "b2497b2e-7b29-4955-87d5-4653a3a04e1b"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787492086605-mp2yza6",
+      "userTurnOrdinal": 41,
+      "state": "accepted",
+      "localMessageId": "msg-1787492086592-01zuvh9",
+      "timestamp": 1787492086592,
+      "rawDisplayText": "Je suis partie là dessus du coup : \"Eryan déposa son fils sur une des dalles les plus lisses que la caverne offrait. Il arrangea sa position d'une main, s'assurant que la tête repose sans tension sur la pierre froide.\n\nPuis il le regarda.\n\nIl gardait le visage fermé pour les autres — c'était le rôle qu'il s'était donné, tenir quoi qu'il arrive. Mais en regardant son fils, il sentait le contrôle lui échapper. Il aurait juré que ça se lisait jusqu'au Dibertium — le Havre des dieux lui-même. Il s'en arracha. Avant de s'occuper de son fils, il devait s'assurer que la grotte était sûre et inhabitée.\n\nIl demanda à Varell de construire un camp et d'allumer un feu — un courant d'air dirigerait la fumée vers l'extérieur, sans alerter quiconque ni les intoxiquer.\n\nIl chercha ensuite Thaer et Lidea du regard. Le seul autre couple du groupe venait de perdre leur enfant. Eryan n'eut pas le cœur de leur demander quoi que ce soit.\n\nIl s'enfonça seul dans le reste de la grotte.\"",
+      "canonicalText": "Je suis partie là dessus du coup : \"Eryan déposa son fils sur une des dalles les plus lisses que la caverne offrait. Il arrangea sa position d'une main, s'assurant que la tête repose sans tension sur la pierre froide.\n\nPuis il le regarda.\n\nIl gardait le visage fermé pour les autres — c'était le rôle qu'il s'était donné, tenir quoi qu'il arrive. Mais en regardant son fils, il sentait le contrôle lui échapper. Il aurait juré que ça se lisait jusqu'au Dibertium — le Havre des dieux lui-même. Il s'en arracha. Avant de s'occuper de son fils, il devait s'assurer que la grotte était sûre et inhabitée.\n\nIl demanda à Varell de construire un camp et d'allumer un feu — un courant d'air dirigerait la fumée vers l'extérieur, sans alerter quiconque ni les intoxiquer.\n\nIl chercha ensuite Thaer et Lidea du regard. Le seul autre couple du groupe venait de perdre leur enfant. Eryan n'eut pas le cœur de leur demander quoi que ce soit.\n\nIl s'enfonça seul dans le reste de la grotte.\"",
+      "context": {
+        "editorSelection": {
+          "notePath": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapter 1.md",
+          "mode": "selection",
+          "selectedText": "Eryan déposa son fils sur une des dalles les plus lisses que la caverne offrait. Il arrangea sa position d'une main, s'assurant que la tête repose sans tension sur la pierre froide.\n\nPuis il le regarda.\n\nIl gardait le visage fermé pour les autres — c'était le rôle qu'il s'était donné, tenir quoi qu'il arrive. Mais en regardant son fils, il sentait le contrôle lui échapper. Il aurait juré que ça se lisait jusqu'au Dibertium — le Havre des dieux lui-même. Il s'en arracha. Avant de s'occuper de son fils, il devait s'assurer que la grotte était sûre et inhabitée.\n\nIl demanda à Varell de construire un camp et d'allumer un feu — un courant d'air dirigerait la fumée vers l'extérieur, sans alerter quiconque ni les intoxiquer.\n\nIl chercha ensuite Thaer et Lidea du regard. Le seul autre couple du groupe venait de perdre leur enfant. Eryan n'eut pas le cœur de leur demander quoi que ce soit.\n\nIl s'enfonça seul dans le reste de la grotte.",
+          "lineCount": 11,
+          "startLine": 49
+        }
+      },
+      "images": [],
+      "contentDigest": "a9e7d0dce956475a9ed59faee1e1770c676615a7a65d04d811ed1df0df613491",
+      "providerUserMessageId": "f1ec9425-08ce-4002-9e55-60c3bb74cbed",
+      "providerAssistantMessageId": "b43b97f0-6d59-4b98-b592-49c414eb33cd"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787492406435-b6ilx7m",
+      "userTurnOrdinal": 42,
+      "state": "accepted",
+      "localMessageId": "msg-1787492406424-4aw827w",
+      "timestamp": 1787492406424,
+      "rawDisplayText": "on passe sur ce paragraphe",
+      "canonicalText": "on passe sur ce paragraphe",
+      "context": {
+        "editorSelection": {
+          "notePath": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapter 1.md",
+          "mode": "selection",
+          "selectedText": "Isealth, la femme de Varell semblait au bord de l'effondrement et le reste du groupe n'attendait juste qu'elle tombe pour que l'on soit tous obliger de s'arrêter. Eryan, lui-même sentait qu'il ne tiendrait pas vraiment plus longtemps. Il pointa la grotte qui s'ouvrait devant eux. La grotte devrait faire l'affaire pour une installation précaire de quelque jours. Ce qui les suivaient, si ils les suivaient encore n'aurait peut être pas de mal à les retrouver, mais il ne pouvait pas continuer dans leur état et il s'agissait du meilleur abri qu'il eut pu trouver. ",
+          "lineCount": 1,
+          "startLine": 47
+        }
+      },
+      "images": [],
+      "contentDigest": "3916781d09586fe90c2f6041d55e9d6532b5376a986ff593480c7da9a7336eaa",
+      "providerUserMessageId": "c5ffaba3-8158-40fa-9aea-0d2fd07f3c12",
+      "providerAssistantMessageId": "2d225c96-59aa-4b12-954d-ad51bb9cab07"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787492807550-qzbsa7t",
+      "userTurnOrdinal": 43,
+      "state": "accepted",
+      "localMessageId": "msg-1787492807533-yomf8mh",
+      "timestamp": 1787492807533,
+      "rawDisplayText": "Tu trouves que les ponts entre les phrases est assez fluides et se raccordent bien dans la continuité du texte ?  j'aimerai que tu m'analyse chaque phrase pour en déduire ce que tu comprends de la scene",
+      "canonicalText": "Tu trouves que les ponts entre les phrases est assez fluides et se raccordent bien dans la continuité du texte ?  j'aimerai que tu m'analyse chaque phrase pour en déduire ce que tu comprends de la scene",
+      "context": {
+        "editorSelection": {
+          "notePath": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapter 1.md",
+          "mode": "selection",
+          "selectedText": "Isealth, la femme de Varell semblait au bord de l'effondrement et le reste du groupe n'attendait juste qu'elle tombe pour que l'on soit tous obliger de s'arrêter. Eryan, lui-même sentait qu'il ne tiendrait pas vraiment plus longtemps. Il pointa la grotte qui s'ouvrait devant eux. La grotte devrait faire l'affaire pour une installation précaire de quelque jours. Ce qui les suivaient, si ils les suivaient encore n'aurait peut être pas de mal à les retrouver, mais il ne pouvait pas continuer dans leur état et il s'agissait du meilleur abri qu'il eut pu trouver. ",
+          "lineCount": 1,
+          "startLine": 47
+        }
+      },
+      "images": [],
+      "contentDigest": "a626993fa243327829692b3a6143a0d813e38177d4f0efa3d3084c6b6cba9d30",
+      "providerUserMessageId": "0502673e-e77c-49f3-bf1d-5e1250be896f",
+      "providerAssistantMessageId": "8f468af8-6971-4dfb-b4a5-e2495e5cba34"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787492990859-2d8z5ue",
+      "userTurnOrdinal": 44,
+      "state": "accepted",
+      "localMessageId": "msg-1787492990847-1y28o03",
+      "timestamp": 1787492990847,
+      "rawDisplayText": "Avec cette analyse, j'amerai que tu me proposes un nouvelle proposition qui corrige ces problèmes et tu m'explique à chaque fois comment ça les corrige",
+      "canonicalText": "Avec cette analyse, j'amerai que tu me proposes un nouvelle proposition qui corrige ces problèmes et tu m'explique à chaque fois comment ça les corrige",
+      "context": {
+        "editorSelection": {
+          "notePath": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapter 1.md",
+          "mode": "selection",
+          "selectedText": "Isealth, la femme de Varell semblait au bord de l'effondrement et le reste du groupe n'attendait juste qu'elle tombe pour que l'on soit tous obliger de s'arrêter. Eryan, lui-même sentait qu'il ne tiendrait pas vraiment plus longtemps. Il pointa la grotte qui s'ouvrait devant eux. La grotte devrait faire l'affaire pour une installation précaire de quelque jours. Ce qui les suivaient, si ils les suivaient encore n'aurait peut être pas de mal à les retrouver, mais il ne pouvait pas continuer dans leur état et il s'agissait du meilleur abri qu'il eut pu trouver. ",
+          "lineCount": 1,
+          "startLine": 47
+        }
+      },
+      "images": [],
+      "contentDigest": "b48a597e606228a25d3229d9782cdf6bfbc634f1285806ad7c097bcc034afaa9",
+      "providerUserMessageId": "cf5fb851-f458-4fc8-87b0-32b4bc7fb2f4",
+      "providerAssistantMessageId": "a2b62b4d-f779-4ed2-9350-367f30df8247"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787515825585-im9mc2b",
+      "userTurnOrdinal": 45,
+      "state": "accepted",
+      "localMessageId": "msg-1787515825573-psxrdm2",
+      "timestamp": 1787515825573,
+      "rawDisplayText": "Prochain paragraphe : Tu trouves que les ponts entre les phrases est assez fluides et se raccordent bien dans la continuité du texte ? j'aimerai que tu m'analyse chaque phrase pour en déduire ce que tu comprends de la scène et d'en faire une critique sur la forme. (fais une analyse de fond sur l'ensemble du paragraphe).",
+      "canonicalText": "Prochain paragraphe : Tu trouves que les ponts entre les phrases est assez fluides et se raccordent bien dans la continuité du texte ? j'aimerai que tu m'analyse chaque phrase pour en déduire ce que tu comprends de la scène et d'en faire une critique sur la forme. (fais une analyse de fond sur l'ensemble du paragraphe).",
+      "context": {
+        "editorSelection": {
+          "notePath": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapter 1.md",
+          "mode": "selection",
+          "selectedText": "De l'eau. De la nourriture. Cet endroit ne pouvait pas mieux tomber. Il ramassa autant de champignons qu'il pouvait , les collants dans sa tunique avec laquelle il avait former un petit panier. \n\nEn revenant vers l'entrée de la caverne, Varell était en train de finir de faire le feux, alors que sa femme se tenait assise derrière lui, la tête dans les genoux. Les paranges s'étaient blotti l'un contre l'autre, Thaer murmurant des mots qui ne pouvaient consoler Lidea. Le feux commença petit à petit à dessiner les silhouettes meurtries de l'ensemble du groupe sur les paroi humide de la cavité. La danse qui s'en dégageait venait rendre un contraste particulièrement lourd. Il déposa en silence, les champignons près du feu maintenant lancer, donnant un signe de tête à Varell pour lui en remercier.  Plus loin, Eryan aperçut le vieux elfe penché sur son fils, examinant sa blessure. Il se dirigea dans leur direction, manquant de tomber en se relevant tellement la fatigue lui faisait tourner la tête.",
+          "lineCount": 3,
+          "startLine": 73
+        }
+      },
+      "images": [],
+      "contentDigest": "af76780b230166ded78a6669e81bb971c3a24c485a536d94f53226c68b518bf9",
+      "providerUserMessageId": "73b90c84-d5f9-468a-843d-fba599560e00",
+      "providerAssistantMessageId": "597e2833-3563-4418-892b-058e2dca5909"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787516886696-y6skwu1",
+      "userTurnOrdinal": 46,
+      "state": "accepted",
+      "localMessageId": "msg-1787516886684-77grxhh",
+      "timestamp": 1787516886684,
+      "rawDisplayText": "Avec cette analyse, j'amerai que tu me proposes un nouvelle proposition qui corrige ces problèmes et tu m'explique à chaque fois comment ça les corrige",
+      "canonicalText": "Avec cette analyse, j'amerai que tu me proposes un nouvelle proposition qui corrige ces problèmes et tu m'explique à chaque fois comment ça les corrige",
+      "images": [],
+      "contentDigest": "b48a597e606228a25d3229d9782cdf6bfbc634f1285806ad7c097bcc034afaa9",
+      "providerUserMessageId": "76187f6b-751c-4074-80fd-29ae59d5894c",
+      "providerAssistantMessageId": "9d966751-afdd-46c5-b354-1f426ce9367c"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787518343646-5kfnbki",
+      "userTurnOrdinal": 47,
+      "state": "accepted",
+      "localMessageId": "msg-1787518343632-c99o5ed",
+      "timestamp": 1787518343632,
+      "rawDisplayText": "Tu trouves que dans ta version les transitions passe bien ?",
+      "canonicalText": "Tu trouves que dans ta version les transitions passe bien ?",
+      "images": [],
+      "contentDigest": "a66e1ff567cfad65a0d48fa0b1f72767358467170354c55ced18ec6843471caa",
+      "providerUserMessageId": "725876ae-3559-4705-bd1a-ae59206c5ed6",
+      "providerAssistantMessageId": "4b1aaae3-cfbf-4be1-9bf8-f18941400776"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787518471525-p440o7w",
+      "userTurnOrdinal": 48,
+      "state": "accepted",
+      "localMessageId": "msg-1787518471512-1zzn5fk",
+      "timestamp": 1787518471512,
+      "rawDisplayText": "Propose moi une version qui corrige c'est soucis",
+      "canonicalText": "Propose moi une version qui corrige c'est soucis",
+      "images": [],
+      "contentDigest": "68d9e5b68e1f84a8b22f567dbb2f7637c5a798c41c0c3eae4f9f4d9fcb92e14b",
+      "providerUserMessageId": "baba565f-4eb6-4ac9-8d3c-2373ab84da72",
+      "providerAssistantMessageId": "671100f2-454b-4dbb-8b25-952b12a54b48"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787518729949-gajgczu",
+      "userTurnOrdinal": 49,
+      "state": "accepted",
+      "localMessageId": "msg-1787518729935-4kubmi1",
+      "timestamp": 1787518729935,
+      "rawDisplayText": "\" Il ramassa autant de champignons qu'il pouvait, les collant dans sa tunique dont il avait fait un panier.\" Cette partie ne te semble pas un peu hors ambiance. N'agis pas en Yes-man, je veux un avis objectif. La vision de lui faisant un panier de sa tunique ne va peut être pas dans le registre ? Il faudrait le voir ramener de l'eau et de la nourriture. C'est un nomade.",
+      "canonicalText": "\" Il ramassa autant de champignons qu'il pouvait, les collant dans sa tunique dont il avait fait un panier.\" Cette partie ne te semble pas un peu hors ambiance. N'agis pas en Yes-man, je veux un avis objectif. La vision de lui faisant un panier de sa tunique ne va peut être pas dans le registre ? Il faudrait le voir ramener de l'eau et de la nourriture. C'est un nomade.",
+      "images": [],
+      "contentDigest": "61470def48d1ad14b8833606f061612f405edc21354c5d11f9d0c506c72dda2b",
+      "providerUserMessageId": "2ff54bea-a3bb-45a4-b97f-30cae320dc40",
+      "providerAssistantMessageId": "4aa9f295-e8e2-4105-8f4f-616cde998eca"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787519014566-krcw6o7",
+      "userTurnOrdinal": 50,
+      "state": "accepted",
+      "localMessageId": "msg-1787519014553-6alaa8p",
+      "timestamp": 1787519014553,
+      "rawDisplayText": "Si il prends de l'eau c'est pour son fils qui ne peux pas se deplacer car blessé. Il serait logique qu'il possède une gourde et une besace. il faudrait modifier la phrase avec ces informations.",
+      "canonicalText": "Si il prends de l'eau c'est pour son fils qui ne peux pas se deplacer car blessé. Il serait logique qu'il possède une gourde et une besace. il faudrait modifier la phrase avec ces informations.",
+      "images": [],
+      "contentDigest": "829d69528c04d808aeadc1a7ee7bf782f17c9a401d605d7cf31600106fb84105",
+      "providerUserMessageId": "9ae5c79b-74e6-4044-9d73-7f1810ad6f6e",
+      "providerAssistantMessageId": "04a02614-5591-4547-bb0f-513c77c81ec8"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787519219272-j4qlvg6",
+      "userTurnOrdinal": 51,
+      "state": "accepted",
+      "localMessageId": "msg-1787519219251-3doz1dp",
+      "timestamp": 1787519219251,
+      "rawDisplayText": "il faut la placer dans la phrase suivante : \"Cet endroit ne pouvait pas mieux tomber. Il ramassa autant de champignons qu'il pouvait, les collant dans sa tunique dont il avait fait un panier.\"",
+      "canonicalText": "il faut la placer dans la phrase suivante : \"Cet endroit ne pouvait pas mieux tomber. Il ramassa autant de champignons qu'il pouvait, les collant dans sa tunique dont il avait fait un panier.\"",
+      "context": {
+        "editorSelection": {
+          "notePath": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapter 1.md",
+          "mode": "selection",
+          "selectedText": "Cet endroit ne pouvait pas mieux tomber. Il ramassa autant de champignons qu'il pouvait, les collant dans sa tunique dont il avait fait un panier.",
+          "lineCount": 1,
+          "startLine": 73
+        }
+      },
+      "images": [],
+      "contentDigest": "fdb8b4c3d6544451d4639a6c441fafd5ea36f6d5aeae77f47b6e243d74e59ebb",
+      "providerUserMessageId": "4f1e5631-0d15-4530-a13c-59539368ea5c",
+      "providerAssistantMessageId": "a58aacbb-2da4-4173-b5ac-110d52e94bff"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787519666492-90b5zx7",
+      "userTurnOrdinal": 52,
+      "state": "accepted",
+      "localMessageId": "msg-1787519666478-n4l94xg",
+      "timestamp": 1787519666478,
+      "rawDisplayText": "Prochain paragraphe : Analyse les ponts entre les phrases pour en détecté la fluidité et leur raccord dans la continuité du texte ? j'aimerai également que tu m'analyse chaque phrase pour en déduire ce que tu comprends de la scène et d'en faire une critique sur la forme. (fais une analyse de fond sur l'ensemble du paragraphe).",
+      "canonicalText": "Prochain paragraphe : Analyse les ponts entre les phrases pour en détecté la fluidité et leur raccord dans la continuité du texte ? j'aimerai également que tu m'analyse chaque phrase pour en déduire ce que tu comprends de la scène et d'en faire une critique sur la forme. (fais une analyse de fond sur l'ensemble du paragraphe).",
+      "context": {
+        "editorSelection": {
+          "notePath": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapter 1.md",
+          "mode": "selection",
+          "selectedText": "Arrivé au chevet de son fils, il se plaça sans bruit en face du vieillard.\n\n— Thaelian... Dis moi les choses sans détour.. Est-ce qu'il va s'en sortir ? murmura-t-il, le regard plongé sur le visage pâle et moite de l’enfant.  \n\nThaelian pris une pause qui sembla durer une éternité pour Eryan. Il soupira.\n\n— Je peux le soigner. Mais le problème ne se résume malheureusement pas à savoir si je peux ou non le sauver. Ce... qui l'a attaqué l'a marqué et nous n'avons pas pu prendre le temps ni de nettoyer ni de soigner même superficiellement sa blessure. (*il pointa la substance visqueuse et noirâtre qui suinté du flanc de l'enfant*) Même si je soigne la blessure physique, il me faudrait au moins deux ou trois jours pour effacer complétement le mal qui tente de s'insinuer en lui.\n\nNon loin, la petite fille qu'il avait tenu sur son dos étais assise en train de regarder promptement la scène sans dire un mot. ",
+          "lineCount": 9,
+          "startLine": 81
+        }
+      },
+      "images": [],
+      "contentDigest": "525b4c3136dd55dc6709d8febcc821a7a2d7f0a70a035d6cb204b792e4cf511c",
+      "providerUserMessageId": "18c1ca04-78e8-45bd-a7b6-418a5653a22b",
+      "providerAssistantMessageId": "8a662399-aec9-491c-b66b-d93dfb4be072"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787519781302-nf1box4",
+      "userTurnOrdinal": 53,
+      "state": "accepted",
+      "localMessageId": "msg-1787519781289-1sx3d31",
+      "timestamp": 1787519781289,
+      "rawDisplayText": "Avec cette analyse, j'aimerai que tu me proposes un nouvelle proposition qui corrige ces problèmes et tu m'explique à chaque fois comment ça les corrige",
+      "canonicalText": "Avec cette analyse, j'aimerai que tu me proposes un nouvelle proposition qui corrige ces problèmes et tu m'explique à chaque fois comment ça les corrige",
+      "context": {
+        "editorSelection": {
+          "notePath": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapter 1.md",
+          "mode": "selection",
+          "selectedText": "Arrivé au chevet de son fils, il se plaça sans bruit en face du vieillard.\n\n— Thaelian... Dis moi les choses sans détour.. Est-ce qu'il va s'en sortir ? murmura-t-il, le regard plongé sur le visage pâle et moite de l’enfant.  \n\nThaelian pris une pause qui sembla durer une éternité pour Eryan. Il soupira.\n\n— Je peux le soigner. Mais le problème ne se résume malheureusement pas à savoir si je peux ou non le sauver. Ce... qui l'a attaqué l'a marqué et nous n'avons pas pu prendre le temps ni de nettoyer ni de soigner même superficiellement sa blessure. (*il pointa la substance visqueuse et noirâtre qui suinté du flanc de l'enfant*) Même si je soigne la blessure physique, il me faudrait au moins deux ou trois jours pour effacer complétement le mal qui tente de s'insinuer en lui.\n\nNon loin, la petite fille qu'il avait tenu sur son dos étais assise en train de regarder promptement la scène sans dire un mot. ",
+          "lineCount": 9,
+          "startLine": 81
+        }
+      },
+      "images": [],
+      "contentDigest": "f0f4cd17b8c7d88311f56e08cb3f9887e46d024a43f6071100c4d98fa224718e",
+      "providerUserMessageId": "c35119aa-7c5d-4f0d-988e-e39d74376199",
+      "providerAssistantMessageId": "c4241fe4-b513-47e3-88f5-5c6a0b0c2a49"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787601737576-49064u7",
+      "userTurnOrdinal": 54,
+      "state": "accepted",
+      "localMessageId": "msg-1787601737538-3jx51jy",
+      "timestamp": 1787601737538,
+      "rawDisplayText": "Prochain paragraphe : Analyse les ponts entre les phrases pour en détecté la fluidité et leur raccord dans la continuité du texte ? j'aimerai également que tu m'analyse chaque phrase pour en déduire ce que tu comprends de la scène et d'en faire une critique sur la forme. (fais une analyse de fond sur l'ensemble du paragraphe).",
+      "canonicalText": "Prochain paragraphe : Analyse les ponts entre les phrases pour en détecté la fluidité et leur raccord dans la continuité du texte ? j'aimerai également que tu m'analyse chaque phrase pour en déduire ce que tu comprends de la scène et d'en faire une critique sur la forme. (fais une analyse de fond sur l'ensemble du paragraphe).",
+      "context": {
+        "editorSelection": {
+          "notePath": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapter 1.md",
+          "mode": "selection",
+          "selectedText": "— Merci Thaelian... Fais de ton mieux, j'en parlerai à Varell et les autres demain, je crois qu'on est tous épuisé. Je vais faire la première garde pour les laisser se reposer. Stabilise le comme tu peux et va te reposer aussi, tu l'as amplement mérité.\n\nLe vieillard se força à sourire et se mit au travail. Il ferma les yeux et se mit à murmurer un dialecte qu'Eryan ne connaissait pas. Les sons qui sortait semblait venir d'un autre monde. Eryan avait toujours été intrigué par les utilisateurs du Fil — Leur connexions avec les dieux, ici Albaesclatia, déesse de la vie, leur permettait d'exercer après un long entrainement et beaucoup de discipline des miracles ; comme celui de sauver son fils. Ses susurrements se mirent alors petit à petit à prendre forme, en de minuscule petite particule rosâtre se dirigeant silencieusement vers la plaie de l'enfant. Eryan caressa une dernière fois la main de son garçon et se releva en soufflant, se retournant vers le reste du groupe qui n'avait pas dis un mot. Son regard croisa celui de Varell. Ni l'un ni l'autre ne semblait vouloir se détourner, comme un de ses défis que des adolescents se lancent pour montrer leur supériorité. Mais il était plus qu'un simple adolescent. Il s'avança en silence et leur indiqua qu'il prendrait la première veillé et qu'on discutera de la suite demain après s'être reposer.",
+          "lineCount": 3,
+          "startLine": 95
+        }
+      },
+      "images": [],
+      "contentDigest": "525b4c3136dd55dc6709d8febcc821a7a2d7f0a70a035d6cb204b792e4cf511c",
+      "providerUserMessageId": "c05e16fc-f815-4bf8-aa7d-af6c74786b48",
+      "providerAssistantMessageId": "f86d59c5-63af-4cee-8231-5f5c7dadc29f"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787602716784-97zkevb",
+      "userTurnOrdinal": 55,
+      "state": "accepted",
+      "localMessageId": "msg-1787602716769-k4zlwzd",
+      "timestamp": 1787602716769,
+      "rawDisplayText": "Avec cette analyse, j'aimerai que tu me proposes un nouvelle proposition qui corrige ces problèmes et tu m'explique à chaque fois comment ça les corrige",
+      "canonicalText": "Avec cette analyse, j'aimerai que tu me proposes un nouvelle proposition qui corrige ces problèmes et tu m'explique à chaque fois comment ça les corrige",
+      "context": {
+        "editorSelection": {
+          "notePath": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapter 1.md",
+          "mode": "selection",
+          "selectedText": "— Merci Thaelian... Fais de ton mieux, j'en parlerai à Varell et les autres demain, je crois qu'on est tous épuisé. Je vais faire la première garde pour les laisser se reposer. Stabilise le comme tu peux et va te reposer aussi, tu l'as amplement mérité.\n\nLe vieillard se força à sourire et se mit au travail. Il ferma les yeux et se mit à murmurer un dialecte qu'Eryan ne connaissait pas. Les sons qui sortait semblait venir d'un autre monde. Eryan avait toujours été intrigué par les utilisateurs du Fil — Leur connexions avec les dieux, ici Albaesclatia, déesse de la vie, leur permettait d'exercer après un long entrainement et beaucoup de discipline des miracles ; comme celui de sauver son fils. Ses susurrements se mirent alors petit à petit à prendre forme, en de minuscule petite particule rosâtre se dirigeant silencieusement vers la plaie de l'enfant. Eryan caressa une dernière fois la main de son garçon et se releva en soufflant, se retournant vers le reste du groupe qui n'avait pas dis un mot. Son regard croisa celui de Varell. Ni l'un ni l'autre ne semblait vouloir se détourner, comme un de ses défis que des adolescents se lancent pour montrer leur supériorité. Mais il était plus qu'un simple adolescent. Il s'avança en silence et leur indiqua qu'il prendrait la première veillé et qu'on discutera de la suite demain après s'être reposer.",
+          "lineCount": 3,
+          "startLine": 95
+        }
+      },
+      "images": [],
+      "contentDigest": "f0f4cd17b8c7d88311f56e08cb3f9887e46d024a43f6071100c4d98fa224718e",
+      "providerUserMessageId": "c8074067-ce63-4b1c-a51d-4a8056a1a768",
+      "providerAssistantMessageId": "8f92f86e-c099-44d4-b29e-e7f3b3083b16"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787607283085-t8e97z7",
+      "userTurnOrdinal": 56,
+      "state": "accepted",
+      "localMessageId": "msg-1787607283070-wmghv1y",
+      "timestamp": 1787607283070,
+      "rawDisplayText": "Que penses-tu du style d'ecriture. Je vois que tu ne l'as pas modifié, tu peux me faire une critique et une analyse dessus également ?",
+      "canonicalText": "Que penses-tu du style d'ecriture. Je vois que tu ne l'as pas modifié, tu peux me faire une critique et une analyse dessus également ?",
+      "context": {
+        "editorSelection": {
+          "notePath": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapter 1.md",
+          "mode": "selection",
+          "selectedText": "— Merci Thaelian... Fais de ton mieux, j'en parlerai à Varell et les autres demain, je crois qu'on est tous épuisé. Je vais faire la première garde pour les laisser se reposer. Stabilise le comme tu peux et va te reposer aussi, tu l'as amplement mérité.\n\nLe vieillard se força à sourire et se mit au travail. Il ferma les yeux et se mit à murmurer un dialecte qu'Eryan ne connaissait pas. Les sons qui sortait semblait venir d'un autre monde. Eryan avait toujours été intrigué par les utilisateurs du Fil — Leur connexions avec les dieux, ici Albaesclatia, déesse de la vie, leur permettait d'exercer après un long entrainement et beaucoup de discipline des miracles ; comme celui de sauver son fils. Ses susurrements se mirent alors petit à petit à prendre forme, en de minuscule petite particule rosâtre se dirigeant silencieusement vers la plaie de l'enfant. Eryan caressa une dernière fois la main de son garçon et se releva en soufflant, se retournant vers le reste du groupe qui n'avait pas dis un mot. Son regard croisa celui de Varell. Ni l'un ni l'autre ne semblait vouloir se détourner, comme un de ses défis que des adolescents se lancent pour montrer leur supériorité. Mais il était plus qu'un simple adolescent. Il s'avança en silence et leur indiqua qu'il prendrait la première veillé et qu'on discutera de la suite demain après s'être reposer.",
+          "lineCount": 3,
+          "startLine": 95
+        }
+      },
+      "images": [],
+      "contentDigest": "ceed4b61d63ca7e2274c5204c22f02b5b0dc15f21f066ca6f4c6d25a64e58aa9",
+      "providerUserMessageId": "e1d6308d-b842-4eb4-a38f-11d7e22402bb",
+      "providerAssistantMessageId": "40c420aa-193b-47ff-9538-6753414964dd"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787608561786-5p583gw",
+      "userTurnOrdinal": 57,
+      "state": "accepted",
+      "localMessageId": "msg-1787608561771-7ff5do8",
+      "timestamp": 1787608561771,
+      "rawDisplayText": "Et du point de vue de la richesse du vocabulaire et la clarté des phrases ?",
+      "canonicalText": "Et du point de vue de la richesse du vocabulaire et la clarté des phrases ?",
+      "context": {
+        "editorSelection": {
+          "notePath": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapter 1.md",
+          "mode": "selection",
+          "selectedText": "— Merci Thaelian... Fais de ton mieux, j'en parlerai à Varell et les autres demain, je crois qu'on est tous épuisé. Je vais faire la première garde pour les laisser se reposer. Stabilise le comme tu peux et va te reposer aussi, tu l'as amplement mérité.\n\nLe vieillard se força à sourire et se mit au travail. Il ferma les yeux et se mit à murmurer un dialecte qu'Eryan ne connaissait pas. Les sons qui sortait semblait venir d'un autre monde. Eryan avait toujours été intrigué par les utilisateurs du Fil — Leur connexions avec les dieux, ici Albaesclatia, déesse de la vie, leur permettait d'exercer après un long entrainement et beaucoup de discipline des miracles ; comme celui de sauver son fils. Ses susurrements se mirent alors petit à petit à prendre forme, en de minuscule petite particule rosâtre se dirigeant silencieusement vers la plaie de l'enfant. Eryan caressa une dernière fois la main de son garçon et se releva en soufflant, se retournant vers le reste du groupe qui n'avait pas dis un mot. Son regard croisa celui de Varell. Ni l'un ni l'autre ne semblait vouloir se détourner, comme un de ses défis que des adolescents se lancent pour montrer leur supériorité. Mais il était plus qu'un simple adolescent. Il s'avança en silence et leur indiqua qu'il prendrait la première veillé et qu'on discutera de la suite demain après s'être reposer.",
+          "lineCount": 3,
+          "startLine": 95
+        }
+      },
+      "images": [],
+      "contentDigest": "120ae0288d23ab052f85dd70ecf41424e663469312d52e8e165321e75dee168d",
+      "providerUserMessageId": "069d6a5d-38a0-4b3d-9629-26cf2d4f0ba7",
+      "providerAssistantMessageId": "2984a561-7111-4093-b9f0-c5b5c01eea74"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787608740465-yy3inxq",
+      "userTurnOrdinal": 58,
+      "state": "accepted",
+      "localMessageId": "msg-1787608740450-9n6liev",
+      "timestamp": 1787608740450,
+      "rawDisplayText": "J'aimerai que tu me proposes une améloration de ce paragraphe en te basant sur l'analyse et la critique que tu as effectuée",
+      "canonicalText": "J'aimerai que tu me proposes une améloration de ce paragraphe en te basant sur l'analyse et la critique que tu as effectuée",
+      "context": {
+        "editorSelection": {
+          "notePath": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapter 1.md",
+          "mode": "selection",
+          "selectedText": "— Merci Thaelian... Fais de ton mieux, j'en parlerai à Varell et les autres demain, je crois qu'on est tous épuisé. Je vais faire la première garde pour les laisser se reposer. Stabilise le comme tu peux et va te reposer aussi, tu l'as amplement mérité.\n\nLe vieillard se força à sourire et se mit au travail. Il ferma les yeux et se mit à murmurer un dialecte qu'Eryan ne connaissait pas. Les sons qui sortait semblait venir d'un autre monde. Eryan avait toujours été intrigué par les utilisateurs du Fil — Leur connexions avec les dieux, ici Albaesclatia, déesse de la vie, leur permettait d'exercer après un long entrainement et beaucoup de discipline des miracles ; comme celui de sauver son fils. Ses susurrements se mirent alors petit à petit à prendre forme, en de minuscule petite particule rosâtre se dirigeant silencieusement vers la plaie de l'enfant. Eryan caressa une dernière fois la main de son garçon et se releva en soufflant, se retournant vers le reste du groupe qui n'avait pas dis un mot. Son regard croisa celui de Varell. Ni l'un ni l'autre ne semblait vouloir se détourner, comme un de ses défis que des adolescents se lancent pour montrer leur supériorité. Mais il était plus qu'un simple adolescent. Il s'avança en silence et leur indiqua qu'il prendrait la première veillé et qu'on discutera de la suite demain après s'être reposer.",
+          "lineCount": 3,
+          "startLine": 95
+        }
+      },
+      "images": [],
+      "contentDigest": "f178cf681d1223cafcad4da93fc67bf617b528de282145dffc9e12abbb4be133",
+      "providerUserMessageId": "f158dc95-b23e-4f9a-a30d-184ef1b96e41"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787608787129-1qyhmdm",
+      "userTurnOrdinal": 59,
+      "state": "accepted",
+      "localMessageId": "msg-1787608787114-igmterb",
+      "timestamp": 1787608787114,
+      "rawDisplayText": "J'aimerai que tu me proposes une amélioration de ce paragraphe en te basant sur l'analyse et la critique que tu as effectuée",
+      "canonicalText": "J'aimerai que tu me proposes une amélioration de ce paragraphe en te basant sur l'analyse et la critique que tu as effectuée",
+      "context": {
+        "editorSelection": {
+          "notePath": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapter 1.md",
+          "mode": "selection",
+          "selectedText": "Eryan ne répondit pas tout de suite. Il garda les yeux sur son fils, la mâchoire serrée. Il posa sa main sur son bras qui convulsé légèrement.\n\n— Merci Thaelian... Fais de ton mieux, j'en parlerai à Varell et les autres demain, je crois qu'on est tous épuisé. Je vais faire la première garde pour les laisser se reposer. Stabilise le comme tu peux et va te reposer aussi, tu l'as amplement mérité.\n\nLe vieillard se força à sourire et se mit au travail. Il ferma les yeux et se mit à murmurer un dialecte qu'Eryan ne connaissait pas. Les sons qui sortait semblait venir d'un autre monde. Eryan avait toujours été intrigué par les utilisateurs du Fil — Leur connexions avec les dieux, ici Albaesclatia, déesse de la vie, leur permettait d'exercer après un long entrainement et beaucoup de discipline des miracles ; comme celui de sauver son fils. Ses susurrements se mirent alors petit à petit à prendre forme, en de minuscule petite particule rosâtre se dirigeant silencieusement vers la plaie de l'enfant. Eryan caressa une dernière fois la main de son garçon et se releva en soufflant, se retournant vers le reste du groupe qui n'avait pas dis un mot. Son regard croisa celui de Varell. Ni l'un ni l'autre ne semblait vouloir se détourner, comme un de ses défis que des adolescents se lancent pour montrer leur supériorité. Mais il était plus qu'un simple adolescent. Il s'avança en silence et leur indiqua qu'il prendrait la première veillé et qu'on discutera de la suite demain après s'être reposer. ",
+          "lineCount": 5,
+          "startLine": 93
+        }
+      },
+      "images": [],
+      "contentDigest": "5f79e5e2809d4e5e2cb4b3a15049bcfd4338e9319abd22a5490d2cfea5bde851",
+      "providerUserMessageId": "dc5cc0c3-9704-4d95-93ed-eff968c4a722",
+      "providerAssistantMessageId": "bb481088-7fba-4da9-9ad4-b9188bba833a"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787608885099-59qd4o8",
+      "userTurnOrdinal": 60,
+      "state": "accepted",
+      "localMessageId": "msg-1787608885084-ur3b55i",
+      "timestamp": 1787608885084,
+      "rawDisplayText": "as-tu également enrichi et ameliorer le vocabulaire et la clareté du texte ?",
+      "canonicalText": "as-tu également enrichi et ameliorer le vocabulaire et la clareté du texte ?",
+      "context": {
+        "editorSelection": {
+          "notePath": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapter 1.md",
+          "mode": "selection",
+          "selectedText": "Eryan ne répondit pas tout de suite. Il garda les yeux sur son fils, la mâchoire serrée. Il posa sa main sur son bras qui convulsé légèrement.\n\n— Merci Thaelian... Fais de ton mieux, j'en parlerai à Varell et les autres demain, je crois qu'on est tous épuisé. Je vais faire la première garde pour les laisser se reposer. Stabilise le comme tu peux et va te reposer aussi, tu l'as amplement mérité.\n\nLe vieillard se força à sourire et se mit au travail. Il ferma les yeux et se mit à murmurer un dialecte qu'Eryan ne connaissait pas. Les sons qui sortait semblait venir d'un autre monde. Eryan avait toujours été intrigué par les utilisateurs du Fil — Leur connexions avec les dieux, ici Albaesclatia, déesse de la vie, leur permettait d'exercer après un long entrainement et beaucoup de discipline des miracles ; comme celui de sauver son fils. Ses susurrements se mirent alors petit à petit à prendre forme, en de minuscule petite particule rosâtre se dirigeant silencieusement vers la plaie de l'enfant. Eryan caressa une dernière fois la main de son garçon et se releva en soufflant, se retournant vers le reste du groupe qui n'avait pas dis un mot. Son regard croisa celui de Varell. Ni l'un ni l'autre ne semblait vouloir se détourner, comme un de ses défis que des adolescents se lancent pour montrer leur supériorité. Mais il était plus qu'un simple adolescent. Il s'avança en silence et leur indiqua qu'il prendrait la première veillé et qu'on discutera de la suite demain après s'être reposer. ",
+          "lineCount": 5,
+          "startLine": 93
+        }
+      },
+      "images": [],
+      "contentDigest": "c7275ad8098669f0f7234c43ea846b12c0f6a332008e1d77113e1846a6928f33",
+      "providerUserMessageId": "f9ec9aa0-cd67-46bf-af89-4a78da0f1227",
+      "providerAssistantMessageId": "703168d7-a2d2-4e6c-9cb1-eb1ee7183493"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787609051273-azlgfwo",
+      "userTurnOrdinal": 61,
+      "state": "accepted",
+      "localMessageId": "msg-1787609051249-d90s2u7",
+      "timestamp": 1787609051249,
+      "rawDisplayText": "je trouve cette phrase toujours bizarre avec le \"on\" , tu en penses quoi ?",
+      "canonicalText": "je trouve cette phrase toujours bizarre avec le \"on\" , tu en penses quoi ?",
+      "context": {
+        "editorSelection": {
+          "notePath": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapter 1.md",
+          "mode": "selection",
+          "selectedText": "Il s'avança et leur indiqua en silence qu'il prendrait la première veille et qu'on discuterait de la suite demain après s'être reposés",
+          "lineCount": 1,
+          "startLine": 101
+        }
+      },
+      "images": [],
+      "contentDigest": "37af4a969479dd634068b543e400a2f80c92140b7d51fcd887e236e3a3252362",
+      "providerUserMessageId": "ee04acd8-a1dd-457a-b651-7eb554ff6809",
+      "providerAssistantMessageId": "bff695d2-fcac-49eb-9aa7-05ceca7ae9f5"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787609230907-8kptqrp",
+      "userTurnOrdinal": 62,
+      "state": "accepted",
+      "localMessageId": "msg-1787609230883-ouk453t",
+      "timestamp": 1787609230883,
+      "rawDisplayText": "Effectue le même travaille d'analyse sur le vocabulaire, la clareté, les ponts entre les phrases et la fluidité du texte pour la paragrahe suivant . Fais une analyse et une critique complête",
+      "canonicalText": "Effectue le même travaille d'analyse sur le vocabulaire, la clareté, les ponts entre les phrases et la fluidité du texte pour la paragrahe suivant . Fais une analyse et une critique complête",
+      "context": {
+        "editorSelection": {
+          "notePath": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapter 1.md",
+          "mode": "selection",
+          "selectedText": "Même si il parvenait à convaincre au autres qu'il avait la situation en main, son corps lui rappela rapidement le contraire. Sa vision se troubla d'un coup , l'obligeant à s'assoir sur un rocher non loin du feu vers l'entrée de le nouveau repaire. Il avait du courir pendant plusieurs heures, le tout avec un enfant dans les bras. Il avait bien appris que l'adrénaline pouvait pousser les Elfes ou les Hommes à accomplir des miracles. Peut être, était ce une façon d'utiliser le Fil, se disait-t-il. Mais si l'utilisation du Fil donner un retour de bâton aussi violent, il ne pouvait que s'inquiéter pour Thaelian qui avait à son âge plus avancer fait la même chose et continuer de se battre pour la survie d'un enfant qu'il n'était même pas son fils. ",
+          "lineCount": 1,
+          "startLine": 103
+        }
+      },
+      "images": [],
+      "contentDigest": "cdc730ebab42bab807440a5d47f6b7be777593cfafc7673ea38343690676a9fa",
+      "providerUserMessageId": "cc9d1cc2-6e51-42e2-9588-f328bab0df25",
+      "providerAssistantMessageId": "ff636066-1e0a-41c2-8c2c-2cace92d2f1b"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787609425450-c563j0w",
+      "userTurnOrdinal": 63,
+      "state": "accepted",
+      "localMessageId": "msg-1787609425433-238y3bz",
+      "timestamp": 1787609425433,
+      "rawDisplayText": "Propose moi une amélioration",
+      "canonicalText": "Propose moi une amélioration",
+      "context": {
+        "editorSelection": {
+          "notePath": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapter 1.md",
+          "mode": "selection",
+          "selectedText": "Même si il parvenait à convaincre au autres qu'il avait la situation en main, son corps lui rappela rapidement le contraire. Sa vision se troubla d'un coup , l'obligeant à s'assoir sur un rocher non loin du feu vers l'entrée de le nouveau repaire. Il avait du courir pendant plusieurs heures, le tout avec un enfant dans les bras. Il avait bien appris que l'adrénaline pouvait pousser les Elfes ou les Hommes à accomplir des miracles. Peut être, était ce une façon d'utiliser le Fil, se disait-t-il. Mais si l'utilisation du Fil donner un retour de bâton aussi violent, il ne pouvait que s'inquiéter pour Thaelian qui avait à son âge plus avancer fait la même chose et continuer de se battre pour la survie d'un enfant qu'il n'était même pas son fils. ",
+          "lineCount": 1,
+          "startLine": 103
+        }
+      },
+      "images": [],
+      "contentDigest": "cb85a921efc96d769d60f059a09534840952642483f778c399732be88e44585f",
+      "providerUserMessageId": "f031527b-5d99-4cd2-873d-bf78a86f1ebe",
+      "providerAssistantMessageId": "33a284a4-b9a6-40c3-951a-5badfe7fc1ec"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787642577106-ndgi7g3",
+      "userTurnOrdinal": 64,
+      "state": "accepted",
+      "localMessageId": "msg-1787642577037-sadc4vd",
+      "timestamp": 1787642577037,
+      "rawDisplayText": "Tu trouves que le raccord entre la première phrase et le paragraphe passe bien ?",
+      "canonicalText": "Tu trouves que le raccord entre la première phrase et le paragraphe passe bien ?",
+      "context": {
+        "editorSelection": {
+          "notePath": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapter 1.md",
+          "mode": "selection",
+          "selectedText": "Il leur indiqua en silence qu'il prendrait la première veille. Le reste attendrait demain.\n\nMême s'il était parvenu à convaincre les autres qu'il avait la situation en main, son corps lui rappela rapidement le contraire. Sa vision se troubla d'un coup, l'obligeant à s'asseoir sur un rocher près du feu. Il avait tenu des heures, un enfant dans les bras — la peur avait tiré de lui plus qu'il n'en possédait. Peut-être était-ce une façon d'utiliser le Fil sans le savoir, se disait-il. Mais si le Fil laissait un tel retour de bâton, il ne pouvait s'empêcher de penser à Thaelian — plus âgé, toujours debout, se battant pour la survie d'un enfant qui n'était même pas le sien. ",
+          "lineCount": 3,
+          "startLine": 101
+        }
+      },
+      "images": [],
+      "contentDigest": "d2f04131462bacc61bb6e876fada576372b51f9ccb73ed99ce11f15a59151de1",
+      "providerUserMessageId": "600e9233-194d-4a80-8b5d-844162a1909a",
+      "providerAssistantMessageId": "d79e4269-d72d-457b-8019-6ce935a783a9"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787655774833-nuk4igs",
+      "userTurnOrdinal": 65,
+      "state": "accepted",
+      "localMessageId": "msg-1787655774817-8s47ahz",
+      "timestamp": 1787655774817,
+      "rawDisplayText": "Un groupe de nomade sans foyer fixe qui viennent de fuir des monstres et qui ont passé une nuit dans une grotte, quels seraient leur premier reflexe de routine pour survivre la première journée dans cette grotte sachant qu'ils doivent se reposer et s'occuper de blesser",
+      "canonicalText": "Un groupe de nomade sans foyer fixe qui viennent de fuir des monstres et qui ont passé une nuit dans une grotte, quels seraient leur premier reflexe de routine pour survivre la première journée dans cette grotte sachant qu'ils doivent se reposer et s'occuper de blesser",
+      "images": [],
+      "contentDigest": "94221b97d43dfdb5a5733fa129138b6249a40012364c17136b968edbe13d2498",
+      "providerUserMessageId": "82b5e769-aba1-4252-a1f2-30a23da390b5",
+      "providerAssistantMessageId": "e1071fba-6cdf-492a-b2c8-7b6098853558"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787662030529-rpi8fs4",
+      "userTurnOrdinal": 66,
+      "state": "accepted",
+      "localMessageId": "msg-1787662030511-ekl44xi",
+      "timestamp": 1787662030511,
+      "rawDisplayText": "J'avais pensé derouler le 2ème chapitre de cette façon : 1 - Eryan se reveille brusquement, il s'est endormi pendant son premier tour de garde, mais par chance, rien ne s'est passé. Les autres été trop fatigué pour même s'en rendre compte ils ont tous dormi. (Est-ce réaliste) 2 - J'explique rapidement la routine, la tension sans dialogue. La discussion avec Varell et le reste du groupe a été tendu mais est passé pour quelque jours de repos expliquant que si ce qui les chasser les chasser toujours vraiment, ils seraient déjà mort. Plus sous format recit cette partie sur comment se passe la premiere et deuxième journée avec quelque indice sur quelque chose qui ne vas pas dans cette grotte. 3 - Thaer et Lidea demande à parler avec Eryan. Varell qui s'occupait de cuir une viande d'un oiseau qu'il avait chassé écoute en faisant mine que non. Le couple explique à Eryan qu'ils ont pris une decision. Leur enfant n'a même pas pu avoir de sepulture decente et ils ne peuvent pas le supporter. Ils ont decidé de retourner au campement de leur communauté détruite. Leur arguments sont que les créatures (\"premiere appelation réel des démons) sont surement partie et que peu être que d'autres survivants pourrait également s'y rendre à nouveau. Eryan tente de leur expliquer avec delicatesse qu'il n'y a rien a retrouver là bas, Varell entre dans la discussion beaucoup plus brutalement créant un conflit. Varell hausse à nouveau la voix qui résonne dans la grotte (son qui se casse dans une sorte d'éboulement de pierre mais rien ne se passe). Le couple finit par partir seul, Eryan leur donne en cachette des ressource car Varell aurait peter un cable si il savait. 4 - Fin de journée, Varell se rend compte qu'ils manquent des ressources. Il confronte Eryan au chevet de son fils. La petite fille à peur de Varell, qui finit par prendre son sac et demandé où est sa femme. Eryan lui explique qu'elle est partie prendre quelque champignon au fond de la grotte. Varell semble à bord de nerf plus que d'habitude. Tous le monde l'es un peu. Thaelien explique à Eryan que quelque chose cloche. La blessure de son fils est guerri mais le mal en lui, il a l'impression qu'il est alimenté par quelque chose et que son lien avec le Fil est plus faible. à ce moment on entends des bruits au fond de la grotte. Varell engueule sa femme, et sa voix se trnasforme presque en cris, quelque chose qui dans ce monde egale presque à la mort. Eryan court vers la direction demandant au autre de se preparer si il faut partir. 5 - En arrivant la femme de Varell pleure tandis qu'il a la main levé sur lui. Eryan plonge sur lui le plaquant au sol. Un combat se lance et le mène jusque dans l'eau du bassin. Ils se battent mais quelque chose semble bouger dans l'eau. Le chairombre apparait finalement, une bête amphibienne monstrueuse dont la langue vient transperecé l'abdonmen de Varell qui crie de tous ses poumons. Eryan tente, avec son couteau de le sauver mais impossible, il sort de l'eau la bête dechire en 2 varell et se retourne ves les 2 elfes encore vivant. Ils courent vers l'entrée de la grotte. La femme de Varell tombe suppliant Eryan mais la langue attrape sa cuisse et elle disparait. 6 - Eryan revient  à l'entrée en courant retrouvant les autres qui se prépare. Il parviennent à s'échaper mais sans leur matérielle que Varell avait pris avec lui et laisser au fond de la grotte. On entend un cri strident au loin alors qu'ils nétait plus que 4 dont 1 viellard et 2 enfants. Fin de chapitre.",
+      "canonicalText": "J'avais pensé derouler le 2ème chapitre de cette façon : 1 - Eryan se reveille brusquement, il s'est endormi pendant son premier tour de garde, mais par chance, rien ne s'est passé. Les autres été trop fatigué pour même s'en rendre compte ils ont tous dormi. (Est-ce réaliste) 2 - J'explique rapidement la routine, la tension sans dialogue. La discussion avec Varell et le reste du groupe a été tendu mais est passé pour quelque jours de repos expliquant que si ce qui les chasser les chasser toujours vraiment, ils seraient déjà mort. Plus sous format recit cette partie sur comment se passe la premiere et deuxième journée avec quelque indice sur quelque chose qui ne vas pas dans cette grotte. 3 - Thaer et Lidea demande à parler avec Eryan. Varell qui s'occupait de cuir une viande d'un oiseau qu'il avait chassé écoute en faisant mine que non. Le couple explique à Eryan qu'ils ont pris une decision. Leur enfant n'a même pas pu avoir de sepulture decente et ils ne peuvent pas le supporter. Ils ont decidé de retourner au campement de leur communauté détruite. Leur arguments sont que les créatures (\"premiere appelation réel des démons) sont surement partie et que peu être que d'autres survivants pourrait également s'y rendre à nouveau. Eryan tente de leur expliquer avec delicatesse qu'il n'y a rien a retrouver là bas, Varell entre dans la discussion beaucoup plus brutalement créant un conflit. Varell hausse à nouveau la voix qui résonne dans la grotte (son qui se casse dans une sorte d'éboulement de pierre mais rien ne se passe). Le couple finit par partir seul, Eryan leur donne en cachette des ressource car Varell aurait peter un cable si il savait. 4 - Fin de journée, Varell se rend compte qu'ils manquent des ressources. Il confronte Eryan au chevet de son fils. La petite fille à peur de Varell, qui finit par prendre son sac et demandé où est sa femme. Eryan lui explique qu'elle est partie prendre quelque champignon au fond de la grotte. Varell semble à bord de nerf plus que d'habitude. Tous le monde l'es un peu. Thaelien explique à Eryan que quelque chose cloche. La blessure de son fils est guerri mais le mal en lui, il a l'impression qu'il est alimenté par quelque chose et que son lien avec le Fil est plus faible. à ce moment on entends des bruits au fond de la grotte. Varell engueule sa femme, et sa voix se trnasforme presque en cris, quelque chose qui dans ce monde egale presque à la mort. Eryan court vers la direction demandant au autre de se preparer si il faut partir. 5 - En arrivant la femme de Varell pleure tandis qu'il a la main levé sur lui. Eryan plonge sur lui le plaquant au sol. Un combat se lance et le mène jusque dans l'eau du bassin. Ils se battent mais quelque chose semble bouger dans l'eau. Le chairombre apparait finalement, une bête amphibienne monstrueuse dont la langue vient transperecé l'abdonmen de Varell qui crie de tous ses poumons. Eryan tente, avec son couteau de le sauver mais impossible, il sort de l'eau la bête dechire en 2 varell et se retourne ves les 2 elfes encore vivant. Ils courent vers l'entrée de la grotte. La femme de Varell tombe suppliant Eryan mais la langue attrape sa cuisse et elle disparait. 6 - Eryan revient  à l'entrée en courant retrouvant les autres qui se prépare. Il parviennent à s'échaper mais sans leur matérielle que Varell avait pris avec lui et laisser au fond de la grotte. On entend un cri strident au loin alors qu'ils nétait plus que 4 dont 1 viellard et 2 enfants. Fin de chapitre.",
+      "images": [],
+      "contentDigest": "08c318d4edb47da114341c6e4c1e6453d0f674e4a87464c81a0fc5a290589235",
+      "providerUserMessageId": "d32d6728-1f0d-4882-b158-c4975e29d4ea",
+      "providerAssistantMessageId": "3b719301-ebd0-4694-b291-73d98f07e7ec"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787666010581-8jwjah8",
+      "userTurnOrdinal": 67,
+      "state": "accepted",
+      "localMessageId": "msg-1787666010563-36ghtdk",
+      "timestamp": 1787666010563,
+      "rawDisplayText": "Fais moi un résumé des 6 Beat du chapitre pour une autre conversation",
+      "canonicalText": "Fais moi un résumé des 6 Beat du chapitre pour une autre conversation",
+      "images": [],
+      "contentDigest": "40dacd8d4e7ae16ed87334ba727ca90c00e18f2252c8d17c3bc90c3837ff7c6f",
+      "providerUserMessageId": "a780bc43-d68f-48d4-b2ed-2fe45d092ade",
+      "providerAssistantMessageId": "7a3c7d87-974a-4aca-bffb-7d0c0b1e5e74"
     }
   ]
 }

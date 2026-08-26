@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1787506755316-k0lkbq3ym",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787506755340-kn1033p",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1787506755314-2c389q3",
+      "timestamp": 1787506755315,
+      "rawDisplayText": "/ecrire-chapitre En lisant ce début de chapitre comment imagine-tu que l'histoire va se dérouler.",
+      "canonicalText": "/ecrire-chapitre En lisant ce début de chapitre comment imagine-tu que l'histoire va se dérouler.",
+      "context": {
+        "currentNote": {
+          "path": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapter 1.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "6458f687b4d6cb945faf4afbe625afd56fb47a82131e93db3063ac912693b431",
+      "providerUserMessageId": "6682c87a-73b8-47f6-b0d9-c9c63fcde025",
+      "providerAssistantMessageId": "050e3e3b-af61-4dc6-87ab-14972d57ea0b"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787513591282-5oklzrs",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1787513591280-zukv09y",
+      "timestamp": 1787513591280,
+      "rawDisplayText": "Mon chapitre 1 n'est pas terminé. Je pensais continuer la scène où Eryan revient vers le groupe et repause le contexte en discutant avec le vieux prêtre, l'avenir de son fils. Varell interrompe une fois la scène en levant la voix devant sa femme terrifié (lui demandant de se calmer). On finit la scène sur Eryan qui va faire le premier tour de garde pendant que les autres vont dormir. Tu en penses quoi ?",
+      "canonicalText": "Mon chapitre 1 n'est pas terminé. Je pensais continuer la scène où Eryan revient vers le groupe et repause le contexte en discutant avec le vieux prêtre, l'avenir de son fils. Varell interrompe une fois la scène en levant la voix devant sa femme terrifié (lui demandant de se calmer). On finit la scène sur Eryan qui va faire le premier tour de garde pendant que les autres vont dormir. Tu en penses quoi ?",
+      "images": [],
+      "contentDigest": "36a74e932f6fbe723597ffec208a9176f71c0b5d3a9eaa13f0f811464d838556",
+      "providerUserMessageId": "c58fe3ad-34a8-426c-8c81-32d04977f0d2",
+      "providerAssistantMessageId": "4468bdb4-faca-4254-8fd9-139a0de2ee96"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787513978213-jeja7xk",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1787513978210-jrg7vvr",
+      "timestamp": 1787513978210,
+      "rawDisplayText": "Donc la discussion entre Eryan et le vieux elfe pourrait déjà indiquer au lecteur que celui-çi est bien prêtre. Eryan inquiet lui demanderai en combien de temps il pense pouvoir soigner son fils. Thaelian, le viel elfe est inquiet. Il indiquerait que la blessure, n'est pas qu'une simple blessure. Le fait qu'on n'est pas  pu le soigné tous de suite où néttoyer correctement la plaie à fait que le petit à surement était exposé à l'Ichor. ça prendra plus de temps que prévu pour le decontaminer et le soigner. C'est à ce moment que Varell peut passer en tenant sa femme et regarder le fils, ehcangeant un regard nerveux avec Eryan. QU'en penses-tu ?",
+      "canonicalText": "Donc la discussion entre Eryan et le vieux elfe pourrait déjà indiquer au lecteur que celui-çi est bien prêtre. Eryan inquiet lui demanderai en combien de temps il pense pouvoir soigner son fils. Thaelian, le viel elfe est inquiet. Il indiquerait que la blessure, n'est pas qu'une simple blessure. Le fait qu'on n'est pas  pu le soigné tous de suite où néttoyer correctement la plaie à fait que le petit à surement était exposé à l'Ichor. ça prendra plus de temps que prévu pour le decontaminer et le soigner. C'est à ce moment que Varell peut passer en tenant sa femme et regarder le fils, ehcangeant un regard nerveux avec Eryan. QU'en penses-tu ?",
+      "images": [],
+      "contentDigest": "59aa88956c62548b87e0dfc193e7414a61ba4dfd0c73b2c7c69e2986803462f3",
+      "providerUserMessageId": "2dcf316e-d290-4bfa-b620-85fc5c700e46",
+      "providerAssistantMessageId": "5bca2602-6c35-4ee6-92cf-65439dafcdfb"
+    }
+  ]
+}

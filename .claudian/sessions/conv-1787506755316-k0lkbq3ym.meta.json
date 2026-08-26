@@ -1,0 +1,23 @@
+{
+  "id": "conv-1787506755316-k0lkbq3ym",
+  "providerId": "claude",
+  "title": "Analyser et prédire la suite d'un chapitre",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787506755319,
+  "lastActivityAt": 1787514040328,
+  "sessionId": "985a0477-d92a-4bb3-b253-3c5c059ebc28",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "985a0477-d92a-4bb3-b253-3c5c059ebc28"
+  },
+  "currentNote": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapitre 1.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 2644,
+    "cacheReadInputTokens": 46869,
+    "contextWindow": 1000000,
+    "contextTokens": 49516,
+    "percentage": 5
+  }
+}

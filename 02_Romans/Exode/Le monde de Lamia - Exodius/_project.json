@@ -4,9 +4,11 @@
   "type": "book",
   "author": "Kenan TERRISSE",
   "created": "2026-08-22",
-  "modified": "2026-08-22",
+  "modified": "2026-08-25",
   "description": "",
   "folderPath": "02_Romans/Exode/Le monde de Lamia - Exodius",
   "documentFolder": "Chapters",
-  "goals": {}
+  "goals": {
+    "totalWordCount": 2232
+  }
 }

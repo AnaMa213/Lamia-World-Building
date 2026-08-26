@@ -2,7 +2,9 @@
 tags:
   - book
 chapters:
-  - "[[Chapitre 1]]"
+  - "[[02_Romans/Exode/Chapitre 1]]"
   - Chapitre_2
+word-count: 75
+modified: 2026-08-25
 ---
 Son fils avait cessé de peser. Eryan le tenait fermement dans ses bras, alors qu'il enjambait une énième fougère qui semblait à chaque fois devenir plus haute que la précédente. Quelques piaillements d'oiseaux émergeaient de nouveau à droite et à gauche des feuillages. Il finit par s'arrêter, le jambes tremblante, se collant dos à un gigantesque Hêtre qui avaient laisser assez d'espace dans la forêt pour qu'il puisse analyser les pertes du groupes.  Derrière lui, 

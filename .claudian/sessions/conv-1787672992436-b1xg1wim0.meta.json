@@ -1,0 +1,23 @@
+{
+  "id": "conv-1787672992436-b1xg1wim0",
+  "providerId": "claude",
+  "title": "Analyser et améliorer un passage de roman Fantasy",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787672992443,
+  "lastActivityAt": 1787687509742,
+  "sessionId": "34287c0e-d496-4fa5-9eb2-c9443dfa2a30",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "34287c0e-d496-4fa5-9eb2-c9443dfa2a30"
+  },
+  "currentNote": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapitre 2.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 7110,
+    "cacheReadInputTokens": 93028,
+    "contextWindow": 1000000,
+    "contextTokens": 100141,
+    "percentage": 10
+  }
+}

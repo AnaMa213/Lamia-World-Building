@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "id": "sprint-1787488502504",
+    "date": "2026-08-23T12:35:02.504Z",
+    "duration": 25,
+    "wordsWritten": 379,
+    "startWordCount": 887,
+    "documents": [
+      "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapter 1.md"
+    ],
+    "completed": true
+  },
+  {
+    "id": "sprint-1787515379072",
+    "date": "2026-08-23T20:02:59.072Z",
+    "duration": 20,
+    "wordsWritten": 268,
+    "startWordCount": 1295,
+    "documents": [
+      "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapter 1.md"
+    ],
+    "completed": true
+  },
+  {
+    "id": "sprint-1787601703003",
+    "date": "2026-08-24T20:01:43.003Z",
+    "duration": 25,
+    "wordsWritten": 421,
+    "startWordCount": 1780,
+    "documents": [
+      "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapter 1.md"
+    ],
+    "completed": true
+  },
+  {
+    "id": "sprint-1787675477806",
+    "date": "2026-08-25T16:31:17.806Z",
+    "duration": 25,
+    "wordsWritten": 685,
+    "startWordCount": 58,
+    "documents": [
+      "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapitre 2.md"
+    ],
+    "completed": true
+  }
+]
