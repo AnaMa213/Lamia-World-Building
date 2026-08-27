@@ -397,7 +397,78 @@
       "canonicalText": "mets en commentaire avec les balises %% %% , les  modifications à effectuer celon toi sur la fiche @02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapitre 2.md",
       "images": [],
       "contentDigest": "15d974617efb41088a78244612176a4c0e988ff54d30e8d705a02b57532657df",
-      "providerUserMessageId": "4fcfc421-dcd2-48dd-8b12-95cd6b1d24a6"
+      "providerUserMessageId": "4fcfc421-dcd2-48dd-8b12-95cd6b1d24a6",
+      "providerAssistantMessageId": "306297d6-8932-44c7-86bc-e881c823a9ef"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787780046819-abmpa5h",
+      "userTurnOrdinal": 22,
+      "state": "accepted",
+      "localMessageId": "msg-1787780046807-ema3iyw",
+      "timestamp": 1787780046807,
+      "rawDisplayText": "Fais moi une analyse du @Chapitre 1 et fais la même chose",
+      "canonicalText": "Fais moi une analyse du @Chapitre 1 et fais la même chose",
+      "images": [],
+      "contentDigest": "4f6ac37444c00d7b8858113ad39fe02312e8922e7974c064ecf26da59bfcf859",
+      "providerUserMessageId": "06c1c601-0469-4091-811a-facae61be5b4",
+      "providerAssistantMessageId": "5aaa69cf-a696-45cc-ad27-88f627547112"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787781121393-up2vy6z",
+      "userTurnOrdinal": 23,
+      "state": "accepted",
+      "localMessageId": "msg-1787781121375-ktp35il",
+      "timestamp": 1787781121375,
+      "rawDisplayText": "J'aimerai surtout, en plus , les amélioration structurelle à apporter au chapitre",
+      "canonicalText": "J'aimerai surtout, en plus , les amélioration structurelle à apporter au chapitre",
+      "images": [],
+      "contentDigest": "153d8fd3e83c0f74a9f25e2d8bf5d410eeb32852757316ec6080aa881bb8153d",
+      "providerUserMessageId": "23a5c58e-5f86-45e7-a23b-ead1d10e7ee8",
+      "providerAssistantMessageId": "f5501b5d-65b9-47f0-b3c9-589d68cbbb45"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787825799959-bfgnbhn",
+      "userTurnOrdinal": 24,
+      "state": "accepted",
+      "localMessageId": "msg-1787825799928-fxh34yx",
+      "timestamp": 1787825799928,
+      "rawDisplayText": "@02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapitre 2.md Ok première version du chapitre 2 terminée. Fait moi une analyse structurelle, du fond et de la forme de ce chapitre. Pour le contexte utilise le @02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapitre 1.md .",
+      "canonicalText": "@02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapitre 2.md Ok première version du chapitre 2 terminée. Fait moi une analyse structurelle, du fond et de la forme de ce chapitre. Pour le contexte utilise le @02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapitre 1.md .",
+      "images": [],
+      "contentDigest": "c5d627430e4bfd2e064ee905178a9be79839cca5b98d6cd668984ab111b49fb4",
+      "providerUserMessageId": "b9f15560-1df6-4631-9402-fcaea2b6cd7f",
+      "providerAssistantMessageId": "1c84e44b-9437-497b-8fc0-485a60ba8d3d"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787827497880-2dfhesy",
+      "userTurnOrdinal": 25,
+      "state": "accepted",
+      "localMessageId": "msg-1787827497868-tfx79f0",
+      "timestamp": 1787827497868,
+      "rawDisplayText": "Peut être que je devrais inverser les morte entre Isealth et Varell. C'est Isealth qui meurt en premier et Eryan tente de convaincre Varell de fuir mais il est dévaster en tellement en colère qu'il fait gagner du temps à Eryan alors qu'il s'enfuit et on le voit pas mourir. ? Pour ta question, je pense je devrais retirer la substance verte. La morsure d'Eryan n'est pas le même type de blessure, c'est du poison et non pas l'Ichor qui a blessé Eryan. Il ne le sait pas encore mais perçoit que ce n'est pas une simple blessure. Il ne veut pas faire perdre du temps au groupe et fatiguer davantage Thaelian. Un choix qui lui coutera surement pour le chapitre 3.",
+      "canonicalText": "Peut être que je devrais inverser les morte entre Isealth et Varell. C'est Isealth qui meurt en premier et Eryan tente de convaincre Varell de fuir mais il est dévaster en tellement en colère qu'il fait gagner du temps à Eryan alors qu'il s'enfuit et on le voit pas mourir. ? Pour ta question, je pense je devrais retirer la substance verte. La morsure d'Eryan n'est pas le même type de blessure, c'est du poison et non pas l'Ichor qui a blessé Eryan. Il ne le sait pas encore mais perçoit que ce n'est pas une simple blessure. Il ne veut pas faire perdre du temps au groupe et fatiguer davantage Thaelian. Un choix qui lui coutera surement pour le chapitre 3.",
+      "images": [],
+      "contentDigest": "a3b067e34c02fb5b0fec9f43a592653f4f0a2ab9e9d60895efbd610f0cdbf936",
+      "providerUserMessageId": "712ab8d5-6629-4bf9-9ad9-fcb0683fe1e3",
+      "providerAssistantMessageId": "adafbfcd-2a91-47fa-8f54-8f2abb929d80"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787827866986-e05afnf",
+      "userTurnOrdinal": 26,
+      "state": "accepted",
+      "localMessageId": "msg-1787827866967-5lp55k3",
+      "timestamp": 1787827866967,
+      "rawDisplayText": "Ajoutes les commentaires %% dans le chapitre. sur les modifications à effectuer",
+      "canonicalText": "Ajoutes les commentaires %% dans le chapitre. sur les modifications à effectuer",
+      "images": [],
+      "contentDigest": "e204d010400a6263283d20d55e63fab8a20d9e07a224ed73aabdc7937316af39",
+      "providerUserMessageId": "03a75744-f88a-4dd9-b6fa-ac82ab45b7c8",
+      "providerAssistantMessageId": "192956ca-b056-47b0-bae6-1294ae4c20d7"
     }
   ]
 }
