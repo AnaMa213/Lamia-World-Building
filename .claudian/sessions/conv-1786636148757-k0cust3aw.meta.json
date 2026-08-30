@@ -10,10 +10,7 @@
   "providerState": {
     "providerSessionId": "1bad1c05-c79a-4a3d-834f-912b37a38df1"
   },
-  "currentNote": "01_Lore/Timeline Master.md",
-  "enabledMcpServers": [
-    "obsidian-mcp"
-  ],
+  "linkedContentPath": "01_Lore/Timeline Master.md",
   "usage": {
     "model": "sonnet",
     "inputTokens": 1,

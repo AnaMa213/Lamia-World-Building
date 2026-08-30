@@ -10,10 +10,7 @@
   "providerState": {
     "providerSessionId": "ecc4aaf7-559f-4428-98af-d42a01245500"
   },
-  "currentNote": "01_Lore/Divinités/Mineur/Thanatia.md",
-  "enabledMcpServers": [
-    "obsidian-mcp"
-  ],
+  "linkedContentPath": "01_Lore/Divinités/Mineur/Thanatia.md",
   "usage": {
     "model": "sonnet",
     "inputTokens": 1,

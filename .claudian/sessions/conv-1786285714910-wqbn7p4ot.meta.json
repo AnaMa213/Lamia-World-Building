@@ -10,10 +10,7 @@
   "providerState": {
     "providerSessionId": "ce96547d-3746-40f0-a1bf-9fc3976fd0c4"
   },
-  "currentNote": "01_Lore/Divinités/Majeur/Naïnrak.md",
-  "enabledMcpServers": [
-    "obsidian-mcp"
-  ],
+  "linkedContentPath": "01_Lore/Divinités/Majeur/Naïnrak.md",
   "usage": {
     "model": "sonnet",
     "inputTokens": 1,

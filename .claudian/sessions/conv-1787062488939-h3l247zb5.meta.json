@@ -7,7 +7,7 @@
   "lastActivityAt": 1787064530823,
   "sessionId": null,
   "selectedModel": "sonnet",
-  "currentNote": "01_Lore/Divinités/Mineur/Quaesir.md",
+  "linkedContentPath": "01_Lore/Divinités/Mineur/Quaesir.md",
   "usage": {
     "model": "sonnet",
     "inputTokens": 3,

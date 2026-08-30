@@ -10,10 +10,7 @@
   "providerState": {
     "providerSessionId": "b88ae503-6ec4-4c21-a910-bc1c39fdc477"
   },
-  "currentNote": "01_Lore/Évenements/Ère Sérénale/La Trahison des Gardiens.md",
-  "enabledMcpServers": [
-    "obsidian-mcp"
-  ],
+  "linkedContentPath": "01_Lore/Évenements/Ère Sérénale/La Trahison des Gardiens.md",
   "usage": {
     "model": "sonnet",
     "inputTokens": 1,

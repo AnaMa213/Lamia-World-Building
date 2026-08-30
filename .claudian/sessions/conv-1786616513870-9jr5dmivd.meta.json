@@ -7,10 +7,7 @@
   "lastActivityAt": 1786616777720,
   "sessionId": null,
   "selectedModel": "sonnet",
-  "currentNote": "01_Lore/Évenements/Ère Exodiale/La Dernière Menace.md",
-  "enabledMcpServers": [
-    "obsidian-mcp"
-  ],
+  "linkedContentPath": "01_Lore/Évenements/Ère Exodiale/La Dernière Menace.md",
   "usage": {
     "model": "sonnet",
     "inputTokens": 1,

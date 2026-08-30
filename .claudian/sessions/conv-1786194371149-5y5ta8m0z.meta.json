@@ -10,10 +10,7 @@
   "providerState": {
     "providerSessionId": "d85244db-0923-4ec4-8df6-2eb05d062df3"
   },
-  "currentNote": "01_Lore/Évenements/Ère Sérénale/La Perte du Monde des Vendards.md",
-  "enabledMcpServers": [
-    "obsidian-mcp"
-  ],
+  "linkedContentPath": "01_Lore/Évenements/Ère Sérénale/La Perte du Monde des Vendards.md",
   "usage": {
     "model": "sonnet",
     "inputTokens": 1,

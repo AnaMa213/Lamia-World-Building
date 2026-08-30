@@ -10,10 +10,7 @@
   "providerState": {
     "providerSessionId": "38a089a2-251d-435e-84af-23e627a20b6a"
   },
-  "currentNote": "01_Lore/Évenements/Ère Sérénale/L'Asile des Dragons.md",
-  "enabledMcpServers": [
-    "obsidian-mcp"
-  ],
+  "linkedContentPath": "01_Lore/Évenements/Ère Sérénale/L'Asile des Dragons.md",
   "usage": {
     "model": "sonnet",
     "inputTokens": 3,

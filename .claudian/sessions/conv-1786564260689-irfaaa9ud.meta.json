@@ -10,10 +10,7 @@
   "providerState": {
     "providerSessionId": "cfc35dcf-1ce3-4849-a2e9-59a21acd77b0"
   },
-  "currentNote": "01_Lore/Évenements/Ère Exodiale/Humarios et la Fondation d'Humildas.md",
-  "enabledMcpServers": [
-    "obsidian-mcp"
-  ],
+  "linkedContentPath": "01_Lore/Évenements/Ère Exodiale/Humarios et la Fondation d'Humildas.md",
   "usage": {
     "model": "sonnet",
     "inputTokens": 1,

@@ -10,10 +10,7 @@
   "providerState": {
     "providerSessionId": "76ebf292-90ce-4b0f-8160-d7309bd0ab9b"
   },
-  "currentNote": "01_Lore/Évenements/Ère Sérénale/La Naissance de l'Intraherium.md",
-  "enabledMcpServers": [
-    "obsidian-mcp"
-  ],
+  "linkedContentPath": "01_Lore/Évenements/Ère Sérénale/La Naissance de l'Intraherium.md",
   "usage": {
     "model": "sonnet",
     "inputTokens": 1,

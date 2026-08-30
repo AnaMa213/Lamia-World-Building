@@ -10,10 +10,7 @@
   "providerState": {
     "providerSessionId": "6a2e1973-483a-44ef-9472-2579fc34a9ec"
   },
-  "currentNote": "01_Lore/Divinités/Majeur/Maurtria.md",
-  "enabledMcpServers": [
-    "obsidian-mcp"
-  ],
+  "linkedContentPath": "01_Lore/Divinités/Majeur/Maurtria.md",
   "usage": {
     "model": "sonnet",
     "inputTokens": 1,

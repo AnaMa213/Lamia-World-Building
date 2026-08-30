@@ -7,7 +7,7 @@
   "lastActivityAt": 1787154916502,
   "sessionId": null,
   "selectedModel": "sonnet",
-  "currentNote": "01_Lore/Timeline Master.md",
+  "linkedContentPath": "01_Lore/Timeline Master.md",
   "usage": {
     "model": "sonnet",
     "inputTokens": 1,

@@ -10,10 +10,7 @@
   "providerState": {
     "providerSessionId": "9911e904-8f4f-4e5c-bcb8-56c9a6e74b75"
   },
-  "currentNote": "01_Lore/Divinités/Mineur/Vindiereis.md",
-  "enabledMcpServers": [
-    "obsidian-mcp"
-  ],
+  "linkedContentPath": "01_Lore/Divinités/Mineur/Vindiereis.md",
   "usage": {
     "model": "sonnet",
     "inputTokens": 1,
