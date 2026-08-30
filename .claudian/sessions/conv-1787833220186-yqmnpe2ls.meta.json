@@ -5,11 +5,8 @@
   "titleGenerationStatus": "success",
   "createdAt": 1787833220192,
   "lastActivityAt": 1787833272509,
-  "sessionId": "7d7ea355-0182-49ca-b005-e09d3b39a9d4",
+  "sessionId": null,
   "selectedModel": "sonnet",
-  "providerState": {
-    "providerSessionId": "7d7ea355-0182-49ca-b005-e09d3b39a9d4"
-  },
   "currentNote": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/020~ Part 1/Chapitre 3.md",
   "usage": {
     "model": "sonnet",

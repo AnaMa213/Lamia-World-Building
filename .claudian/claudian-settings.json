@@ -98,7 +98,7 @@
   "settingsProvider": "claude",
   "lastSelectedChatModel": {
     "providerId": "claude",
-    "model": "sonnet"
+    "model": "opus"
   },
   "savedProviderModel": {
     "claude": "sonnet"

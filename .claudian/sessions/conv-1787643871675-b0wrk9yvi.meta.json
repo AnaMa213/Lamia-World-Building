@@ -4,19 +4,19 @@
   "title": "Analyser et améliorer un passage de roman Fantasy",
   "titleGenerationStatus": "success",
   "createdAt": 1787643871680,
-  "lastActivityAt": 1787828268646,
+  "lastActivityAt": 1788043288549,
   "sessionId": "512c81ce-ae32-471a-af1c-0e2621291abc",
-  "selectedModel": "sonnet",
+  "selectedModel": "opus",
   "providerState": {
     "providerSessionId": "512c81ce-ae32-471a-af1c-0e2621291abc"
   },
   "usage": {
-    "model": "sonnet",
-    "inputTokens": 1,
-    "cacheCreationInputTokens": 13052,
-    "cacheReadInputTokens": 254853,
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 8911,
+    "cacheReadInputTokens": 249009,
     "contextWindow": 1000000,
-    "contextTokens": 267906,
-    "percentage": 27
+    "contextTokens": 257922,
+    "percentage": 26
   }
 }
