@@ -1,0 +1,24 @@
+{
+  "id": "conv-1788208258304-ilko52vqz",
+  "providerId": "claude",
+  "title": "Édition et réécriture de roman Fantasy",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788208258314,
+  "lastActivityAt": 1788248275454,
+  "sessionId": "ea2bddcd-cc13-44ef-829e-00b12546ed47",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "ea2bddcd-cc13-44ef-829e-00b12546ed47"
+  },
+  "linkedContentPath": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/Chapitre 4.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 125393,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 125396,
+    "percentage": 63,
+    "contextWindowIsAuthoritative": true
+  }
+}

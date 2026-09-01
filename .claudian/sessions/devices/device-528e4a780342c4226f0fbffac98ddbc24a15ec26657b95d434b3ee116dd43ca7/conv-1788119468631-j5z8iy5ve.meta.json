@@ -1,0 +1,24 @@
+{
+  "id": "conv-1788119468631-j5z8iy5ve",
+  "providerId": "claude",
+  "title": "Édition littéraire de fiction Fantasy",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788119468637,
+  "lastActivityAt": 1788122783274,
+  "sessionId": "84d6c0dc-d61a-477a-b371-c0e847eb240d",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "84d6c0dc-d61a-477a-b371-c0e847eb240d"
+  },
+  "linkedContentPath": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/Chapitre 4.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 2821,
+    "cacheReadInputTokens": 78566,
+    "contextWindow": 200000,
+    "contextTokens": 81390,
+    "percentage": 41,
+    "contextWindowIsAuthoritative": true
+  }
+}

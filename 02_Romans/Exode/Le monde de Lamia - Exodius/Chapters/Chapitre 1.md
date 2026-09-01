@@ -2,10 +2,10 @@
 binder-type: chapter
 binder-order: 10
 binder-status: draft
-word-count-goal: 2232
+word-count-goal: 3000
 word-count: 3937
 created: 2026-08-22
-modified: 2026-08-27
+modified: 2026-09-01
 tags:
   - writing-studio
 ---
