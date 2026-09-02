@@ -3,16 +3,14 @@ binder-type: chapter
 binder-order: 12
 binder-status: draft
 word-count-goal: 2500
-word-count: 2729
+word-count: 2492
 created: 2026-08-22
-modified: 2026-08-30
+modified: 2026-09-02
 tags:
   - writing-studio
 ---
 
 # Chapitre 3
-
-%% SYNTHÈSE — CE QUI NE DOIT PAS BOUGER : (1) L'ouverture (minéralisation progressive du paysage) est la meilleure des trois chapitres — ne pas y toucher. (2) La séquence de révélation du venin est maintenant bien resserrée (3 paliers) ET bien ordonnée : Eryan décide de tenir AVANT de connaître le délai, puis le pronostic "deux ou trois jours" tombe en dernier comme la vraie gifle. Ne plus retoucher cette séquence. (3) Le setup du psaume ("Je te raconterai peut-être un jour") est intentionnel et bien tenu — RAPPEL pour le Ch4 : quand Thaelian se sacrifiera, NE PAS nommer explicitement le lien ("c'était donc ça le psaume dont il parlait"). Laisser le lecteur faire la connexion seul. %%
 
 La forêt avait changé autour d’eux. À mesure qu’ils avançaient, la roche, déjà plus présente aux abords de la grotte, affleurait désormais partout, comme si elle remontait du sol. Les blocs devinrent plus nombreux, puis plus massifs, jusqu’à dresser entre les arbres de larges dos de pierre grise, tachés de lichen et creusés de fissures où s’accrochaient mousses, fougères et racines. Les arbres eux-mêmes semblaient devoir se frayer une place parmi eux, leurs troncs poussant de travers dans les interstices. Sous leurs pas, la terre disparut bientôt au profit d’un sable pâle, presque blanc, que la pluie avait assombri. Leur marche s’en trouva ralentie : il fallait désormais se glisser entre les rochers, gravir de courts ressauts, contourner les blocs trop imposants. Sans qu’ils s’en soient vraiment aperçus, la forêt avait cessé d’être un chemin entre les arbres pour devenir un dédale de pierre.
 
@@ -20,7 +18,7 @@ Pourtant, Eryan en emportait encore un souvenir bien vivant dans son épaule. Un
 
 Pendant leurs haltes, le vieux prêtre avait essayé plusieurs fois de savoir — sans grande subtilité — s’il avait été blessé et s’il voulait être examiné. Eryan avait refusé chaque fois. Thaelian avait mieux à faire. Depuis qu’ils avaient quitté la grotte et que ses premières prières avaient été prononcées, Sael respirait presque normalement. C’était sur lui que devait aller ce qu’il restait de force au prêtre.
 
-%% P3 — ATTENTION cependant : ce chapitre a déjà l'échange sur l'âge (tendre) + cette cueillette (douce). Deux attendrissements rapprochés dans un chapitre sans action = seuil du "mou". Garder une basse continue de menace sous la douceur (le venin, le silence possible de la forêt). Le confort ne doit jamais être total. %%
+%% P3 — ATTENTION : ce chapitre a déjà l'échange sur l'âge (tendre) + cette cueillette (douce). Deux attendrissements rapprochés dans un chapitre sans action = seuil du "mou". Garder une basse continue de menace sous la douceur (le venin, le silence possible de la forêt). Le confort ne doit jamais être total. %%
 
 Eryan consacrait donc les pauses à autre chose. Il entraînait la petite avec lui sur quelques pas, lui montrait une feuille, un champignon au pied d’une roche, lui expliquait ce qu’elle pouvait cueillir et ce qu’elle devait laisser en terre. Les leçons ne duraient jamais longtemps. Le jour avançait, et les plaines des nomades restaient toujours invisibles au-delà du labyrinthe de pierre. S’ils ne les rejoignaient pas avant la nuit, il faudrait trouver un abri avant que la lumière ne disparaisse.
 
@@ -113,8 +111,6 @@ Pendant qu’ils parlaient, Thaelian s’était rapproché. Il écarta doucement
 « La Grande Déesse me donne accès à une part de son essence par le Fil. Mais ce que nous recevons n’est pas toujours gratuit. Le corps reste mortel. Il finit par payer ce qu’on lui demande. » 
 Eryan recula aussitôt. Thaelian claqua doucement la langue.
 
-%% P3 — SETUP PSAUME (bien tenu, ne rien changer ici) : "Certains psaumes, en revanche… Ceux-là peuvent coûter beaucoup plus cher. Je te raconterai peut-être un jour." → C'est la promesse au lecteur qui sera payée au Ch4 par le sacrifice de Thaelian. Parfait tel quel. Rappel déjà noté en tête : au Ch4, ne pas souligner le lien. %%
-
 « Ne commence pas. Ce n’est pas ton égratignure qui va m’envoyer dans la tombe. Ni les soins de Sael. Certains psaumes, en revanche… » Il s’interrompit, les yeux déjà fixés sur la blessure. « Ceux-là peuvent coûter beaucoup plus cher. Je te raconterai peut-être un jour. Maintenant, reste tranquille. J’essaie de comprendre ce que tu as à l’épaule. »  Eryan le regarda encore quelques secondes. Puis, malgré lui, un sourire passa sur son visage. Il cessa enfin de résister.
 
 L’examen ne dura que quelques minutes. Thaelian posa de nouveau les mains près de la blessure et murmura une prière qu’Eryan avait déjà entendue plusieurs fois depuis leur départ. De petites lueurs rosâtres apparurent entre ses doigts. Elles flottèrent paresseusement autour de son épaule avant de se rassembler sur la plaie, s’accrochant à ses contours comme des braises prises dans un courant d’air.
@@ -128,8 +124,6 @@ Thaelian, lui, ne dit rien.
 « Quelque chose ne va pas ? » murmura Eryan.
 
 Le vieux prêtre se redressa légèrement. Ses doigts trouvèrent sa barbe, qu’il tira lentement sans quitter la blessure des yeux.
-
-%% BON — NE PAS TOUCHER : À partir d'ici et jusqu'au pronostic "deux ou trois jours", la séquence de révélation est resserrée (3 paliers) et bien ordonnée (Eryan décide de tenir AVANT de connaître le délai). Le pronostic est la dernière nouvelle de fond du chapitre, exactement à sa place. Ne plus retoucher. %%
 
 « C’est cette créature, dans la caverne, qui t’a fait ça ?  
 — Oui. » Thaelian attendit encore un instant avant de poursuivre.

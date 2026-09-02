@@ -306,6 +306,70 @@
       "contentDigest": "e11d25ed9b3bd0611b68cb7b2f0a61f6ccfb21dcdf6431ad3e39dd62ff16104a",
       "providerUserMessageId": "1029e234-20c7-437e-acc8-662919fd526f",
       "providerAssistantMessageId": "b7f4c0cb-c83b-4eef-a7ea-d6fc2b6ded27"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788379491967-qixjzni",
+      "userTurnOrdinal": 16,
+      "state": "accepted",
+      "localMessageId": "msg-1788379491788-vr82kge",
+      "timestamp": 1788379491788,
+      "rawDisplayText": "/compact",
+      "canonicalText": "/compact",
+      "images": [],
+      "contentDigest": "b40aa6741d41c28d69d2bf1392435b01260452b9c7fc3a6621c5d71dab084b1a",
+      "providerUserMessageId": "b0985c6c-bef9-4355-886c-66a9d5b9fef9"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788379703986-ldi10lh",
+      "userTurnOrdinal": 17,
+      "state": "accepted",
+      "localMessageId": "msg-1788379703981-3o2dtwl",
+      "timestamp": 1788379703981,
+      "rawDisplayText": "Que penses-tu que la prochaine scène après les oiseau soit Elia qui se ressisse. Mimique les même geste qu'Eryan avait fait face à la mort de Thaelian. Un peu de terre sur le corps d'Eryan, puis un baton planté. Puis elle reveille Sael. Elle a une seconde d'envie de pleurer mais se resaisie et lui dit que son père est mère. Sael s'ecroule. Elle le laisse faire mais lui dis de faire moins de bruit gentillement. Puis Il lui tend la gourde d'eau et lui demande de marcher. Sael ne veut pas. Alors elle fronçe les sourcils. Elle attends un peu et commençe à partir. ( Je ne sais pas comment justifier ou faire en sorte que Sael accepte de laisser le corps de son père comme ça. Elle peut lui dire que si il veut qu'on l'enterre dignement pour qu'il rejoigne Filiama, Ils doivent trouver ses nomades.)",
+      "canonicalText": "Que penses-tu que la prochaine scène après les oiseau soit Elia qui se ressisse. Mimique les même geste qu'Eryan avait fait face à la mort de Thaelian. Un peu de terre sur le corps d'Eryan, puis un baton planté. Puis elle reveille Sael. Elle a une seconde d'envie de pleurer mais se resaisie et lui dit que son père est mère. Sael s'ecroule. Elle le laisse faire mais lui dis de faire moins de bruit gentillement. Puis Il lui tend la gourde d'eau et lui demande de marcher. Sael ne veut pas. Alors elle fronçe les sourcils. Elle attends un peu et commençe à partir. ( Je ne sais pas comment justifier ou faire en sorte que Sael accepte de laisser le corps de son père comme ça. Elle peut lui dire que si il veut qu'on l'enterre dignement pour qu'il rejoigne Filiama, Ils doivent trouver ses nomades.)",
+      "images": [],
+      "contentDigest": "c6ef8dce7e90b32a4fa88fa6e8e4cc2b07aa36c08bd3def43bd53f405aececcb",
+      "providerUserMessageId": "9d817c21-eeeb-4d7d-bdbd-c746da37d976",
+      "providerAssistantMessageId": "86231154-2e0b-4cf7-a16c-1a9ca04360c1"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788380247377-1yoqra3",
+      "userTurnOrdinal": 18,
+      "state": "accepted",
+      "localMessageId": "msg-1788380247372-w9o1mun",
+      "timestamp": 1788380247372,
+      "rawDisplayText": "Propose moi un texte qui enchaine après ce passage sur tous ce qu'on a dit.",
+      "canonicalText": "Propose moi un texte qui enchaine après ce passage sur tous ce qu'on a dit.",
+      "context": {
+        "editorSelection": {
+          "notePath": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/Chapitre 5.md",
+          "mode": "selection",
+          "selectedText": "Sur une branche au-dessus d'elle, un petit oiseau tenait un brin dans le bec. Il le déposa sur un petit tas en construction. Un second vint se poser près de lui quelques instants plus tard, portant à son tour un morceau d’herbe sèche. Elia les regarda travailler l'un près de l'autre autour du petit amas.",
+          "lineCount": 1,
+          "startLine": 112
+        }
+      },
+      "images": [],
+      "contentDigest": "79d2647012887e78dc2e3294edb5cbdb8ca960e0919fe34c24ba8e90e1c97cc7",
+      "providerUserMessageId": "af0b0e1d-bc14-4b3c-a037-e976fad9b2e8",
+      "providerAssistantMessageId": "c6d80bfe-8efe-46ae-b096-aede5248bf77"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788380408719-ibth95g",
+      "userTurnOrdinal": 19,
+      "state": "accepted",
+      "localMessageId": "msg-1788380408715-y54p32u",
+      "timestamp": 1788380408715,
+      "rawDisplayText": "Non, je voudrais que tu m'ecrive le passage dont on vient de parler",
+      "canonicalText": "Non, je voudrais que tu m'ecrive le passage dont on vient de parler",
+      "images": [],
+      "contentDigest": "48a633243839fe505ac0d78dce18609b51d61ed46a7510ca634ee0d6b5df597b",
+      "providerUserMessageId": "38eea699-db29-4d76-94b4-eda4232dcdb0",
+      "providerAssistantMessageId": "4cc39348-948b-4282-9ceb-e357c88b8749"
     }
   ]
 }

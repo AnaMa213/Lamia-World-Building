@@ -3,9 +3,9 @@ binder-type: chapter
 binder-order: 11
 binder-status: draft
 word-count-goal: 5000
-word-count: 6127
+word-count: 6080
 created: 2026-08-22
-modified: 2026-09-01
+modified: 2026-09-02
 tags:
   - writing-studio
 ---
@@ -120,11 +120,11 @@ Plus d'une heure avait passé depuis le départ de Thaer et Lidea. L'averse avai
 
 Eryan finit par se lever. Il allait partir à leur rencontre, simplement pour s'assurer que rien ne leur était arrivé, lorsqu'un regard vers Thaelian l'arrêta.
 
-%% P1 — PONCTUATION DIALOGUE : "Je le gère ne t'inquiète pas.." → "Je le gère, ne t'inquiète pas." (virgule + un seul point). %%
-
 « Je vais aller chercher l'autre troll. Tu peux gérer les petits tout seul ? souffla-t-il en se frottant le front. J'en ai pas pour longtemps. » Le vieux prêtre tourna la tête vers lui. Il avait cette expression absente qu'Eryan lui avait vue plusieurs fois depuis leur arrivée dans la caverne : le regard ailleurs, les traits tendus par une pensée qu'il semblait retenir.
 
 Eryan resta debout.
+
+%% P1 — PONCTUATION DIALOGUE : "Je le gère ne t'inquiète pas.." → "Je le gère, ne t'inquiète pas." (virgule + un seul point). %%
 
 « Qu'est-ce qu'il y a ? C'est Varell qui t'inquiète ? Je le gère ne t'inquiète pas.. »
 
@@ -155,8 +155,6 @@ Maintenant qu'il y pensait, les signes étaient partout. Cette amertume qui ne q
 Eryan sentit son regard revenir vers les profondeurs de la caverne. Depuis leur arrivée, il s'était contenté de surveiller la forêt, les bruits au-delà de l'entrée. Tout ce qui pouvait surgir de l'extérieur.
 
 %% P2 — "soudain" REDONDANT : "fracassa soudain le silence" → un hurlement qui fracasse est par définition soudain. Supprimer "soudain" : "Un hurlement fracassa le silence." %%
-
-%% P1 — VÉRIFIER LA RACE : "Les deux elfes sursautèrent" — Eryan est-il un elfe ? Dans Ch1, seuls Thaelian, Varell et la petite fille sont identifiés comme elfes. Eryan n'est jamais désigné comme tel. Si c'est un humain, remplacer par : "Thaelian sursauta. Eryan était déjà debout." %%
 
 Un hurlement fracassa soudain le silence. Les deux elfes sursautèrent. La voix de Varell venait des profondeurs. « TU VAS ME SUIVRE MAINTENANT ! TU AS COMPRIS ? » Le cri traversa les galeries, enfla sous la voûte et jaillit par l'entrée jusqu'à la forêt. Des merles quittèrent les branches dans un battement d'ailes affolé. Au-dessus d'eux, la roche vibra. Quelques éclats se détachèrent et roulèrent jusqu'aux pieds de la petite fille. Elle se réfugia aussitôt derrière Eryan et agrippa son vêtement. Quelque chose céda en lui.
 
@@ -203,7 +201,7 @@ Eryan sortit complètement de l'eau, secoua ses bottes d'un mouvement sec, puis 
 
 La suite mourut dans sa gorge. L'eau du bassin se mit à frémir. Puis à bouillonner. Quelque chose fendit l'air devant lui à une vitesse si brutale qu'il n'en saisit ni la forme ni la trajectoire. Eryan tourna vivement la tête, cherchant à comprendre.
 
-%% STRUCTURE — INVERSION DES MORTS : Toute la séquence qui suit doit être restructurée selon la nouvelle logique décidée. Ordre des événements : (1) C'est ISEALTH que la créature prend en premier — mort soudaine, avant que quiconque réalise. Pas de fixation, pas de sanglots — elle est là, puis elle n'est plus là. Une ligne, un son. (2) Varell voit mourir Isealth → perd tout contrôle → se retourne contre la créature en rage pure, pas en sacrifice héroïque. (3) Eryan essaie de convaincre Varell de fuir — Varell ne répond pas ou ne peut plus s'arrêter. (4) Eryan prend le sac et fuit pendant que Varell combat. (5) La mort de Varell reste hors-champ : "quelque chose céda dans un bruit mouillé" lui appartient désormais, pas à Isealth. Supprimer ou transformer la mort graphique actuelle de Varell (corps en deux) — soit l'attribuer à Isealth de façon plus rapide, soit la supprimer au profit du hors-champ. %%
+%% STRUCTURE (ORDRE DE L'UTILISATEUR) — INVERSION DES MORTS : Toute la séquence qui suit doit être restructurée selon la nouvelle logique décidée. Ordre des événements : (1) C'est ISEALTH que la créature prend en premier — mort soudaine, avant que quiconque réalise. Pas de fixation, pas de sanglots — elle est là, puis elle n'est plus là. Une ligne, un son. (2) Varell voit mourir Isealth → perd tout contrôle → se retourne contre la créature en rage pure, pas en sacrifice héroïque. (3) Eryan essaie de convaincre Varell de fuir — Varell ne répond pas ou ne peut plus s'arrêter. (4) Eryan prend le sac et fuit pendant que Varell combat. (5) La mort de Varell reste hors-champ : "quelque chose céda dans un bruit mouillé" lui appartient désormais, pas à Isealth. Supprimer ou transformer la mort graphique actuelle de Varell (corps en deux) — soit l'attribuer à Isealth de façon plus rapide, soit la supprimer au profit du hors-champ. %%
 
 Isealth était figée, une main collée à la bouche, les yeux agrandis par l'horreur. Ses sanglots reprenaient déjà. Alors seulement, il vit Varell. Un trou béant déchirait son épaule. Varell lâcha un hurlement et s'affaissa sur un genou.
 
