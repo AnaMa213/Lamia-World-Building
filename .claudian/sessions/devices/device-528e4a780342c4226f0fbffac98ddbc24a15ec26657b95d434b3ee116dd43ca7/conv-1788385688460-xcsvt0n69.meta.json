@@ -1,0 +1,24 @@
+{
+  "id": "conv-1788385688460-xcsvt0n69",
+  "providerId": "claude",
+  "title": "Édition littéraire d'un roman de Fantasy",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788385688478,
+  "lastActivityAt": 1788385773221,
+  "sessionId": "9e72802d-2ecc-4df8-97b1-633ee7144996",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "9e72802d-2ecc-4df8-97b1-633ee7144996"
+  },
+  "linkedContentPath": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/Chapitre 5.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 36858,
+    "cacheReadInputTokens": 44594,
+    "contextWindow": 200000,
+    "contextTokens": 81455,
+    "percentage": 41,
+    "contextWindowIsAuthoritative": true
+  }
+}

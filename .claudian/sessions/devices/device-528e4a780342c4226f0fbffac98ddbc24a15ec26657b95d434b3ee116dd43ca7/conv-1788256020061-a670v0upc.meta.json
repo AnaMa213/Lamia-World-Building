@@ -4,7 +4,7 @@
   "title": "Édition littéraire de roman Fantasy",
   "titleGenerationStatus": "success",
   "createdAt": 1788256020067,
-  "lastActivityAt": 1788380451840,
+  "lastActivityAt": 1788385425811,
   "sessionId": "850dc668-899d-44b5-b925-4fd5e69f6047",
   "selectedModel": "sonnet",
   "providerState": {
@@ -14,11 +14,11 @@
   "usage": {
     "model": "sonnet",
     "inputTokens": 3,
-    "cacheCreationInputTokens": 4003,
-    "cacheReadInputTokens": 26177,
+    "cacheCreationInputTokens": 3055,
+    "cacheReadInputTokens": 58132,
     "contextWindow": 200000,
-    "contextTokens": 30183,
-    "percentage": 15,
+    "contextTokens": 61190,
+    "percentage": 31,
     "contextWindowIsAuthoritative": true
   }
 }

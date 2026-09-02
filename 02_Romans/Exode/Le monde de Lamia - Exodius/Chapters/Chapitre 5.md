@@ -3,9 +3,9 @@ binder-type: chapter
 binder-order: 14
 binder-status: draft
 word-count-goal: 2500
-word-count: 1449
+word-count: 2397
 created: 2026-09-01
-modified: 2026-09-01
+modified: 2026-09-02
 tags:
   - writing-studio
 ---
@@ -110,3 +110,71 @@ Les larmes vinrent sans qu'elle les cherche. Elle les laissa couler sur le petit
 Un léger mouvement, au-dessus d’elle, finit par lui faire relever la tête. Elle dut se frotter les yeux plusieurs fois avant de le voir.
 
 Sur une branche au-dessus d'elle, un petit oiseau tenait un brin dans le bec. Il le déposa sur un petit tas en construction. Un second vint se poser près de lui quelques instants plus tard, portant à son tour un morceau d’herbe sèche. Elia les regarda travailler l'un près de l'autre autour du petit amas.
+
+Elle se leva et essuya une dernière fois son visage avant d'inspirer profondément. Son regard s'arrêta de nouveau un instant sur le corps d'Eryan — la poitrine immobile, les mains ouvertes de chaque côté. Elle ramassa une poignée de terre et la répandit lentement sur lui, d'abord sur ses pieds, puis sur ses jambes, jusqu'à la taille.
+
+Elle observa la petite statuette. Elle ne savait toujours pas vraiment ce qu'elle représentait. Dans son état, elle ressemblait plus à un animal qu'autre chose. Elle la serra fort et la plaça dans la poche de son futale. Elle se deplaça sur le côté du corps et ramassa le couteau toujours dans la main ouverte d'Eryan. 
+
+« Qu.. Qu'est-ce qui se passe ? » La voix somnolente de Sael  l'avait fait sursauté. Elle se releva et trouva le regard de son ami. 
+
+« Pou...Pourquoi tu as recouvert mon père de terre ? Et tes yeux ? tu as pleuré ? ». 
+
+Elia du reprendre une respiration suivi d'une longue expiration.
+
+« Ton papa est mort ». 
+
+Sael la regarda une seconde. Un petit rire lui échappa — bref, incertain — et il se pencha vers Eryan.
+
+« Papa. »
+
+Il le secoua doucement par l'épaule. Rien. Il le secoua encore, un peu plus fort.
+
+« Papa, réveille-toi. » Le corps ne répondit pas. Sael s'arrêta. Ses mains restèrent sur l'épaule de son père. Puis il s'effondra contre lui, les deux bras serrés autour de sa poitrine, et il pleura fort, sans retenue.
+
+Elia le laissa faire. Elle s'était écartée — elle ne savait pas quoi faire de ses mains — et elle attendit debout. Quand les sanglots de Sael commencèrent à porter trop loin dans la plaine, elle revint vers lui.
+
+« Fais… moins de bruit. » Sael ne l'entendit pas. Elle attendit. Puis répéta, un peu plus fort.
+
+« Fais moins de bruit. »
+
+Il s'étouffa progressivement, sans la regarder. Elle sortit la gourde et la posa contre sa cuisse. Il ne la prit pas. Elle resta là une seconde, les bras le long du corps.
+
+« Il faut qu'on marche. » Il secoua la tête. 
+
+Elle ne répondit rien. Elle ramassa la besace d'Eryan — la courroie lui tomba à mi-bras, elle la remonta — et attrapa le couteau. Elle se leva. Sael ne bougea pas. Elle fit quelques pas dans la plaine. S'arrêta, les yeux vers l'horizon.
+
+« Ton père m'a expliqué que le totem, c'est pour qu'il trouve le chemin jusqu'à Filiama. » Elle marqua une pause. « Mais quelqu'un doit l'enterrer correctement. On peut pas faire ça nous. » Un silence. « Si on reste là, ça arrivera pas. » Elle repartit. 
+
+Derrière elle, après un moment, elle entendit le bruit d'une gourde qu'on attrape. Puis des pas dans les épis. Ils marchèrent.
+
+Le soleil était déjà haut quand Elia sentit que la besace lui sciait l'épaule. Elle la fit glisser de l'autre côté sans s'arrêter.
+
+Elle n'avait jamais compris pourquoi le soleil brûlait autant dans les plaines. Dans la forêt, même en plein jour, l'air restait frais sous les feuilles. Ici il n'y avait rien entre lui et elle. Juste le blé, et le ciel, et elle dedans.
+
+Derrière elle, elle n'entendait que les pas de Sael dans les épis — plus lents que les siens, traînants.
+
+Ils ne se parlèrent pas. Elle se retourna une fois — brève, presque sans le vouloir. Il marchait la tête basse, les yeux quelque part entre ses pieds et le sol. Pas de larmes. Plus rien, en fait, juste du mouvement presque dénué de vie.
+
+Elle décrocha la gourde et la tendit en arrière sans se retourner. Sael la prit. Elle entendit qu'il la secouait. Rien ne sembla venir. Il la lui rendit. Elle la remit dans la besace.
+
+Elle transpirait dans le cou. Elle se demanda si les nomades vivaient toujours dehors comme ça — si eux savaient comment faire avec le soleil, ou si—
+
+Un trébuchement derrière elle. Elle l'entendit se rattraper.
+
+Le soleil commençait à descendre sur leur gauche quand quelque chose bougea loin devant eux — un mouvement dans les épis, ou peut-être de la poussière soulevée. Elia s'arrêta.
+
+Sael s'arrêta derrière elle. Elle leva la main au-dessus de ses yeux et regarda. Il y avait quelque chose à l'horizon. Les formes prirent du volume lentement. Des silhouettes montées, plusieurs. Elles avançaient au pas.
+
+Sa main trouva le couteau.
+
+Elle fit un pas de côté, plaçant Sael dans son dos sans le toucher. Il ne réagit pas. Elle garda les yeux sur les cavaliers qui se rapprochaient — des silhouettes élancées parmi d'autres plus trapues, des manteaux sombres, le blé qui se couchait sous les sabots. Ils n'accélérèrent pas.
+
+Elle attendit, la main serrée sur le manche. Les cavaliers étaient proches maintenant, et rien dans leur approche ne ressemblait à une charge.
+
+Sa main quitta le couteau. Quelque chose remonta alors — vite, sans prévenir. Sa gorge se serra, ses yeux brûlèrent une seconde. Elle serra les mâchoires et fixa un point dans le blé. La sensation passa, presque. Un cavalier se détacha du groupe.
+
+Il arriva au pas, seul, et s'arrêta à quelques mètres. Le cheval était immense vu d'en bas. Elle leva les yeux vers l'homme en selle — les oreilles légèrement allongées sous des cheveux clairs, un visage presque enfantin que quelque chose démentait, et deux yeux qui n'avaient pas la même couleur : à gauche, un rouge vermeil ardent ; à droite, un bleu si profond qu'il semblait // . Il les regarda l'un après l'autre, elle et Sael.
+
+Le bruit du vent souffla un instant les cheveux ambrés d'Elia.
+
+« Qu'est-ce que deux enfants font isolés ici ? »
