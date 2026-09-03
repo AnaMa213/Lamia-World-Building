@@ -20,6 +20,20 @@
       "contentDigest": "6937b2e694e09086c0983247b0d8270d3780168de25bee16d3c4920680183dd8",
       "providerUserMessageId": "80570729-fc79-48ea-8feb-723dd7788d47",
       "providerAssistantMessageId": "31835ba1-7d96-456e-8ed3-f1510c2bc80e"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788385856142-r9pzlo9",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1788385856137-0k6d5m4",
+      "timestamp": 1788385856137,
+      "rawDisplayText": "J'aimerai que tu me fasses une analyse et critique objectif complète du chapitre en ajoutant des commentaire directement sur la chapitre avec la balise %% sur tous ce que tu penses il faudrait améliorer, modifier ou peaufiner. l'analyse doit se faire sur la forme , le fond, la structure, tout.",
+      "canonicalText": "J'aimerai que tu me fasses une analyse et critique objectif complète du chapitre en ajoutant des commentaire directement sur la chapitre avec la balise %% sur tous ce que tu penses il faudrait améliorer, modifier ou peaufiner. l'analyse doit se faire sur la forme , le fond, la structure, tout.",
+      "images": [],
+      "contentDigest": "70ab5779598f22692aef46494232c5fcdb26ef1c211146f511cac0922518f802",
+      "providerUserMessageId": "b0815661-3e1c-4007-9d21-a2a3da0a60da",
+      "providerAssistantMessageId": "561fc39b-6828-4710-a49e-9301e98ec033"
     }
   ]
 }

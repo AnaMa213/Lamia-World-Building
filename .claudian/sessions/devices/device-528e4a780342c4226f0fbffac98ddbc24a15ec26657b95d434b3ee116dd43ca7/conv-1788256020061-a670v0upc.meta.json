@@ -5,11 +5,8 @@
   "titleGenerationStatus": "success",
   "createdAt": 1788256020067,
   "lastActivityAt": 1788385425811,
-  "sessionId": "850dc668-899d-44b5-b925-4fd5e69f6047",
+  "sessionId": null,
   "selectedModel": "sonnet",
-  "providerState": {
-    "providerSessionId": "850dc668-899d-44b5-b925-4fd5e69f6047"
-  },
   "linkedContentPath": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/Chapitre 5.md",
   "usage": {
     "model": "sonnet",

@@ -4,7 +4,7 @@
   "title": "Édition littéraire d'un roman de Fantasy",
   "titleGenerationStatus": "success",
   "createdAt": 1788385688478,
-  "lastActivityAt": 1788385773221,
+  "lastActivityAt": 1788387738636,
   "sessionId": "9e72802d-2ecc-4df8-97b1-633ee7144996",
   "selectedModel": "sonnet",
   "providerState": {
@@ -13,12 +13,12 @@
   "linkedContentPath": "02_Romans/Exode/Le monde de Lamia - Exodius/Chapters/Chapitre 5.md",
   "usage": {
     "model": "sonnet",
-    "inputTokens": 3,
-    "cacheCreationInputTokens": 36858,
-    "cacheReadInputTokens": 44594,
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 29338,
+    "cacheReadInputTokens": 112822,
     "contextWindow": 200000,
-    "contextTokens": 81455,
-    "percentage": 41,
+    "contextTokens": 142161,
+    "percentage": 71,
     "contextWindowIsAuthoritative": true
   }
 }

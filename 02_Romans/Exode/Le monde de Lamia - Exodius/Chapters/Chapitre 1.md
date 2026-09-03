@@ -3,9 +3,9 @@ binder-type: chapter
 binder-order: 10
 binder-status: draft
 word-count-goal: 3000
-word-count: 3937
+word-count: 3350
 created: 2026-08-22
-modified: 2026-09-01
+modified: 2026-09-03
 tags:
   - writing-studio
 ---
@@ -16,114 +16,81 @@ tags:
 
 %% STRUCTURE — MOTIF DE L'EAU : Le chapitre construit un arc discret autour de l'eau : Eryan suit le ruisseau → le ruisseau mène à la grotte → le bassin dans la grotte → l'eau du bassin est imbuvable → la fille apporte l'eau du ruisseau (bonne). Cet arc est le seul fil narratif qui relie l'ouverture à la clôture. Il mérite d'être légèrement renforcé : à deux ou trois moments, Eryan devrait remarquer le son ou la présence du ruisseau, pour que le lecteur l'associe à quelque chose de vital avant la scène finale. %%
 
-Son fils avait cessé de peser.
+Son fils ne s'accrochait plus à lui.
 
-Il resserra instinctivement l'enfant contre lui. Il ne savait plus depuis combien de temps ils couraient. Les fougères se succédaient devant lui, toujours plus hautes, accrochant ses jambes et ses vêtements tandis qu'à sa droite un ruisseau dévalait entre les pierres. Puis les oiseaux recommencèrent à chanter. Quelques piaillements seulement, timides, dispersés dans les feuillages.
-Eryan ralentit. Il attendit encore un peu avant de s'autoriser à s'arrêter.
+Il resserra instinctivement l'enfant contre lui. Il ne savait plus depuis combien de temps ils couraient. Les fougères se succédèrent devant lui, toujours plus hautes, accrochant ses jambes et ses vêtements tandis qu'à sa droite un ruisseau dévala entre les pierres.
+
+Puis les oiseaux recommencèrent à chanter. Quelques piaillements seulement, timides, dispersés dans les feuillages. Eryan ralentit. Il attendit encore un peu avant de s'autoriser à s'arrêter.
 
 Un immense hêtre se dressait devant lui, assez large pour lui offrir un appui et assez isolé pour dégager une petite ouverture entre les arbres. Eryan y colla son dos, les jambes tremblantes, et se retourna.
 
-%% P1 — ACCORD : "quartes, puis un cinquième personnes" → "quatre, puis une cinquième personne". Double erreur : "quartes" n'existe pas, et "un cinquième" ne s'accorde pas avec "personnes" (féminin). %%
-
-Derrière lui, quartes, puis un cinquième personnes émergèrent des fougères. Tous s'arrêtèrent presque au même endroit, pliés en deux, les mains sur les genoux, incapables de parler autrement que par leur respiration brisée.
+Derrière lui, quatre personnes, puis une cinquième, émergèrent des fougères. Tous s'arrêtèrent presque au même endroit, pliés en deux, les mains sur les genoux, incapables de parler autrement que par leur respiration brisée; la sueur avait plaqué leurs cheveux sur leurs oreilles effilées.
 
 Eryan les compta une seconde fois. Son regard trouva enfin le vieil Elfe, habillé d'une longue toge qui n'avait plus grand-chose de blanc. Elle pendait en lambeaux autour de ses jambes, et plusieurs anciennes reprises avaient éclaté pendant la fuite. Lui-même semblait à peine capable de rester debout. Mais il était là. Eryan inspira avant de ravaler sa salive.
 
 — Tout le monde va bien ? Je crois… qu'on les a semés.
 
-Quelques grognements lui répondirent. Une voix souffla quelque chose d'incompréhensible. Une autre se contenta d'un signe de tête. Le vieux prêtre croisa son regard et acquiesça brièvement tandis
+Quelques grognements lui répondirent. Une voix souffla quelque chose d'incompréhensible. Une autre se contenta d'un signe de tête. Plus loin, Thaer avait posé la main dans le dos de Lidea — aucun des deux ne regardait dans sa direction. Le vieux prêtre croisa son regard et acquiesça brièvement tandis qu'une petite tête apparut derrière son épaule. Une fille était agrippée à ses épaules, les yeux rouges et gonflés. Elle renifla, essuya d'un geste maladroit le dessous de son nez contre l'épaule du vieillard, puis disparut de nouveau derrière lui.
 
-%% P1 — ACCORD : "une petit tête" → "une petite tête". %%
+Pendant un instant, Eryan sentit ses traits se relâcher, avant de sentir ses bras commencer à fourmiller. Il baissa les yeux vers son fils. Sa respiration était si faible qu'Eryan dut observer plusieurs secondes le mouvement de sa poitrine pour s'assurer qu'elle se soulevait encore. Sous ses vêtements, la blessure de son flanc suintait d'un liquide noirâtre qui collait au tissu.
 
-%% STRUCTURE — THAER ET LIDEA : Ce premier arrêt est le seul moment où le groupe entier est présent et immobile. C'est l'endroit idéal pour donner une demi-phrase à Thaer et Lidea — un regard, un geste, une position dans le groupe — afin que leur deuil (mentionné plus tard dans la grotte) soit ancré dans un visage que le lecteur a déjà vu. En l'état, ils n'apparaissent que comme "paranges" dans la grotte, sans qu'on ait eu le temps de les situer dans le groupe. %%
+Il aurait voulu s'asseoir, poser l'enfant. Rien que cinq minutes. Mais il leva les yeux vers la forêt. Le calme était revenu, mais ils n'étaient pas encore en sécurité. Entre les feuilles, la lumière du jour commençait déjà à décliner. Les rayons obliques allongeaient les troncs et les fougères en ombres démesurées sur la terre humide.
 
-qu'une petit tête apparut derrière son épaule. Une petite fille était agrippée à ses épaules, les yeux rouges et gonflés. Elle renifla, essuya d'un geste maladroit le dessous de son nez contre l'épaule du vieillard, puis disparut de nouveau derrière lui.
+Eryan réajusta son fils contre sa poitrine.
 
-%% P1 — SUBJONCTIF : "avant que ses bras ne commencèrent à fourmiller" — après "avant que", le verbe doit être au subjonctif. "avant que ses bras ne commençassent à fourmiller" (subjonctif imparfait littéraire) ou reformuler : "avant de sentir ses bras commencer à fourmiller". %%
-
-Pendant un instant, Eryan sentit ses traits se relâcher, avant que ses bras ne commencèrent à fourmiller. Il baissa les yeux vers son fils. Sa respiration était si faible qu'Eryan dut observer plusieurs secondes le mouvement de sa poitrine pour s'assurer qu'elle se soulevait encore. Sous ses vêtements, la blessure de son flanc suintait d'un liquide noirâtre qui collait au tissu.
-
-%% P3 — PONCTUATION : "rien que cinq minutes ." → supprimer l'espace avant le point. %%
-
-%% P1 — ORTHOGRAPHE : "quelque jours" → "quelques jours" (avec 's'). Apparaît deux fois dans cette réplique. %%
-
-Il aurait voulu s'asseoir, poser l'enfant; rien que cinq minutes . Mais il leva les yeux vers la forêt. Le calme était revenu, mais ils n'étaient pas encore en sécurité. Entre les feuilles, la lumière du jour commençait déjà à décliner. Les rayons obliques allongeaient les troncs et les fougères en ombres démesurées sur la terre humide.
-
-Eryan réajusta son fils contre sa poitrine avec précaution.
-
-« Nous allons continuer de marcher jusqu'à ce que l'on trouve un lieu pour se reposer quelque jours. On pourra reprendre des forces et s'occuper des blessés  » Eryan marqua une pause, comme pour estimer si son fils n'était pas le seul a en avoir besoin.  « Et à partir de maintenant, on fait le moins de bruit possible. »
+« Nous allons continuer de marcher jusqu'à ce que l'on trouve un lieu pour se reposer quelques jours. On pourra reprendre des forces et s'occuper des blessés. » Eryan marqua une pause, comme pour estimer si son fils n'était pas le seul à en avoir besoin. « Et à partir de maintenant, on fait le moins de bruit possible. »
 
 Il allait repartir lorsqu'une voix claqua derrière lui.
 
-%% P1 — PARTICIPE PASSÉ : "Il avait assez lever la voix" → "levé". %%
-
-%% P2 — RÉPÉTITION "voix" : "lever la voix" puis "dans l'écho de sa voix" dans la même phrase. Remplacer l'un des deux. %%
-
-« Se reposer quelque jours ? » l'Elfe qui devait bien faire une tête de plus qu'Eryan fit un pas vers lui. « On a pas le temps de se reposer quelques jours ! On doit trouver les nomades de l'ouest au plus vite si on va pas finir comme les autres. » Il avait assez lever la voix pour que la forêt se taise dans l'écho de sa voix.
+« Se reposer quelques jours ? » L'Elfe qui devait bien faire une tête de plus qu'Eryan fit un pas vers lui. « On a pas le temps de se reposer quelques jours ! On doit trouver les nomades de l'ouest au plus vite si on va pas finir comme les autres. » Il avait assez levé la voix pour que la forêt se taise dans l'écho.
 
 Eryan leva la tête vers la cime des arbres, les sourcils froncés.
 
-%% P1 — SYNTAXE : "Si tu toi, tu as encore assez de forces" → "Si toi, tu as encore assez de forces". Le "tu" avant "toi" est en trop. %%
-
-« Commence par parler moins fort, Varell. Si tu toi, tu as encore assez de forces pour courir jusqu'au plaine de l'ouest, tant mieux pour toi. Mais regarde ta femme. » Cette fois, Varell tourna les yeux. « Elle a besoin de repos. Comme plusieurs personnes ici. Alors tu prends ton mal en patience et tu arrêtes de nous faire repérer. » Eryan soutint son regard.
-
-« Je vous mènerai aux nomades. Je l'ai promis. »
+« Commence par parler moins fort, Varell. Si toi, tu as encore assez de forces pour courir jusqu'au plaine de l'ouest, tant mieux pour toi. Mais regarde ta femme. » Cette fois, Varell tourna les yeux. « Elle a besoin de repos. Comme plusieurs personnes ici. Alors tu prends ton mal en patience et tu arrêtes de nous faire repérer. » Eryan soutint son regard. « Je vous mènerai aux nomades. Je l'ai promis. »
 
 Le silence retomba. Il put voir la mâchoire de Varell se contracta. Pendant quelques secondes, Eryan crut qu'il allait recommencer. Mais l'Elfe regarda sa femme. Et se tut.
 
-Autour d'eux, personne ne bougeait. Personne ne protesta lorsque Eryan reprit la marche. Le groupe se remit simplement en mouvement derrière lui.
-
-%% STRUCTURE — PORTRAIT DE VARELL PENDANT LA MARCHE : Le paragraphe qui suit interrompt la marche pour livrer un portrait complet de Varell (physique, psychologie, utilité au groupe). C'est du backstory inséré au milieu d'une action physique. Deux options : (A) distribuer ces informations sur plusieurs moments — une partie pendant la confrontation (où on le voit agir), une partie dans la grotte (où on l'observe) — plutôt qu'en bloc ici ; (B) garder le bloc mais le raccourcir en ne gardant que ce que la scène qui vient de se passer n'a pas encore montré. La dernière phrase ("Heureusement, Eryan savait...") est la plus dispensable — voir commentaire ci-dessous. %%
+Autour d'eux, personne ne bougeait. Et personne ne protesta lorsque Eryan reprit la marche. Le groupe se remit simplement en mouvement derrière lui.
 
 Sans les enfants, ils n'étaient plus qu'une demi-douzaine. Depuis le Grand Déferlement, survivre seul relevait presque de la condamnation. On voyageait ensemble, et on voyageait léger. Nourriture, eau, outils, armes, quelques couvertures : tout ce qui comptait vraiment tenait dans le sac que Varell portait sur son dos.
 
-%% P2 — ACCORD : "malgré tout ses défauts" → "malgré tous ses défauts". %%
+Varell avait toujours détonné parmi les autres Elfes. Une tête plus large, des épaules presque humaines, des bras bâtis pour soulever davantage que pour manier avec grâce. Dans d'autres circonstances, Eryan aurait volontiers reconnu sa valeur. Mais il fallait toujours que tout tourne autour de lui.
 
-%% P3 — OVER-EXPLICATION : "Heureusement, Eryan savait que malgré tout ses défauts, Varell aimait profondément sa femme." — Le lecteur vient de voir Varell se taire en regardant sa femme. Il comprend seul. Cette ligne explique ce que la scène vient de montrer. Envisager de supprimer. %%
-
-Varell avait toujours détonné parmi les autres Elfes. Une tête plus large, des épaules presque humaines, des bras bâtis pour soulever davantage que pour manier avec grâce. Dans d'autres circonstances, Eryan aurait volontiers reconnu sa valeur. Avec une telle force, Varell aurait pu devenir quelqu'un sur qui tout le monde comptait. Mais il fallait toujours que tout tourne autour de lui. Heureusement, Eryan savait que malgré tout ses défauts, Varell aimait profondément sa femme.
-
-Ils marchèrent ainsi plus d'une demi-heure. Peu à peu, le jour s'effaça derrière les arbres. Entre les cimes, le ciel se teinta de rose et d'orange, et une brume légère commença à glisser entre les troncs des bouleaux et des chênes. Eryan continuait de suivre le ruisseau. Il n'avait plus vraiment la force de chercher mieux. Le bruit de l'eau lui suffisait comme direction.
+Ils marchèrent ainsi plus d'une demi-heure. Peu à peu, le jour s'effaça derrière les arbres. Entre les cimes, le ciel se teinta de rose et d'orange, et une brume légère commença à glisser entre les troncs de bouleaux et de chênes. Eryan continuait de suivre le ruisseau. Il n'avait plus vraiment la force de chercher mieux. Le bruit de l'eau lui suffisait comme direction.
 
 Le terrain changea progressivement sous leurs pas. L'humus se fit plus mince. Des plaques de pierre affleurèrent entre les racines. Puis vinrent les rochers, de plus en plus nombreux, jusqu'à ce que la forêt elle-même paraisse reculer devant la roche. Le ruisseau les mena droit jusqu'à elle. Au pied d'un escarpement, l'eau plongeait dans une large ouverture noire. Son murmure ne s'arrêtait pas ; il s'enfonçait sous terre, plus sourd, comme aspiré par les profondeurs.
 
-%% P1 — TEMPS ET MAJUSCULE : "Alors qu'Eryan ralentit pour analyser l'endroit, Elle risque de trébucher." — majuscule illégitime sur "Elle" (milieu de phrase) ; "risque" est au présent alors que tout le chapitre est au passé simple/imparfait → "elle risqua de trébucher". %%
+Isealth, la femme de Varell, semblait au bord de l'effondrement. Alors qu'Eryan ralentissait pour analyser l'endroit, elle risqua de trébucher. Elle se rattrapa de justesse. Personne ne dit rien. Tous attendaient la même chose : que quelqu'un tombe enfin et donne aux autres une raison de s'arrêter.
 
-Isealth, la femme de Varell, semblait au bord de l'effondrement. Alors qu'Eryan ralentit pour analyser l'endroit, Elle risque de trébucher. Elle se rattrapa de justesse. Personne ne dit rien. Tous attendaient la même chose : que quelqu'un tombe enfin et donne aux autres une raison de s'arrêter.
-
-%% STRUCTURE — DÉCOUVERTE DE LA GROTTE : "Eryan finit par lever les yeux et vit la grotte qui s'ouvrait dans la paroi devant eux. Il la désigna du doigt." — C'est plat pour un moment qui est l'aboutissement de toute la marche du chapitre. Après plusieurs paragraphes de tension physique et de terrain difficile, la découverte de l'abri mérite une phrase qui dit à la fois le soulagement et quelque chose d'inquiétant — parce que dès le chapitre 1, le lecteur doit sentir que cet endroit n'est pas tout à fait sûr. Une ligne sobre suffit, mais elle doit peser. %%
-
-Eryan finit par lever les yeux et vit la grotte qui s'ouvrait dans la paroi devant eux. Il la désigna du doigt.
+Eryan finit par lever les yeux. La grotte s'ouvrait dans la roche à deux pas du ruisseau — plus grande qu'il n'aurait espéré, et plus sombre. Il la désigna du doigt.
 
 Elle ferait l'affaire pour quelques jours. Ce qui les avait traqués pouvait encore les retrouver ici — mais il ne pouvait pas continuer, pas dans cet état. C'était le meilleur abri qu'il eût pu trouver.
 
-%% Note auteur — DÉVELOPPER : Ajouter description caverne. %%
-%% STRUCTURE — ENTRÉE DANS LA GROTTE : C'est la charnière tonale du chapitre. La première moitié est physique, extérieure, tendue. La seconde est intérieure, contemplative, lourde. L'entrée dans la grotte est le passage entre les deux — et elle n'est pas écrite. La description doit faire trois choses : (1) ancrer le groupe physiquement dans l'espace (disposition, profondeur, lumière) ; (2) marquer le changement de régime émotionnel (le soulagement d'être à couvert contre quelque chose de légèrement oppressant dans l'air) ; (3) poser discrètement le premier signe que ce lieu est anormal — pas une menace visible, juste une dissonance. C'est ici que la graine de tout le chapitre 2 doit être semée. %%
+Eryan fut le premier à entrer, son fils serré contre lui. Le passage courbait légèrement avant de s'ouvrir. La salle était bien plus grande qu'il ne l'avait deviné depuis l'extérieur. Le sol de dalle était large et froid. Il leva les yeux : une faille étroite traversait le plafond, laissant entrer un rai de ciel obscure. Un courant d'air circulait. La fumée d'un feu passerait par là.
 
-Eryan déposa son fils sur une des dalles les plus lisses que la caverne offrait. Il arrangea sa position d'une main, s'assurant que la tête repose sans tension sur la pierre froide.
+Il se retourna. Depuis le milieu de la salle, l'ouverture de la grotte se découpait nettement sur la forêt — les troncs, la brume entre les arbres. On voyait loin. Quiconque s'approcherait serait visible bien avant d'arriver.
 
-Puis il le regarda.
+Au fond, la salle se resserrait progressivement et disparaissait dans l'obscurité. Quelque part là-dedans, le ruisseau continuait — il en entendait encore le murmure, mais assourdi, comme venu de plus bas.
 
-Il gardait le visage fermé pour les autres — c'était le rôle qu'il s'était donné, tenir quoi qu'il arrive. Mais en regardant son fils, il sentait le contrôle lui échapper. Il aurait juré que ça se lisait jusqu'au Dibertium — le Havre des dieux lui-même. Il s'en arracha. Avant de s'occuper de son fils, il devait s'assurer que la grotte était sûre et inhabitée.
+Eryan déposa son fils sur une des dalles les plus lisses que la caverne offrait. Il arrangea sa position d'une main, s'assurant que la tête repose sans tension sur la pierre froide. Puis il le regarda.
 
-Il demanda à Varell de construire un camp et d'allumer un feu — un courant d'air dirigerait la fumée vers l'extérieur, sans alerter quiconque ni les intoxiquer.
+Il gardait le visage fermé pour les autres — c'était le rôle qu'il s'était donné, tenir quoi qu'il arrive. Mais en regardant son fils, il sentait le contrôle lui échapper. Il aurait juré que cela se lisait jusqu'au Dibertium. Le Havre des dieux lui-même. Il s'en arracha. Avant de s'occuper de son fils, il devait s'assurer que la grotte était sûre et inhabitée.
 
-%% Note auteur — DÉVELOPPER : Interaction à créer entre Varell et Eryan. %%
-%% STRUCTURE — INTERACTION VARELL/ERYAN DANS LA GROTTE : Cette interaction est structurellement indispensable pour deux raisons. (1) La confrontation de la forêt n'a pas eu de résolution — Varell s'est tu, mais il n'a pas cédé. La façon dont il obéit à cet ordre (en silence ? avec un grognement ? en prenant le sac sans un mot ?) dit quelque chose sur le rapport de force entre les deux hommes et prépare l'explosion du chapitre 2. (2) C'est le premier moment où Eryan donne un ordre à l'intérieur de la grotte — établir ici qui commande et comment est crucial pour que la crise de ch.2 soit lisible comme une usurpation progressive. %%
+Il demanda à Varell de construire un camp et d'allumer un feu. Varell se leva, prit le sac d'un geste brusque. Il ne dit rien. Mais avant de s'éloigner, il lança à Eryan un regard de côté — rapide, juste assez long — et Eryan reconnut ce regard pour ce qu'il était : celui de quelqu'un qui obéit parce qu'il n'a pas le choix, pas parce qu'il l'a décidé. 
 
-Il chercha ensuite Thaer et Lidea du regard. Le seul autre couple du groupe venait de perdre leur enfant. Eryan n'eut pas le cœur de leur demander quoi que ce soit.
+Il chercha Thaer et Lidea du regard. Lidea avait glissé contre la paroi, les genoux ramenés contre elle. Thaer était accroupi à côté, une main dans son dos — pas pour la relever, juste pour être là. Il leva les yeux au moment où Eryan le trouvait. Eryan fit un signe bref du menton. Il n'eut pas le cœur de leur demander quoi que ce soit. Thaer comprit. Il baissa la tête et se retourna vers Lidea.
+ 
+Eryan s'enfonça seul dans le reste de la grotte.
 
-Il s'enfonça seul dans le reste de la grotte.
+Il avait dû improviser une torche. Les plantes luminescentes s'espaçaient déjà sur les parois de plus en plus humides, et bientôt elles disparurent.
 
-La grotte n'était pas trop profonde. Elle menait vers une petite étendue d'eau, alimentée par le ruisseau qu'il avait suivi. Le bassin l'empêchait d'aller plus loin — il ne pouvait pas en voir le fond —, mais l'écho des clapotis lui indiqua que ses berges ne devaient se trouver qu'à quelques mètres au-delà de ce que ses yeux lui offraient.
+À la fin du couloir, la roche s'ouvrit sur une deuxième salle — peut-être plus grande que la première. Un bassin en occupait le fond, alimenté par le ruisseau qu'il avait suivi. Il ne pouvait pas en voir le fond. L'écho des clapotis lui indiqua que ses berges ne devaient se trouver qu'à quelques mètres au-delà de ce que ses yeux lui offraient.
 
-%% P1 — ACCORD : "il s'en était détachée à mi-chemin" → "détaché". Le référent est "bras" (masculin). %%
+Il s'en approcha.
 
-Sur une des parois, un arbre était parvenu à s'enfoncer dans la roche, y plantant ses racines comme des veines dans de la chair. Elles couraient jusqu'au bord du ruisseau. L'un des bras avait semblé vouloir rejoindre le bassin.  Mais il s'en était détachée à mi-chemin — pas arrachée, pas brisée, mais abandonnée. Comme un lézard qui consent à perdre sa queue.
+Une odeur l'atteignit d'abord — froide, presque sucrée, qu'il ne sut pas à quoi rattacher. Il tendit la torche vers la surface de l'eau; rien d'inhabituel. Sur une des parois, un arbre était parvenu à s'enfoncer dans la roche, y plantant ses racines comme des veines dans de la chair. Elles couraient jusqu'au bord du ruisseau. L'un des bras avait semblé vouloir rejoindre le bassin. Mais il s'en était détaché à mi-chemin — pas arraché, pas brisé, mais abandonné. Comme un lézard qui consent à perdre sa queue.
 
-C'est là qu'il les vit. Un bouquet de pleurotes des profondeurs, serrées sur le bout de racine mort. Son œil s'y accrocha une seconde avant qu'il comprenne ce que ça voulait dire.
-
-Cet endroit ne pouvait pas mieux tomber. Il remplit sa gourde au bassin et chargea sa besace de champignons.
+Cet endroit ne pouvait pas mieux tomber. Il remplit sa gourde au bassin et chargea sa besace de champignons. Alors qu'il se releva, une douleur arriva derrière ses yeux, une pression sourde qui s'installa sans se presser. Il la nota et la chassa sur le compte de la fatigue. Il n'avait pas dormi depuis plus d'une journée.
 
 %% P2 — MOT À VÉRIFIER : "les paranges s'étaient blottis l'un contre l'autre" — "paranges" désigne-t-il une race canonique du vault ? Si oui, aucun problème. Si c'est un terme en cours, il mérite un ancrage contextuel, même bref. %%
 
