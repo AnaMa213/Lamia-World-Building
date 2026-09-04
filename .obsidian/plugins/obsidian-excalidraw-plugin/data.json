@@ -1109,5 +1109,10 @@
     "margin": "normal"
   },
   "disableContextMenu": false,
+  "allowJavaScriptFiles": false,
+  "storeScriptFilesAsJavaScript": false,
+  "autostartScripts": {},
+  "autostartScriptFailures": {},
+  "useDeclarativeSettings": true,
   "isDebugMode": false
 }

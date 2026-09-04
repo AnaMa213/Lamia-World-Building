@@ -5,7 +5,7 @@ binder-status: draft
 word-count-goal: 5000
 word-count: 6080
 created: 2026-08-22
-modified: 2026-09-02
+modified: 2026-09-04
 tags:
   - writing-studio
 ---
