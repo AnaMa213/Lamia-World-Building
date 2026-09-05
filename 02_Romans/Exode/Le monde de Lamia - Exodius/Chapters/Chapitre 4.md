@@ -3,9 +3,9 @@ binder-type: chapter
 binder-order: 13
 binder-status: draft
 word-count-goal: 3000
-word-count: 4512
+word-count: 4500
 created: 2026-08-22
-modified: 2026-09-01
+modified: 2026-09-05
 revision: ia-a-valider
 tags:
   - writing-studio
@@ -20,7 +20,7 @@ Lorsque Sael avait commencé à ralentir, il l'avait hissé sur son dos sans mê
 
 À plusieurs reprises dans la journée, Eryan leva les yeux vers le sommet de la muraille. Il revenait régulièrement sur l'idée de tenter l'escalade. Thaelian s'y opposait chaque fois avec la même fermeté et, au fond, Eryan savait qu'il avait raison. Il n'aurait probablement pas la force de grimper dans son état. Pourtant, cette solution paraissait si proche, presque à portée de main. Il leur suffisait de franchir ce mur pour résoudre une bonne partie de leurs problèmes.
 
-Les heures finirent par brouiller les distances. Alors, pour ne plus penser à son bras, Eryan chercha autre chose à attendre. Peut-être qu'après le prochaine %% P2 — ACCORD : "prochaine" → "prochain" ("détour" est masculin). %% détour, la pierre s'affaisserait enfin. Une pente. N'importe quoi qui leur permettrait de passer. Puis il pensa à Thaer et Lidea. Étaient-ils revenus jusqu'au camp ? Avaient-ils réussi à enterrer leur fille ? Il réalisa avec une amertume étrange que cette muraille les ramenait probablement, peu à peu, vers l'endroit même qu'ils avaient fui.
+Les heures finirent par brouiller les distances. Alors, pour ne plus penser à son bras, Eryan chercha autre chose à attendre. Peut-être qu'après le prochain détour, la pierre s'affaisserait enfin. Une pente. N'importe quoi qui leur permettrait de passer. Puis il pensa à Thaer et Lidea. Étaient-ils revenus jusqu'au camp ? Avaient-ils réussi à enterrer leur fille ? Il réalisa avec une amertume étrange que cette muraille les ramenait probablement, peu à peu, vers l'endroit même qu'ils avaient fui.
 
 « Papa… » Il continua de marcher. « Papa ! » Eryan sursauta. Le mouvement réveilla aussitôt la douleur dans son bras et lui arracha une grimace. Il réajusta Sael sur son dos avant de tourner légèrement la tête vers lui.
 
